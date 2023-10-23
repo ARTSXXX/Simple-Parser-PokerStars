@@ -1,0 +1,4091 @@
+
+
+PokerStars Game #102629363067:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:40:32 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Strz ($600 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($656.94 in chips) 
+Seat 6: evgenij_d_m ($628.50 in chips) 
+TTSIP: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: folds 
+evgenij_d_m: folds 
+Strz: folds 
+mandelbr: folds 
+TTSIP: raises $12 to $18
+ilir3: folds 
+Uncalled bet ($12) returned to TTSIP
+TTSIP collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Strz folded before Flop (didn't bet)
+Seat 2: mandelbr (button) folded before Flop (didn't bet)
+Seat 3: TTSIP (small blind) collected ($12)
+Seat 4: ilir3 (big blind) folded before Flop
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102629378904:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:40:57 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Strz ($600 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: TTSIP ($606 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($656.94 in chips) 
+Seat 6: evgenij_d_m ($628.50 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+evgenij_d_m: calls $6
+Strz: folds 
+mandelbr: folds 
+TTSIP: folds 
+ilir3: folds 
+GregAndrek: checks 
+*** FLOP *** [6h Th Ad]
+GregAndrek: bets $12
+evgenij_d_m: calls $12
+*** TURN *** [6h Th Ad] [Jh]
+GregAndrek: checks 
+evgenij_d_m: bets $30
+GregAndrek: calls $30
+*** RIVER *** [6h Th Ad Jh] [Kh]
+GregAndrek: checks 
+evgenij_d_m: bets $102
+GregAndrek: folds 
+Uncalled bet ($102) returned to evgenij_d_m
+evgenij_d_m collected $96.20 from pot
+evgenij_d_m: doesn't show hand 
+*** SUMMARY ***
+Total pot $99 | Rake $2.80 
+Board [6h Th Ad Jh Kh]
+Seat 1: Strz folded before Flop (didn't bet)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: TTSIP (button) folded before Flop (didn't bet)
+Seat 4: ilir3 (small blind) folded before Flop
+Seat 5: GregAndrek (big blind) folded on the River
+Seat 6: evgenij_d_m collected ($96.20)
+
+
+PokerStars Game #102629421012:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:42:02 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Strz ($600 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: TTSIP ($606 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($608.94 in chips) 
+Seat 6: evgenij_d_m ($676.70 in chips) 
+GregAndrek: posts small blind $3
+evgenij_d_m: posts big blind $6
+*** HOLE CARDS ***
+Strz: folds 
+mandelbr: folds 
+TTSIP: folds 
+ilir3: raises $6 to $12
+GregAndrek: folds 
+evgenij_d_m: calls $6
+*** FLOP *** [6c 8d As]
+evgenij_d_m: bets $18
+ilir3: calls $18
+*** TURN *** [6c 8d As] [4h]
+evgenij_d_m: bets $54
+ilir3: folds 
+Uncalled bet ($54) returned to evgenij_d_m
+evgenij_d_m collected $60.20 from pot
+evgenij_d_m: doesn't show hand 
+*** SUMMARY ***
+Total pot $63 | Rake $2.80 
+Board [6c 8d As 4h]
+Seat 1: Strz folded before Flop (didn't bet)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 (button) folded on the Turn
+Seat 5: GregAndrek (small blind) folded before Flop
+Seat 6: evgenij_d_m (big blind) collected ($60.20)
+
+
+PokerStars Game #102629458321:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:43:00 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Strz ($600 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: TTSIP ($606 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($605.94 in chips) 
+Seat 6: evgenij_d_m ($706.90 in chips) 
+evgenij_d_m: posts small blind $3
+Strz: posts big blind $6
+*** HOLE CARDS ***
+mandelbr: raises $12 to $18
+TTSIP: folds 
+ilir3: calls $18
+GregAndrek: calls $18
+evgenij_d_m: calls $15
+Strz: raises $78 to $96
+mandelbr: folds 
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Uncalled bet ($78) returned to Strz
+Strz collected $90 from pot
+*** SUMMARY ***
+Total pot $90 | Rake $0 
+Seat 1: Strz (big blind) collected ($90)
+Seat 2: mandelbr folded before Flop
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop
+Seat 5: GregAndrek (button) folded before Flop
+Seat 6: evgenij_d_m (small blind) folded before Flop
+
+
+PokerStars Game #102629485072:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:43:42 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Strz ($672 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: TTSIP ($606 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($688.90 in chips) 
+Strz: posts small blind $3
+mandelbr: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: folds 
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Strz: raises $12 to $18
+mandelbr: folds 
+Uncalled bet ($12) returned to Strz
+Strz collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Strz (small blind) collected ($12)
+Seat 2: mandelbr (big blind) folded before Flop
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102629491840:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:43:53 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Strz ($678 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: TTSIP ($606 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($688.90 in chips) 
+mandelbr: posts small blind $3
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+GregAndrek: raises $12 to $18
+evgenij_d_m: folds 
+Strz: calls $18
+mandelbr: folds 
+TTSIP: folds 
+*** FLOP *** [6h 2c Jc]
+GregAndrek: checks 
+Strz: bets $30
+GregAndrek: folds 
+Uncalled bet ($30) returned to Strz
+Strz collected $42.98 from pot
+*** SUMMARY ***
+Total pot $45 | Rake $2.02 
+Board [6h 2c Jc]
+Seat 1: Strz (button) collected ($42.98)
+Seat 2: mandelbr (small blind) folded before Flop
+Seat 3: TTSIP (big blind) folded before Flop
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded on the Flop
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102629523801:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:44:42 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Strz ($702.98 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($688.90 in chips) 
+TTSIP: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: folds 
+evgenij_d_m: raises $6 to $12
+Strz: folds 
+mandelbr: folds 
+TTSIP: folds 
+ilir3: calls $6
+*** FLOP *** [7d 5s 2h]
+ilir3: checks 
+evgenij_d_m: bets $30
+ilir3: folds 
+Uncalled bet ($30) returned to evgenij_d_m
+evgenij_d_m collected $25.78 from pot
+evgenij_d_m: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [7d 5s 2h]
+Seat 1: Strz folded before Flop (didn't bet)
+Seat 2: mandelbr (button) folded before Flop (didn't bet)
+Seat 3: TTSIP (small blind) folded before Flop
+Seat 4: ilir3 (big blind) folded on the Flop
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m collected ($25.78)
+
+
+PokerStars Game #102629286198:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:38:34 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($614.50 in chips) 
+Seat 6: evgenij_d_m ($600 in chips) 
+GregAndrek: posts small blind $3
+evgenij_d_m: posts big blind $6
+mandelbr: sits out 
+*** HOLE CARDS ***
+Strz joins the table at seat #1 
+ilir3: raises $6 to $12
+TTSIP joins the table at seat #3 
+GregAndrek: folds 
+evgenij_d_m: calls $6
+*** FLOP *** [5h 4c 4h]
+evgenij_d_m: checks 
+ilir3: bets $18
+evgenij_d_m: raises $18 to $36
+ilir3: folds 
+Uncalled bet ($18) returned to evgenij_d_m
+evgenij_d_m collected $61.50 from pot
+evgenij_d_m: doesn't show hand 
+*** SUMMARY ***
+Total pot $63 | Rake $1.50 
+Board [5h 4c 4h]
+Seat 4: ilir3 (button) folded on the Flop
+Seat 5: GregAndrek (small blind) folded before Flop
+Seat 6: evgenij_d_m (big blind) collected ($61.50)
+
+
+PokerStars Game #102629318209:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:39:23 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Strz ($600 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($611.50 in chips) 
+Seat 6: evgenij_d_m ($631.50 in chips) 
+evgenij_d_m: posts small blind $3
+Strz: posts big blind $6
+mandelbr: sits out 
+TTSIP: sits out 
+*** HOLE CARDS ***
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Uncalled bet ($3) returned to Strz
+Strz collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Strz (big blind) collected ($6)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek (button) folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (small blind) folded before Flop
+
+
+PokerStars Game #102629326949:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:39:36 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Strz ($603 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($611.50 in chips) 
+Seat 6: evgenij_d_m ($628.50 in chips) 
+Strz: posts small blind $3
+mandelbr: posts big blind $6
+TTSIP: sits out 
+*** HOLE CARDS ***
+ilir3: folds 
+GregAndrek: raises $9 to $15
+evgenij_d_m: folds 
+Strz: folds 
+mandelbr: folds 
+Uncalled bet ($9) returned to GregAndrek
+GregAndrek collected $15 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Strz (small blind) folded before Flop
+Seat 2: mandelbr (big blind) folded before Flop
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek collected ($15)
+Seat 6: evgenij_d_m (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102629337225:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:39:52 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Strz ($600 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($620.50 in chips) 
+Seat 6: evgenij_d_m ($628.50 in chips) 
+mandelbr: posts small blind $3
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+GregAndrek: raises $12 to $18
+evgenij_d_m: folds 
+Strz: calls $18
+mandelbr: folds 
+TTSIP: calls $12
+*** FLOP *** [8s Ks 4d]
+TTSIP: checks 
+GregAndrek: bets $39
+Strz: folds 
+TTSIP: folds 
+Uncalled bet ($39) returned to GregAndrek
+GregAndrek collected $54.44 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $57 | Rake $2.56 
+Board [8s Ks 4d]
+Seat 1: Strz (button) folded on the Flop
+Seat 2: mandelbr (small blind) folded before Flop
+Seat 3: TTSIP (big blind) folded on the Flop
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek collected ($54.44)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102629260494:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:37:55 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+ilir3: raises $12 to $18
+GregAndrek: folds 
+Uncalled bet ($12) returned to ilir3
+ilir3 collected $12 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 4: ilir3 (button) (small blind) collected ($12)
+Seat 5: GregAndrek (big blind) folded before Flop
+
+
+PokerStars Game #102629267022:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:38:04 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 4: ilir3 ($606 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+GregAndrek: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: raises $6 to $12
+ilir3: calls $6
+*** FLOP *** [9h 6s 9c]
+ilir3: checks 
+GregAndrek: bets $15
+ilir3: folds 
+Uncalled bet ($15) returned to GregAndrek
+GregAndrek collected $23.50 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [9h 6s 9c]
+Seat 4: ilir3 (big blind) folded on the Flop
+Seat 5: GregAndrek (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102629282329:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:38:28 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($611.50 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+mandelbr joins the table at seat #2 
+evgenij_d_m joins the table at seat #6 
+ilir3: folds 
+Uncalled bet ($3) returned to GregAndrek
+GregAndrek collected $6 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 4: ilir3 (button) (small blind) folded before Flop
+Seat 5: GregAndrek (big blind) collected ($6)
+
+
+PokerStars Game #102630244366:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:05:24 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 3: TTSIP ($822.50 in chips) 
+Seat 4: ilir3 ($679.85 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($790.48 in chips) 
+Ner4zzurri: posts small blind $3
+mandelbr: is sitting out 
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+Uncalled bet ($3) returned to TTSIP
+TTSIP collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Ner4zzurri (small blind) folded before Flop
+Seat 3: TTSIP (big blind) collected ($6)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102630255433:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:05:41 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 3: TTSIP ($825.50 in chips) 
+Seat 4: ilir3 ($679.85 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($790.48 in chips) 
+TTSIP: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: folds 
+evgenij_d_m: calls $6
+Ner4zzurri: raises $18 to $24
+TTSIP: folds 
+ilir3: folds 
+evgenij_d_m: calls $18
+*** FLOP *** [Qd Td Qs]
+evgenij_d_m: checks 
+Ner4zzurri: bets $30
+evgenij_d_m: raises $30 to $60
+Ner4zzurri: folds 
+Uncalled bet ($30) returned to evgenij_d_m
+evgenij_d_m collected $114.20 from pot
+evgenij_d_m: doesn't show hand 
+*** SUMMARY ***
+Total pot $117 | Rake $2.80 
+Board [Qd Td Qs]
+Seat 1: Ner4zzurri (button) folded on the Flop
+Seat 3: TTSIP (small blind) folded before Flop
+Seat 4: ilir3 (big blind) folded before Flop
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m collected ($114.20)
+
+
+PokerStars Game #102630283274:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:06:25 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 3: TTSIP ($822.50 in chips) 
+Seat 4: ilir3 ($673.85 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($850.68 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+TTSIP: raises $6 to $12
+ilir3: folds 
+GregAndrek: raises $30 to $42
+TTSIP: folds 
+Uncalled bet ($30) returned to GregAndrek
+GregAndrek collected $27 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 3: TTSIP (button) folded before Flop
+Seat 4: ilir3 (small blind) folded before Flop
+Seat 5: GregAndrek (big blind) collected ($27)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102630302555:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:06:55 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 3: TTSIP ($810.50 in chips) 
+Seat 4: ilir3 ($670.85 in chips) 
+Seat 5: GregAndrek ($615 in chips) 
+Seat 6: evgenij_d_m ($850.68 in chips) 
+GregAndrek: posts small blind $3
+evgenij_d_m: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri: folds 
+TTSIP: folds 
+ilir3: folds 
+GregAndrek: raises $12 to $18
+evgenij_d_m: raises $12 to $30
+GregAndrek: calls $12
+*** FLOP *** [As 2s 4d]
+GregAndrek: checks 
+evgenij_d_m: bets $30
+GregAndrek: folds 
+Uncalled bet ($30) returned to evgenij_d_m
+evgenij_d_m collected $57.30 from pot
+evgenij_d_m: doesn't show hand 
+*** SUMMARY ***
+Total pot $60 | Rake $2.70 
+Board [As 2s 4d]
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 (button) folded before Flop (didn't bet)
+Seat 5: GregAndrek (small blind) folded on the Flop
+Seat 6: evgenij_d_m (big blind) collected ($57.30)
+
+
+PokerStars Game #102630326739:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:07:33 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 3: TTSIP ($810.50 in chips) 
+Seat 4: ilir3 ($670.85 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($877.98 in chips) 
+evgenij_d_m: posts small blind $3
+Ner4zzurri: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: folds 
+ilir3: raises $6 to $12
+GregAndrek: folds 
+evgenij_d_m: calls $9
+Ner4zzurri: folds 
+*** FLOP *** [8c 4c 3h]
+evgenij_d_m: checks 
+ilir3: bets $18
+evgenij_d_m: calls $18
+*** TURN *** [8c 4c 3h] [Qh]
+evgenij_d_m: bets $30
+ilir3: raises $48 to $78
+evgenij_d_m: folds 
+Uncalled bet ($48) returned to ilir3
+ilir3 collected $123.20 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $126 | Rake $2.80 
+Board [8c 4c 3h Qh]
+Seat 1: Ner4zzurri (big blind) folded before Flop
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 collected ($123.20)
+Seat 5: GregAndrek (button) folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (small blind) folded on the Turn
+
+
+PokerStars Game #102630358920:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:08:23 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 3: TTSIP ($810.50 in chips) 
+Seat 4: ilir3 ($734.05 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($817.98 in chips) 
+Ner4zzurri: posts small blind $3
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: calls $6
+Ner4zzurri: folds 
+TTSIP: checks 
+*** FLOP *** [7c Qc 4d]
+TTSIP: bets $12
+evgenij_d_m: folds 
+Uncalled bet ($12) returned to TTSIP
+TTSIP collected $14.32 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0.68 
+Board [7c Qc 4d]
+Seat 1: Ner4zzurri (small blind) folded before Flop
+Seat 3: TTSIP (big blind) collected ($14.32)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (button) folded on the Flop
+
+
+PokerStars Game #102630397765:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:09:24 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 3: TTSIP ($818.82 in chips) 
+Seat 4: ilir3 ($734.05 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($811.98 in chips) 
+TTSIP: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: raises $6 to $12
+TTSIP: raises $36 to $48
+ilir3: folds 
+Ner4zzurri: raises $51 to $99
+TTSIP: raises $719.82 to $818.82 and is all-in
+Ner4zzurri: calls $501 and is all-in
+Uncalled bet ($218.82) returned to TTSIP
+*** FIRST FLOP *** [5d 5h Kh]
+*** FIRST TURN *** [5d 5h Kh] [6d]
+*** FIRST RIVER *** [5d 5h Kh 6d] [Js]
+*** SECOND FLOP *** [2s 9h 6s]
+*** SECOND TURN *** [2s 9h 6s] [Qd]
+*** SECOND RIVER *** [2s 9h 6s Qd] [2d]
+*** FIRST SHOW DOWN ***
+TTSIP: shows [Qs Qh] (two pair, Queens and Fives)
+Ner4zzurri: shows [Ad Kd] (two pair, Kings and Fives)
+Ner4zzurri collected $601.60 from pot
+*** SECOND SHOW DOWN ***
+TTSIP: shows [Qs Qh] (a full house, Queens full of Deuces)
+Ner4zzurri: shows [Ad Kd] (a pair of Deuces)
+TTSIP collected $601.60 from pot
+*** SUMMARY ***
+Total pot $1206 | Rake $2.80 
+Hand was run twice
+FIRST Board [5d 5h Kh 6d Js]
+SECOND Board [2s 9h 6s Qd 2d]
+Seat 1: Ner4zzurri (button) showed [Ad Kd] and won ($601.60) with two pair, Kings and Fives, and lost with a pair of Deuces
+Seat 3: TTSIP (small blind) showed [Qs Qh] and lost with two pair, Queens and Fives, and won ($601.60) with a full house, Queens full of Deuces
+Seat 4: ilir3 (big blind) folded before Flop
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102629922907:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:55:08 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 2: mandelbr ($289.24 in chips) 
+Seat 3: TTSIP ($726.20 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($612 in chips) 
+Seat 6: evgenij_d_m ($778.08 in chips) 
+mandelbr: posts small blind $3
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: calls $6
+Ner4zzurri: raises $18 to $24
+mandelbr: folds 
+TTSIP: calls $18
+evgenij_d_m: calls $18
+*** FLOP *** [Jc 5d 8s]
+TTSIP: bets $48
+evgenij_d_m: folds 
+Ner4zzurri: calls $48
+*** TURN *** [Jc 5d 8s] [5s]
+TTSIP: bets $114
+Ner4zzurri: calls $114
+*** RIVER *** [Jc 5d 8s 5s] [Qc]
+TTSIP: checks 
+Ner4zzurri: checks 
+*** SHOW DOWN ***
+TTSIP: shows [Kh Jd] (two pair, Jacks and Fives)
+Ner4zzurri: shows [Jh Kc] (two pair, Jacks and Fives)
+TTSIP collected $198.10 from pot
+Ner4zzurri collected $198.10 from pot
+*** SUMMARY ***
+Total pot $399 | Rake $2.80 
+Board [Jc 5d 8s 5s Qc]
+Seat 1: Ner4zzurri (button) showed [Jh Kc] and won ($198.10) with two pair, Jacks and Fives
+Seat 2: mandelbr (small blind) folded before Flop
+Seat 3: TTSIP (big blind) showed [Kh Jd] and won ($198.10) with two pair, Jacks and Fives
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m folded on the Flop
+
+
+PokerStars Game #102629954395:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:56:20 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Ner4zzurri ($612.10 in chips) 
+Seat 2: mandelbr ($286.24 in chips) 
+Seat 3: TTSIP ($738.30 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($612 in chips) 
+Seat 6: evgenij_d_m ($754.08 in chips) 
+TTSIP: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+mandelbr: raises $12 to $18
+TTSIP: folds 
+ilir3: calls $12
+*** FLOP *** [Ts 6s 9c]
+ilir3: checks 
+mandelbr: bets $18
+ilir3: calls $18
+*** TURN *** [Ts 6s 9c] [5h]
+ilir3: checks 
+mandelbr: checks 
+*** RIVER *** [Ts 6s 9c 5h] [3h]
+ilir3: checks 
+mandelbr: checks 
+*** SHOW DOWN ***
+ilir3: shows [5c 8c] (a pair of Fives)
+mandelbr: mucks hand 
+ilir3 collected $72.20 from pot
+*** SUMMARY ***
+Total pot $75 | Rake $2.80 
+Board [Ts 6s 9c 5h 3h]
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 2: mandelbr (button) mucked
+Seat 3: TTSIP (small blind) folded before Flop
+Seat 4: ilir3 (big blind) showed [5c 8c] and won ($72.20) with a pair of Fives
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102629973252:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:57:02 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Ner4zzurri ($612.10 in chips) 
+Seat 2: mandelbr ($250.24 in chips) 
+Seat 3: TTSIP ($735.30 in chips) 
+Seat 4: ilir3 ($636.20 in chips) 
+Seat 5: GregAndrek ($612 in chips) 
+Seat 6: evgenij_d_m ($754.08 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+mandelbr: folds 
+TTSIP: raises $6 to $12
+ilir3: raises $36 to $48
+GregAndrek: folds 
+TTSIP: folds 
+Uncalled bet ($36) returned to ilir3
+ilir3 collected $30 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: TTSIP (button) folded before Flop
+Seat 4: ilir3 (small blind) collected ($30)
+Seat 5: GregAndrek (big blind) folded before Flop
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102629986294:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:57:32 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Ner4zzurri ($612.10 in chips) 
+Seat 2: mandelbr ($250.24 in chips) 
+Seat 3: TTSIP ($723.30 in chips) 
+Seat 4: ilir3 ($654.20 in chips) 
+Seat 5: GregAndrek ($606 in chips) 
+Seat 6: evgenij_d_m ($754.08 in chips) 
+GregAndrek: posts small blind $3
+evgenij_d_m: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri: folds 
+mandelbr: folds 
+TTSIP: folds 
+ilir3: raises $6 to $12
+GregAndrek: folds 
+evgenij_d_m: folds 
+Uncalled bet ($6) returned to ilir3
+ilir3 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 (button) collected ($15)
+Seat 5: GregAndrek (small blind) folded before Flop
+Seat 6: evgenij_d_m (big blind) folded before Flop
+
+
+PokerStars Game #102629994260:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:57:50 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Ner4zzurri ($612.10 in chips) 
+Seat 2: mandelbr ($250.24 in chips) 
+Seat 3: TTSIP ($723.30 in chips) 
+Seat 4: ilir3 ($663.20 in chips) 
+Seat 5: GregAndrek ($603 in chips) 
+Seat 6: evgenij_d_m ($748.08 in chips) 
+evgenij_d_m: posts small blind $3
+Ner4zzurri: posts big blind $6
+*** HOLE CARDS ***
+mandelbr: raises $12 to $18
+TTSIP: folds 
+ilir3: folds 
+GregAndrek has timed out
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+Uncalled bet ($12) returned to mandelbr
+mandelbr collected $15 from pot
+mandelbr: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Ner4zzurri (big blind) folded before Flop
+Seat 2: mandelbr collected ($15)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek (button) folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (small blind) folded before Flop
+
+
+PokerStars Game #102630009977:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:58:25 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Ner4zzurri ($606.10 in chips) 
+Seat 2: mandelbr ($259.24 in chips) 
+Seat 3: TTSIP ($723.30 in chips) 
+Seat 4: ilir3 ($663.20 in chips) 
+Seat 6: evgenij_d_m ($745.08 in chips) 
+Ner4zzurri: posts small blind $3
+mandelbr: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: folds 
+ilir3: folds 
+evgenij_d_m: folds 
+Ner4zzurri: raises $9 to $15
+mandelbr: folds 
+Uncalled bet ($9) returned to Ner4zzurri
+Ner4zzurri collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Ner4zzurri (small blind) collected ($12)
+Seat 2: mandelbr (big blind) folded before Flop
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102630017569:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:58:42 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Ner4zzurri ($612.10 in chips) 
+Seat 2: mandelbr ($253.24 in chips) 
+Seat 3: TTSIP ($723.30 in chips) 
+Seat 4: ilir3 ($663.20 in chips) 
+Seat 5: GregAndrek ($603 in chips) 
+Seat 6: evgenij_d_m ($745.08 in chips) 
+mandelbr: posts small blind $3
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: raises $6 to $12
+mandelbr: folds 
+TTSIP: raises $36 to $48
+Ner4zzurri: calls $36
+*** FLOP *** [7s Jh 8h]
+TTSIP: checks 
+Ner4zzurri: bets $54
+TTSIP: raises $84 to $138
+Ner4zzurri: folds 
+Uncalled bet ($84) returned to TTSIP
+TTSIP collected $204.20 from pot
+*** SUMMARY ***
+Total pot $207 | Rake $2.80 
+Board [7s Jh 8h]
+Seat 1: Ner4zzurri (button) folded on the Flop
+Seat 2: mandelbr (small blind) folded before Flop
+Seat 3: TTSIP (big blind) collected ($204.20)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102630054039:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:00:04 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 2: mandelbr ($250.24 in chips) 
+Seat 3: TTSIP ($825.50 in chips) 
+Seat 4: ilir3 ($663.20 in chips) 
+Seat 5: GregAndrek ($603 in chips) 
+Seat 6: evgenij_d_m ($745.08 in chips) 
+TTSIP: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: raises $9 to $15
+mandelbr: folds 
+TTSIP: folds 
+ilir3: folds 
+Uncalled bet ($9) returned to Ner4zzurri
+Ner4zzurri collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Ner4zzurri collected ($15)
+Seat 2: mandelbr (button) folded before Flop (didn't bet)
+Seat 3: TTSIP (small blind) folded before Flop
+Seat 4: ilir3 (big blind) folded before Flop
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102630068513:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:00:35 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Ner4zzurri ($609 in chips) 
+Seat 2: mandelbr ($250.24 in chips) 
+Seat 3: TTSIP ($822.50 in chips) 
+Seat 4: ilir3 ($657.20 in chips) 
+Seat 5: GregAndrek ($603 in chips) 
+Seat 6: evgenij_d_m ($745.08 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+evgenij_d_m: calls $6
+Ner4zzurri: folds 
+mandelbr: folds 
+TTSIP: folds 
+ilir3: folds 
+GregAndrek: checks 
+*** FLOP *** [Qc 4h Jc]
+GregAndrek: checks 
+evgenij_d_m: checks 
+*** TURN *** [Qc 4h Jc] [2c]
+GregAndrek: checks 
+evgenij_d_m: checks 
+*** RIVER *** [Qc 4h Jc 2c] [Td]
+GregAndrek: bets $9
+evgenij_d_m: raises $9 to $18
+GregAndrek: calls $9
+*** SHOW DOWN ***
+evgenij_d_m: shows [Th 9h] (a pair of Tens)
+GregAndrek: shows [9c Kh] (a straight, Nine to King)
+GregAndrek collected $48.70 from pot
+*** SUMMARY ***
+Total pot $51 | Rake $2.30 
+Board [Qc 4h Jc 2c Td]
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: TTSIP (button) folded before Flop (didn't bet)
+Seat 4: ilir3 (small blind) folded before Flop
+Seat 5: GregAndrek (big blind) showed [9c Kh] and won ($48.70) with a straight, Nine to King
+Seat 6: evgenij_d_m showed [Th 9h] and lost with a pair of Tens
+
+
+PokerStars Game #102630088650:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:01:13 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Ner4zzurri ($609 in chips) 
+Seat 2: mandelbr ($250.24 in chips) 
+Seat 3: TTSIP ($822.50 in chips) 
+Seat 4: ilir3 ($654.20 in chips) 
+Seat 5: GregAndrek ($627.70 in chips) 
+Seat 6: evgenij_d_m ($721.08 in chips) 
+GregAndrek: posts small blind $3
+evgenij_d_m: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri: folds 
+mandelbr: folds 
+TTSIP: folds 
+ilir3: raises $6 to $12
+GregAndrek: folds 
+evgenij_d_m: folds 
+Uncalled bet ($6) returned to ilir3
+ilir3 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 (button) collected ($15)
+Seat 5: GregAndrek (small blind) folded before Flop
+Seat 6: evgenij_d_m (big blind) folded before Flop
+
+
+PokerStars Game #102630097007:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:01:27 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Ner4zzurri ($609 in chips) 
+Seat 2: mandelbr ($250.24 in chips) 
+Seat 3: TTSIP ($822.50 in chips) 
+Seat 4: ilir3 ($663.20 in chips) 
+Seat 5: GregAndrek ($624.70 in chips) 
+Seat 6: evgenij_d_m ($715.08 in chips) 
+evgenij_d_m: posts small blind $3
+Ner4zzurri: posts big blind $6
+*** HOLE CARDS ***
+mandelbr: folds 
+TTSIP: folds 
+ilir3: folds 
+GregAndrek: raises $6 to $12
+evgenij_d_m: calls $9
+Ner4zzurri: folds 
+*** FLOP *** [Jc Ah Qc]
+evgenij_d_m: checks 
+GregAndrek: bets $18
+evgenij_d_m: calls $18
+*** TURN *** [Jc Ah Qc] [7s]
+evgenij_d_m: bets $30
+GregAndrek: folds 
+Uncalled bet ($30) returned to evgenij_d_m
+evgenij_d_m collected $63.20 from pot
+evgenij_d_m: doesn't show hand 
+*** SUMMARY ***
+Total pot $66 | Rake $2.80 
+Board [Jc Ah Qc 7s]
+Seat 1: Ner4zzurri (big blind) folded before Flop
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek (button) folded on the Turn
+Seat 6: evgenij_d_m (small blind) collected ($63.20)
+
+
+PokerStars Game #102630134370:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:02:29 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Ner4zzurri ($603 in chips) 
+Seat 2: mandelbr ($250.24 in chips) 
+Seat 3: TTSIP ($822.50 in chips) 
+Seat 4: ilir3 ($663.20 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($748.28 in chips) 
+Ner4zzurri: posts small blind $3
+mandelbr: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: folds 
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+Uncalled bet ($3) returned to mandelbr
+mandelbr collected $6 from pot
+mandelbr: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Ner4zzurri (small blind) folded before Flop
+Seat 2: mandelbr (big blind) collected ($6)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102630146585:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:02:49 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 2: mandelbr ($253.24 in chips) 
+Seat 3: TTSIP ($822.50 in chips) 
+Seat 4: ilir3 ($663.20 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($748.28 in chips) 
+mandelbr: posts small blind $3
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: calls $6
+Ner4zzurri: raises $18 to $24
+mandelbr: folds 
+TTSIP: folds 
+evgenij_d_m: calls $18
+*** FLOP *** [7h 6d Qs]
+evgenij_d_m: checks 
+Ner4zzurri: bets $30
+evgenij_d_m: calls $30
+*** TURN *** [7h 6d Qs] [7s]
+evgenij_d_m: bets $54
+Ner4zzurri: folds 
+Uncalled bet ($54) returned to evgenij_d_m
+evgenij_d_m collected $114.20 from pot
+evgenij_d_m: doesn't show hand 
+*** SUMMARY ***
+Total pot $117 | Rake $2.80 
+Board [7h 6d Qs 7s]
+Seat 1: Ner4zzurri (button) folded on the Turn
+Seat 2: mandelbr (small blind) folded before Flop
+Seat 3: TTSIP (big blind) folded before Flop
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m collected ($114.20)
+
+
+PokerStars Game #102630176047:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:03:36 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 2: mandelbr ($250.24 in chips) 
+Seat 3: TTSIP ($816.50 in chips) 
+Seat 4: ilir3 ($663.20 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($808.48 in chips) 
+TTSIP: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+mandelbr has timed out
+mandelbr: folds 
+TTSIP: folds 
+Uncalled bet ($3) returned to ilir3
+ilir3 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 2: mandelbr (button) folded before Flop (didn't bet)
+Seat 3: TTSIP (small blind) folded before Flop
+Seat 4: ilir3 (big blind) collected ($6)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102630196055:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:04:08 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 2: mandelbr ($250.24 in chips) 
+Seat 3: TTSIP ($813.50 in chips) 
+Seat 4: ilir3 ($666.20 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($808.48 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+mandelbr: folds 
+TTSIP: raises $6 to $12
+ilir3: folds 
+GregAndrek: folds 
+Uncalled bet ($6) returned to TTSIP
+TTSIP collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: TTSIP (button) collected ($15)
+Seat 4: ilir3 (small blind) folded before Flop
+Seat 5: GregAndrek (big blind) folded before Flop
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102630208569:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:04:28 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 2: mandelbr ($250.24 in chips) 
+Seat 3: TTSIP ($822.50 in chips) 
+Seat 4: ilir3 ($663.20 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($808.48 in chips) 
+GregAndrek: posts small blind $3
+evgenij_d_m: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri: raises $12 to $18
+mandelbr: raises $27 to $45
+TTSIP: folds 
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+Uncalled bet ($27) returned to mandelbr
+mandelbr collected $45 from pot
+mandelbr: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $0 
+Seat 1: Ner4zzurri folded before Flop
+Seat 2: mandelbr collected ($45)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 (button) folded before Flop (didn't bet)
+Seat 5: GregAndrek (small blind) folded before Flop
+Seat 6: evgenij_d_m (big blind) folded before Flop
+
+
+PokerStars Game #102630222525:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:04:50 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 2: mandelbr ($277.24 in chips) 
+Seat 3: TTSIP ($822.50 in chips) 
+Seat 4: ilir3 ($663.20 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($802.48 in chips) 
+evgenij_d_m: posts small blind $3
+Ner4zzurri: posts big blind $6
+*** HOLE CARDS ***
+mandelbr: folds 
+TTSIP: folds 
+ilir3: raises $6 to $12
+GregAndrek: folds 
+evgenij_d_m: calls $9
+Ner4zzurri: folds 
+*** FLOP *** [4h 3d 6d]
+evgenij_d_m: checks 
+ilir3: bets $18
+evgenij_d_m: folds 
+Uncalled bet ($18) returned to ilir3
+ilir3 collected $28.65 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [4h 3d 6d]
+Seat 1: Ner4zzurri (big blind) folded before Flop
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 collected ($28.65)
+Seat 5: GregAndrek (button) folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (small blind) folded on the Flop
+
+
+PokerStars Game #102629745398:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:50:24 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Strz ($952.18 in chips) 
+Seat 2: mandelbr ($271.24 in chips) 
+Seat 3: TTSIP ($726.20 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($738.88 in chips) 
+evgenij_d_m: posts small blind $3
+Strz: posts big blind $6
+*** HOLE CARDS ***
+mandelbr: folds 
+TTSIP: folds 
+ilir3: raises $6 to $12
+GregAndrek: raises $24 to $36
+evgenij_d_m: folds 
+Strz: folds 
+ilir3: folds 
+Uncalled bet ($24) returned to GregAndrek
+GregAndrek collected $33 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $0 
+Seat 1: Strz (big blind) folded before Flop
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop
+Seat 5: GregAndrek (button) collected ($33)
+Seat 6: evgenij_d_m (small blind) folded before Flop
+
+
+PokerStars Game #102629765299:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:50:56 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Strz ($946.18 in chips) 
+Seat 2: mandelbr ($271.24 in chips) 
+Seat 3: TTSIP ($726.20 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($621 in chips) 
+Seat 6: evgenij_d_m ($735.88 in chips) 
+Strz: posts small blind $3
+mandelbr: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: folds 
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Strz: raises $12 to $18
+mandelbr: folds 
+Uncalled bet ($12) returned to Strz
+Strz collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Strz (small blind) collected ($12)
+Seat 2: mandelbr (big blind) folded before Flop
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102629777736:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:51:15 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Strz ($952.18 in chips) 
+Seat 2: mandelbr ($265.24 in chips) 
+Seat 3: TTSIP ($726.20 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($621 in chips) 
+Seat 6: evgenij_d_m ($735.88 in chips) 
+mandelbr: posts small blind $3
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+ilir3: raises $9 to $15
+GregAndrek: folds 
+evgenij_d_m: folds 
+Strz: folds 
+mandelbr: folds 
+TTSIP: folds 
+Uncalled bet ($9) returned to ilir3
+ilir3 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Strz (button) folded before Flop (didn't bet)
+Seat 2: mandelbr (small blind) folded before Flop
+Seat 3: TTSIP (big blind) folded before Flop
+Seat 4: ilir3 collected ($15)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102629797141:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:51:46 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Strz ($952.18 in chips) 
+Seat 2: mandelbr ($262.24 in chips) 
+Seat 3: TTSIP ($720.20 in chips) 
+Seat 4: ilir3 ($609 in chips) 
+Seat 5: GregAndrek ($621 in chips) 
+Seat 6: evgenij_d_m ($735.88 in chips) 
+TTSIP: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: folds 
+evgenij_d_m: folds 
+Strz: folds 
+mandelbr is connected 
+mandelbr: folds 
+TTSIP: folds 
+Uncalled bet ($3) returned to ilir3
+ilir3 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Strz folded before Flop (didn't bet)
+Seat 2: mandelbr (button) folded before Flop (didn't bet)
+Seat 3: TTSIP (small blind) folded before Flop
+Seat 4: ilir3 (big blind) collected ($6)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102629825246:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:52:31 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Strz ($952.18 in chips) 
+Seat 2: mandelbr ($262.24 in chips) 
+Seat 3: TTSIP ($717.20 in chips) 
+Seat 4: ilir3 ($612 in chips) 
+Seat 5: GregAndrek ($621 in chips) 
+Seat 6: evgenij_d_m ($735.88 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+evgenij_d_m: folds 
+Strz: folds 
+mandelbr: folds 
+TTSIP: raises $6 to $12
+ilir3: folds 
+GregAndrek: folds 
+Uncalled bet ($6) returned to TTSIP
+TTSIP collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Strz folded before Flop (didn't bet)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: TTSIP (button) collected ($15)
+Seat 4: ilir3 (small blind) folded before Flop
+Seat 5: GregAndrek (big blind) folded before Flop
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102629838942:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:52:54 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Strz ($952.18 in chips) 
+Seat 2: mandelbr ($262.24 in chips) 
+Seat 3: TTSIP ($726.20 in chips) 
+Seat 4: ilir3 ($609 in chips) 
+Seat 5: GregAndrek ($615 in chips) 
+Seat 6: evgenij_d_m ($735.88 in chips) 
+GregAndrek: posts small blind $3
+evgenij_d_m: posts big blind $6
+*** HOLE CARDS ***
+Strz: folds 
+mandelbr: raises $12 to $18
+TTSIP: folds 
+ilir3: folds 
+Strz leaves the table
+Ner4zzurri joins the table at seat #1 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Uncalled bet ($12) returned to mandelbr
+mandelbr collected $15 from pot
+mandelbr: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Strz folded before Flop (didn't bet)
+Seat 2: mandelbr collected ($15)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 (button) folded before Flop (didn't bet)
+Seat 5: GregAndrek (small blind) folded before Flop
+Seat 6: evgenij_d_m (big blind) folded before Flop
+
+
+PokerStars Game #102629856493:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:53:21 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 2: mandelbr ($271.24 in chips) 
+Seat 3: TTSIP ($726.20 in chips) 
+Seat 4: ilir3 ($609 in chips) 
+Seat 5: GregAndrek ($612 in chips) 
+Seat 6: evgenij_d_m ($729.88 in chips) 
+evgenij_d_m: posts small blind $3
+Ner4zzurri: posts big blind $6
+*** HOLE CARDS ***
+mandelbr: folds 
+TTSIP: folds 
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: calls $3
+Ner4zzurri: raises $15 to $21
+evgenij_d_m: calls $15
+*** FLOP *** [8h 7s 5s]
+evgenij_d_m: bets $30
+Ner4zzurri: calls $30
+*** TURN *** [8h 7s 5s] [4d]
+evgenij_d_m: checks 
+Ner4zzurri: checks 
+*** RIVER *** [8h 7s 5s 4d] [Ah]
+evgenij_d_m: checks 
+Ner4zzurri: checks 
+*** SHOW DOWN ***
+evgenij_d_m: shows [8d Td] (a pair of Eights)
+Ner4zzurri: mucks hand 
+evgenij_d_m collected $99.20 from pot
+*** SUMMARY ***
+Total pot $102 | Rake $2.80 
+Board [8h 7s 5s 4d Ah]
+Seat 1: Ner4zzurri (big blind) mucked
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek (button) folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (small blind) showed [8d Td] and won ($99.20) with a pair of Eights
+
+
+PokerStars Game #102629886114:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:54:08 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 2: mandelbr ($271.24 in chips) 
+Seat 3: TTSIP ($726.20 in chips) 
+Seat 4: ilir3 ($609 in chips) 
+Seat 5: GregAndrek ($612 in chips) 
+Seat 6: evgenij_d_m ($778.08 in chips) 
+Ner4zzurri: posts small blind $3
+mandelbr: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: folds 
+ilir3: raises $9 to $15
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+mandelbr: raises $87 to $102
+ilir3 said, "is this a misclick o_o"
+ilir3: folds 
+Uncalled bet ($87) returned to mandelbr
+mandelbr collected $33 from pot
+mandelbr: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $0 
+Seat 1: Ner4zzurri (small blind) folded before Flop
+Seat 2: mandelbr (big blind) collected ($33)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102629541929:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:45:10 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Strz ($702.98 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($702.68 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+evgenij_d_m: folds 
+Strz: folds 
+mandelbr: folds 
+TTSIP: raises $6 to $12
+ilir3: folds 
+GregAndrek: raises $30 to $42
+TTSIP: calls $30
+*** FLOP *** [2h Jd 3d]
+GregAndrek: bets $45
+TTSIP: calls $45
+*** TURN *** [2h Jd 3d] [3c]
+GregAndrek: bets $108
+TTSIP: calls $108
+*** RIVER *** [2h Jd 3d 3c] [8s]
+GregAndrek: checks 
+TTSIP: bets $405 and is all-in
+GregAndrek: folds 
+Uncalled bet ($405) returned to TTSIP
+TTSIP collected $390.20 from pot
+*** SUMMARY ***
+Total pot $393 | Rake $2.80 
+Board [2h Jd 3d 3c 8s]
+Seat 1: Strz folded before Flop (didn't bet)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: TTSIP (button) collected ($390.20)
+Seat 4: ilir3 (small blind) folded before Flop
+Seat 5: GregAndrek (big blind) folded on the River
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102629616092:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:47:02 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Strz ($702.98 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: TTSIP ($795.20 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($702.68 in chips) 
+GregAndrek: posts small blind $3
+evgenij_d_m: posts big blind $6
+*** HOLE CARDS ***
+Strz: raises $12 to $18
+mandelbr: folds 
+TTSIP: folds 
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Uncalled bet ($12) returned to Strz
+Strz collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Strz collected ($15)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 (button) folded before Flop (didn't bet)
+Seat 5: GregAndrek (small blind) folded before Flop
+Seat 6: evgenij_d_m (big blind) folded before Flop
+
+
+PokerStars Game #102629633214:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:47:29 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Strz ($711.98 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: TTSIP ($795.20 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($696.68 in chips) 
+evgenij_d_m: posts small blind $3
+Strz: posts big blind $6
+*** HOLE CARDS ***
+mandelbr: raises $12 to $18
+TTSIP: folds 
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Strz: folds 
+Uncalled bet ($12) returned to mandelbr
+mandelbr collected $15 from pot
+mandelbr: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Strz (big blind) folded before Flop
+Seat 2: mandelbr collected ($15)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek (button) folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (small blind) folded before Flop
+
+
+PokerStars Game #102629644361:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:47:46 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Strz ($705.98 in chips) 
+Seat 2: mandelbr ($249 in chips) 
+Seat 3: TTSIP ($795.20 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($693.68 in chips) 
+Strz: posts small blind $3
+mandelbr: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: folds 
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Strz: raises $12 to $18
+mandelbr: raises $30 to $48
+Strz: raises $657.98 to $705.98 and is all-in
+mandelbr: calls $201 and is all-in
+Uncalled bet ($456.98) returned to Strz
+*** FIRST FLOP *** [8d Kh Ac]
+*** FIRST TURN *** [8d Kh Ac] [2d]
+*** FIRST RIVER *** [8d Kh Ac 2d] [Th]
+*** SECOND FLOP *** [Jh 7d 8s]
+*** SECOND TURN *** [Jh 7d 8s] [5d]
+*** SECOND RIVER *** [Jh 7d 8s 5d] [6c]
+*** FIRST SHOW DOWN ***
+Strz: shows [Qh Js] (a straight, Ten to Ace)
+mandelbr: shows [Ad Qc] (a pair of Aces)
+Strz collected $247.60 from pot
+*** SECOND SHOW DOWN ***
+Strz: shows [Qh Js] (a pair of Jacks)
+mandelbr: shows [Ad Qc] (high card Ace)
+Strz collected $247.60 from pot
+*** SUMMARY ***
+Total pot $498 | Rake $2.80 
+Hand was run twice
+FIRST Board [8d Kh Ac 2d Th]
+SECOND Board [Jh 7d 8s 5d 6c]
+Seat 1: Strz (small blind) showed [Qh Js] and won ($247.60) with a straight, Ten to Ace, and won ($247.60) with a pair of Jacks
+Seat 2: mandelbr (big blind) showed [Ad Qc] and lost with a pair of Aces, and lost with high card Ace
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102629670289:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:48:26 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Strz ($952.18 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: TTSIP ($795.20 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($693.68 in chips) 
+mandelbr: posts small blind $3
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+ilir3: raises $9 to $15
+GregAndrek: folds 
+evgenij_d_m: folds 
+Strz: folds 
+mandelbr: folds 
+TTSIP: folds 
+Uncalled bet ($9) returned to ilir3
+ilir3 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Strz (button) folded before Flop (didn't bet)
+Seat 2: mandelbr (small blind) folded before Flop
+Seat 3: TTSIP (big blind) folded before Flop
+Seat 4: ilir3 collected ($15)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102629680265:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:48:42 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Strz ($952.18 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: TTSIP ($789.20 in chips) 
+Seat 4: ilir3 ($609 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($693.68 in chips) 
+TTSIP: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: folds 
+evgenij_d_m: calls $6
+Strz: folds 
+mandelbr: folds 
+TTSIP: calls $3
+ilir3: checks 
+*** FLOP *** [9h Ts Ks]
+TTSIP: bets $12
+ilir3: folds 
+evgenij_d_m: calls $12
+*** TURN *** [9h Ts Ks] [Td]
+TTSIP: bets $30
+evgenij_d_m: raises $30 to $60
+TTSIP: folds 
+Uncalled bet ($30) returned to evgenij_d_m
+evgenij_d_m collected $99.20 from pot
+evgenij_d_m: doesn't show hand 
+*** SUMMARY ***
+Total pot $102 | Rake $2.80 
+Board [9h Ts Ks Td]
+Seat 1: Strz folded before Flop (didn't bet)
+Seat 2: mandelbr (button) folded before Flop (didn't bet)
+Seat 3: TTSIP (small blind) folded on the Turn
+Seat 4: ilir3 (big blind) folded on the Flop
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m collected ($99.20)
+
+
+PokerStars Game #102629701078:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:49:14 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Strz ($952.18 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: TTSIP ($741.20 in chips) 
+Seat 4: ilir3 ($603 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($744.88 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+evgenij_d_m: folds 
+Strz: folds 
+mandelbr: raises $9 to $15
+TTSIP: calls $15
+ilir3: folds 
+GregAndrek: folds 
+*** FLOP *** [5c 9h Qs]
+mandelbr: bets $18
+TTSIP: folds 
+Uncalled bet ($18) returned to mandelbr
+mandelbr collected $37.24 from pot
+mandelbr: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [5c 9h Qs]
+Seat 1: Strz folded before Flop (didn't bet)
+Seat 2: mandelbr collected ($37.24)
+Seat 3: TTSIP (button) folded on the Flop
+Seat 4: ilir3 (small blind) folded before Flop
+Seat 5: GregAndrek (big blind) folded before Flop
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102629725526:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:49:53 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Strz ($952.18 in chips) 
+Seat 2: mandelbr ($262.24 in chips) 
+Seat 3: TTSIP ($726.20 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($744.88 in chips) 
+GregAndrek: posts small blind $3
+evgenij_d_m: posts big blind $6
+*** HOLE CARDS ***
+Strz: folds 
+mandelbr: raises $12 to $18
+TTSIP: folds 
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Uncalled bet ($12) returned to mandelbr
+mandelbr collected $15 from pot
+mandelbr: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Strz folded before Flop (didn't bet)
+Seat 2: mandelbr collected ($15)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 (button) folded before Flop (didn't bet)
+Seat 5: GregAndrek (small blind) folded before Flop
+Seat 6: evgenij_d_m (big blind) folded before Flop
+
+
+PokerStars Game #102631007225:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:25:37 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Ner4zzurri ($612 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($711.20 in chips) 
+Seat 4: ilir3 ($683.61 in chips) 
+Seat 5: GregAndrek ($1330.27 in chips) 
+Seat 6: evgenij_d_m ($787.50 in chips) 
+evgenij_d_m: posts small blind $3
+Ner4zzurri: posts big blind $6
+*** HOLE CARDS ***
+mandelbr: raises $12 to $18
+Hurloon: folds 
+ilir3: folds 
+GregAndrek: raises $33 to $51
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+mandelbr: folds 
+Uncalled bet ($33) returned to GregAndrek
+GregAndrek collected $45 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $0 
+Seat 1: Ner4zzurri (big blind) folded before Flop
+Seat 2: mandelbr folded before Flop
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek (button) collected ($45)
+Seat 6: evgenij_d_m (small blind) folded before Flop
+
+
+PokerStars Game #102631022336:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:26:02 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Ner4zzurri ($606 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($711.20 in chips) 
+Seat 4: ilir3 ($683.61 in chips) 
+Seat 5: GregAndrek ($1357.27 in chips) 
+Seat 6: evgenij_d_m ($784.50 in chips) 
+Ner4zzurri: posts small blind $3
+mandelbr: posts big blind $6
+*** HOLE CARDS ***
+Hurloon: folds 
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: calls $3
+mandelbr: checks 
+*** FLOP *** [5h 6s 2c]
+Ner4zzurri: bets $7
+mandelbr: folds 
+Uncalled bet ($7) returned to Ner4zzurri
+Ner4zzurri collected $11.46 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.54 
+Board [5h 6s 2c]
+Seat 1: Ner4zzurri (small blind) collected ($11.46)
+Seat 2: mandelbr (big blind) folded on the Flop
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102631041415:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:26:33 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Ner4zzurri ($611.46 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($711.20 in chips) 
+Seat 4: ilir3 ($683.61 in chips) 
+Seat 5: GregAndrek ($1357.27 in chips) 
+Seat 6: evgenij_d_m ($784.50 in chips) 
+mandelbr: posts small blind $3
+Hurloon: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: calls $6
+Ner4zzurri: folds 
+mandelbr: folds 
+Hurloon: checks 
+*** FLOP *** [Ts 6s 9c]
+Hurloon: checks 
+evgenij_d_m: bets $12
+Hurloon: folds 
+Uncalled bet ($12) returned to evgenij_d_m
+evgenij_d_m collected $14.32 from pot
+evgenij_d_m: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.68 
+Board [Ts 6s 9c]
+Seat 1: Ner4zzurri (button) folded before Flop (didn't bet)
+Seat 2: mandelbr (small blind) folded before Flop
+Seat 3: Hurloon (big blind) folded on the Flop
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m collected ($14.32)
+
+
+PokerStars Game #102631063668:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:27:10 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Ner4zzurri ($611.46 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($705.20 in chips) 
+Seat 4: ilir3 ($683.61 in chips) 
+Seat 5: GregAndrek ($1357.27 in chips) 
+Seat 6: evgenij_d_m ($792.82 in chips) 
+Hurloon: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+mandelbr: folds 
+Hurloon: folds 
+Uncalled bet ($3) returned to ilir3
+ilir3 collected $6 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 2: mandelbr (button) folded before Flop (didn't bet)
+Seat 3: Hurloon (small blind) folded before Flop
+Seat 4: ilir3 (big blind) collected ($6)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102631076684:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:27:31 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Ner4zzurri ($611.46 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($702.20 in chips) 
+Seat 4: ilir3 ($686.61 in chips) 
+Seat 5: GregAndrek ($1357.27 in chips) 
+Seat 6: evgenij_d_m ($792.82 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+evgenij_d_m: calls $6
+Ner4zzurri: folds 
+mandelbr: folds 
+Hurloon: folds 
+ilir3: raises $18 to $24
+GregAndrek: folds 
+evgenij_d_m is connected 
+evgenij_d_m: folds 
+Uncalled bet ($18) returned to ilir3
+ilir3 collected $18 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0 
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon (button) folded before Flop (didn't bet)
+Seat 4: ilir3 (small blind) collected ($18)
+Seat 5: GregAndrek (big blind) folded before Flop
+Seat 6: evgenij_d_m folded before Flop
+
+
+PokerStars Game #102631095092:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:28:01 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Ner4zzurri ($611.46 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($702.20 in chips) 
+Seat 4: ilir3 ($698.61 in chips) 
+Seat 5: GregAndrek ($1351.27 in chips) 
+Seat 6: evgenij_d_m ($786.82 in chips) 
+GregAndrek: posts small blind $3
+evgenij_d_m: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri: folds 
+mandelbr: folds 
+Hurloon: raises $9 to $15
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Uncalled bet ($9) returned to Hurloon
+Hurloon collected $15 from pot
+Hurloon: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon collected ($15)
+Seat 4: ilir3 (button) folded before Flop (didn't bet)
+Seat 5: GregAndrek (small blind) folded before Flop
+Seat 6: evgenij_d_m (big blind) folded before Flop
+
+
+PokerStars Game #102631113873:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:28:32 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Ner4zzurri ($611.46 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($711.20 in chips) 
+Seat 4: ilir3 ($698.61 in chips) 
+Seat 5: GregAndrek ($1348.27 in chips) 
+Seat 6: evgenij_d_m ($780.82 in chips) 
+evgenij_d_m: posts small blind $3
+Ner4zzurri: posts big blind $6
+*** HOLE CARDS ***
+mandelbr: folds 
+Hurloon: folds 
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Uncalled bet ($3) returned to Ner4zzurri
+Ner4zzurri collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Ner4zzurri (big blind) collected ($6)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek (button) folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (small blind) folded before Flop
+
+
+PokerStars Game #102631126482:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:28:52 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Ner4zzurri ($614.46 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($711.20 in chips) 
+Seat 4: ilir3 ($698.61 in chips) 
+Seat 5: GregAndrek ($1348.27 in chips) 
+Seat 6: evgenij_d_m ($777.82 in chips) 
+Ner4zzurri: posts small blind $3
+mandelbr: posts big blind $6
+*** HOLE CARDS ***
+Hurloon: folds 
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: calls $6
+Ner4zzurri: folds 
+mandelbr: checks 
+*** FLOP *** [6c Th 8c]
+mandelbr: checks 
+evgenij_d_m: checks 
+*** TURN *** [6c Th 8c] [6h]
+mandelbr: bets $9
+evgenij_d_m: raises $9 to $18
+mandelbr: calls $9
+*** RIVER *** [6c Th 8c 6h] [As]
+mandelbr: checks 
+evgenij_d_m: bets $102
+mandelbr: folds 
+Uncalled bet ($102) returned to evgenij_d_m
+evgenij_d_m collected $48.70 from pot
+*** SUMMARY ***
+Total pot $51 | Rake $2.30 
+Board [6c Th 8c 6h As]
+Seat 1: Ner4zzurri (small blind) folded before Flop
+Seat 2: mandelbr (big blind) folded on the River
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (button) collected ($48.70)
+
+
+PokerStars Game #102630802975:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:20:08 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Ner4zzurri ($654 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($609 in chips) 
+Seat 4: ilir3 ($731.61 in chips) 
+Seat 5: GregAndrek ($1325.62 in chips) 
+Seat 6: evgenij_d_m ($763.30 in chips) 
+GregAndrek: posts small blind $3
+evgenij_d_m: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri: raises $12 to $18
+mandelbr: folds 
+Hurloon: raises $36 to $54
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+Uncalled bet ($36) returned to Hurloon
+Hurloon collected $45 from pot
+Hurloon: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $0 
+Seat 1: Ner4zzurri folded before Flop
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon collected ($45)
+Seat 4: ilir3 (button) folded before Flop (didn't bet)
+Seat 5: GregAndrek (small blind) folded before Flop
+Seat 6: evgenij_d_m (big blind) folded before Flop
+
+
+PokerStars Game #102630835110:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:21:00 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Ner4zzurri ($636 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($636 in chips) 
+Seat 4: ilir3 ($731.61 in chips) 
+Seat 5: GregAndrek ($1322.62 in chips) 
+Seat 6: evgenij_d_m ($757.30 in chips) 
+evgenij_d_m: posts small blind $3
+Ner4zzurri: posts big blind $6
+*** HOLE CARDS ***
+mandelbr: folds 
+Hurloon: folds 
+ilir3: folds 
+GregAndrek: raises $6 to $12
+evgenij_d_m: calls $9
+Ner4zzurri: folds 
+*** FLOP *** [9s Jh 6d]
+evgenij_d_m: checks 
+GregAndrek: bets $21
+evgenij_d_m: folds 
+Uncalled bet ($21) returned to GregAndrek
+GregAndrek collected $28.65 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [9s Jh 6d]
+Seat 1: Ner4zzurri (big blind) folded before Flop
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek (button) collected ($28.65)
+Seat 6: evgenij_d_m (small blind) folded on the Flop
+
+
+PokerStars Game #102630859222:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:21:39 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Ner4zzurri ($630 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($636 in chips) 
+Seat 4: ilir3 ($731.61 in chips) 
+Seat 5: GregAndrek ($1339.27 in chips) 
+Seat 6: evgenij_d_m ($745.30 in chips) 
+Ner4zzurri: posts small blind $3
+mandelbr: posts big blind $6
+*** HOLE CARDS ***
+Hurloon: folds 
+ilir3: raises $9 to $15
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+mandelbr: folds 
+Uncalled bet ($9) returned to ilir3
+ilir3 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Ner4zzurri (small blind) folded before Flop
+Seat 2: mandelbr (big blind) folded before Flop
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 collected ($15)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102630873992:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:22:02 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Ner4zzurri ($627 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($636 in chips) 
+Seat 4: ilir3 ($740.61 in chips) 
+Seat 5: GregAndrek ($1339.27 in chips) 
+Seat 6: evgenij_d_m ($745.30 in chips) 
+mandelbr: posts small blind $3
+Hurloon: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: calls $6
+Ner4zzurri: raises $18 to $24
+mandelbr: folds 
+Hurloon: raises $54 to $78
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+Uncalled bet ($54) returned to Hurloon
+Hurloon collected $57 from pot
+Hurloon: doesn't show hand 
+*** SUMMARY ***
+Total pot $57 | Rake $0 
+Seat 1: Ner4zzurri (button) folded before Flop
+Seat 2: mandelbr (small blind) folded before Flop
+Seat 3: Hurloon (big blind) collected ($57)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m folded before Flop
+
+
+PokerStars Game #102630908040:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:22:57 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Ner4zzurri ($603 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($669 in chips) 
+Seat 4: ilir3 ($740.61 in chips) 
+Seat 5: GregAndrek ($1339.27 in chips) 
+Seat 6: evgenij_d_m ($739.30 in chips) 
+Hurloon: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: raises $9 to $15
+mandelbr: folds 
+Hurloon: folds 
+ilir3: folds 
+Uncalled bet ($9) returned to Ner4zzurri
+Ner4zzurri collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Ner4zzurri collected ($15)
+Seat 2: mandelbr (button) folded before Flop (didn't bet)
+Seat 3: Hurloon (small blind) folded before Flop
+Seat 4: ilir3 (big blind) folded before Flop
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102630918460:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:23:14 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Ner4zzurri ($612 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($666 in chips) 
+Seat 4: ilir3 ($734.61 in chips) 
+Seat 5: GregAndrek ($1339.27 in chips) 
+Seat 6: evgenij_d_m ($739.30 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+mandelbr: raises $12 to $18
+Hurloon: calls $18
+ilir3: folds 
+GregAndrek: folds 
+*** FLOP *** [As 9s 3c]
+mandelbr: bets $21
+Hurloon: calls $21
+*** TURN *** [As 9s 3c] [9c]
+mandelbr: checks 
+Hurloon: bets $36
+mandelbr: folds 
+Uncalled bet ($36) returned to Hurloon
+Hurloon collected $84.20 from pot
+Hurloon: doesn't show hand 
+*** SUMMARY ***
+Total pot $87 | Rake $2.80 
+Board [As 9s 3c 9c]
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 2: mandelbr folded on the Turn
+Seat 3: Hurloon (button) collected ($84.20)
+Seat 4: ilir3 (small blind) folded before Flop
+Seat 5: GregAndrek (big blind) folded before Flop
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102630965722:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:24:30 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Ner4zzurri ($612 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($711.20 in chips) 
+Seat 4: ilir3 ($731.61 in chips) 
+Seat 5: GregAndrek ($1333.27 in chips) 
+Seat 6: evgenij_d_m ($739.30 in chips) 
+GregAndrek: posts small blind $3
+evgenij_d_m: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri: folds 
+mandelbr: folds 
+Hurloon: folds 
+ilir3: raises $6 to $12
+GregAndrek: folds 
+evgenij_d_m: calls $6
+*** FLOP *** [7h 4s Ad]
+evgenij_d_m: checks 
+ilir3: bets $18
+evgenij_d_m: raises $18 to $36
+ilir3: calls $18
+*** TURN *** [7h 4s Ad] [Qd]
+evgenij_d_m: bets $54
+ilir3: folds 
+Uncalled bet ($54) returned to evgenij_d_m
+evgenij_d_m collected $96.20 from pot
+evgenij_d_m: doesn't show hand 
+*** SUMMARY ***
+Total pot $99 | Rake $2.80 
+Board [7h 4s Ad Qd]
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 (button) folded on the Turn
+Seat 5: GregAndrek (small blind) folded before Flop
+Seat 6: evgenij_d_m (big blind) collected ($96.20)
+
+
+PokerStars Game #102630628623:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:15:32 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 2: mandelbr ($268.24 in chips) 
+Seat 3: Hurloon ($600 in chips) 
+Seat 4: ilir3 ($752.61 in chips) 
+Seat 5: GregAndrek ($1036.18 in chips) 
+Seat 6: evgenij_d_m ($772.30 in chips) 
+Hurloon: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+mandelbr: raises $9 to $15
+Hurloon: folds 
+ilir3: folds 
+Uncalled bet ($9) returned to mandelbr
+mandelbr collected $15 from pot
+mandelbr: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 2: mandelbr (button) collected ($15)
+Seat 3: Hurloon (small blind) folded before Flop
+Seat 4: ilir3 (big blind) folded before Flop
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102630645434:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:15:59 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 2: mandelbr ($277.24 in chips) 
+Seat 3: Hurloon ($600 in chips) 
+Seat 4: ilir3 ($746.61 in chips) 
+Seat 5: GregAndrek ($1036.18 in chips) 
+Seat 6: evgenij_d_m ($772.30 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+mandelbr: raises $12 to $18
+Hurloon: folds 
+ilir3: folds 
+GregAndrek: raises $33 to $51
+mandelbr: raises $226.24 to $277.24 and is all-in
+GregAndrek: calls $226.24
+*** FLOP *** [2d 8c 9c]
+*** TURN *** [2d 8c 9c] [Jc]
+*** RIVER *** [2d 8c 9c Jc] [6c]
+*** SHOW DOWN ***
+GregAndrek: shows [Qc Kd] (a flush, Queen high)
+mandelbr: shows [Qh Qd] (a pair of Queens)
+GregAndrek collected $554.68 from pot
+*** SUMMARY ***
+Total pot $557.48 | Rake $2.80 
+Board [2d 8c 9c Jc 6c]
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 2: mandelbr showed [Qh Qd] and lost with a pair of Queens
+Seat 3: Hurloon (button) folded before Flop (didn't bet)
+Seat 4: ilir3 (small blind) folded before Flop
+Seat 5: GregAndrek (big blind) showed [Qc Kd] and won ($554.68) with a flush, Queen high
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102630680092:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:16:53 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($600 in chips) 
+Seat 4: ilir3 ($743.61 in chips) 
+Seat 5: GregAndrek ($1313.62 in chips) 
+Seat 6: evgenij_d_m ($772.30 in chips) 
+GregAndrek: posts small blind $3
+evgenij_d_m: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri: folds 
+mandelbr: raises $12 to $18
+Hurloon: folds 
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Uncalled bet ($12) returned to mandelbr
+mandelbr collected $15 from pot
+mandelbr: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 2: mandelbr collected ($15)
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 (button) folded before Flop (didn't bet)
+Seat 5: GregAndrek (small blind) folded before Flop
+Seat 6: evgenij_d_m (big blind) folded before Flop
+
+
+PokerStars Game #102630711086:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:17:42 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 2: mandelbr ($249 in chips) 
+Seat 3: Hurloon ($600 in chips) 
+Seat 4: ilir3 ($743.61 in chips) 
+Seat 5: GregAndrek ($1310.62 in chips) 
+Seat 6: evgenij_d_m ($766.30 in chips) 
+evgenij_d_m: posts small blind $3
+Ner4zzurri: posts big blind $6
+*** HOLE CARDS ***
+mandelbr: folds 
+Hurloon: folds 
+ilir3: raises $6 to $12
+GregAndrek: raises $21 to $33
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+ilir3: folds 
+Uncalled bet ($21) returned to GregAndrek
+GregAndrek collected $33 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $0 
+Seat 1: Ner4zzurri (big blind) folded before Flop
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop
+Seat 5: GregAndrek (button) collected ($33)
+Seat 6: evgenij_d_m (small blind) folded before Flop
+
+
+PokerStars Game #102630740657:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:18:29 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 2: mandelbr ($249 in chips) 
+Seat 3: Hurloon ($600 in chips) 
+Seat 4: ilir3 ($731.61 in chips) 
+Seat 5: GregAndrek ($1331.62 in chips) 
+Seat 6: evgenij_d_m ($763.30 in chips) 
+Ner4zzurri: posts small blind $3
+mandelbr: posts big blind $6
+*** HOLE CARDS ***
+Hurloon: folds 
+ilir3: raises $9 to $15
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+mandelbr: folds 
+Uncalled bet ($9) returned to ilir3
+ilir3 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Ner4zzurri (small blind) folded before Flop
+Seat 2: mandelbr (big blind) folded before Flop
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 collected ($15)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102630765915:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:19:09 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 2: mandelbr ($243 in chips) 
+Seat 3: Hurloon ($600 in chips) 
+Seat 4: ilir3 ($740.61 in chips) 
+Seat 5: GregAndrek ($1331.62 in chips) 
+Seat 6: evgenij_d_m ($763.30 in chips) 
+mandelbr: posts small blind $3
+Hurloon: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: raises $6 to $12
+mandelbr: raises $27 to $39
+Hurloon: folds 
+Ner4zzurri: raises $561 to $600 and is all-in
+mandelbr: folds 
+Uncalled bet ($561) returned to Ner4zzurri
+Ner4zzurri collected $84 from pot
+Ner4zzurri: doesn't show hand 
+*** SUMMARY ***
+Total pot $84 | Rake $0 
+Seat 1: Ner4zzurri (button) collected ($84)
+Seat 2: mandelbr (small blind) folded before Flop
+Seat 3: Hurloon (big blind) folded before Flop
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102630783777:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:19:38 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Ner4zzurri ($645 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($600 in chips) 
+Seat 4: ilir3 ($740.61 in chips) 
+Seat 5: GregAndrek ($1331.62 in chips) 
+Seat 6: evgenij_d_m ($763.30 in chips) 
+Hurloon: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: raises $9 to $15
+mandelbr: folds 
+Hurloon: folds 
+ilir3: folds 
+Uncalled bet ($9) returned to Ner4zzurri
+Ner4zzurri collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Ner4zzurri collected ($15)
+Seat 2: mandelbr (button) folded before Flop (didn't bet)
+Seat 3: Hurloon (small blind) folded before Flop
+Seat 4: ilir3 (big blind) folded before Flop
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102630794928:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:19:56 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Ner4zzurri ($654 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($600 in chips) 
+Seat 4: ilir3 ($734.61 in chips) 
+Seat 5: GregAndrek ($1331.62 in chips) 
+Seat 6: evgenij_d_m ($763.30 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+mandelbr: folds 
+Hurloon: raises $6 to $12
+ilir3: folds 
+GregAndrek: folds 
+Uncalled bet ($6) returned to Hurloon
+Hurloon collected $15 from pot
+Hurloon: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon (button) collected ($15)
+Seat 4: ilir3 (small blind) folded before Flop
+Seat 5: GregAndrek (big blind) folded before Flop
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102630424372:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:10:07 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Ner4zzurri ($601.60 in chips) 
+Seat 3: TTSIP ($820.42 in chips) 
+Seat 4: ilir3 ($728.05 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($811.98 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+TTSIP: folds 
+ilir3: folds 
+Uncalled bet ($3) returned to GregAndrek
+GregAndrek collected $6 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 3: TTSIP (button) folded before Flop (didn't bet)
+Seat 4: ilir3 (small blind) folded before Flop
+Seat 5: GregAndrek (big blind) collected ($6)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102630432898:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:10:21 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Ner4zzurri ($601.60 in chips) 
+Seat 3: TTSIP ($820.42 in chips) 
+Seat 4: ilir3 ($725.05 in chips) 
+Seat 5: GregAndrek ($603 in chips) 
+Seat 6: evgenij_d_m ($811.98 in chips) 
+GregAndrek: posts small blind $3
+evgenij_d_m: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri: folds 
+TTSIP: folds 
+ilir3: raises $6 to $12
+GregAndrek: folds 
+evgenij_d_m: calls $6
+*** FLOP *** [Jd 4s 2s]
+evgenij_d_m: checks 
+ilir3: bets $18
+evgenij_d_m: folds 
+Uncalled bet ($18) returned to ilir3
+ilir3 collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Jd 4s 2s]
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 (button) collected ($25.78)
+Seat 5: GregAndrek (small blind) folded before Flop
+Seat 6: evgenij_d_m (big blind) folded on the Flop
+
+
+PokerStars Game #102630455154:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:10:56 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Ner4zzurri ($601.60 in chips) 
+Seat 3: TTSIP ($820.42 in chips) 
+Seat 4: ilir3 ($738.83 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($799.98 in chips) 
+evgenij_d_m: posts small blind $3
+Ner4zzurri: posts big blind $6
+mandelbr: sits out 
+*** HOLE CARDS ***
+TTSIP: folds 
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Uncalled bet ($3) returned to Ner4zzurri
+Ner4zzurri collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Ner4zzurri (big blind) collected ($6)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek (button) folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (small blind) folded before Flop
+
+
+PokerStars Game #102630463550:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:11:10 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Ner4zzurri ($604.60 in chips) 
+Seat 2: mandelbr ($277.24 in chips) 
+Seat 3: TTSIP ($820.42 in chips) 
+Seat 4: ilir3 ($738.83 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: evgenij_d_m ($796.98 in chips) 
+Ner4zzurri: posts small blind $3
+mandelbr: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: raises $15 to $21
+ilir3: folds 
+GregAndrek: raises $36 to $57
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+mandelbr: folds 
+TTSIP: calls $36
+*** FLOP *** [8d Js Jc]
+TTSIP: checks 
+GregAndrek: checks 
+*** TURN *** [8d Js Jc] [4h]
+TTSIP: bets $96
+GregAndrek: calls $96
+*** RIVER *** [8d Js Jc 4h] [Qd]
+TTSIP: bets $252
+GregAndrek: raises $195 to $447 and is all-in
+TTSIP: folds 
+Uncalled bet ($195) returned to GregAndrek
+GregAndrek collected $816.20 from pot
+GregAndrek: doesn't show hand 
+TTSIP leaves the table
+*** SUMMARY ***
+Total pot $819 | Rake $2.80 
+Board [8d Js Jc 4h Qd]
+Seat 1: Ner4zzurri (small blind) folded before Flop
+Seat 2: mandelbr (big blind) folded before Flop
+Seat 3: TTSIP folded on the River
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek collected ($816.20)
+Seat 6: evgenij_d_m (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102630507020:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:12:19 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Ner4zzurri ($601.60 in chips) 
+Seat 2: mandelbr ($271.24 in chips) 
+Seat 4: ilir3 ($738.83 in chips) 
+Seat 5: GregAndrek ($1011.20 in chips) 
+Seat 6: evgenij_d_m ($796.98 in chips) 
+mandelbr: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: raises $12 to $18
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+mandelbr: folds 
+ilir3: folds 
+Uncalled bet ($12) returned to GregAndrek
+GregAndrek collected $15 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Ner4zzurri (button) folded before Flop (didn't bet)
+Seat 2: mandelbr (small blind) folded before Flop
+Seat 4: ilir3 (big blind) folded before Flop
+Seat 5: GregAndrek collected ($15)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102630518054:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:12:37 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Ner4zzurri ($601.60 in chips) 
+Seat 2: mandelbr ($268.24 in chips) 
+Seat 4: ilir3 ($732.83 in chips) 
+Seat 5: GregAndrek ($1020.20 in chips) 
+Seat 6: evgenij_d_m ($796.98 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+evgenij_d_m: calls $6
+Ner4zzurri: folds 
+mandelbr has timed out
+mandelbr: folds 
+ilir3: folds 
+GregAndrek: checks 
+*** FLOP *** [Th 6c 8s]
+GregAndrek: checks 
+evgenij_d_m: bets $30
+GregAndrek: folds 
+Uncalled bet ($30) returned to evgenij_d_m
+evgenij_d_m collected $14.32 from pot
+evgenij_d_m: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.68 
+Board [Th 6c 8s]
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 2: mandelbr (button) folded before Flop (didn't bet)
+Seat 4: ilir3 (small blind) folded before Flop
+Seat 5: GregAndrek (big blind) folded on the Flop
+Seat 6: evgenij_d_m collected ($14.32)
+
+
+PokerStars Game #102630545967:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:13:21 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Ner4zzurri ($601.60 in chips) 
+Seat 4: ilir3 ($729.83 in chips) 
+Seat 5: GregAndrek ($1014.20 in chips) 
+Seat 6: evgenij_d_m ($805.30 in chips) 
+GregAndrek: posts small blind $3
+evgenij_d_m: posts big blind $6
+*** HOLE CARDS ***
+Hurloon joins the table at seat #3 
+Ner4zzurri: folds 
+ilir3: raises $6 to $12
+GregAndrek: folds 
+evgenij_d_m: calls $6
+*** FLOP *** [As 6d 7d]
+evgenij_d_m: checks 
+ilir3: bets $18
+evgenij_d_m: folds 
+Uncalled bet ($18) returned to ilir3
+ilir3 collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [As 6d 7d]
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 4: ilir3 (button) collected ($25.78)
+Seat 5: GregAndrek (small blind) folded before Flop
+Seat 6: evgenij_d_m (big blind) folded on the Flop
+
+
+PokerStars Game #102630565692:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:13:53 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Ner4zzurri ($601.60 in chips) 
+Seat 2: mandelbr ($268.24 in chips) 
+Seat 4: ilir3 ($743.61 in chips) 
+Seat 5: GregAndrek ($1011.20 in chips) 
+Seat 6: evgenij_d_m ($793.30 in chips) 
+evgenij_d_m: posts small blind $3
+Ner4zzurri: posts big blind $6
+Hurloon: sits out 
+*** HOLE CARDS ***
+mandelbr: raises $12 to $18
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+Uncalled bet ($12) returned to mandelbr
+mandelbr collected $15 from pot
+mandelbr: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Ner4zzurri (big blind) folded before Flop
+Seat 2: mandelbr collected ($15)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek (button) folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (small blind) folded before Flop
+
+
+PokerStars Game #102630578743:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:14:14 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 2: mandelbr ($277.24 in chips) 
+Seat 4: ilir3 ($743.61 in chips) 
+Seat 5: GregAndrek ($1011.20 in chips) 
+Seat 6: evgenij_d_m ($790.30 in chips) 
+Ner4zzurri: posts small blind $3
+mandelbr: posts big blind $6
+Hurloon: sits out 
+*** HOLE CARDS ***
+ilir3: raises $9 to $15
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+mandelbr: folds 
+Uncalled bet ($9) returned to ilir3
+ilir3 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Ner4zzurri (small blind) folded before Flop
+Seat 2: mandelbr (big blind) folded before Flop
+Seat 4: ilir3 collected ($15)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102630595417:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:14:40 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Ner4zzurri ($600 in chips) 
+Seat 2: mandelbr ($271.24 in chips) 
+Seat 3: Hurloon ($600 in chips) 
+Seat 4: ilir3 ($752.61 in chips) 
+Seat 5: GregAndrek ($1011.20 in chips) 
+Seat 6: evgenij_d_m ($790.30 in chips) 
+mandelbr: posts small blind $3
+Hurloon: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+GregAndrek: raises $12 to $18
+evgenij_d_m: calls $18
+Ner4zzurri: folds 
+mandelbr: folds 
+Hurloon: folds 
+*** FLOP *** [Ac 8h Ad]
+GregAndrek: bets $27
+evgenij_d_m: folds 
+Uncalled bet ($27) returned to GregAndrek
+GregAndrek collected $42.98 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $2.02 
+Board [Ac 8h Ad]
+Seat 1: Ner4zzurri (button) folded before Flop (didn't bet)
+Seat 2: mandelbr (small blind) folded before Flop
+Seat 3: Hurloon (big blind) folded before Flop
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek collected ($42.98)
+Seat 6: evgenij_d_m folded on the Flop
+
+
+PokerStars Game #102631893010:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:50:15 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: S_Enslaver ($609 in chips) 
+Seat 2: mandelbr ($252 in chips) 
+Seat 3: Hurloon ($1485.80 in chips) 
+Seat 4: ilir3 ($746.81 in chips) 
+Seat 5: GregAndrek ($1213.90 in chips) 
+Seat 6: evgenij_d_m ($159.40 in chips) 
+evgenij_d_m: posts small blind $3
+S_Enslaver: posts big blind $6
+*** HOLE CARDS ***
+mandelbr: folds 
+Hurloon: folds 
+ilir3: raises $6 to $12
+GregAndrek: folds 
+evgenij_d_m: raises $6 to $18
+S_Enslaver: calls $12
+ilir3: calls $6
+*** FLOP *** [7c 7h 5s]
+evgenij_d_m: bets $141.40 and is all-in
+S_Enslaver: calls $141.40
+ilir3: folds 
+*** TURN *** [7c 7h 5s] [Ks]
+*** RIVER *** [7c 7h 5s Ks] [8d]
+*** SHOW DOWN ***
+evgenij_d_m: shows [9h 9d] (two pair, Nines and Sevens)
+S_Enslaver: shows [Jh Jd] (two pair, Jacks and Sevens)
+S_Enslaver collected $334 from pot
+*** SUMMARY ***
+Total pot $336.80 | Rake $2.80 
+Board [7c 7h 5s Ks 8d]
+Seat 1: S_Enslaver (big blind) showed [Jh Jd] and won ($334) with two pair, Jacks and Sevens
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 folded on the Flop
+Seat 5: GregAndrek (button) folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (small blind) showed [9h 9d] and lost with two pair, Nines and Sevens
+
+
+PokerStars Game #102631924624:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:51:09 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: S_Enslaver ($783.60 in chips) 
+Seat 2: mandelbr ($252 in chips) 
+Seat 3: Hurloon ($1485.80 in chips) 
+Seat 4: ilir3 ($728.81 in chips) 
+Seat 5: GregAndrek ($1213.90 in chips) 
+mandelbr: posts small blind $3
+Hurloon: posts big blind $6
+*** HOLE CARDS ***
+ilir3: raises $9 to $15
+GregAndrek: calls $15
+S_Enslaver: calls $15
+mandelbr: folds 
+Hurloon: calls $9
+*** FLOP *** [4d 7h 2d]
+Hurloon: checks 
+ilir3: checks 
+GregAndrek: bets $42
+S_Enslaver: folds 
+Hurloon: folds 
+ilir3: folds 
+Uncalled bet ($42) returned to GregAndrek
+GregAndrek collected $60.20 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $63 | Rake $2.80 
+Board [4d 7h 2d]
+Seat 1: S_Enslaver (button) folded on the Flop
+Seat 2: mandelbr (small blind) folded before Flop
+Seat 3: Hurloon (big blind) folded on the Flop
+Seat 4: ilir3 folded on the Flop
+Seat 5: GregAndrek collected ($60.20)
+
+
+PokerStars Game #102631950015:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:51:53 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: S_Enslaver ($768.60 in chips) 
+Seat 2: mandelbr ($249 in chips) 
+Seat 3: Hurloon ($1470.80 in chips) 
+Seat 4: ilir3 ($713.81 in chips) 
+Seat 5: GregAndrek ($1259.10 in chips) 
+Hurloon: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: raises $12 to $18
+S_Enslaver: folds 
+mandelbr: raises $27 to $45
+Hurloon: folds 
+ilir3: folds 
+GregAndrek: raises $1214.10 to $1259.10 and is all-in
+mandelbr: folds 
+Uncalled bet ($1214.10) returned to GregAndrek
+GregAndrek collected $99 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $99 | Rake $0 
+Seat 1: S_Enslaver folded before Flop (didn't bet)
+Seat 2: mandelbr (button) folded before Flop
+Seat 3: Hurloon (small blind) folded before Flop
+Seat 4: ilir3 (big blind) folded before Flop
+Seat 5: GregAndrek collected ($99)
+
+
+PokerStars Game #102631974100:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:52:34 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: S_Enslaver ($768.60 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($1467.80 in chips) 
+Seat 4: ilir3 ($707.81 in chips) 
+Seat 5: GregAndrek ($1313.10 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+S_Enslaver: folds 
+mandelbr: folds 
+Hurloon: folds 
+ilir3: folds 
+Uncalled bet ($3) returned to GregAndrek
+GregAndrek collected $6 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: S_Enslaver folded before Flop (didn't bet)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon (button) folded before Flop (didn't bet)
+Seat 4: ilir3 (small blind) folded before Flop
+Seat 5: GregAndrek (big blind) collected ($6)
+
+
+PokerStars Game #102631979581:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:52:44 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: S_Enslaver ($768.60 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($1467.80 in chips) 
+Seat 4: ilir3 ($704.81 in chips) 
+Seat 5: GregAndrek ($1316.10 in chips) 
+GregAndrek: posts small blind $3
+S_Enslaver: posts big blind $6
+*** HOLE CARDS ***
+mandelbr: folds 
+Hurloon: folds 
+ilir3: raises $6 to $12
+GregAndrek: folds 
+S_Enslaver: calls $6
+*** FLOP *** [Ts 5h 4s]
+S_Enslaver: checks 
+ilir3: bets $18
+S_Enslaver: raises $48 to $66
+ilir3: folds 
+Uncalled bet ($48) returned to S_Enslaver
+S_Enslaver collected $60.20 from pot
+*** SUMMARY ***
+Total pot $63 | Rake $2.80 
+Board [Ts 5h 4s]
+Seat 1: S_Enslaver (big blind) collected ($60.20)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 (button) folded on the Flop
+Seat 5: GregAndrek (small blind) folded before Flop
+
+
+PokerStars Game #102632011769:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:53:40 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: S_Enslaver ($798.80 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($1467.80 in chips) 
+Seat 4: ilir3 ($674.81 in chips) 
+Seat 5: GregAndrek ($1313.10 in chips) 
+S_Enslaver: posts small blind $3
+mandelbr: posts big blind $6
+*** HOLE CARDS ***
+Hurloon: raises $12 to $18
+ilir3: folds 
+GregAndrek: folds 
+S_Enslaver: folds 
+mandelbr: folds 
+Uncalled bet ($12) returned to Hurloon
+Hurloon collected $15 from pot
+Hurloon: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: S_Enslaver (small blind) folded before Flop
+Seat 2: mandelbr (big blind) folded before Flop
+Seat 3: Hurloon collected ($15)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102632020366:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:53:54 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: S_Enslaver ($795.80 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($1476.80 in chips) 
+Seat 4: ilir3 ($674.81 in chips) 
+Seat 5: GregAndrek ($1313.10 in chips) 
+mandelbr: posts small blind $3
+Hurloon: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+GregAndrek: folds 
+S_Enslaver: folds 
+mandelbr: raises $9 to $15
+Hurloon: calls $9
+*** FLOP *** [Th 7d Tc]
+mandelbr: bets $18
+Hurloon: folds 
+Uncalled bet ($18) returned to mandelbr
+mandelbr collected $28.65 from pot
+mandelbr: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [Th 7d Tc]
+Seat 1: S_Enslaver (button) folded before Flop (didn't bet)
+Seat 2: mandelbr (small blind) collected ($28.65)
+Seat 3: Hurloon (big blind) folded on the Flop
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+
+
+PokerStars Game #102632047933:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:54:43 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: S_Enslaver ($795.80 in chips) 
+Seat 2: mandelbr ($253.65 in chips) 
+Seat 3: Hurloon ($1461.80 in chips) 
+Seat 4: ilir3 ($674.81 in chips) 
+Seat 5: GregAndrek ($1313.10 in chips) 
+Hurloon: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek has timed out
+GregAndrek: folds 
+S_Enslaver: folds 
+mandelbr: folds 
+Hurloon: raises $9 to $15
+ilir3: raises $35 to $50
+Hurloon: calls $35
+*** FLOP *** [Kd 8d 6c]
+Hurloon: checks 
+ilir3: bets $60
+Hurloon: calls $60
+*** TURN *** [Kd 8d 6c] [Kh]
+Hurloon: checks 
+ilir3: checks 
+*** RIVER *** [Kd 8d 6c Kh] [Js]
+Hurloon: checks 
+ilir3: checks 
+*** SHOW DOWN ***
+Hurloon: shows [9c 9s] (two pair, Kings and Nines)
+ilir3: mucks hand 
+Hurloon collected $217.20 from pot
+*** SUMMARY ***
+Total pot $220 | Rake $2.80 
+Board [Kd 8d 6c Kh Js]
+Seat 1: S_Enslaver folded before Flop (didn't bet)
+Seat 2: mandelbr (button) folded before Flop (didn't bet)
+Seat 3: Hurloon (small blind) showed [9c 9s] and won ($217.20) with two pair, Kings and Nines
+Seat 4: ilir3 (big blind) mucked
+Seat 5: GregAndrek folded before Flop (didn't bet)
+
+
+PokerStars Game #102631744171:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:46:02 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: S_Enslaver ($630 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($1497.80 in chips) 
+Seat 4: ilir3 ($764.81 in chips) 
+Seat 5: GregAndrek ($1212.12 in chips) 
+Seat 6: evgenij_d_m ($126.10 in chips) 
+evgenij_d_m: posts small blind $3
+S_Enslaver: posts big blind $6
+*** HOLE CARDS ***
+mandelbr: folds 
+Hurloon: folds 
+ilir3: raises $6 to $12
+GregAndrek: calls $12
+evgenij_d_m: raises $6 to $18
+S_Enslaver: folds 
+ilir3: calls $6
+GregAndrek: calls $6
+*** FLOP *** [3d 9c Qc]
+evgenij_d_m: bets $108.10 and is all-in
+ilir3: folds 
+GregAndrek: folds 
+Uncalled bet ($108.10) returned to evgenij_d_m
+evgenij_d_m collected $57.30 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $2.70 
+Board [3d 9c Qc]
+Seat 1: S_Enslaver (big blind) folded before Flop
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 folded on the Flop
+Seat 5: GregAndrek (button) folded on the Flop
+Seat 6: evgenij_d_m (small blind) collected ($57.30)
+
+
+PokerStars Game #102631787199:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:47:15 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: S_Enslaver ($624 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($1497.80 in chips) 
+Seat 4: ilir3 ($746.81 in chips) 
+Seat 5: GregAndrek ($1194.12 in chips) 
+Seat 6: evgenij_d_m ($165.40 in chips) 
+S_Enslaver: posts small blind $3
+mandelbr: posts big blind $6
+*** HOLE CARDS ***
+Hurloon: folds 
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+S_Enslaver: raises $9 to $15
+mandelbr: raises $24 to $39
+S_Enslaver: folds 
+Uncalled bet ($24) returned to mandelbr
+mandelbr collected $30 from pot
+mandelbr: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: S_Enslaver (small blind) folded before Flop
+Seat 2: mandelbr (big blind) collected ($30)
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102631802109:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:47:40 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: S_Enslaver ($609 in chips) 
+Seat 2: mandelbr ($255 in chips) 
+Seat 3: Hurloon ($1497.80 in chips) 
+Seat 4: ilir3 ($746.81 in chips) 
+Seat 5: GregAndrek ($1194.12 in chips) 
+Seat 6: evgenij_d_m ($165.40 in chips) 
+mandelbr: posts small blind $3
+Hurloon: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+S_Enslaver: folds 
+mandelbr: folds 
+Uncalled bet ($3) returned to Hurloon
+Hurloon collected $6 from pot
+Hurloon: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: S_Enslaver (button) folded before Flop (didn't bet)
+Seat 2: mandelbr (small blind) folded before Flop
+Seat 3: Hurloon (big blind) collected ($6)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102631821132:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:48:12 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: S_Enslaver ($609 in chips) 
+Seat 2: mandelbr ($252 in chips) 
+Seat 3: Hurloon ($1500.80 in chips) 
+Seat 4: ilir3 ($746.81 in chips) 
+Seat 5: GregAndrek ($1194.12 in chips) 
+Seat 6: evgenij_d_m ($165.40 in chips) 
+Hurloon: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: folds 
+evgenij_d_m: folds 
+S_Enslaver: folds 
+mandelbr has timed out
+mandelbr: folds 
+Hurloon: folds 
+Uncalled bet ($3) returned to ilir3
+ilir3 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: S_Enslaver folded before Flop (didn't bet)
+Seat 2: mandelbr (button) folded before Flop (didn't bet)
+Seat 3: Hurloon (small blind) folded before Flop
+Seat 4: ilir3 (big blind) collected ($6)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102631845373:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:48:53 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: S_Enslaver ($609 in chips) 
+Seat 3: Hurloon ($1497.80 in chips) 
+Seat 4: ilir3 ($749.81 in chips) 
+Seat 5: GregAndrek ($1194.12 in chips) 
+Seat 6: evgenij_d_m ($165.40 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+evgenij_d_m: folds 
+S_Enslaver: folds 
+Hurloon: raises $6 to $12
+ilir3: folds 
+GregAndrek: calls $6
+*** FLOP *** [8c Qc Ah]
+GregAndrek: checks 
+Hurloon: checks 
+*** TURN *** [8c Qc Ah] [5d]
+GregAndrek: bets $21
+Hurloon: folds 
+Uncalled bet ($21) returned to GregAndrek
+GregAndrek collected $25.78 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [8c Qc Ah 5d]
+Seat 1: S_Enslaver folded before Flop (didn't bet)
+Seat 3: Hurloon (button) folded on the Turn
+Seat 4: ilir3 (small blind) folded before Flop
+Seat 5: GregAndrek (big blind) collected ($25.78)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102631883528:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:49:59 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: S_Enslaver ($609 in chips) 
+Seat 2: mandelbr ($252 in chips) 
+Seat 3: Hurloon ($1485.80 in chips) 
+Seat 4: ilir3 ($746.81 in chips) 
+Seat 5: GregAndrek ($1207.90 in chips) 
+Seat 6: evgenij_d_m ($165.40 in chips) 
+GregAndrek: posts small blind $3
+evgenij_d_m: posts big blind $6
+*** HOLE CARDS ***
+S_Enslaver: folds 
+mandelbr: folds 
+Hurloon: folds 
+ilir3: folds 
+GregAndrek: raises $12 to $18
+evgenij_d_m: folds 
+Uncalled bet ($12) returned to GregAndrek
+GregAndrek collected $12 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: S_Enslaver folded before Flop (didn't bet)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 (button) folded before Flop (didn't bet)
+Seat 5: GregAndrek (small blind) collected ($12)
+Seat 6: evgenij_d_m (big blind) folded before Flop
+
+
+PokerStars Game #102631541824:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:40:21 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #6 is the button
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($1464.60 in chips) 
+Seat 4: ilir3 ($791.81 in chips) 
+Seat 5: GregAndrek ($1215.12 in chips) 
+Seat 6: evgenij_d_m ($109.32 in chips) 
+S_Enslaver will be allowed to play after the button
+mandelbr: posts small blind $3
+Hurloon: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: raises $6 to $12
+mandelbr: folds 
+Hurloon: folds 
+Uncalled bet ($6) returned to evgenij_d_m
+evgenij_d_m collected $15 from pot
+evgenij_d_m: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: mandelbr (small blind) folded before Flop
+Seat 3: Hurloon (big blind) folded before Flop
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (button) collected ($15)
+
+
+PokerStars Game #102631550970:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:40:36 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #2 is the button
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($1458.60 in chips) 
+Seat 4: ilir3 ($791.81 in chips) 
+Seat 5: GregAndrek ($1215.12 in chips) 
+Seat 6: evgenij_d_m ($118.32 in chips) 
+Hurloon: posts small blind $3
+ilir3: posts big blind $6
+S_Enslaver: sits out 
+*** HOLE CARDS ***
+GregAndrek: folds 
+evgenij_d_m: raises $6 to $12
+mandelbr: folds 
+Hurloon: folds 
+ilir3: calls $6
+*** FLOP *** [Kh 7h 3c]
+ilir3: checks 
+evgenij_d_m: bets $30
+ilir3: folds 
+Uncalled bet ($30) returned to evgenij_d_m
+evgenij_d_m collected $25.78 from pot
+evgenij_d_m: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Kh 7h 3c]
+Seat 2: mandelbr (button) folded before Flop (didn't bet)
+Seat 3: Hurloon (small blind) folded before Flop
+Seat 4: ilir3 (big blind) folded on the Flop
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m collected ($25.78)
+
+
+PokerStars Game #102631576779:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:41:20 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #3 is the button
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($1455.60 in chips) 
+Seat 4: ilir3 ($779.81 in chips) 
+Seat 5: GregAndrek ($1215.12 in chips) 
+Seat 6: evgenij_d_m ($132.10 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+S_Enslaver: sits out 
+*** HOLE CARDS ***
+evgenij_d_m: folds 
+mandelbr: raises $9 to $15
+Hurloon: folds 
+ilir3: folds 
+GregAndrek: folds 
+Uncalled bet ($9) returned to mandelbr
+mandelbr collected $15 from pot
+mandelbr: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: mandelbr collected ($15)
+Seat 3: Hurloon (button) folded before Flop (didn't bet)
+Seat 4: ilir3 (small blind) folded before Flop
+Seat 5: GregAndrek (big blind) folded before Flop
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102631587979:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:41:39 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 2: mandelbr ($249 in chips) 
+Seat 3: Hurloon ($1455.60 in chips) 
+Seat 4: ilir3 ($776.81 in chips) 
+Seat 5: GregAndrek ($1209.12 in chips) 
+Seat 6: evgenij_d_m ($132.10 in chips) 
+GregAndrek: posts small blind $3
+evgenij_d_m: posts big blind $6
+S_Enslaver: sits out 
+*** HOLE CARDS ***
+mandelbr: folds 
+Hurloon: folds 
+ilir3: folds 
+GregAndrek: folds 
+Uncalled bet ($3) returned to evgenij_d_m
+evgenij_d_m collected $6 from pot
+evgenij_d_m: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 (button) folded before Flop (didn't bet)
+Seat 5: GregAndrek (small blind) folded before Flop
+Seat 6: evgenij_d_m (big blind) collected ($6)
+
+
+PokerStars Game #102631602915:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:42:04 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: S_Enslaver ($600 in chips) 
+Seat 2: mandelbr ($249 in chips) 
+Seat 3: Hurloon ($1455.60 in chips) 
+Seat 4: ilir3 ($776.81 in chips) 
+Seat 5: GregAndrek ($1206.12 in chips) 
+Seat 6: evgenij_d_m ($135.10 in chips) 
+evgenij_d_m: posts small blind $3
+S_Enslaver: posts big blind $6
+*** HOLE CARDS ***
+mandelbr: folds 
+Hurloon: folds 
+ilir3: raises $6 to $12
+GregAndrek: raises $21 to $33
+evgenij_d_m: folds 
+S_Enslaver: folds 
+ilir3: folds 
+Uncalled bet ($21) returned to GregAndrek
+GregAndrek collected $33 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $0 
+Seat 1: S_Enslaver (big blind) folded before Flop
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop
+Seat 5: GregAndrek (button) collected ($33)
+Seat 6: evgenij_d_m (small blind) folded before Flop
+
+
+PokerStars Game #102631619389:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:42:32 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: S_Enslaver ($600 in chips) 
+Seat 2: mandelbr ($249 in chips) 
+Seat 3: Hurloon ($1455.60 in chips) 
+Seat 4: ilir3 ($764.81 in chips) 
+Seat 5: GregAndrek ($1227.12 in chips) 
+Seat 6: evgenij_d_m ($132.10 in chips) 
+S_Enslaver: posts small blind $3
+mandelbr: posts big blind $6
+*** HOLE CARDS ***
+Hurloon: folds 
+ilir3: folds 
+GregAndrek: raises $9 to $15
+evgenij_d_m: folds 
+S_Enslaver: raises $39 to $54
+mandelbr: folds 
+GregAndrek: folds 
+Uncalled bet ($39) returned to S_Enslaver
+S_Enslaver collected $36 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0 
+Seat 1: S_Enslaver (small blind) collected ($36)
+Seat 2: mandelbr (big blind) folded before Flop
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded before Flop
+Seat 6: evgenij_d_m (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102631653941:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:43:30 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: S_Enslaver ($621 in chips) 
+Seat 2: mandelbr ($243 in chips) 
+Seat 3: Hurloon ($1455.60 in chips) 
+Seat 4: ilir3 ($764.81 in chips) 
+Seat 5: GregAndrek ($1212.12 in chips) 
+Seat 6: evgenij_d_m ($132.10 in chips) 
+mandelbr: posts small blind $3
+Hurloon: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+S_Enslaver: raises $6 to $12
+mandelbr: folds 
+Hurloon: folds 
+Uncalled bet ($6) returned to S_Enslaver
+S_Enslaver collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: S_Enslaver (button) collected ($15)
+Seat 2: mandelbr (small blind) folded before Flop
+Seat 3: Hurloon (big blind) folded before Flop
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102631676067:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:44:08 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: S_Enslaver ($630 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($1449.60 in chips) 
+Seat 4: ilir3 ($764.81 in chips) 
+Seat 5: GregAndrek ($1212.12 in chips) 
+Seat 6: evgenij_d_m ($132.10 in chips) 
+Hurloon: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: folds 
+evgenij_d_m: folds 
+S_Enslaver: folds 
+mandelbr: folds 
+Hurloon: folds 
+Uncalled bet ($3) returned to ilir3
+ilir3 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: S_Enslaver folded before Flop (didn't bet)
+Seat 2: mandelbr (button) folded before Flop (didn't bet)
+Seat 3: Hurloon (small blind) folded before Flop
+Seat 4: ilir3 (big blind) collected ($6)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102631692411:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:44:35 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: S_Enslaver ($630 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($1446.60 in chips) 
+Seat 4: ilir3 ($767.81 in chips) 
+Seat 5: GregAndrek ($1212.12 in chips) 
+Seat 6: evgenij_d_m ($132.10 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+evgenij_d_m: folds 
+S_Enslaver: folds 
+mandelbr: folds 
+Hurloon: folds 
+ilir3: folds 
+Uncalled bet ($3) returned to GregAndrek
+GregAndrek collected $6 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: S_Enslaver folded before Flop (didn't bet)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon (button) folded before Flop (didn't bet)
+Seat 4: ilir3 (small blind) folded before Flop
+Seat 5: GregAndrek (big blind) collected ($6)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102631701997:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:44:51 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: S_Enslaver ($630 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($1446.60 in chips) 
+Seat 4: ilir3 ($764.81 in chips) 
+Seat 5: GregAndrek ($1215.12 in chips) 
+Seat 6: evgenij_d_m ($132.10 in chips) 
+GregAndrek: posts small blind $3
+evgenij_d_m: posts big blind $6
+*** HOLE CARDS ***
+S_Enslaver: folds 
+mandelbr: raises $12 to $18
+Hurloon: calls $18
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+*** FLOP *** [Jd 7c 3h]
+mandelbr: bets $27
+Hurloon: calls $27
+*** TURN *** [Jd 7c 3h] [Jh]
+mandelbr: checks 
+Hurloon: bets $54
+mandelbr: folds 
+Uncalled bet ($54) returned to Hurloon
+Hurloon collected $96.20 from pot
+Hurloon: doesn't show hand 
+*** SUMMARY ***
+Total pot $99 | Rake $2.80 
+Board [Jd 7c 3h Jh]
+Seat 1: S_Enslaver folded before Flop (didn't bet)
+Seat 2: mandelbr folded on the Turn
+Seat 3: Hurloon collected ($96.20)
+Seat 4: ilir3 (button) folded before Flop (didn't bet)
+Seat 5: GregAndrek (small blind) folded before Flop
+Seat 6: evgenij_d_m (big blind) folded before Flop
+
+
+PokerStars Game #102631396732:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:36:18 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Ner4zzurri ($611.46 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($1434.60 in chips) 
+Seat 4: ilir3 ($800.81 in chips) 
+Seat 5: GregAndrek ($1207.47 in chips) 
+Seat 6: evgenij_d_m ($112.32 in chips) 
+evgenij_d_m: posts small blind $3
+Ner4zzurri: posts big blind $6
+*** HOLE CARDS ***
+mandelbr: folds 
+Hurloon: folds 
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: raises $6 to $12
+Ner4zzurri: folds 
+Uncalled bet ($6) returned to evgenij_d_m
+evgenij_d_m collected $12 from pot
+evgenij_d_m: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Ner4zzurri (big blind) folded before Flop
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek (button) folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (small blind) collected ($12)
+
+
+PokerStars Game #102631410468:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:36:41 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Ner4zzurri ($605.46 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($1434.60 in chips) 
+Seat 4: ilir3 ($800.81 in chips) 
+Seat 5: GregAndrek ($1207.47 in chips) 
+Seat 6: evgenij_d_m ($118.32 in chips) 
+Ner4zzurri: posts small blind $3
+mandelbr: posts big blind $6
+*** HOLE CARDS ***
+Hurloon: raises $12 to $18
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+mandelbr: folds 
+Uncalled bet ($12) returned to Hurloon
+Hurloon collected $15 from pot
+Hurloon: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Ner4zzurri (small blind) folded before Flop
+Seat 2: mandelbr (big blind) folded before Flop
+Seat 3: Hurloon collected ($15)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102631430209:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:37:14 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Ner4zzurri ($602.46 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($1443.60 in chips) 
+Seat 4: ilir3 ($800.81 in chips) 
+Seat 5: GregAndrek ($1207.47 in chips) 
+Seat 6: evgenij_d_m ($118.32 in chips) 
+mandelbr: posts small blind $3
+Hurloon: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+mandelbr: raises $9 to $15
+Hurloon: raises $24 to $39
+mandelbr: folds 
+Uncalled bet ($24) returned to Hurloon
+Hurloon collected $30 from pot
+Hurloon: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: Ner4zzurri (button) folded before Flop (didn't bet)
+Seat 2: mandelbr (small blind) folded before Flop
+Seat 3: Hurloon (big blind) collected ($30)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102631460719:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:38:05 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Ner4zzurri ($602.46 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($1458.60 in chips) 
+Seat 4: ilir3 ($800.81 in chips) 
+Seat 5: GregAndrek ($1207.47 in chips) 
+Seat 6: evgenij_d_m ($118.32 in chips) 
+Hurloon: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: folds 
+evgenij_d_m: raises $6 to $12
+Ner4zzurri: folds 
+mandelbr: folds 
+Hurloon: folds 
+ilir3: folds 
+Uncalled bet ($6) returned to evgenij_d_m
+evgenij_d_m collected $15 from pot
+evgenij_d_m: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 2: mandelbr (button) folded before Flop (didn't bet)
+Seat 3: Hurloon (small blind) folded before Flop
+Seat 4: ilir3 (big blind) folded before Flop
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m collected ($15)
+
+
+PokerStars Game #102631471376:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:38:22 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Ner4zzurri ($602.46 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($1455.60 in chips) 
+Seat 4: ilir3 ($794.81 in chips) 
+Seat 5: GregAndrek ($1207.47 in chips) 
+Seat 6: evgenij_d_m ($127.32 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+evgenij_d_m: folds 
+Ner4zzurri: raises $12 to $18
+mandelbr: folds 
+Hurloon: folds 
+ilir3: folds 
+GregAndrek: folds 
+Uncalled bet ($12) returned to Ner4zzurri
+Ner4zzurri collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Ner4zzurri collected ($15)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon (button) folded before Flop (didn't bet)
+Seat 4: ilir3 (small blind) folded before Flop
+Seat 5: GregAndrek (big blind) folded before Flop
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102631493115:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:38:59 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Ner4zzurri ($611.46 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($1455.60 in chips) 
+Seat 4: ilir3 ($791.81 in chips) 
+Seat 5: GregAndrek ($1201.47 in chips) 
+Seat 6: evgenij_d_m ($127.32 in chips) 
+GregAndrek: posts small blind $3
+evgenij_d_m: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri: folds 
+mandelbr: folds 
+Hurloon: raises $9 to $15
+ilir3: folds 
+GregAndrek: folds 
+evgenij_d_m: folds 
+Uncalled bet ($9) returned to Hurloon
+Hurloon collected $15 from pot
+Hurloon: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon collected ($15)
+Seat 4: ilir3 (button) folded before Flop (didn't bet)
+Seat 5: GregAndrek (small blind) folded before Flop
+Seat 6: evgenij_d_m (big blind) folded before Flop
+
+
+PokerStars Game #102631516118:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:39:38 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($1464.60 in chips) 
+Seat 4: ilir3 ($791.81 in chips) 
+Seat 5: GregAndrek ($1198.47 in chips) 
+Seat 6: evgenij_d_m ($121.32 in chips) 
+evgenij_d_m: posts small blind $3
+Ner4zzurri: is sitting out 
+mandelbr: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri leaves the table
+Hurloon: folds 
+ilir3: folds 
+GregAndrek: raises $6 to $12
+evgenij_d_m: calls $9
+mandelbr: folds 
+*** FLOP *** [9d 5d 3h]
+evgenij_d_m: checks 
+GregAndrek: bets $18
+S_Enslaver joins the table at seat #1 
+evgenij_d_m: folds 
+Uncalled bet ($18) returned to GregAndrek
+GregAndrek collected $28.65 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [9d 5d 3h]
+Seat 2: mandelbr (big blind) folded before Flop
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek (button) collected ($28.65)
+Seat 6: evgenij_d_m (small blind) folded on the Flop
+
+
+PokerStars Game #102631171208:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:30:06 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Ner4zzurri ($611.46 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($711.20 in chips) 
+Seat 4: ilir3 ($698.61 in chips) 
+Seat 5: GregAndrek ($1348.27 in chips) 
+Seat 6: evgenij_d_m ($802.52 in chips) 
+mandelbr: posts small blind $3
+Hurloon: posts big blind $6
+*** HOLE CARDS ***
+ilir3: raises $9 to $15
+GregAndrek: folds 
+evgenij_d_m: calls $15
+Ner4zzurri: folds 
+mandelbr: folds 
+Hurloon: raises $51 to $66
+ilir3: folds 
+evgenij_d_m: raises $51 to $117
+Hurloon: calls $51
+*** FLOP *** [3c Ad 8h]
+Hurloon: checks 
+evgenij_d_m: bets $108
+Hurloon: calls $108
+*** TURN *** [3c Ad 8h] [Qd]
+Hurloon: checks 
+evgenij_d_m: checks 
+*** RIVER *** [3c Ad 8h Qd] [8d]
+Hurloon: bets $234
+evgenij_d_m: raises $343.52 to $577.52 and is all-in
+Hurloon: calls $252.20 and is all-in
+Uncalled bet ($91.32) returned to evgenij_d_m
+*** SHOW DOWN ***
+evgenij_d_m: shows [Kh Ks] (two pair, Kings and Eights)
+Hurloon: shows [Ac Jc] (two pair, Aces and Eights)
+Hurloon collected $1437.60 from pot
+*** SUMMARY ***
+Total pot $1440.40 | Rake $2.80 
+Board [3c Ad 8h Qd 8d]
+Seat 1: Ner4zzurri (button) folded before Flop (didn't bet)
+Seat 2: mandelbr (small blind) folded before Flop
+Seat 3: Hurloon (big blind) showed [Ac Jc] and won ($1437.60) with two pair, Aces and Eights
+Seat 4: ilir3 folded before Flop
+Seat 5: GregAndrek folded before Flop (didn't bet)
+Seat 6: evgenij_d_m showed [Kh Ks] and lost with two pair, Kings and Eights
+
+
+PokerStars Game #102631253000:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:32:20 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Ner4zzurri ($611.46 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($1437.60 in chips) 
+Seat 4: ilir3 ($683.61 in chips) 
+Seat 5: GregAndrek ($1348.27 in chips) 
+Seat 6: evgenij_d_m ($91.32 in chips) 
+Hurloon: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: raises $12 to $18
+evgenij_d_m: raises $12 to $30
+Ner4zzurri: folds 
+mandelbr: folds 
+Hurloon: folds 
+ilir3: folds 
+GregAndrek: folds 
+Uncalled bet ($12) returned to evgenij_d_m
+evgenij_d_m collected $45 from pot
+evgenij_d_m: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $0 
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 2: mandelbr (button) folded before Flop (didn't bet)
+Seat 3: Hurloon (small blind) folded before Flop
+Seat 4: ilir3 (big blind) folded before Flop
+Seat 5: GregAndrek folded before Flop
+Seat 6: evgenij_d_m collected ($45)
+
+
+PokerStars Game #102631290941:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:33:23 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Ner4zzurri ($611.46 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($1434.60 in chips) 
+Seat 4: ilir3 ($677.61 in chips) 
+Seat 5: GregAndrek ($1330.27 in chips) 
+Seat 6: evgenij_d_m ($118.32 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+evgenij_d_m: folds 
+Ner4zzurri: folds 
+mandelbr: folds 
+Hurloon: folds 
+ilir3: calls $3
+GregAndrek: checks 
+*** FLOP *** [9c 7d 3d]
+ilir3: bets $6
+GregAndrek: calls $6
+*** TURN *** [9c 7d 3d] [Jh]
+ilir3: bets $16
+GregAndrek: calls $16
+*** RIVER *** [9c 7d 3d Jh] [Js]
+ilir3: bets $36
+GregAndrek: calls $36
+*** SHOW DOWN ***
+ilir3: shows [8h 2h] (a pair of Jacks)
+GregAndrek: shows [9d Qs] (two pair, Jacks and Nines)
+GregAndrek collected $125.20 from pot
+*** SUMMARY ***
+Total pot $128 | Rake $2.80 
+Board [9c 7d 3d Jh Js]
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon (button) folded before Flop (didn't bet)
+Seat 4: ilir3 (small blind) showed [8h 2h] and lost with a pair of Jacks
+Seat 5: GregAndrek (big blind) showed [9d Qs] and won ($125.20) with two pair, Jacks and Nines
+Seat 6: evgenij_d_m folded before Flop (didn't bet)
+
+
+PokerStars Game #102631332661:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:34:31 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Ner4zzurri ($611.46 in chips) 
+Seat 2: mandelbr ($240 in chips) 
+Seat 3: Hurloon ($1434.60 in chips) 
+Seat 4: ilir3 ($613.61 in chips) 
+Seat 5: GregAndrek ($1391.47 in chips) 
+Seat 6: evgenij_d_m ($118.32 in chips) 
+GregAndrek: posts small blind $3
+evgenij_d_m: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri: folds 
+mandelbr: folds 
+Hurloon: folds 
+ilir3: raises $6 to $12
+GregAndrek: calls $9
+evgenij_d_m: folds 
+*** FLOP *** [6c 7c Qd]
+GregAndrek: checks 
+ilir3: bets $18
+GregAndrek: calls $18
+*** TURN *** [6c 7c Qd] [Ks]
+GregAndrek: checks 
+ilir3: bets $42
+GregAndrek: calls $42
+*** RIVER *** [6c 7c Qd Ks] [2s]
+GregAndrek: checks 
+ilir3: bets $112
+GregAndrek: calls $112
+*** SHOW DOWN ***
+ilir3: shows [Ah Ac] (a pair of Aces)
+GregAndrek: mucks hand 
+ilir3 collected $371.20 from pot
+*** SUMMARY ***
+Total pot $374 | Rake $2.80 
+Board [6c 7c Qd Ks 2s]
+Seat 1: Ner4zzurri folded before Flop (didn't bet)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 (button) showed [Ah Ac] and won ($371.20) with a pair of Aces
+Seat 5: GregAndrek (small blind) mucked
+Seat 6: evgenij_d_m (big blind) folded before Flop
+
+
+PokerStars Game #102632093908:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:56:20 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: S_Enslaver ($795.80 in chips) 
+Seat 2: mandelbr ($253.65 in chips) 
+Seat 3: Hurloon ($1569 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($1313.10 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+S_Enslaver: folds 
+mandelbr: folds 
+Hurloon: folds 
+ilir3: calls $3
+GregAndrek: checks 
+*** FLOP *** [8c Qh 3c]
+ilir3: bets $6
+GregAndrek: raises $12 to $18
+ilir3: calls $12
+*** TURN *** [8c Qh 3c] [2s]
+ilir3: checks 
+GregAndrek: bets $33
+ilir3: folds 
+Uncalled bet ($33) returned to GregAndrek
+GregAndrek collected $45.84 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $48 | Rake $2.16 
+Board [8c Qh 3c 2s]
+Seat 1: S_Enslaver folded before Flop (didn't bet)
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon (button) folded before Flop (didn't bet)
+Seat 4: ilir3 (small blind) folded on the Turn
+Seat 5: GregAndrek (big blind) collected ($45.84)
+
+
+PokerStars Game #102632125478:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:57:31 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: S_Enslaver ($795.80 in chips) 
+Seat 2: mandelbr ($253.65 in chips) 
+Seat 3: Hurloon ($1569 in chips) 
+Seat 4: ilir3 ($600 in chips) 
+Seat 5: GregAndrek ($1334.94 in chips) 
+GregAndrek: posts small blind $3
+S_Enslaver: posts big blind $6
+*** HOLE CARDS ***
+mandelbr: folds 
+Hurloon: folds 
+ilir3: raises $6 to $12
+GregAndrek: calls $9
+S_Enslaver: folds 
+*** FLOP *** [Js Jd Ad]
+GregAndrek: checks 
+ilir3: bets $18
+GregAndrek: calls $18
+*** TURN *** [Js Jd Ad] [2d]
+GregAndrek: checks 
+ilir3: checks 
+*** RIVER *** [Js Jd Ad 2d] [4d]
+GregAndrek: checks 
+ilir3: checks 
+*** SHOW DOWN ***
+GregAndrek: shows [Ac 5c] (two pair, Aces and Jacks)
+ilir3: shows [Jc 9h] (three of a kind, Jacks)
+ilir3 collected $63.20 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $2.80 
+Board [Js Jd Ad 2d 4d]
+Seat 1: S_Enslaver (big blind) folded before Flop
+Seat 2: mandelbr folded before Flop (didn't bet)
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 (button) showed [Jc 9h] and won ($63.20) with three of a kind, Jacks
+Seat 5: GregAndrek (small blind) showed [Ac 5c] and lost with two pair, Aces and Jacks
+
+
+PokerStars Game #102632144491:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:58:14 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: S_Enslaver ($789.80 in chips) 
+Seat 3: Hurloon ($1569 in chips) 
+Seat 4: ilir3 ($633.20 in chips) 
+Seat 5: GregAndrek ($1304.94 in chips) 
+S_Enslaver: posts small blind $3
+mandelbr: is sitting out 
+Hurloon: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+GregAndrek: raises $6 to $12
+S_Enslaver: folds 
+Hurloon: folds 
+Uncalled bet ($6) returned to GregAndrek
+GregAndrek collected $15 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: S_Enslaver (small blind) folded before Flop
+Seat 3: Hurloon (big blind) folded before Flop
+Seat 4: ilir3 folded before Flop (didn't bet)
+Seat 5: GregAndrek (button) collected ($15)
+
+
+PokerStars Game #102632160245:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:58:50 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: S_Enslaver ($786.80 in chips) 
+Seat 3: Hurloon ($1563 in chips) 
+Seat 4: ilir3 ($633.20 in chips) 
+Seat 5: GregAndrek ($1313.94 in chips) 
+Hurloon: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: folds 
+S_Enslaver: raises $6 to $12
+Hurloon: folds 
+ilir3: folds 
+Uncalled bet ($6) returned to S_Enslaver
+S_Enslaver collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: S_Enslaver (button) collected ($15)
+Seat 3: Hurloon (small blind) folded before Flop
+Seat 4: ilir3 (big blind) folded before Flop
+Seat 5: GregAndrek folded before Flop (didn't bet)
+
+
+PokerStars Game #102632169314:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:59:10 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: S_Enslaver ($795.80 in chips) 
+Seat 3: Hurloon ($1560 in chips) 
+Seat 4: ilir3 ($627.20 in chips) 
+Seat 5: GregAndrek ($1313.94 in chips) 
+ilir3: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+S_Enslaver: raises $12 to $18
+Hurloon: folds 
+ilir3: folds 
+GregAndrek: folds 
+Uncalled bet ($12) returned to S_Enslaver
+S_Enslaver collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: S_Enslaver collected ($15)
+Seat 3: Hurloon (button) folded before Flop (didn't bet)
+Seat 4: ilir3 (small blind) folded before Flop
+Seat 5: GregAndrek (big blind) folded before Flop
+
+
+PokerStars Game #102632183962:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:59:43 ET
+Table 'Demeter IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: S_Enslaver ($804.80 in chips) 
+Seat 3: Hurloon ($1560 in chips) 
+Seat 4: ilir3 ($624.20 in chips) 
+Seat 5: GregAndrek ($1307.94 in chips) 
+GregAndrek: posts small blind $3
+S_Enslaver: posts big blind $6
+*** HOLE CARDS ***
+Hurloon: folds 
+ilir3: raises $6 to $12
+GregAndrek: folds 
+S_Enslaver: raises $30 to $42
+ilir3: folds 
+Uncalled bet ($30) returned to S_Enslaver
+S_Enslaver collected $27 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 1: S_Enslaver (big blind) collected ($27)
+Seat 3: Hurloon folded before Flop (didn't bet)
+Seat 4: ilir3 (button) folded before Flop
+Seat 5: GregAndrek (small blind) folded before Flop

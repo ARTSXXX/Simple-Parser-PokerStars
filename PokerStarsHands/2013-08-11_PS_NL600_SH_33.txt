@@ -1,0 +1,3735 @@
+
+
+PokerStars Game #102614368971:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:29:51 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: elenu1988 ($600 in chips) 
+Seat 6: ilir3 ($600 in chips) 
+elenu1988: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+JMBigJoe joins the table at seat #1 
+Flying Smile: raises $6 to $12
+TTSIP joins the table at seat #2 
+BKA12 joins the table at seat #3 
+elenu1988: calls $9
+ilir3: calls $6
+*** FLOP *** [7d 4s 9d]
+elenu1988: checks 
+ilir3: checks 
+Flying Smile: checks 
+*** TURN *** [7d 4s 9d] [8c]
+elenu1988: bets $12
+ilir3: folds 
+Flying Smile: folds 
+Uncalled bet ($12) returned to elenu1988
+elenu1988 collected $34.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.50 
+Board [7d 4s 9d 8c]
+Seat 4: Flying Smile (button) folded on the Turn
+Seat 5: elenu1988 (small blind) collected ($34.50)
+Seat 6: ilir3 (big blind) folded on the Turn
+
+
+PokerStars Game #102615124035:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:45:00 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($600 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($824.38 in chips) 
+Seat 5: elenu1988 ($646.72 in chips) 
+Seat 6: ilir3 ($733.24 in chips) 
+elenu1988: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+JMBigJoe: folds 
+TTSIP: folds 
+BKA12: folds 
+Flying Smile: raises $6 to $12
+elenu1988: calls $9
+ilir3: calls $6
+*** FLOP *** [6c Qh 6s]
+elenu1988: checks 
+ilir3: checks 
+Flying Smile: bets $30
+elenu1988: calls $30
+ilir3: folds 
+*** TURN *** [6c Qh 6s] [Js]
+elenu1988: checks 
+Flying Smile: bets $81
+elenu1988: calls $81
+*** RIVER *** [6c Qh 6s Js] [6d]
+elenu1988: checks 
+Flying Smile: bets $111
+elenu1988: calls $111
+*** SHOW DOWN ***
+Flying Smile: shows [Qc As] (a full house, Sixes full of Queens)
+elenu1988: mucks hand 
+Flying Smile collected $477.20 from pot
+*** SUMMARY ***
+Total pot $480 | Rake $2.80 
+Board [6c Qh 6s Js 6d]
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: TTSIP folded before Flop (didn't bet)
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile (button) showed [Qc As] and won ($477.20) with a full house, Sixes full of Queens
+Seat 5: elenu1988 (small blind) mucked
+Seat 6: ilir3 (big blind) folded on the Flop
+
+
+PokerStars Game #102615198593:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:46:30 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($600 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($1067.58 in chips) 
+Seat 5: elenu1988 ($412.72 in chips) 
+Seat 6: ilir3 ($721.24 in chips) 
+ilir3: posts small blind $3
+JMBigJoe: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: folds 
+BKA12: folds 
+Flying Smile: raises $9 to $15
+elenu1988: folds 
+ilir3: folds 
+JMBigJoe: folds 
+Uncalled bet ($9) returned to Flying Smile
+Flying Smile collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: JMBigJoe (big blind) folded before Flop
+Seat 2: TTSIP folded before Flop (didn't bet)
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile collected ($15)
+Seat 5: elenu1988 (button) folded before Flop (didn't bet)
+Seat 6: ilir3 (small blind) folded before Flop
+
+
+PokerStars Game #102615225447:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:47:02 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($600 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($1076.58 in chips) 
+Seat 5: elenu1988 ($412.72 in chips) 
+Seat 6: ilir3 ($718.24 in chips) 
+JMBigJoe: posts small blind $3
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+BKA12: folds 
+Flying Smile: raises $12 to $18
+elenu1988: folds 
+ilir3: folds 
+JMBigJoe: folds 
+TTSIP: folds 
+Uncalled bet ($12) returned to Flying Smile
+Flying Smile collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: JMBigJoe (small blind) folded before Flop
+Seat 2: TTSIP (big blind) folded before Flop
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile collected ($15)
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102615250987:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:47:32 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($600 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($1085.58 in chips) 
+Seat 5: elenu1988 ($412.72 in chips) 
+Seat 6: ilir3 ($718.24 in chips) 
+TTSIP: posts small blind $3
+BKA12: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+elenu1988: raises $12 to $18
+ilir3: folds 
+JMBigJoe: folds 
+TTSIP: folds 
+BKA12: folds 
+Uncalled bet ($12) returned to elenu1988
+elenu1988 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: JMBigJoe (button) folded before Flop (didn't bet)
+Seat 2: TTSIP (small blind) folded before Flop
+Seat 3: BKA12 (big blind) folded before Flop
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 collected ($15)
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102615266912:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:47:52 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($600 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($1085.58 in chips) 
+Seat 5: elenu1988 ($421.72 in chips) 
+Seat 6: ilir3 ($718.24 in chips) 
+BKA12: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+elenu1988: folds 
+ilir3: folds 
+JMBigJoe: folds 
+TTSIP: raises $6 to $12
+BKA12: folds 
+Flying Smile: calls $6
+*** FLOP *** [8s 5c 2h]
+Flying Smile: checks 
+TTSIP: bets $18
+Flying Smile: calls $18
+*** TURN *** [8s 5c 2h] [Kc]
+Flying Smile: checks 
+TTSIP: bets $48
+Flying Smile: calls $48
+*** RIVER *** [8s 5c 2h Kc] [7s]
+Flying Smile: checks 
+TTSIP: checks 
+*** SHOW DOWN ***
+Flying Smile: shows [Ts As] (high card Ace)
+TTSIP: mucks hand 
+Flying Smile collected $156.20 from pot
+*** SUMMARY ***
+Total pot $159 | Rake $2.80 
+Board [8s 5c 2h Kc 7s]
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: TTSIP (button) mucked
+Seat 3: BKA12 (small blind) folded before Flop
+Seat 4: Flying Smile (big blind) showed [Ts As] and won ($156.20) with high card Ace
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102615318967:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:48:55 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($600 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($1163.78 in chips) 
+Seat 5: elenu1988 ($421.72 in chips) 
+Seat 6: ilir3 ($718.24 in chips) 
+Flying Smile: posts small blind $3
+elenu1988: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+JMBigJoe: folds 
+TTSIP: folds 
+BKA12: folds 
+Flying Smile: raises $12 to $18
+elenu1988: calls $12
+*** FLOP *** [Js 6h 3h]
+Flying Smile: bets $18
+elenu1988: folds 
+Uncalled bet ($18) returned to Flying Smile
+Flying Smile collected $34.38 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.62 
+Board [Js 6h 3h]
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: TTSIP folded before Flop (didn't bet)
+Seat 3: BKA12 (button) folded before Flop (didn't bet)
+Seat 4: Flying Smile (small blind) collected ($34.38)
+Seat 5: elenu1988 (big blind) folded on the Flop
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102615352711:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:49:35 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($600 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($1180.16 in chips) 
+Seat 5: elenu1988 ($403.72 in chips) 
+Seat 6: ilir3 ($718.24 in chips) 
+elenu1988: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+JMBigJoe: folds 
+TTSIP: raises $12 to $18
+BKA12: folds 
+Flying Smile: folds 
+elenu1988: folds 
+ilir3: folds 
+Uncalled bet ($12) returned to TTSIP
+TTSIP collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: TTSIP collected ($15)
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile (button) folded before Flop (didn't bet)
+Seat 5: elenu1988 (small blind) folded before Flop
+Seat 6: ilir3 (big blind) folded before Flop
+
+
+PokerStars Game #102615369873:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:49:56 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($609 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($1180.16 in chips) 
+Seat 5: elenu1988 ($400.72 in chips) 
+Seat 6: ilir3 ($712.24 in chips) 
+ilir3: posts small blind $3
+JMBigJoe: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: folds 
+BKA12: folds 
+Flying Smile: raises $9 to $15
+elenu1988: folds 
+ilir3: folds 
+JMBigJoe: folds 
+Uncalled bet ($9) returned to Flying Smile
+Flying Smile collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: JMBigJoe (big blind) folded before Flop
+Seat 2: TTSIP folded before Flop (didn't bet)
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile collected ($15)
+Seat 5: elenu1988 (button) folded before Flop (didn't bet)
+Seat 6: ilir3 (small blind) folded before Flop
+
+
+PokerStars Game #102614897024:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:40:26 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: JMBigJoe ($601.11 in chips) 
+Seat 2: TTSIP ($600 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($773.38 in chips) 
+Seat 5: elenu1988 ($630.48 in chips) 
+Seat 6: ilir3 ($601.52 in chips) 
+JMBigJoe: posts small blind $3
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+BKA12: folds 
+Flying Smile: folds 
+elenu1988: raises $6 to $12
+ilir3: folds 
+JMBigJoe: folds 
+TTSIP: folds 
+Uncalled bet ($6) returned to elenu1988
+elenu1988 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: JMBigJoe (small blind) folded before Flop
+Seat 2: TTSIP (big blind) folded before Flop
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 collected ($15)
+Seat 6: ilir3 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102614918958:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:40:52 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($600 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($773.38 in chips) 
+Seat 5: elenu1988 ($639.48 in chips) 
+Seat 6: ilir3 ($601.52 in chips) 
+TTSIP: posts small blind $3
+BKA12: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+elenu1988: raises $6 to $12
+ilir3: calls $12
+JMBigJoe: folds 
+TTSIP: folds 
+BKA12: raises $39 to $51
+elenu1988: folds 
+ilir3: calls $39
+*** FLOP *** [7c 9c Tc]
+BKA12: bets $68.52
+ilir3: calls $68.52
+*** TURN *** [7c 9c Tc] [5h]
+BKA12: checks 
+ilir3: bets $155
+BKA12: folds 
+Uncalled bet ($155) returned to ilir3
+ilir3 collected $251.24 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $254.04 | Rake $2.80 
+Board [7c 9c Tc 5h]
+Seat 1: JMBigJoe (button) folded before Flop (didn't bet)
+Seat 2: TTSIP (small blind) folded before Flop
+Seat 3: BKA12 (big blind) folded on the Turn
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 folded before Flop
+Seat 6: ilir3 collected ($251.24)
+
+
+PokerStars Game #102615015006:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:42:49 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($600 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($773.38 in chips) 
+Seat 5: elenu1988 ($627.48 in chips) 
+Seat 6: ilir3 ($733.24 in chips) 
+BKA12: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+elenu1988: folds 
+ilir3: folds 
+JMBigJoe: folds 
+TTSIP: raises $6 to $12
+BKA12: raises $30 to $42
+Flying Smile: raises $50 to $92
+TTSIP: folds 
+BKA12: folds 
+Uncalled bet ($50) returned to Flying Smile
+Flying Smile collected $96 from pot
+*** SUMMARY ***
+Total pot $96 | Rake $0 
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: TTSIP (button) folded before Flop
+Seat 3: BKA12 (small blind) folded before Flop
+Seat 4: Flying Smile (big blind) collected ($96)
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102615048995:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:43:30 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($600 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($827.38 in chips) 
+Seat 5: elenu1988 ($627.48 in chips) 
+Seat 6: ilir3 ($733.24 in chips) 
+Flying Smile: posts small blind $3
+elenu1988: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+JMBigJoe: raises $12 to $18
+TTSIP: folds 
+BKA12: folds 
+Flying Smile: folds 
+elenu1988: calls $12
+*** FLOP *** [9c 7c 9d]
+elenu1988: checks 
+JMBigJoe: checks 
+*** TURN *** [9c 7c 9d] [8h]
+elenu1988: checks 
+JMBigJoe: checks 
+*** RIVER *** [9c 7c 9d 8h] [Qc]
+elenu1988: bets $72
+JMBigJoe: folds 
+Uncalled bet ($72) returned to elenu1988
+elenu1988 collected $37.24 from pot
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [9c 7c 9d 8h Qc]
+Seat 1: JMBigJoe folded on the River
+Seat 2: TTSIP folded before Flop (didn't bet)
+Seat 3: BKA12 (button) folded before Flop (didn't bet)
+Seat 4: Flying Smile (small blind) folded before Flop
+Seat 5: elenu1988 (big blind) collected ($37.24)
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102614638084:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:35:13 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($708.20 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: elenu1988 ($652.70 in chips) 
+Seat 6: ilir3 ($600 in chips) 
+elenu1988: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+JMBigJoe: raises $12 to $18
+TTSIP: folds 
+BKA12: folds 
+Flying Smile: folds 
+elenu1988: calls $15
+ilir3: folds 
+*** FLOP *** [Ad 3c 8s]
+elenu1988: checks 
+JMBigJoe: bets $20.06
+elenu1988: folds 
+Uncalled bet ($20.06) returned to JMBigJoe
+JMBigJoe collected $40.11 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $1.89 
+Board [Ad 3c 8s]
+Seat 1: JMBigJoe collected ($40.11)
+Seat 2: TTSIP folded before Flop (didn't bet)
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile (button) folded before Flop (didn't bet)
+Seat 5: elenu1988 (small blind) folded on the Flop
+Seat 6: ilir3 (big blind) folded before Flop
+
+
+PokerStars Game #102614663880:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:35:45 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: JMBigJoe ($622.11 in chips) 
+Seat 2: TTSIP ($708.20 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: elenu1988 ($634.70 in chips) 
+Seat 6: ilir3 ($600 in chips) 
+ilir3: posts small blind $3
+JMBigJoe: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: folds 
+BKA12: folds 
+Flying Smile: folds 
+elenu1988: raises $6 to $12
+ilir3: folds 
+JMBigJoe: calls $6
+*** FLOP *** [3c 7h 8c]
+JMBigJoe: checks 
+elenu1988: checks 
+*** TURN *** [3c 7h 8c] [Ah]
+JMBigJoe: checks 
+elenu1988: bets $18
+JMBigJoe: folds 
+Uncalled bet ($18) returned to elenu1988
+elenu1988 collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [3c 7h 8c Ah]
+Seat 1: JMBigJoe (big blind) folded on the Turn
+Seat 2: TTSIP folded before Flop (didn't bet)
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 (button) collected ($25.78)
+Seat 6: ilir3 (small blind) folded before Flop
+
+
+PokerStars Game #102614722866:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:36:55 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: JMBigJoe ($610.11 in chips) 
+Seat 2: TTSIP ($708.20 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: elenu1988 ($648.48 in chips) 
+Seat 6: ilir3 ($600 in chips) 
+JMBigJoe: posts small blind $3
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+BKA12: raises $12 to $18
+Flying Smile: folds 
+elenu1988: folds 
+ilir3: folds 
+JMBigJoe: folds 
+TTSIP: folds 
+Uncalled bet ($12) returned to BKA12
+BKA12 collected $15 from pot
+BKA12: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: JMBigJoe (small blind) folded before Flop
+Seat 2: TTSIP (big blind) folded before Flop
+Seat 3: BKA12 collected ($15)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102614740860:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:37:17 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: JMBigJoe ($607.11 in chips) 
+Seat 2: TTSIP ($702.20 in chips) 
+Seat 3: BKA12 ($609 in chips) 
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: elenu1988 ($648.48 in chips) 
+Seat 6: ilir3 ($600 in chips) 
+TTSIP: posts small blind $3
+BKA12: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+elenu1988: folds 
+ilir3: raises $6 to $12
+JMBigJoe: folds 
+TTSIP: raises $36 to $48
+BKA12: folds 
+ilir3: folds 
+Uncalled bet ($36) returned to TTSIP
+TTSIP collected $30 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: JMBigJoe (button) folded before Flop (didn't bet)
+Seat 2: TTSIP (small blind) collected ($30)
+Seat 3: BKA12 (big blind) folded before Flop
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 folded before Flop
+
+
+PokerStars Game #102614759484:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:37:39 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: JMBigJoe ($607.11 in chips) 
+Seat 2: TTSIP ($720.20 in chips) 
+Seat 3: BKA12 ($603 in chips) 
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: elenu1988 ($648.48 in chips) 
+Seat 6: ilir3 ($600 in chips) 
+BKA12: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+elenu1988: folds 
+ilir3: folds 
+JMBigJoe: folds 
+TTSIP: raises $6 to $12
+BKA12: folds 
+Flying Smile: raises $33 to $45
+TTSIP: folds 
+Uncalled bet ($33) returned to Flying Smile
+Flying Smile collected $27 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: TTSIP (button) folded before Flop
+Seat 3: BKA12 (small blind) folded before Flop
+Seat 4: Flying Smile (big blind) collected ($27)
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102614794762:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:38:22 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: JMBigJoe ($607.11 in chips) 
+Seat 2: TTSIP ($708.20 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($615 in chips) 
+Seat 5: elenu1988 ($648.48 in chips) 
+Seat 6: ilir3 ($600 in chips) 
+Flying Smile: posts small blind $3
+elenu1988: posts big blind $6
+*** HOLE CARDS ***
+ilir3: raises $9 to $15
+JMBigJoe: folds 
+TTSIP: folds 
+BKA12: folds 
+Flying Smile: folds 
+elenu1988: calls $9
+*** FLOP *** [Jd 9s 6c]
+elenu1988: checks 
+ilir3: bets $22
+elenu1988: folds 
+Uncalled bet ($22) returned to ilir3
+ilir3 collected $31.52 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $1.48 
+Board [Jd 9s 6c]
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: TTSIP folded before Flop (didn't bet)
+Seat 3: BKA12 (button) folded before Flop (didn't bet)
+Seat 4: Flying Smile (small blind) folded before Flop
+Seat 5: elenu1988 (big blind) folded on the Flop
+Seat 6: ilir3 collected ($31.52)
+
+
+PokerStars Game #102614825720:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:38:59 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: JMBigJoe ($607.11 in chips) 
+Seat 2: TTSIP ($708.20 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($612 in chips) 
+Seat 5: elenu1988 ($633.48 in chips) 
+Seat 6: ilir3 ($616.52 in chips) 
+elenu1988: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+JMBigJoe: folds 
+TTSIP: folds 
+BKA12: folds 
+Flying Smile: raises $6 to $12
+elenu1988: folds 
+ilir3: calls $6
+*** FLOP *** [3s Kc 5c]
+ilir3: checks 
+Flying Smile: bets $18
+ilir3: folds 
+Uncalled bet ($18) returned to Flying Smile
+Flying Smile collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [3s Kc 5c]
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: TTSIP folded before Flop (didn't bet)
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile (button) collected ($25.78)
+Seat 5: elenu1988 (small blind) folded before Flop
+Seat 6: ilir3 (big blind) folded on the Flop
+
+
+PokerStars Game #102614851942:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:39:30 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: JMBigJoe ($607.11 in chips) 
+Seat 2: TTSIP ($708.20 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($625.78 in chips) 
+Seat 5: elenu1988 ($630.48 in chips) 
+Seat 6: ilir3 ($604.52 in chips) 
+ilir3: posts small blind $3
+JMBigJoe: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: raises $15 to $21
+BKA12: folds 
+Flying Smile: raises $42 to $63
+elenu1988: folds 
+ilir3: folds 
+JMBigJoe: folds 
+TTSIP: raises $75.60 to $138.60
+Flying Smile: raises $487.18 to $625.78 and is all-in
+TTSIP: folds 
+Uncalled bet ($487.18) returned to Flying Smile
+Flying Smile collected $286.20 from pot
+*** SUMMARY ***
+Total pot $286.20 | Rake $0 
+Seat 1: JMBigJoe (big blind) folded before Flop
+Seat 2: TTSIP folded before Flop
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile collected ($286.20)
+Seat 5: elenu1988 (button) folded before Flop (didn't bet)
+Seat 6: ilir3 (small blind) folded before Flop
+
+
+PokerStars Game #102614421766:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:30:56 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: elenu1988 ($622.50 in chips) 
+Seat 6: ilir3 ($600 in chips) 
+ilir3: posts small blind $3
+JMBigJoe: posts big blind $6
+TTSIP: sits out 
+BKA12: sits out 
+*** HOLE CARDS ***
+Flying Smile: raises $9 to $15
+elenu1988: folds 
+ilir3: folds 
+JMBigJoe: folds 
+Uncalled bet ($9) returned to Flying Smile
+Flying Smile collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: JMBigJoe (big blind) folded before Flop
+Seat 4: Flying Smile collected ($15)
+Seat 5: elenu1988 (button) folded before Flop (didn't bet)
+Seat 6: ilir3 (small blind) folded before Flop
+
+
+PokerStars Game #102614449158:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:31:29 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($600 in chips) 
+Seat 4: Flying Smile ($609 in chips) 
+Seat 5: elenu1988 ($622.50 in chips) 
+Seat 6: ilir3 ($600 in chips) 
+JMBigJoe: posts small blind $3
+TTSIP: posts big blind $6
+BKA12: sits out 
+*** HOLE CARDS ***
+Flying Smile: folds 
+elenu1988: raises $6 to $12
+ilir3: folds 
+JMBigJoe: folds 
+TTSIP: folds 
+Uncalled bet ($6) returned to elenu1988
+elenu1988 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: JMBigJoe (small blind) folded before Flop
+Seat 2: TTSIP (big blind) folded before Flop
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 collected ($15)
+Seat 6: ilir3 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102614484720:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:32:11 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($600 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($609 in chips) 
+Seat 5: elenu1988 ($631.50 in chips) 
+Seat 6: ilir3 ($600 in chips) 
+TTSIP: posts small blind $3
+BKA12: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+elenu1988: folds 
+ilir3: folds 
+JMBigJoe: folds 
+TTSIP: raises $12 to $18
+BKA12: folds 
+Uncalled bet ($12) returned to TTSIP
+TTSIP collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: JMBigJoe (button) folded before Flop (didn't bet)
+Seat 2: TTSIP (small blind) collected ($12)
+Seat 3: BKA12 (big blind) folded before Flop
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102614511900:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:32:43 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($606 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($609 in chips) 
+Seat 5: elenu1988 ($631.50 in chips) 
+Seat 6: ilir3 ($600 in chips) 
+BKA12: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+elenu1988: raises $6 to $12
+ilir3: folds 
+JMBigJoe: folds 
+TTSIP: calls $12
+BKA12: folds 
+Flying Smile: calls $6
+*** FLOP *** [7s 2h Ah]
+Flying Smile: checks 
+elenu1988: checks 
+TTSIP: bets $18
+Flying Smile: calls $18
+elenu1988: folds 
+*** TURN *** [7s 2h Ah] [6c]
+Flying Smile: checks 
+TTSIP: bets $60
+Flying Smile: calls $60
+*** RIVER *** [7s 2h Ah 6c] [4c]
+Flying Smile: checks 
+TTSIP: checks 
+*** SHOW DOWN ***
+Flying Smile: shows [Kh 6h] (a pair of Sixes)
+TTSIP: shows [7h 5h] (a pair of Sevens)
+TTSIP collected $192.20 from pot
+*** SUMMARY ***
+Total pot $195 | Rake $2.80 
+Board [7s 2h Ah 6c 4c]
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: TTSIP (button) showed [7h 5h] and won ($192.20) with a pair of Sevens
+Seat 3: BKA12 (small blind) folded before Flop
+Seat 4: Flying Smile (big blind) showed [Kh 6h] and lost with a pair of Sixes
+Seat 5: elenu1988 folded on the Flop
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102614589897:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:34:16 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($708.20 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: elenu1988 ($619.50 in chips) 
+Seat 6: ilir3 ($600 in chips) 
+Flying Smile: posts small blind $3
+elenu1988: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+JMBigJoe: folds 
+TTSIP: folds 
+BKA12: folds 
+Flying Smile: raises $12 to $18
+elenu1988: calls $12
+*** FLOP *** [Kd Qs Js]
+Flying Smile: bets $18
+elenu1988: calls $18
+*** TURN *** [Kd Qs Js] [8h]
+Flying Smile: checks 
+elenu1988: bets $36
+Flying Smile: folds 
+Uncalled bet ($36) returned to elenu1988
+elenu1988 collected $69.20 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $2.80 
+Board [Kd Qs Js 8h]
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: TTSIP folded before Flop (didn't bet)
+Seat 3: BKA12 (button) folded before Flop (didn't bet)
+Seat 4: Flying Smile (small blind) folded on the Turn
+Seat 5: elenu1988 (big blind) collected ($69.20)
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102616004115:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:05:01 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #2 is the button
+Seat 2: TTSIP ($699.60 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($1091.94 in chips) 
+Seat 5: elenu1988 ($350.83 in chips) 
+Seat 6: ilir3 ($740.48 in chips) 
+BKA12: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+elenu1988: folds 
+ilir3: folds 
+TTSIP: raises $6 to $12
+BKA12: raises $30 to $42
+Flying Smile: folds 
+TTSIP: folds 
+Uncalled bet ($30) returned to BKA12
+BKA12 collected $30 from pot
+BKA12: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 2: TTSIP (button) folded before Flop
+Seat 3: BKA12 (small blind) collected ($30)
+Seat 4: Flying Smile (big blind) folded before Flop
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102616024923:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:05:25 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #3 is the button
+Seat 2: TTSIP ($687.60 in chips) 
+Seat 3: BKA12 ($618 in chips) 
+Seat 4: Flying Smile ($1085.94 in chips) 
+Seat 5: elenu1988 ($350.83 in chips) 
+Seat 6: ilir3 ($740.48 in chips) 
+Flying Smile: posts small blind $3
+elenu1988: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+TTSIP: raises $9 to $15
+BKA12: raises $33 to $48
+Flying Smile: folds 
+elenu1988: folds 
+TTSIP: raises $57.60 to $105.60
+BKA12: calls $57.60
+*** FLOP *** [Jc 2d 7s]
+TTSIP: bets $72
+BKA12: calls $72
+*** TURN *** [Jc 2d 7s] [Ah]
+TTSIP: checks 
+BKA12: checks 
+*** RIVER *** [Jc 2d 7s Ah] [6d]
+TTSIP: checks 
+BKA12: bets $242.13
+TTSIP: folds 
+Uncalled bet ($242.13) returned to BKA12
+BKA12 collected $361.40 from pot
+BKA12: doesn't show hand 
+*** SUMMARY ***
+Total pot $364.20 | Rake $2.80 
+Board [Jc 2d 7s Ah 6d]
+Seat 2: TTSIP folded on the River
+Seat 3: BKA12 (button) collected ($361.40)
+Seat 4: Flying Smile (small blind) folded before Flop
+Seat 5: elenu1988 (big blind) folded before Flop
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102616143326:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:07:42 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 2: TTSIP ($600 in chips) 
+Seat 3: BKA12 ($801.80 in chips) 
+Seat 4: Flying Smile ($1082.94 in chips) 
+Seat 5: elenu1988 ($344.83 in chips) 
+Seat 6: ilir3 ($740.48 in chips) 
+elenu1988: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: folds 
+BKA12: raises $12 to $18
+Flying Smile: folds 
+elenu1988: calls $15
+ilir3: calls $12
+*** FLOP *** [As 6h 4c]
+elenu1988: checks 
+ilir3: checks 
+BKA12: checks 
+*** TURN *** [As 6h 4c] [Ks]
+elenu1988: checks 
+ilir3: bets $36
+BKA12: folds 
+elenu1988: folds 
+Uncalled bet ($36) returned to ilir3
+ilir3 collected $51.57 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $54 | Rake $2.43 
+Board [As 6h 4c Ks]
+Seat 2: TTSIP folded before Flop (didn't bet)
+Seat 3: BKA12 folded on the Turn
+Seat 4: Flying Smile (button) folded before Flop (didn't bet)
+Seat 5: elenu1988 (small blind) folded on the Turn
+Seat 6: ilir3 (big blind) collected ($51.57)
+
+
+PokerStars Game #102616202561:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:08:51 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #5 is the button
+Seat 2: TTSIP ($600 in chips) 
+Seat 3: BKA12 ($783.80 in chips) 
+Seat 4: Flying Smile ($1082.94 in chips) 
+Seat 5: elenu1988 ($326.83 in chips) 
+Seat 6: ilir3 ($774.05 in chips) 
+ilir3: posts small blind $3
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+BKA12: folds 
+Flying Smile: folds 
+elenu1988: folds 
+JMBigJoe leaves the table
+Sir_Fuj1 joins the table at seat #1 
+ilir3: calls $3
+TTSIP: checks 
+*** FLOP *** [4s Ts 2c]
+ilir3: bets $6
+TTSIP: calls $6
+*** TURN *** [4s Ts 2c] [3c]
+ilir3: bets $18
+TTSIP: calls $18
+*** RIVER *** [4s Ts 2c 3c] [9d]
+ilir3: bets $42
+TTSIP: folds 
+Uncalled bet ($42) returned to ilir3
+ilir3 collected $57.30 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $2.70 
+Board [4s Ts 2c 3c 9d]
+Seat 2: TTSIP (big blind) folded on the River
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 (button) folded before Flop (didn't bet)
+Seat 6: ilir3 (small blind) collected ($57.30)
+
+
+PokerStars Game #102616257557:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:09:54 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #6 is the button
+Seat 2: TTSIP ($600 in chips) 
+Seat 3: BKA12 ($783.80 in chips) 
+Seat 4: Flying Smile ($1082.94 in chips) 
+Seat 5: elenu1988 ($326.83 in chips) 
+Seat 6: ilir3 ($801.35 in chips) 
+Sir_Fuj1 will be allowed to play after the button
+TTSIP: posts small blind $3
+BKA12: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+elenu1988: raises $12 to $18
+ilir3: folds 
+TTSIP: folds 
+BKA12: folds 
+Uncalled bet ($12) returned to elenu1988
+elenu1988 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: TTSIP (small blind) folded before Flop
+Seat 3: BKA12 (big blind) folded before Flop
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 collected ($15)
+Seat 6: ilir3 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102615636724:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:55:28 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($684.40 in chips) 
+Seat 3: BKA12 ($609 in chips) 
+Seat 4: Flying Smile ($1117.16 in chips) 
+Seat 5: elenu1988 ($413.83 in chips) 
+Seat 6: ilir3 ($718.24 in chips) 
+JMBigJoe: posts small blind $3
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+BKA12: folds 
+Flying Smile: folds 
+elenu1988: folds 
+ilir3: folds 
+JMBigJoe: raises $12 to $18
+TTSIP: folds 
+Uncalled bet ($12) returned to JMBigJoe
+JMBigJoe collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: JMBigJoe (small blind) collected ($12)
+Seat 2: TTSIP (big blind) folded before Flop
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102615654120:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:56:02 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: JMBigJoe ($606 in chips) 
+Seat 2: TTSIP ($678.40 in chips) 
+Seat 3: BKA12 ($609 in chips) 
+Seat 4: Flying Smile ($1117.16 in chips) 
+Seat 5: elenu1988 ($413.83 in chips) 
+Seat 6: ilir3 ($718.24 in chips) 
+TTSIP: posts small blind $3
+BKA12: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+elenu1988: folds 
+ilir3: raises $6 to $12
+JMBigJoe: folds 
+TTSIP: folds 
+BKA12: folds 
+Uncalled bet ($6) returned to ilir3
+ilir3 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: JMBigJoe (button) folded before Flop (didn't bet)
+Seat 2: TTSIP (small blind) folded before Flop
+Seat 3: BKA12 (big blind) folded before Flop
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 collected ($15)
+
+
+PokerStars Game #102615662642:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:56:19 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: JMBigJoe ($606 in chips) 
+Seat 2: TTSIP ($675.40 in chips) 
+Seat 3: BKA12 ($603 in chips) 
+Seat 4: Flying Smile ($1117.16 in chips) 
+Seat 5: elenu1988 ($413.83 in chips) 
+Seat 6: ilir3 ($727.24 in chips) 
+BKA12: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+elenu1988: folds 
+ilir3: folds 
+JMBigJoe: folds 
+TTSIP: raises $6 to $12
+BKA12: folds 
+Flying Smile: calls $6
+*** FLOP *** [Qh 6c Jd]
+Flying Smile: checks 
+TTSIP: checks 
+*** TURN *** [Qh 6c Jd] [Jc]
+Flying Smile: checks 
+TTSIP: checks 
+*** RIVER *** [Qh 6c Jd Jc] [9h]
+Flying Smile: checks 
+TTSIP: checks 
+*** SHOW DOWN ***
+Flying Smile: shows [4d Qd] (two pair, Queens and Jacks)
+TTSIP: mucks hand 
+Flying Smile collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Qh 6c Jd Jc 9h]
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: TTSIP (button) mucked
+Seat 3: BKA12 (small blind) folded before Flop
+Seat 4: Flying Smile (big blind) showed [4d Qd] and won ($25.78) with two pair, Queens and Jacks
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102615701447:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:57:36 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: JMBigJoe ($606 in chips) 
+Seat 2: TTSIP ($663.40 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($1130.94 in chips) 
+Seat 5: elenu1988 ($413.83 in chips) 
+Seat 6: ilir3 ($727.24 in chips) 
+Flying Smile: posts small blind $3
+elenu1988: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+JMBigJoe: folds 
+TTSIP: raises $9 to $15
+BKA12: folds 
+Flying Smile: folds 
+elenu1988: folds 
+Uncalled bet ($9) returned to TTSIP
+TTSIP collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: TTSIP collected ($15)
+Seat 3: BKA12 (button) folded before Flop (didn't bet)
+Seat 4: Flying Smile (small blind) folded before Flop
+Seat 5: elenu1988 (big blind) folded before Flop
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102615715442:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:58:04 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: JMBigJoe ($606 in chips) 
+Seat 2: TTSIP ($672.40 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($1127.94 in chips) 
+Seat 5: elenu1988 ($407.83 in chips) 
+Seat 6: ilir3 ($727.24 in chips) 
+elenu1988: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+JMBigJoe: folds 
+TTSIP: folds 
+BKA12: raises $12 to $18
+Flying Smile: folds 
+elenu1988: folds 
+ilir3: folds 
+Uncalled bet ($12) returned to BKA12
+BKA12 collected $15 from pot
+BKA12: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: TTSIP folded before Flop (didn't bet)
+Seat 3: BKA12 collected ($15)
+Seat 4: Flying Smile (button) folded before Flop (didn't bet)
+Seat 5: elenu1988 (small blind) folded before Flop
+Seat 6: ilir3 (big blind) folded before Flop
+
+
+PokerStars Game #102615727698:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:58:28 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: JMBigJoe ($606 in chips) 
+Seat 2: TTSIP ($672.40 in chips) 
+Seat 3: BKA12 ($609 in chips) 
+Seat 4: Flying Smile ($1127.94 in chips) 
+Seat 5: elenu1988 ($404.83 in chips) 
+Seat 6: ilir3 ($721.24 in chips) 
+ilir3: posts small blind $3
+JMBigJoe: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: folds 
+BKA12: folds 
+Flying Smile: folds 
+elenu1988: folds 
+ilir3: folds 
+Uncalled bet ($3) returned to JMBigJoe
+JMBigJoe collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: JMBigJoe (big blind) collected ($6)
+Seat 2: TTSIP folded before Flop (didn't bet)
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 (button) folded before Flop (didn't bet)
+Seat 6: ilir3 (small blind) folded before Flop
+
+
+PokerStars Game #102615735936:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:58:44 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: JMBigJoe ($609 in chips) 
+Seat 2: TTSIP ($672.40 in chips) 
+Seat 3: BKA12 ($609 in chips) 
+Seat 4: Flying Smile ($1127.94 in chips) 
+Seat 5: elenu1988 ($404.83 in chips) 
+Seat 6: ilir3 ($718.24 in chips) 
+JMBigJoe: posts small blind $3
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+BKA12: folds 
+Flying Smile: folds 
+elenu1988: folds 
+ilir3: folds 
+JMBigJoe: folds 
+Uncalled bet ($3) returned to TTSIP
+TTSIP collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: JMBigJoe (small blind) folded before Flop
+Seat 2: TTSIP (big blind) collected ($6)
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102615749621:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:59:10 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: JMBigJoe ($606 in chips) 
+Seat 2: TTSIP ($675.40 in chips) 
+Seat 3: BKA12 ($609 in chips) 
+Seat 4: Flying Smile ($1127.94 in chips) 
+Seat 5: elenu1988 ($404.83 in chips) 
+Seat 6: ilir3 ($718.24 in chips) 
+TTSIP: posts small blind $3
+BKA12: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: raises $12 to $18
+elenu1988: folds 
+ilir3: folds 
+JMBigJoe: folds 
+TTSIP: folds 
+BKA12: folds 
+Uncalled bet ($12) returned to Flying Smile
+Flying Smile collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: JMBigJoe (button) folded before Flop (didn't bet)
+Seat 2: TTSIP (small blind) folded before Flop
+Seat 3: BKA12 (big blind) folded before Flop
+Seat 4: Flying Smile collected ($15)
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102615769828:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:59:48 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: JMBigJoe ($606 in chips) 
+Seat 2: TTSIP ($672.40 in chips) 
+Seat 3: BKA12 ($603 in chips) 
+Seat 4: Flying Smile ($1136.94 in chips) 
+Seat 5: elenu1988 ($404.83 in chips) 
+Seat 6: ilir3 ($718.24 in chips) 
+BKA12: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+elenu1988: raises $6 to $12
+ilir3: folds 
+JMBigJoe: raises $33 to $45
+TTSIP: folds 
+BKA12: folds 
+Flying Smile: folds 
+elenu1988: calls $33
+*** FLOP *** [5h 8s 8d]
+elenu1988: checks 
+JMBigJoe: bets $48
+elenu1988: folds 
+Uncalled bet ($48) returned to JMBigJoe
+JMBigJoe collected $96.20 from pot
+*** SUMMARY ***
+Total pot $99 | Rake $2.80 
+Board [5h 8s 8d]
+Seat 1: JMBigJoe collected ($96.20)
+Seat 2: TTSIP (button) folded before Flop (didn't bet)
+Seat 3: BKA12 (small blind) folded before Flop
+Seat 4: Flying Smile (big blind) folded before Flop
+Seat 5: elenu1988 folded on the Flop
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102615841293:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:01:43 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: JMBigJoe ($657.20 in chips) 
+Seat 2: TTSIP ($672.40 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($1130.94 in chips) 
+Seat 5: elenu1988 ($359.83 in chips) 
+Seat 6: ilir3 ($718.24 in chips) 
+Flying Smile: posts small blind $3
+elenu1988: posts big blind $6
+*** HOLE CARDS ***
+ilir3: raises $9 to $15
+JMBigJoe: folds 
+TTSIP: calls $15
+BKA12: folds 
+Flying Smile: folds 
+elenu1988: folds 
+*** FLOP *** [6c Qh Kd]
+ilir3: bets $24
+TTSIP: folds 
+Uncalled bet ($24) returned to ilir3
+ilir3 collected $37.24 from pot
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [6c Qh Kd]
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: TTSIP folded on the Flop
+Seat 3: BKA12 (button) folded before Flop (didn't bet)
+Seat 4: Flying Smile (small blind) folded before Flop
+Seat 5: elenu1988 (big blind) folded before Flop
+Seat 6: ilir3 collected ($37.24)
+
+
+PokerStars Game #102615884225:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:02:38 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: JMBigJoe ($657.20 in chips) 
+Seat 2: TTSIP ($657.40 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($1127.94 in chips) 
+Seat 5: elenu1988 ($353.83 in chips) 
+Seat 6: ilir3 ($740.48 in chips) 
+elenu1988: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+JMBigJoe: folds 
+TTSIP: raises $12 to $18
+BKA12: folds 
+Flying Smile: folds 
+elenu1988: folds 
+ilir3: folds 
+Uncalled bet ($12) returned to TTSIP
+TTSIP collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: TTSIP collected ($15)
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile (button) folded before Flop (didn't bet)
+Seat 5: elenu1988 (small blind) folded before Flop
+Seat 6: ilir3 (big blind) folded before Flop
+
+
+PokerStars Game #102615900756:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:02:59 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #5 is the button
+Seat 2: TTSIP ($666.40 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($1127.94 in chips) 
+Seat 5: elenu1988 ($350.83 in chips) 
+Seat 6: ilir3 ($734.48 in chips) 
+ilir3: posts small blind $3
+JMBigJoe: is sitting out 
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+BKA12: folds 
+Flying Smile: raises $9 to $15
+elenu1988: folds 
+ilir3: folds 
+TTSIP: calls $9
+*** FLOP *** [7d Qc 9s]
+TTSIP: checks 
+Flying Smile: bets $21
+TTSIP: calls $21
+*** TURN *** [7d Qc 9s] [6c]
+TTSIP: checks 
+Flying Smile: checks 
+*** RIVER *** [7d Qc 9s 6c] [5h]
+TTSIP: bets $48
+Flying Smile: folds 
+Uncalled bet ($48) returned to TTSIP
+TTSIP collected $72.20 from pot
+*** SUMMARY ***
+Total pot $75 | Rake $2.80 
+Board [7d Qc 9s 6c 5h]
+Seat 2: TTSIP (big blind) collected ($72.20)
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile folded on the River
+Seat 5: elenu1988 (button) folded before Flop (didn't bet)
+Seat 6: ilir3 (small blind) folded before Flop
+
+
+PokerStars Game #102615976329:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:04:28 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #6 is the button
+Seat 2: TTSIP ($702.60 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($1091.94 in chips) 
+Seat 5: elenu1988 ($350.83 in chips) 
+Seat 6: ilir3 ($731.48 in chips) 
+TTSIP: posts small blind $3
+BKA12: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+elenu1988: folds 
+ilir3: raises $6 to $12
+TTSIP: folds 
+BKA12: folds 
+Uncalled bet ($6) returned to ilir3
+ilir3 collected $15 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: TTSIP (small blind) folded before Flop
+Seat 3: BKA12 (big blind) folded before Flop
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 (button) collected ($15)
+
+
+PokerStars Game #102615387701:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:50:18 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($609 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($1189.16 in chips) 
+Seat 5: elenu1988 ($400.72 in chips) 
+Seat 6: ilir3 ($709.24 in chips) 
+JMBigJoe: posts small blind $3
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+BKA12: folds 
+Flying Smile: folds 
+elenu1988: raises $12 to $18
+ilir3: folds 
+JMBigJoe: calls $15
+TTSIP: folds 
+*** FLOP *** [8s 9h 4c]
+JMBigJoe: checks 
+elenu1988: bets $18
+JMBigJoe: folds 
+Uncalled bet ($18) returned to elenu1988
+elenu1988 collected $40.11 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $1.89 
+Board [8s 9h 4c]
+Seat 1: JMBigJoe (small blind) folded on the Flop
+Seat 2: TTSIP (big blind) folded before Flop
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 collected ($40.11)
+Seat 6: ilir3 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102615437998:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:51:19 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($603 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($1189.16 in chips) 
+Seat 5: elenu1988 ($422.83 in chips) 
+Seat 6: ilir3 ($709.24 in chips) 
+TTSIP: posts small blind $3
+BKA12: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: raises $12 to $18
+elenu1988: folds 
+ilir3: folds 
+JMBigJoe: folds 
+TTSIP: folds 
+BKA12: folds 
+Uncalled bet ($12) returned to Flying Smile
+Flying Smile collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: JMBigJoe (button) folded before Flop (didn't bet)
+Seat 2: TTSIP (small blind) folded before Flop
+Seat 3: BKA12 (big blind) folded before Flop
+Seat 4: Flying Smile collected ($15)
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102615464386:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:51:51 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($600 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($1198.16 in chips) 
+Seat 5: elenu1988 ($422.83 in chips) 
+Seat 6: ilir3 ($709.24 in chips) 
+BKA12: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+elenu1988: folds 
+ilir3: folds 
+JMBigJoe: folds 
+TTSIP: raises $6 to $12
+BKA12: folds 
+Flying Smile: calls $6
+*** FLOP *** [Ts 3d 5s]
+Flying Smile: checks 
+TTSIP: bets $18
+Flying Smile: calls $18
+*** TURN *** [Ts 3d 5s] [8d]
+Flying Smile: checks 
+TTSIP: bets $48
+Flying Smile: folds 
+Uncalled bet ($48) returned to TTSIP
+TTSIP collected $60.20 from pot
+*** SUMMARY ***
+Total pot $63 | Rake $2.80 
+Board [Ts 3d 5s 8d]
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: TTSIP (button) collected ($60.20)
+Seat 3: BKA12 (small blind) folded before Flop
+Seat 4: Flying Smile (big blind) folded on the Turn
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102615521547:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:53:01 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($630.20 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($1168.16 in chips) 
+Seat 5: elenu1988 ($422.83 in chips) 
+Seat 6: ilir3 ($709.24 in chips) 
+Flying Smile: posts small blind $3
+elenu1988: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+JMBigJoe: folds 
+TTSIP: raises $9 to $15
+BKA12: folds 
+Flying Smile: raises $36 to $51
+elenu1988: folds 
+TTSIP: calls $36
+*** FLOP *** [Ts 9s 8h]
+Flying Smile: checks 
+TTSIP: bets $54
+Flying Smile: folds 
+Uncalled bet ($54) returned to TTSIP
+TTSIP collected $105.20 from pot
+*** SUMMARY ***
+Total pot $108 | Rake $2.80 
+Board [Ts 9s 8h]
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: TTSIP collected ($105.20)
+Seat 3: BKA12 (button) folded before Flop (didn't bet)
+Seat 4: Flying Smile (small blind) folded on the Flop
+Seat 5: elenu1988 (big blind) folded before Flop
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102615558881:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:53:47 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($684.40 in chips) 
+Seat 3: BKA12 ($600 in chips) 
+Seat 4: Flying Smile ($1117.16 in chips) 
+Seat 5: elenu1988 ($416.83 in chips) 
+Seat 6: ilir3 ($709.24 in chips) 
+elenu1988: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+JMBigJoe: folds 
+TTSIP: folds 
+BKA12: raises $12 to $18
+Flying Smile: folds 
+elenu1988: folds 
+ilir3: folds 
+Uncalled bet ($12) returned to BKA12
+BKA12 collected $15 from pot
+BKA12: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: TTSIP folded before Flop (didn't bet)
+Seat 3: BKA12 collected ($15)
+Seat 4: Flying Smile (button) folded before Flop (didn't bet)
+Seat 5: elenu1988 (small blind) folded before Flop
+Seat 6: ilir3 (big blind) folded before Flop
+
+
+PokerStars Game #102615596245:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:54:33 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: TTSIP ($684.40 in chips) 
+Seat 3: BKA12 ($609 in chips) 
+Seat 4: Flying Smile ($1117.16 in chips) 
+Seat 5: elenu1988 ($413.83 in chips) 
+Seat 6: ilir3 ($703.24 in chips) 
+ilir3: posts small blind $3
+JMBigJoe: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: folds 
+BKA12: folds 
+Flying Smile: folds 
+elenu1988: folds 
+ilir3: calls $3
+JMBigJoe: raises $9 to $15
+ilir3: raises $40 to $55
+JMBigJoe: folds 
+Uncalled bet ($40) returned to ilir3
+ilir3 collected $30 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: JMBigJoe (big blind) folded before Flop
+Seat 2: TTSIP folded before Flop (didn't bet)
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 (button) folded before Flop (didn't bet)
+Seat 6: ilir3 (small blind) collected ($30)
+
+
+PokerStars Game #102617042910:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:25:04 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #3 is the button
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: BKA12 ($988 in chips) 
+Seat 4: Flying Smile ($1105.31 in chips) 
+Seat 5: elenu1988 ($671.86 in chips) 
+Seat 6: ilir3 ($929.18 in chips) 
+Flying Smile: posts small blind $3
+elenu1988: posts big blind $6
+Nahar: sits out 
+*** HOLE CARDS ***
+ilir3: folds 
+floriiiiider: folds 
+BKA12: raises $9 to $15
+Flying Smile: folds 
+elenu1988: calls $9
+*** FLOP *** [7c 5s Ks]
+elenu1988: checks 
+BKA12: bets $18.91
+elenu1988: folds 
+Uncalled bet ($18.91) returned to BKA12
+BKA12 collected $31.52 from pot
+BKA12: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $1.48 
+Board [7c 5s Ks]
+Seat 2: floriiiiider folded before Flop (didn't bet)
+Seat 3: BKA12 (button) collected ($31.52)
+Seat 4: Flying Smile (small blind) folded before Flop
+Seat 5: elenu1988 (big blind) folded on the Flop
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102617074605:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:25:41 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: BKA12 ($1004.52 in chips) 
+Seat 4: Flying Smile ($1102.31 in chips) 
+Seat 5: elenu1988 ($656.86 in chips) 
+Seat 6: ilir3 ($929.18 in chips) 
+elenu1988: posts small blind $3
+ilir3: posts big blind $6
+Nahar: sits out 
+*** HOLE CARDS ***
+floriiiiider: folds 
+BKA12: folds 
+Flying Smile: raises $6 to $12
+elenu1988: folds 
+ilir3: calls $6
+*** FLOP *** [4d 5s 9d]
+ilir3: checks 
+elenu1988 leaves the table
+Flying Smile: bets $18
+ilir3: calls $18
+*** TURN *** [4d 5s 9d] [Jd]
+ilir3: checks 
+Flying Smile: bets $48
+ilir3: folds 
+Uncalled bet ($48) returned to Flying Smile
+Flying Smile collected $60.20 from pot
+*** SUMMARY ***
+Total pot $63 | Rake $2.80 
+Board [4d 5s 9d Jd]
+Seat 2: floriiiiider folded before Flop (didn't bet)
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile (button) collected ($60.20)
+Seat 5: elenu1988 (small blind) folded before Flop
+Seat 6: ilir3 (big blind) folded on the Turn
+
+
+PokerStars Game #102617130323:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:26:46 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #6 is the button
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: BKA12 ($1004.52 in chips) 
+Seat 4: Flying Smile ($1132.51 in chips) 
+Seat 6: ilir3 ($899.18 in chips) 
+Nahar will be allowed to play after the button
+floriiiiider: posts small blind $3
+BKA12: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+ilir3: raises $6 to $12
+floriiiiider: folds 
+BKA12: raises $27 to $39
+ilir3: folds 
+Uncalled bet ($27) returned to BKA12
+BKA12 collected $27 from pot
+BKA12: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 2: floriiiiider (small blind) folded before Flop
+Seat 3: BKA12 (big blind) collected ($27)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 6: ilir3 (button) folded before Flop
+
+
+PokerStars Game #102617143868:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:27:02 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Nahar ($240 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: BKA12 ($1019.52 in chips) 
+BKA12: posts small blind $3
+Flying Smile: is sitting out 
+ilir3: is sitting out 
+Nahar: posts big blind $6
+*** HOLE CARDS ***
+ilir3 leaves the table
+floriiiiider: raises $6 to $12
+borntotilt joins the table at seat #5 
+borntotilt leaves the table
+maloyd joins the table at seat #6 
+BKA12: folds 
+Nahar: calls $6
+*** FLOP *** [Qh 9s 4s]
+Flying Smile leaves the table
+Nahar: checks 
+checkitout12 joins the table at seat #4 
+floriiiiider: bets $18
+checkitout12 leaves the table
+dRobespierre joins the table at seat #4 
+dRobespierre leaves the table
+Nahar: calls $18
+*** TURN *** [Qh 9s 4s] [Js]
+Nahar: checks 
+floriiiiider: bets $42
+Nahar: folds 
+Uncalled bet ($42) returned to floriiiiider
+floriiiiider collected $61.50 from pot
+floriiiiider: doesn't show hand 
+*** SUMMARY ***
+Total pot $63 | Rake $1.50 
+Board [Qh 9s 4s Js]
+Seat 1: Nahar (big blind) folded on the Turn
+Seat 2: floriiiiider (button) collected ($61.50)
+Seat 3: BKA12 (small blind) folded before Flop
+
+
+PokerStars Game #102616790677:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:20:11 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Sir_Fuj1 ($245.46 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: BKA12 ($1012 in chips) 
+Seat 4: Flying Smile ($1105.31 in chips) 
+Seat 5: elenu1988 ($680.86 in chips) 
+Seat 6: ilir3 ($834.20 in chips) 
+Sir_Fuj1: posts small blind $3
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+BKA12: folds 
+Flying Smile: raises $12 to $18
+elenu1988: folds 
+ilir3: calls $18
+Sir_Fuj1: folds 
+floriiiiider: folds 
+*** FLOP *** [4c 9d 5h]
+Flying Smile: bets $24
+ilir3: calls $24
+*** TURN *** [4c 9d 5h] [9c]
+Flying Smile: checks 
+ilir3: bets $125
+Flying Smile: folds 
+Uncalled bet ($125) returned to ilir3
+ilir3 collected $90.20 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $93 | Rake $2.80 
+Board [4c 9d 5h 9c]
+Seat 1: Sir_Fuj1 (small blind) folded before Flop
+Seat 2: floriiiiider (big blind) folded before Flop
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile folded on the Turn
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 (button) collected ($90.20)
+
+
+PokerStars Game #102616854444:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:21:25 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Sir_Fuj1 ($242.46 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: BKA12 ($1012 in chips) 
+Seat 4: Flying Smile ($1063.31 in chips) 
+Seat 5: elenu1988 ($680.86 in chips) 
+Seat 6: ilir3 ($882.40 in chips) 
+floriiiiider: posts small blind $3
+BKA12: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+elenu1988: folds 
+ilir3: raises $6 to $12
+Sir_Fuj1: folds 
+floriiiiider: folds 
+BKA12: folds 
+Uncalled bet ($6) returned to ilir3
+ilir3 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Sir_Fuj1 (button) folded before Flop (didn't bet)
+Seat 2: floriiiiider (small blind) folded before Flop
+Seat 3: BKA12 (big blind) folded before Flop
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 collected ($15)
+
+
+PokerStars Game #102616868644:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:21:41 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Sir_Fuj1 ($242.46 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: BKA12 ($1006 in chips) 
+Seat 4: Flying Smile ($1063.31 in chips) 
+Seat 5: elenu1988 ($680.86 in chips) 
+Seat 6: ilir3 ($891.40 in chips) 
+BKA12: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+elenu1988: folds 
+ilir3: raises $9 to $15
+Sir_Fuj1: raises $21 to $36
+floriiiiider: folds 
+BKA12: folds 
+Flying Smile: folds 
+ilir3: raises $855.40 to $891.40 and is all-in
+Sir_Fuj1: folds 
+Uncalled bet ($855.40) returned to ilir3
+ilir3 collected $81 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $81 | Rake $0 
+Seat 1: Sir_Fuj1 folded before Flop
+Seat 2: floriiiiider (button) folded before Flop (didn't bet)
+Seat 3: BKA12 (small blind) folded before Flop
+Seat 4: Flying Smile (big blind) folded before Flop
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 collected ($81)
+
+
+PokerStars Game #102616907899:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:22:27 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Sir_Fuj1 ($240 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: BKA12 ($1003 in chips) 
+Seat 4: Flying Smile ($1057.31 in chips) 
+Seat 5: elenu1988 ($680.86 in chips) 
+Seat 6: ilir3 ($936.40 in chips) 
+Flying Smile: posts small blind $3
+elenu1988: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+Sir_Fuj1: raises $12 to $18
+floriiiiider: folds 
+BKA12: folds 
+Flying Smile: raises $30 to $48
+elenu1988: folds 
+Sir_Fuj1: folds 
+Uncalled bet ($30) returned to Flying Smile
+Flying Smile collected $42 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0 
+Seat 1: Sir_Fuj1 folded before Flop
+Seat 2: floriiiiider folded before Flop (didn't bet)
+Seat 3: BKA12 (button) folded before Flop (didn't bet)
+Seat 4: Flying Smile (small blind) collected ($42)
+Seat 5: elenu1988 (big blind) folded before Flop
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102616923830:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:22:45 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Sir_Fuj1 ($222 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: BKA12 ($1003 in chips) 
+Seat 4: Flying Smile ($1081.31 in chips) 
+Seat 5: elenu1988 ($674.86 in chips) 
+Seat 6: ilir3 ($936.40 in chips) 
+elenu1988: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+Sir_Fuj1: folds 
+floriiiiider: folds 
+BKA12: folds 
+Flying Smile: raises $6 to $12
+elenu1988: folds 
+ilir3: folds 
+Uncalled bet ($6) returned to Flying Smile
+Flying Smile collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 2: floriiiiider folded before Flop (didn't bet)
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile (button) collected ($15)
+Seat 5: elenu1988 (small blind) folded before Flop
+Seat 6: ilir3 (big blind) folded before Flop
+
+
+PokerStars Game #102616941779:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:23:06 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #5 is the button
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: BKA12 ($1003 in chips) 
+Seat 4: Flying Smile ($1090.31 in chips) 
+Seat 5: elenu1988 ($671.86 in chips) 
+Seat 6: ilir3 ($930.40 in chips) 
+ilir3: posts small blind $3
+Sir_Fuj1: is sitting out 
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+BKA12: folds 
+Flying Smile: folds 
+Sir_Fuj1 leaves the table
+elenu1988: folds 
+ilir3: folds 
+Uncalled bet ($3) returned to floriiiiider
+floriiiiider collected $6 from pot
+floriiiiider: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: floriiiiider (big blind) collected ($6)
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 (button) folded before Flop (didn't bet)
+Seat 6: ilir3 (small blind) folded before Flop
+
+
+PokerStars Game #102616955079:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:23:21 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #6 is the button
+Seat 2: floriiiiider ($603 in chips) 
+Seat 3: BKA12 ($1003 in chips) 
+Seat 4: Flying Smile ($1090.31 in chips) 
+Seat 5: elenu1988 ($671.86 in chips) 
+Seat 6: ilir3 ($927.40 in chips) 
+floriiiiider: posts small blind $3
+BKA12: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+elenu1988: folds 
+ilir3: raises $6 to $12
+floriiiiider: folds 
+BKA12: calls $6
+*** FLOP *** [8d 7d Jh]
+BKA12: checks 
+ilir3: checks 
+*** TURN *** [8d 7d Jh] [8s]
+BKA12: checks 
+ilir3: checks 
+*** RIVER *** [8d 7d Jh 8s] [5s]
+BKA12: checks 
+ilir3: checks 
+*** SHOW DOWN ***
+BKA12: shows [2c Kc] (a pair of Eights)
+ilir3: shows [Ac 4s] (a pair of Eights - Ace kicker)
+ilir3 collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [8d 7d Jh 8s 5s]
+Seat 2: floriiiiider (small blind) folded before Flop
+Seat 3: BKA12 (big blind) showed [2c Kc] and lost with a pair of Eights
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 (button) showed [Ac 4s] and won ($25.78) with a pair of Eights
+
+
+PokerStars Game #102617004991:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:24:19 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #2 is the button
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: BKA12 ($991 in chips) 
+Seat 4: Flying Smile ($1090.31 in chips) 
+Seat 5: elenu1988 ($671.86 in chips) 
+Seat 6: ilir3 ($941.18 in chips) 
+BKA12: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+elenu1988: folds 
+Nahar joins the table at seat #1 
+ilir3: raises $6 to $12
+floriiiiider: folds 
+BKA12: folds 
+Flying Smile: raises $33 to $45
+ilir3: folds 
+Uncalled bet ($33) returned to Flying Smile
+Flying Smile collected $27 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 2: floriiiiider (button) folded before Flop (didn't bet)
+Seat 3: BKA12 (small blind) folded before Flop
+Seat 4: Flying Smile (big blind) collected ($27)
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 folded before Flop
+
+
+PokerStars Game #102616568073:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:15:54 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Sir_Fuj1 ($243 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: BKA12 ($765.80 in chips) 
+Seat 4: Flying Smile ($1096.31 in chips) 
+Seat 5: elenu1988 ($689.86 in chips) 
+Seat 6: ilir3 ($600 in chips) 
+Sir_Fuj1: posts small blind $3
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+BKA12: folds 
+Flying Smile: folds 
+elenu1988: folds 
+ilir3: raises $6 to $12
+Sir_Fuj1: raises $24 to $36
+floriiiiider: folds 
+ilir3: calls $24
+*** FLOP *** [2d 8d 9s]
+Sir_Fuj1: checks 
+ilir3: bets $36
+Sir_Fuj1: raises $171 to $207 and is all-in
+ilir3: calls $171
+*** FIRST TURN *** [2d 8d 9s] [Ks]
+*** FIRST RIVER *** [2d 8d 9s Ks] [Td]
+*** SECOND TURN *** [2d 8d 9s] [5d]
+*** SECOND RIVER *** [2d 8d 9s 5d] [4h]
+*** FIRST SHOW DOWN ***
+Sir_Fuj1: shows [Ts Qh] (a pair of Tens)
+ilir3: shows [9d Ad] (a flush, Ace high)
+ilir3 collected $244.60 from pot
+*** SECOND SHOW DOWN ***
+Sir_Fuj1: shows [Ts Qh] (high card Queen)
+ilir3: shows [9d Ad] (a flush, Ace high)
+ilir3 collected $244.60 from pot
+*** SUMMARY ***
+Total pot $492 | Rake $2.80 
+Hand was run twice
+FIRST Board [2d 8d 9s Ks Td]
+SECOND Board [2d 8d 9s 5d 4h]
+Seat 1: Sir_Fuj1 (small blind) showed [Ts Qh] and lost with a pair of Tens, and lost with high card Queen
+Seat 2: floriiiiider (big blind) folded before Flop
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 (button) showed [9d Ad] and won ($244.60) with a flush, Ace high, and won ($244.60) with a flush, Ace high
+
+
+PokerStars Game #102616618911:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:16:53 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Sir_Fuj1 ($240 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: BKA12 ($765.80 in chips) 
+Seat 4: Flying Smile ($1096.31 in chips) 
+Seat 5: elenu1988 ($689.86 in chips) 
+Seat 6: ilir3 ($846.20 in chips) 
+floriiiiider: posts small blind $3
+BKA12: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+elenu1988: folds 
+ilir3: folds 
+Sir_Fuj1: folds 
+floriiiiider: folds 
+Uncalled bet ($3) returned to BKA12
+BKA12 collected $6 from pot
+BKA12: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Sir_Fuj1 (button) folded before Flop (didn't bet)
+Seat 2: floriiiiider (small blind) folded before Flop
+Seat 3: BKA12 (big blind) collected ($6)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102616626268:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:17:01 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Sir_Fuj1 ($240 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: BKA12 ($768.80 in chips) 
+Seat 4: Flying Smile ($1096.31 in chips) 
+Seat 5: elenu1988 ($689.86 in chips) 
+Seat 6: ilir3 ($846.20 in chips) 
+BKA12: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+elenu1988: folds 
+ilir3: folds 
+Sir_Fuj1: folds 
+floriiiiider: folds 
+BKA12: folds 
+Uncalled bet ($3) returned to Flying Smile
+Flying Smile collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 2: floriiiiider (button) folded before Flop (didn't bet)
+Seat 3: BKA12 (small blind) folded before Flop
+Seat 4: Flying Smile (big blind) collected ($6)
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102616675533:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:17:58 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Sir_Fuj1 ($240 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: BKA12 ($765.80 in chips) 
+Seat 4: Flying Smile ($1099.31 in chips) 
+Seat 5: elenu1988 ($689.86 in chips) 
+Seat 6: ilir3 ($846.20 in chips) 
+Flying Smile: posts small blind $3
+elenu1988: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+Sir_Fuj1: folds 
+floriiiiider: folds 
+BKA12: folds 
+Flying Smile: raises $12 to $18
+elenu1988: folds 
+Uncalled bet ($12) returned to Flying Smile
+Flying Smile collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 2: floriiiiider folded before Flop (didn't bet)
+Seat 3: BKA12 (button) folded before Flop (didn't bet)
+Seat 4: Flying Smile (small blind) collected ($12)
+Seat 5: elenu1988 (big blind) folded before Flop
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102616690626:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:18:16 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Sir_Fuj1 ($240 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: BKA12 ($765.80 in chips) 
+Seat 4: Flying Smile ($1105.31 in chips) 
+Seat 5: elenu1988 ($683.86 in chips) 
+Seat 6: ilir3 ($846.20 in chips) 
+elenu1988: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+Sir_Fuj1: raises $12 to $18
+floriiiiider: folds 
+BKA12: calls $18
+Flying Smile: folds 
+elenu1988: folds 
+ilir3: folds 
+*** FLOP *** [8s 4c 6d]
+Sir_Fuj1: checks 
+BKA12: bets $25.78
+Sir_Fuj1: raises $46.22 to $72
+BKA12: calls $46.22
+*** TURN *** [8s 4c 6d] [Kc]
+Sir_Fuj1: bets $150 and is all-in
+BKA12: calls $150
+*** FIRST RIVER *** [8s 4c 6d Kc] [9d]
+*** SECOND RIVER *** [8s 4c 6d Kc] [Th]
+*** FIRST SHOW DOWN ***
+Sir_Fuj1: shows [Js Jh] (a pair of Jacks)
+BKA12: shows [As Ad] (a pair of Aces)
+BKA12 collected $243.10 from pot
+*** SECOND SHOW DOWN ***
+Sir_Fuj1: shows [Js Jh] (a pair of Jacks)
+BKA12: shows [As Ad] (a pair of Aces)
+BKA12 collected $243.10 from pot
+*** SUMMARY ***
+Total pot $489 | Rake $2.80 
+Hand was run twice
+FIRST Board [8s 4c 6d Kc 9d]
+SECOND Board [8s 4c 6d Kc Th]
+Seat 1: Sir_Fuj1 showed [Js Jh] and lost with a pair of Jacks, and lost with a pair of Jacks
+Seat 2: floriiiiider folded before Flop (didn't bet)
+Seat 3: BKA12 showed [As Ad] and won ($243.10) with a pair of Aces, and won ($243.10) with a pair of Aces
+Seat 4: Flying Smile (button) folded before Flop (didn't bet)
+Seat 5: elenu1988 (small blind) folded before Flop
+Seat 6: ilir3 (big blind) folded before Flop
+
+
+PokerStars Game #102616748856:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:19:23 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Sir_Fuj1 ($240 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: BKA12 ($1012 in chips) 
+Seat 4: Flying Smile ($1105.31 in chips) 
+Seat 5: elenu1988 ($680.86 in chips) 
+Seat 6: ilir3 ($840.20 in chips) 
+ilir3: posts small blind $3
+Sir_Fuj1: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider: folds 
+BKA12: folds 
+Flying Smile: folds 
+elenu1988: folds 
+ilir3: calls $3
+Sir_Fuj1: checks 
+*** FLOP *** [3h 3c 7s]
+ilir3: checks 
+Sir_Fuj1: bets $6
+ilir3: folds 
+Uncalled bet ($6) returned to Sir_Fuj1
+Sir_Fuj1 collected $11.46 from pot
+Sir_Fuj1: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0.54 
+Board [3h 3c 7s]
+Seat 1: Sir_Fuj1 (big blind) collected ($11.46)
+Seat 2: floriiiiider folded before Flop (didn't bet)
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 (button) folded before Flop (didn't bet)
+Seat 6: ilir3 (small blind) folded on the Flop
+
+
+PokerStars Game #102616273453:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:10:12 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #2 is the button
+Seat 2: TTSIP ($600 in chips) 
+Seat 3: BKA12 ($777.80 in chips) 
+Seat 4: Flying Smile ($1082.94 in chips) 
+Seat 5: elenu1988 ($335.83 in chips) 
+Seat 6: ilir3 ($801.35 in chips) 
+BKA12: posts small blind $3
+Flying Smile: posts big blind $6
+Sir_Fuj1: sits out 
+*** HOLE CARDS ***
+elenu1988: raises $6 to $12
+ilir3: folds 
+TTSIP: raises $24 to $36
+BKA12: folds 
+Flying Smile: raises $48 to $84
+elenu1988: raises $251.83 to $335.83 and is all-in
+TTSIP: folds 
+Flying Smile: calls $251.83
+*** FLOP *** [2s 7d 3c]
+*** TURN *** [2s 7d 3c] [Qs]
+*** RIVER *** [2s 7d 3c Qs] [4d]
+*** SHOW DOWN ***
+Flying Smile: shows [Kh Kc] (a pair of Kings)
+elenu1988: shows [7c 7s] (three of a kind, Sevens)
+elenu1988 collected $707.86 from pot
+*** SUMMARY ***
+Total pot $710.66 | Rake $2.80 
+Board [2s 7d 3c Qs 4d]
+Seat 2: TTSIP (button) folded before Flop
+Seat 3: BKA12 (small blind) folded before Flop
+Seat 4: Flying Smile (big blind) showed [Kh Kc] and lost with a pair of Kings
+Seat 5: elenu1988 showed [7c 7s] and won ($707.86) with three of a kind, Sevens
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102616320075:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:11:06 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #3 is the button
+Seat 2: TTSIP ($600 in chips) 
+Seat 3: BKA12 ($774.80 in chips) 
+Seat 4: Flying Smile ($747.11 in chips) 
+Seat 5: elenu1988 ($707.86 in chips) 
+Seat 6: ilir3 ($801.35 in chips) 
+Flying Smile: posts small blind $3
+elenu1988: posts big blind $6
+Sir_Fuj1: sits out 
+*** HOLE CARDS ***
+ilir3: raises $9 to $15
+TTSIP: folds 
+BKA12: folds 
+Flying Smile: folds 
+elenu1988: calls $9
+*** FLOP *** [6d 6h 4s]
+elenu1988: checks 
+ilir3: bets $18
+elenu1988: folds 
+Uncalled bet ($18) returned to ilir3
+ilir3 collected $31.52 from pot
+*** SUMMARY ***
+Total pot $33 | Rake $1.48 
+Board [6d 6h 4s]
+Seat 2: TTSIP folded before Flop (didn't bet)
+Seat 3: BKA12 (button) folded before Flop (didn't bet)
+Seat 4: Flying Smile (small blind) folded before Flop
+Seat 5: elenu1988 (big blind) folded on the Flop
+Seat 6: ilir3 collected ($31.52)
+
+
+PokerStars Game #102616345197:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:11:35 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 2: TTSIP ($600 in chips) 
+Seat 3: BKA12 ($774.80 in chips) 
+Seat 4: Flying Smile ($744.11 in chips) 
+Seat 5: elenu1988 ($692.86 in chips) 
+Seat 6: ilir3 ($817.87 in chips) 
+elenu1988: posts small blind $3
+ilir3: posts big blind $6
+Sir_Fuj1: sits out 
+*** HOLE CARDS ***
+TTSIP: folds 
+BKA12: folds 
+Flying Smile: raises $6 to $12
+elenu1988: folds 
+ilir3: folds 
+Uncalled bet ($6) returned to Flying Smile
+Flying Smile collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: TTSIP folded before Flop (didn't bet)
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile (button) collected ($15)
+Seat 5: elenu1988 (small blind) folded before Flop
+Seat 6: ilir3 (big blind) folded before Flop
+
+
+PokerStars Game #102616377020:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:12:12 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Sir_Fuj1 ($240 in chips) 
+Seat 2: TTSIP ($600 in chips) 
+Seat 3: BKA12 ($774.80 in chips) 
+Seat 4: Flying Smile ($753.11 in chips) 
+Seat 5: elenu1988 ($689.86 in chips) 
+Seat 6: ilir3 ($811.87 in chips) 
+ilir3: posts small blind $3
+Sir_Fuj1: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: folds 
+BKA12 has timed out
+BKA12: folds 
+Flying Smile: folds 
+elenu1988: folds 
+ilir3: folds 
+Uncalled bet ($3) returned to Sir_Fuj1
+Sir_Fuj1 collected $6 from pot
+Sir_Fuj1: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Sir_Fuj1 (big blind) collected ($6)
+Seat 2: TTSIP folded before Flop (didn't bet)
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 (button) folded before Flop (didn't bet)
+Seat 6: ilir3 (small blind) folded before Flop
+
+
+PokerStars Game #102616402347:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:12:42 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Sir_Fuj1 ($243 in chips) 
+Seat 3: BKA12 ($774.80 in chips) 
+Seat 4: Flying Smile ($753.11 in chips) 
+Seat 5: elenu1988 ($689.86 in chips) 
+Seat 6: ilir3 ($808.87 in chips) 
+Sir_Fuj1: posts small blind $3
+TTSIP: is sitting out 
+TTSIP leaves the table
+BKA12: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+floriiiiider joins the table at seat #2 
+elenu1988: folds 
+ilir3: folds 
+Sir_Fuj1: raises $9 to $15
+BKA12: folds 
+Uncalled bet ($9) returned to Sir_Fuj1
+Sir_Fuj1 collected $12 from pot
+Sir_Fuj1: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Sir_Fuj1 (small blind) collected ($12)
+Seat 3: BKA12 (big blind) folded before Flop
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: elenu1988 folded before Flop (didn't bet)
+Seat 6: ilir3 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102616417194:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:12:59 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Sir_Fuj1 ($249 in chips) 
+Seat 3: BKA12 ($768.80 in chips) 
+Seat 4: Flying Smile ($753.11 in chips) 
+Seat 5: elenu1988 ($689.86 in chips) 
+Seat 6: ilir3 ($808.87 in chips) 
+floriiiiider will be allowed to play after the button
+BKA12: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+elenu1988: raises $6 to $12
+ilir3: folds 
+Sir_Fuj1: folds 
+BKA12: folds 
+Flying Smile: folds 
+Uncalled bet ($6) returned to elenu1988
+elenu1988 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Sir_Fuj1 (button) folded before Flop (didn't bet)
+Seat 3: BKA12 (small blind) folded before Flop
+Seat 4: Flying Smile (big blind) folded before Flop
+Seat 5: elenu1988 collected ($15)
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102616430970:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:13:15 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Sir_Fuj1 ($249 in chips) 
+Seat 3: BKA12 ($765.80 in chips) 
+Seat 4: Flying Smile ($747.11 in chips) 
+Seat 5: elenu1988 ($698.86 in chips) 
+Seat 6: ilir3 ($808.87 in chips) 
+Flying Smile: posts small blind $3
+elenu1988: posts big blind $6
+floriiiiider: sits out 
+*** HOLE CARDS ***
+ilir3: folds 
+Sir_Fuj1: folds 
+BKA12: folds 
+Flying Smile: raises $12 to $18
+elenu1988: folds 
+Uncalled bet ($12) returned to Flying Smile
+Flying Smile collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 3: BKA12 (button) folded before Flop (didn't bet)
+Seat 4: Flying Smile (small blind) collected ($12)
+Seat 5: elenu1988 (big blind) folded before Flop
+Seat 6: ilir3 folded before Flop (didn't bet)
+
+
+PokerStars Game #102616458735:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:13:48 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Sir_Fuj1 ($249 in chips) 
+Seat 3: BKA12 ($765.80 in chips) 
+Seat 4: Flying Smile ($753.11 in chips) 
+Seat 5: elenu1988 ($692.86 in chips) 
+Seat 6: ilir3 ($808.87 in chips) 
+elenu1988: posts small blind $3
+ilir3: posts big blind $6
+floriiiiider: sits out 
+*** HOLE CARDS ***
+Sir_Fuj1: folds 
+BKA12: folds 
+Flying Smile: folds 
+elenu1988: folds 
+Uncalled bet ($3) returned to ilir3
+ilir3 collected $6 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile (button) folded before Flop (didn't bet)
+Seat 5: elenu1988 (small blind) folded before Flop
+Seat 6: ilir3 (big blind) collected ($6)
+
+
+PokerStars Game #102616489836:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:14:24 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Sir_Fuj1 ($249 in chips) 
+Seat 3: BKA12 ($765.80 in chips) 
+Seat 4: Flying Smile ($753.11 in chips) 
+Seat 5: elenu1988 ($689.86 in chips) 
+Seat 6: ilir3 ($811.87 in chips) 
+ilir3: posts small blind $3
+Sir_Fuj1: posts big blind $6
+floriiiiider: sits out 
+*** HOLE CARDS ***
+BKA12: folds 
+Flying Smile: raises $9 to $15
+elenu1988: folds 
+ilir3: raises $40 to $55
+Sir_Fuj1: folds 
+Flying Smile: calls $40
+*** FLOP *** [6s 9c Qs]
+ilir3: bets $72
+Flying Smile: raises $72 to $144
+ilir3: calls $72
+*** TURN *** [6s 9c Qs] [5h]
+ilir3: checks 
+Flying Smile: bets $141
+ilir3: calls $141
+*** RIVER *** [6s 9c Qs 5h] [Qd]
+ilir3: checks 
+Flying Smile: bets $413.11 and is all-in
+ilir3: folds 
+Uncalled bet ($413.11) returned to Flying Smile
+Flying Smile collected $683.20 from pot
+*** SUMMARY ***
+Total pot $686 | Rake $2.80 
+Board [6s 9c Qs 5h Qd]
+Seat 1: Sir_Fuj1 (big blind) folded before Flop
+Seat 3: BKA12 folded before Flop (didn't bet)
+Seat 4: Flying Smile collected ($683.20)
+Seat 5: elenu1988 (button) folded before Flop (didn't bet)
+Seat 6: ilir3 (small blind) folded on the River
+
+
+PokerStars Game #102618126866:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:45:22 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($627.28 in chips) 
+Seat 2: BigGOGl ($600 in chips) 
+Seat 3: SaleH25 ($269.46 in chips) 
+Seat 4: teunuss ($856.20 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: shevliak ($240 in chips) 
+BigGOGl: posts small blind $3
+SaleH25: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $12 to $18
+Subv: folds 
+shevliak: raises $27.30 to $45.30
+mikimiki88: folds 
+BigGOGl: folds 
+SaleH25: folds 
+teunuss: folds 
+Uncalled bet ($27.30) returned to shevliak
+shevliak collected $45 from pot
+shevliak: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $0 
+Seat 1: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 2: BigGOGl (small blind) folded before Flop
+Seat 3: SaleH25 (big blind) folded before Flop
+Seat 4: teunuss folded before Flop
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: shevliak collected ($45)
+
+
+PokerStars Game #102618153742:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:45:52 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: mikimiki88 ($627.28 in chips) 
+Seat 2: BigGOGl ($600 in chips) 
+Seat 3: SaleH25 ($263.46 in chips) 
+Seat 4: teunuss ($838.20 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: shevliak ($267 in chips) 
+SaleH25: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+Subv: folds 
+shevliak: folds 
+mikimiki88: raises $6 to $12
+BigGOGl: folds 
+SaleH25: calls $9
+teunuss: folds 
+*** FLOP *** [3h 7d Kh]
+SaleH25: checks 
+mikimiki88: bets $16.90
+SaleH25: raises $19.10 to $36
+mikimiki88: calls $19.10
+*** TURN *** [3h 7d Kh] [Qc]
+SaleH25: bets $60
+mikimiki88: folds 
+Uncalled bet ($60) returned to SaleH25
+SaleH25 collected $99.20 from pot
+SaleH25: doesn't show hand 
+*** SUMMARY ***
+Total pot $102 | Rake $2.80 
+Board [3h 7d Kh Qc]
+Seat 1: mikimiki88 folded on the Turn
+Seat 2: BigGOGl (button) folded before Flop (didn't bet)
+Seat 3: SaleH25 (small blind) collected ($99.20)
+Seat 4: teunuss (big blind) folded before Flop
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: shevliak folded before Flop (didn't bet)
+
+
+PokerStars Game #102618205081:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:46:48 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: mikimiki88 ($600 in chips) 
+Seat 2: BigGOGl ($600 in chips) 
+Seat 3: SaleH25 ($314.66 in chips) 
+Seat 4: teunuss ($832.20 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: shevliak ($267 in chips) 
+teunuss: posts small blind $3
+Subv: posts big blind $6
+*** HOLE CARDS ***
+shevliak: folds 
+mikimiki88: raises $12 to $18
+BigGOGl: folds 
+SaleH25: folds 
+teunuss: folds 
+Subv: folds 
+Uncalled bet ($12) returned to mikimiki88
+mikimiki88 collected $15 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 collected ($15)
+Seat 2: BigGOGl folded before Flop (didn't bet)
+Seat 3: SaleH25 (button) folded before Flop (didn't bet)
+Seat 4: teunuss (small blind) folded before Flop
+Seat 5: Subv (big blind) folded before Flop
+Seat 6: shevliak folded before Flop (didn't bet)
+
+
+PokerStars Game #102618232940:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:47:19 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($609 in chips) 
+Seat 2: BigGOGl ($600 in chips) 
+Seat 3: SaleH25 ($314.66 in chips) 
+Seat 4: teunuss ($829.20 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: shevliak ($267 in chips) 
+Subv: posts small blind $3
+shevliak: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+BigGOGl: folds 
+SaleH25: calls $6
+teunuss: folds 
+Subv: folds 
+shevliak: raises $15 to $21
+SaleH25: calls $15
+*** FLOP *** [Ac 7s 8c]
+shevliak: bets $27.50
+SaleH25: folds 
+Uncalled bet ($27.50) returned to shevliak
+shevliak collected $42.98 from pot
+shevliak: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $2.02 
+Board [Ac 7s 8c]
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: BigGOGl folded before Flop (didn't bet)
+Seat 3: SaleH25 folded on the Flop
+Seat 4: teunuss (button) folded before Flop (didn't bet)
+Seat 5: Subv (small blind) folded before Flop
+Seat 6: shevliak (big blind) collected ($42.98)
+
+
+PokerStars Game #102618277610:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:48:09 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: mikimiki88 ($609 in chips) 
+Seat 2: BigGOGl ($600 in chips) 
+Seat 3: SaleH25 ($293.66 in chips) 
+Seat 4: teunuss ($829.20 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: shevliak ($288.98 in chips) 
+shevliak: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+BigGOGl: folds 
+SaleH25: folds 
+teunuss: folds 
+Subv: raises $6.30 to $12.30
+shevliak: folds 
+mikimiki88: calls $6.30
+*** FLOP *** [Js Kc 9h]
+mikimiki88: checks 
+Subv: bets $18
+mikimiki88: folds 
+Uncalled bet ($18) returned to Subv
+Subv collected $26.36 from pot
+Subv: doesn't show hand 
+*** SUMMARY ***
+Total pot $27.60 | Rake $1.24 
+Board [Js Kc 9h]
+Seat 1: mikimiki88 (big blind) folded on the Flop
+Seat 2: BigGOGl folded before Flop (didn't bet)
+Seat 3: SaleH25 folded before Flop (didn't bet)
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 5: Subv (button) collected ($26.36)
+Seat 6: shevliak (small blind) folded before Flop
+
+
+PokerStars Game #102618313468:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:48:50 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: mikimiki88 ($600 in chips) 
+Seat 2: BigGOGl ($600 in chips) 
+Seat 3: SaleH25 ($293.66 in chips) 
+Seat 4: teunuss ($829.20 in chips) 
+Seat 5: Subv ($614.06 in chips) 
+Seat 6: shevliak ($285.98 in chips) 
+mikimiki88: posts small blind $3
+BigGOGl: posts big blind $6
+*** HOLE CARDS ***
+SaleH25: folds 
+teunuss: folds 
+Subv: folds 
+shevliak: folds 
+mikimiki88: folds 
+Uncalled bet ($3) returned to BigGOGl
+BigGOGl collected $6 from pot
+BigGOGl: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: mikimiki88 (small blind) folded before Flop
+Seat 2: BigGOGl (big blind) collected ($6)
+Seat 3: SaleH25 folded before Flop (didn't bet)
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: shevliak (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102618323525:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:49:01 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($600 in chips) 
+Seat 2: BigGOGl ($603 in chips) 
+Seat 3: SaleH25 ($293.66 in chips) 
+Seat 4: teunuss ($829.20 in chips) 
+Seat 5: Subv ($614.06 in chips) 
+Seat 6: shevliak ($285.98 in chips) 
+BigGOGl: posts small blind $3
+SaleH25: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $12 to $18
+Subv: folds 
+shevliak: folds 
+mikimiki88: folds 
+BigGOGl: folds 
+SaleH25: calls $12
+*** FLOP *** [Qh Qc 6h]
+SaleH25: checks 
+teunuss: bets $24
+SaleH25: folds 
+Uncalled bet ($24) returned to teunuss
+teunuss collected $37.24 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [Qh Qc 6h]
+Seat 1: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 2: BigGOGl (small blind) folded before Flop
+Seat 3: SaleH25 (big blind) folded on the Flop
+Seat 4: teunuss collected ($37.24)
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: shevliak folded before Flop (didn't bet)
+
+
+PokerStars Game #102618359195:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:49:41 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: mikimiki88 ($600 in chips) 
+Seat 2: BigGOGl ($600 in chips) 
+Seat 3: SaleH25 ($275.66 in chips) 
+Seat 4: teunuss ($848.44 in chips) 
+Seat 5: Subv ($614.06 in chips) 
+Seat 6: shevliak ($285.98 in chips) 
+SaleH25: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+Subv: folds 
+shevliak: folds 
+mikimiki88: folds 
+BigGOGl: raises $6 to $12
+SaleH25: folds 
+teunuss: folds 
+Uncalled bet ($6) returned to BigGOGl
+BigGOGl collected $15 from pot
+BigGOGl: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: BigGOGl (button) collected ($15)
+Seat 3: SaleH25 (small blind) folded before Flop
+Seat 4: teunuss (big blind) folded before Flop
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: shevliak folded before Flop (didn't bet)
+
+
+PokerStars Game #102617968031:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:42:26 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($600 in chips) 
+Seat 4: teunuss ($812.40 in chips) 
+Seat 5: Subv ($600 in chips) 
+BigGOGl will be allowed to play after the button
+SaleH25 will be allowed to play after the button
+teunuss: posts small blind $3
+Subv: posts big blind $6
+shevliak: sits out 
+*** HOLE CARDS ***
+mikimiki88: raises $6 to $12
+teunuss: folds 
+Subv: calls $6
+*** FLOP *** [9h 6s 6d]
+Subv: checks 
+mikimiki88: bets $15.21
+Subv: folds 
+Uncalled bet ($15.21) returned to mikimiki88
+mikimiki88 collected $25.78 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [9h 6s 6d]
+Seat 1: mikimiki88 (button) collected ($25.78)
+Seat 4: teunuss (small blind) folded before Flop
+Seat 5: Subv (big blind) folded on the Flop
+
+
+PokerStars Game #102617993269:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:42:54 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($613.78 in chips) 
+Seat 4: teunuss ($809.40 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: shevliak ($240 in chips) 
+Subv: posts small blind $3
+shevliak: posts big blind $6
+BigGOGl: sits out 
+SaleH25: sits out 
+*** HOLE CARDS ***
+mikimiki88: raises $12 to $18
+teunuss: folds 
+Subv: calls $15
+shevliak: folds 
+*** FLOP *** [3d 4c Jd]
+Subv: checks 
+mikimiki88: checks 
+*** TURN *** [3d 4c Jd] [4h]
+Subv: checks 
+mikimiki88: bets $23.89
+Subv: folds 
+Uncalled bet ($23.89) returned to mikimiki88
+mikimiki88 collected $40.50 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $42 | Rake $1.50 
+Board [3d 4c Jd 4h]
+Seat 1: mikimiki88 collected ($40.50)
+Seat 4: teunuss (button) folded before Flop (didn't bet)
+Seat 5: Subv (small blind) folded on the Turn
+Seat 6: shevliak (big blind) folded before Flop
+
+
+PokerStars Game #102618065167:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:44:14 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: mikimiki88 ($636.28 in chips) 
+Seat 4: teunuss ($809.40 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: shevliak ($240 in chips) 
+shevliak: posts small blind $3
+mikimiki88: posts big blind $6
+BigGOGl: sits out 
+SaleH25: sits out 
+*** HOLE CARDS ***
+teunuss: folds 
+Subv: folds 
+shevliak: raises $6.90 to $12.90
+mikimiki88: folds 
+Uncalled bet ($6.90) returned to shevliak
+shevliak collected $12 from pot
+shevliak: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: mikimiki88 (big blind) folded before Flop
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 5: Subv (button) folded before Flop (didn't bet)
+Seat 6: shevliak (small blind) collected ($12)
+
+
+PokerStars Game #102618080882:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:44:31 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: mikimiki88 ($630.28 in chips) 
+Seat 2: BigGOGl ($600 in chips) 
+Seat 4: teunuss ($809.40 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: shevliak ($246 in chips) 
+mikimiki88: posts small blind $3
+BigGOGl: posts big blind $6
+SaleH25: sits out 
+*** HOLE CARDS ***
+teunuss: raises $9 to $15
+Subv: folds 
+shevliak: raises $22.80 to $37.80
+mikimiki88: folds 
+BigGOGl: folds 
+teunuss: raises $771.60 to $809.40 and is all-in
+shevliak: folds 
+Uncalled bet ($771.60) returned to teunuss
+teunuss collected $84.60 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $84.60 | Rake $0 
+Seat 1: mikimiki88 (small blind) folded before Flop
+Seat 2: BigGOGl (big blind) folded before Flop
+Seat 4: teunuss collected ($84.60)
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: shevliak (button) folded before Flop
+
+
+PokerStars Game #102617839970:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:40:03 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($719.86 in chips) 
+Seat 4: teunuss ($603 in chips) 
+teunuss: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+mikimiki88: raises $34 to $46
+teunuss: calls $34
+*** FLOP *** [Qd Qc 6d]
+mikimiki88: bets $53.98
+teunuss: folds 
+Uncalled bet ($53.98) returned to mikimiki88
+mikimiki88 collected $91.50 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $92 | Rake $0.50 
+Board [Qd Qc 6d]
+Seat 1: mikimiki88 (big blind) collected ($91.50)
+Seat 4: teunuss (button) (small blind) folded on the Flop
+
+
+PokerStars Game #102617857619:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:40:23 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($765.36 in chips) 
+Seat 4: teunuss ($600 in chips) 
+mikimiki88: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to mikimiki88
+mikimiki88 collected $12 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: mikimiki88 (button) (small blind) collected ($12)
+Seat 4: teunuss (big blind) folded before Flop
+
+
+PokerStars Game #102617874158:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:40:41 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($771.36 in chips) 
+Seat 4: teunuss ($600 in chips) 
+teunuss: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Uncalled bet ($3) returned to mikimiki88
+mikimiki88 collected $6 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: mikimiki88 (big blind) collected ($6)
+Seat 4: teunuss (button) (small blind) folded before Flop
+
+
+PokerStars Game #102617880040:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:40:48 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($774.36 in chips) 
+Seat 4: teunuss ($600 in chips) 
+mikimiki88: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: raises $6 to $12
+teunuss: raises $33 to $45
+mikimiki88: calls $33
+*** FLOP *** [Ah 8s 9d]
+teunuss: checks 
+mikimiki88: bets $52.80
+teunuss: calls $52.80
+*** TURN *** [Ah 8s 9d] [5h]
+teunuss: checks 
+Subv joins the table at seat #5 
+SaleH25 joins the table at seat #3 
+mikimiki88: bets $115.10
+BigGOGl joins the table at seat #2 
+shevliak joins the table at seat #6 
+teunuss: calls $115.10
+*** RIVER *** [Ah 8s 9d 5h] [4s]
+teunuss: checks 
+mikimiki88: checks 
+*** SHOW DOWN ***
+teunuss: shows [Ac Tc] (a pair of Aces)
+mikimiki88: mucks hand 
+teunuss collected $425.30 from pot
+*** SUMMARY ***
+Total pot $425.80 | Rake $0.50 
+Board [Ah 8s 9d 5h 4s]
+Seat 1: mikimiki88 (button) (small blind) mucked
+Seat 4: teunuss (big blind) showed [Ac Tc] and won ($425.30) with a pair of Aces
+
+
+PokerStars Game #102617657255:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:36:40 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($600 in chips) 
+Seat 4: teunuss ($600 in chips) 
+mikimiki88: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [Kh 8c 3d]
+teunuss: checks 
+mikimiki88: bets $13.86
+teunuss: folds 
+Uncalled bet ($13.86) returned to mikimiki88
+mikimiki88 collected $23.50 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Kh 8c 3d]
+Seat 1: mikimiki88 (button) (small blind) collected ($23.50)
+Seat 4: teunuss (big blind) folded on the Flop
+
+
+PokerStars Game #102617679977:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:37:05 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($611.50 in chips) 
+Seat 4: teunuss ($600 in chips) 
+teunuss: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+mikimiki88: calls $6
+*** FLOP *** [7d 6h Kh]
+mikimiki88: checks 
+teunuss: checks 
+*** TURN *** [7d 6h Kh] [Kd]
+mikimiki88: checks 
+teunuss: checks 
+*** RIVER *** [7d 6h Kh Kd] [Td]
+mikimiki88: bets $19.26
+teunuss: folds 
+Uncalled bet ($19.26) returned to mikimiki88
+mikimiki88 collected $23.50 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [7d 6h Kh Kd Td]
+Seat 1: mikimiki88 (big blind) collected ($23.50)
+Seat 4: teunuss (button) (small blind) folded on the River
+
+
+PokerStars Game #102617706209:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:37:34 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($623 in chips) 
+Seat 4: teunuss ($600 in chips) 
+mikimiki88: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to mikimiki88
+mikimiki88 collected $12 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: mikimiki88 (button) (small blind) collected ($12)
+Seat 4: teunuss (big blind) folded before Flop
+
+
+PokerStars Game #102617710984:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:37:39 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($629 in chips) 
+Seat 4: teunuss ($600 in chips) 
+teunuss: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+mikimiki88: calls $6
+*** FLOP *** [4d 4h 6c]
+mikimiki88: checks 
+teunuss: bets $15
+mikimiki88: calls $15
+*** TURN *** [4d 4h 6c] [5d]
+mikimiki88: checks 
+teunuss: bets $39
+mikimiki88: calls $39
+*** RIVER *** [4d 4h 6c 5d] [7c]
+mikimiki88: checks 
+teunuss: checks 
+*** SHOW DOWN ***
+mikimiki88: shows [7d Qd] (two pair, Sevens and Fours)
+teunuss: mucks hand 
+mikimiki88 collected $131.50 from pot
+*** SUMMARY ***
+Total pot $132 | Rake $0.50 
+Board [4d 4h 6c 5d 7c]
+Seat 1: mikimiki88 (big blind) showed [7d Qd] and won ($131.50) with two pair, Sevens and Fours
+Seat 4: teunuss (button) (small blind) mucked
+
+
+PokerStars Game #102617756183:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:38:29 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($694.50 in chips) 
+Seat 4: teunuss ($600 in chips) 
+mikimiki88: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [Jd 6h 4c]
+teunuss: checks 
+mikimiki88: bets $13.86
+teunuss: calls $13.86
+*** TURN *** [Jd 6h 4c] [5s]
+teunuss: checks 
+mikimiki88: bets $36.36
+teunuss: folds 
+Uncalled bet ($36.36) returned to mikimiki88
+mikimiki88 collected $51.22 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $51.72 | Rake $0.50 
+Board [Jd 6h 4c 5s]
+Seat 1: mikimiki88 (button) (small blind) collected ($51.22)
+Seat 4: teunuss (big blind) folded on the Turn
+
+
+PokerStars Game #102617783246:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:39:00 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($719.86 in chips) 
+Seat 4: teunuss ($600 in chips) 
+teunuss: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Uncalled bet ($3) returned to mikimiki88
+mikimiki88 collected $6 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: mikimiki88 (big blind) collected ($6)
+Seat 4: teunuss (button) (small blind) folded before Flop
+
+
+PokerStars Game #102617795236:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:39:13 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($722.86 in chips) 
+Seat 4: teunuss ($600 in chips) 
+mikimiki88: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: raises $6 to $12
+teunuss: raises $33 to $45
+mikimiki88: folds 
+Uncalled bet ($33) returned to teunuss
+teunuss collected $24 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: mikimiki88 (button) (small blind) folded before Flop
+Seat 4: teunuss (big blind) collected ($24)
+
+
+PokerStars Game #102617806099:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:39:25 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($710.86 in chips) 
+Seat 4: teunuss ($612 in chips) 
+teunuss: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Uncalled bet ($3) returned to mikimiki88
+mikimiki88 collected $6 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: mikimiki88 (big blind) collected ($6)
+Seat 4: teunuss (button) (small blind) folded before Flop
+
+
+PokerStars Game #102617811293:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:39:31 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($713.86 in chips) 
+Seat 4: teunuss ($609 in chips) 
+mikimiki88: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to mikimiki88
+mikimiki88 collected $12 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: mikimiki88 (button) (small blind) collected ($12)
+Seat 4: teunuss (big blind) folded before Flop
+
+
+PokerStars Game #102617821961:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:39:43 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($719.86 in chips) 
+Seat 4: teunuss ($603 in chips) 
+teunuss: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+mikimiki88: folds 
+Uncalled bet ($6) returned to teunuss
+teunuss collected $12 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: mikimiki88 (big blind) folded before Flop
+Seat 4: teunuss (button) (small blind) collected ($12)
+
+
+PokerStars Game #102617834707:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:39:57 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($713.86 in chips) 
+Seat 4: teunuss ($609 in chips) 
+mikimiki88: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to mikimiki88
+mikimiki88 collected $12 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: mikimiki88 (button) (small blind) collected ($12)
+Seat 4: teunuss (big blind) folded before Flop
+
+
+PokerStars Game #102618664292:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:55:35 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($600 in chips) 
+Seat 2: BigGOGl ($1246.85 in chips) 
+Seat 3: SaleH25 ($218.66 in chips) 
+Seat 4: teunuss ($857.88 in chips) 
+Seat 5: Subv ($655.76 in chips) 
+Seat 6: shevliak ($247.28 in chips) 
+Subv: posts small blind $3
+shevliak: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: raises $12 to $18
+BigGOGl: raises $36 to $54
+SaleH25: folds 
+teunuss: folds 
+Subv: folds 
+shevliak: folds 
+mikimiki88: raises $36 to $90
+BigGOGl: raises $36 to $126
+mikimiki88: calls $36
+*** FLOP *** [6d 2s 9s]
+mikimiki88: checks 
+BigGOGl: checks 
+*** TURN *** [6d 2s 9s] [4d]
+mikimiki88: checks 
+BigGOGl: checks 
+*** RIVER *** [6d 2s 9s 4d] [Ts]
+mikimiki88 said, "A6?"
+mikimiki88: checks 
+BigGOGl: checks 
+*** SHOW DOWN ***
+mikimiki88: shows [8d 8h] (a pair of Eights)
+BigGOGl: mucks hand 
+mikimiki88 collected $258.20 from pot
+*** SUMMARY ***
+Total pot $261 | Rake $2.80 
+Board [6d 2s 9s 4d Ts]
+Seat 1: mikimiki88 showed [8d 8h] and won ($258.20) with a pair of Eights
+Seat 2: BigGOGl mucked
+Seat 3: SaleH25 folded before Flop (didn't bet)
+Seat 4: teunuss (button) folded before Flop (didn't bet)
+Seat 5: Subv (small blind) folded before Flop
+Seat 6: shevliak (big blind) folded before Flop
+
+
+PokerStars Game #102618717949:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:57:14 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #5 is the button
+Seat 2: BigGOGl ($1120.85 in chips) 
+Seat 3: SaleH25 ($218.66 in chips) 
+Seat 4: teunuss ($857.88 in chips) 
+Seat 5: Subv ($652.76 in chips) 
+Seat 6: shevliak ($241.28 in chips) 
+shevliak: posts small blind $3
+mikimiki88: is sitting out 
+BigGOGl: posts big blind $6
+*** HOLE CARDS ***
+SaleH25: calls $6
+teunuss: folds 
+Subv: folds 
+shevliak: folds 
+BigGOGl: checks 
+*** FLOP *** [3h 9s 5s]
+BigGOGl: bets $12
+SaleH25: folds 
+Uncalled bet ($12) returned to BigGOGl
+BigGOGl collected $14.32 from pot
+BigGOGl: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.68 
+Board [3h 9s 5s]
+Seat 2: BigGOGl (big blind) collected ($14.32)
+Seat 3: SaleH25 folded on the Flop
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 5: Subv (button) folded before Flop (didn't bet)
+Seat 6: shevliak (small blind) folded before Flop
+
+
+PokerStars Game #102618739150:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:57:54 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #6 is the button
+Seat 2: BigGOGl ($1129.17 in chips) 
+Seat 3: SaleH25 ($212.66 in chips) 
+Seat 4: teunuss ($857.88 in chips) 
+Seat 5: Subv ($652.76 in chips) 
+Seat 6: shevliak ($240 in chips) 
+BigGOGl: posts small blind $3
+SaleH25: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Subv: folds 
+shevliak: raises $6.90 to $12.90
+BigGOGl: folds 
+SaleH25: calls $6.90
+*** FLOP *** [4d Th Kc]
+SaleH25: checks 
+shevliak: bets $14.85
+SaleH25: folds 
+Uncalled bet ($14.85) returned to shevliak
+shevliak collected $27.50 from pot
+shevliak: doesn't show hand 
+*** SUMMARY ***
+Total pot $28.80 | Rake $1.30 
+Board [4d Th Kc]
+Seat 2: BigGOGl (small blind) folded before Flop
+Seat 3: SaleH25 (big blind) folded on the Flop
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: shevliak (button) collected ($27.50)
+
+
+PokerStars Game #102618766893:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:58:45 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #2 is the button
+Seat 2: BigGOGl ($1126.17 in chips) 
+Seat 3: SaleH25 ($199.76 in chips) 
+Seat 4: teunuss ($857.88 in chips) 
+Seat 5: Subv ($652.76 in chips) 
+Seat 6: shevliak ($254.60 in chips) 
+SaleH25: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+Subv: folds 
+shevliak: folds 
+BigGOGl: raises $6 to $12
+SaleH25: calls $9
+teunuss: folds 
+*** FLOP *** [As Jc 3c]
+SaleH25: checks 
+BigGOGl: bets $27
+SaleH25: calls $27
+*** TURN *** [As Jc 3c] [Td]
+SaleH25: checks 
+BigGOGl: bets $51
+SaleH25: calls $51
+*** RIVER *** [As Jc 3c Td] [9d]
+SaleH25: checks 
+BigGOGl: bets $109.70
+SaleH25: raises $0.06 to $109.76 and is all-in
+BigGOGl: calls $0.06
+*** SHOW DOWN ***
+SaleH25: shows [Tc Ts] (three of a kind, Tens)
+BigGOGl: shows [Ad 3d] (two pair, Aces and Threes)
+SaleH25 collected $402.72 from pot
+*** SUMMARY ***
+Total pot $405.52 | Rake $2.80 
+Board [As Jc 3c Td 9d]
+Seat 2: BigGOGl (button) showed [Ad 3d] and lost with two pair, Aces and Threes
+Seat 3: SaleH25 (small blind) showed [Tc Ts] and won ($402.72) with three of a kind, Tens
+Seat 4: teunuss (big blind) folded before Flop
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: shevliak folded before Flop (didn't bet)
+
+
+PokerStars Game #102618803277:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:59:51 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #3 is the button
+Seat 2: BigGOGl ($926.41 in chips) 
+Seat 3: SaleH25 ($402.72 in chips) 
+Seat 4: teunuss ($851.88 in chips) 
+Seat 5: Subv ($652.76 in chips) 
+Seat 6: shevliak ($254.60 in chips) 
+teunuss: posts small blind $3
+Subv: posts big blind $6
+*** HOLE CARDS ***
+shevliak: folds 
+BigGOGl: folds 
+SaleH25: folds 
+teunuss: folds 
+Uncalled bet ($3) returned to Subv
+Subv collected $6 from pot
+Subv: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: BigGOGl folded before Flop (didn't bet)
+Seat 3: SaleH25 (button) folded before Flop (didn't bet)
+Seat 4: teunuss (small blind) folded before Flop
+Seat 5: Subv (big blind) collected ($6)
+Seat 6: shevliak folded before Flop (didn't bet)
+
+
+PokerStars Game #102618818373:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:00:12 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 2: BigGOGl ($926.41 in chips) 
+Seat 3: SaleH25 ($402.72 in chips) 
+Seat 4: teunuss ($848.88 in chips) 
+Seat 5: Subv ($655.76 in chips) 
+Seat 6: shevliak ($254.60 in chips) 
+Subv: posts small blind $3
+shevliak: posts big blind $6
+*** HOLE CARDS ***
+BigGOGl: raises $12 to $18
+SaleH25: folds 
+teunuss: folds 
+Subv: folds 
+shevliak: folds 
+Uncalled bet ($12) returned to BigGOGl
+BigGOGl collected $15 from pot
+BigGOGl: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: BigGOGl collected ($15)
+Seat 3: SaleH25 folded before Flop (didn't bet)
+Seat 4: teunuss (button) folded before Flop (didn't bet)
+Seat 5: Subv (small blind) folded before Flop
+Seat 6: shevliak (big blind) folded before Flop
+
+
+PokerStars Game #102618828895:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:00:29 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #5 is the button
+Seat 2: BigGOGl ($935.41 in chips) 
+Seat 3: SaleH25 ($402.72 in chips) 
+Seat 4: teunuss ($848.88 in chips) 
+Seat 5: Subv ($652.76 in chips) 
+Seat 6: shevliak ($248.60 in chips) 
+shevliak: posts small blind $3
+BigGOGl: posts big blind $6
+*** HOLE CARDS ***
+SaleH25: folds 
+teunuss: raises $9 to $15
+SaleH25 leaves the table
+Subv: folds 
+shevliak: folds 
+Nahar joins the table at seat #3 
+Nahar leaves the table
+BigGOGl: folds 
+Uncalled bet ($9) returned to teunuss
+teunuss collected $15 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: BigGOGl (big blind) folded before Flop
+Seat 3: SaleH25 folded before Flop (didn't bet)
+Seat 4: teunuss collected ($15)
+Seat 5: Subv (button) folded before Flop (didn't bet)
+Seat 6: shevliak (small blind) folded before Flop
+
+
+PokerStars Game #102618855095:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:01:08 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #6 is the button
+Seat 2: BigGOGl ($929.41 in chips) 
+Seat 4: teunuss ($857.88 in chips) 
+Seat 5: Subv ($652.76 in chips) 
+Seat 6: shevliak ($245.60 in chips) 
+BigGOGl: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+Subv: folds 
+shevliak: raises $6.90 to $12.90
+BigGOGl: raises $14.10 to $27
+teunuss: folds 
+shevliak: calls $14.10
+*** FLOP *** [5h 7c 4d]
+BigGOGl: bets $36
+shevliak: folds 
+Uncalled bet ($36) returned to BigGOGl
+BigGOGl collected $58.50 from pot
+BigGOGl: doesn't show hand 
+*** SUMMARY ***
+Total pot $60 | Rake $1.50 
+Board [5h 7c 4d]
+Seat 2: BigGOGl (small blind) collected ($58.50)
+Seat 4: teunuss (big blind) folded before Flop
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: shevliak (button) folded on the Flop
+
+
+PokerStars Game #102618379823:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:50:04 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: mikimiki88 ($600 in chips) 
+Seat 2: BigGOGl ($609 in chips) 
+Seat 3: SaleH25 ($272.66 in chips) 
+Seat 4: teunuss ($842.44 in chips) 
+Seat 5: Subv ($614.06 in chips) 
+Seat 6: shevliak ($285.98 in chips) 
+teunuss: posts small blind $3
+Subv: posts big blind $6
+*** HOLE CARDS ***
+shevliak: folds 
+mikimiki88: folds 
+BigGOGl: raises $12 to $18
+SaleH25: folds 
+teunuss: folds 
+Subv: folds 
+Uncalled bet ($12) returned to BigGOGl
+BigGOGl collected $15 from pot
+BigGOGl: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: BigGOGl collected ($15)
+Seat 3: SaleH25 (button) folded before Flop (didn't bet)
+Seat 4: teunuss (small blind) folded before Flop
+Seat 5: Subv (big blind) folded before Flop
+Seat 6: shevliak folded before Flop (didn't bet)
+
+
+PokerStars Game #102618412099:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:50:40 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($600 in chips) 
+Seat 2: BigGOGl ($618 in chips) 
+Seat 3: SaleH25 ($272.66 in chips) 
+Seat 4: teunuss ($839.44 in chips) 
+Seat 5: Subv ($608.06 in chips) 
+Seat 6: shevliak ($285.98 in chips) 
+Subv: posts small blind $3
+shevliak: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+BigGOGl: folds 
+SaleH25: folds 
+teunuss: folds 
+Subv: raises $9 to $15
+shevliak: raises $20.70 to $35.70
+Subv: raises $51.30 to $87
+shevliak: folds 
+Uncalled bet ($51.30) returned to Subv
+Subv collected $71.40 from pot
+Subv: doesn't show hand 
+*** SUMMARY ***
+Total pot $71.40 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: BigGOGl folded before Flop (didn't bet)
+Seat 3: SaleH25 folded before Flop (didn't bet)
+Seat 4: teunuss (button) folded before Flop (didn't bet)
+Seat 5: Subv (small blind) collected ($71.40)
+Seat 6: shevliak (big blind) folded before Flop
+
+
+PokerStars Game #102618458622:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:51:32 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: mikimiki88 ($600 in chips) 
+Seat 2: BigGOGl ($618 in chips) 
+Seat 3: SaleH25 ($272.66 in chips) 
+Seat 4: teunuss ($839.44 in chips) 
+Seat 5: Subv ($643.76 in chips) 
+Seat 6: shevliak ($250.28 in chips) 
+shevliak: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+BigGOGl: folds 
+SaleH25: raises $6 to $12
+teunuss: calls $12
+Subv: folds 
+shevliak: folds 
+mikimiki88: folds 
+*** FLOP *** [Jc 5s 2s]
+SaleH25: bets $12
+teunuss: calls $12
+*** TURN *** [Jc 5s 2s] [3s]
+SaleH25: checks 
+teunuss: checks 
+*** RIVER *** [Jc 5s 2s 3s] [Js]
+SaleH25: checks 
+teunuss: checks 
+*** SHOW DOWN ***
+SaleH25: shows [Qh 8c] (a pair of Jacks)
+teunuss: shows [9h 9d] (two pair, Jacks and Nines)
+teunuss collected $54.44 from pot
+*** SUMMARY ***
+Total pot $57 | Rake $2.56 
+Board [Jc 5s 2s 3s Js]
+Seat 1: mikimiki88 (big blind) folded before Flop
+Seat 2: BigGOGl folded before Flop (didn't bet)
+Seat 3: SaleH25 showed [Qh 8c] and lost with a pair of Jacks
+Seat 4: teunuss showed [9h 9d] and won ($54.44) with two pair, Jacks and Nines
+Seat 5: Subv (button) folded before Flop (didn't bet)
+Seat 6: shevliak (small blind) folded before Flop
+
+
+PokerStars Game #102618496034:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:52:14 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: mikimiki88 ($600 in chips) 
+Seat 2: BigGOGl ($618 in chips) 
+Seat 3: SaleH25 ($248.66 in chips) 
+Seat 4: teunuss ($869.88 in chips) 
+Seat 5: Subv ($643.76 in chips) 
+Seat 6: shevliak ($247.28 in chips) 
+mikimiki88: posts small blind $3
+BigGOGl: posts big blind $6
+*** HOLE CARDS ***
+SaleH25: folds 
+teunuss: folds 
+Subv: folds 
+shevliak: folds 
+mikimiki88: folds 
+Uncalled bet ($3) returned to BigGOGl
+BigGOGl collected $6 from pot
+BigGOGl: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: mikimiki88 (small blind) folded before Flop
+Seat 2: BigGOGl (big blind) collected ($6)
+Seat 3: SaleH25 folded before Flop (didn't bet)
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: shevliak (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102618522383:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:52:43 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($600 in chips) 
+Seat 2: BigGOGl ($621 in chips) 
+Seat 3: SaleH25 ($248.66 in chips) 
+Seat 4: teunuss ($869.88 in chips) 
+Seat 5: Subv ($643.76 in chips) 
+Seat 6: shevliak ($247.28 in chips) 
+BigGOGl: posts small blind $3
+SaleH25: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Subv: folds 
+shevliak: folds 
+mikimiki88: raises $6 to $12
+BigGOGl: calls $9
+SaleH25: calls $6
+*** FLOP *** [Ks Ts Ad]
+BigGOGl: bets $27
+SaleH25: folds 
+mikimiki88: calls $27
+*** TURN *** [Ks Ts Ad] [Tc]
+BigGOGl: bets $63
+mikimiki88: calls $63
+*** RIVER *** [Ks Ts Ad Tc] [Th]
+BigGOGl: checks 
+mikimiki88: bets $498 and is all-in
+BigGOGl: calls $498
+*** SHOW DOWN ***
+mikimiki88: shows [Ac Qd] (a full house, Tens full of Aces)
+BigGOGl: shows [Td 8d] (four of a kind, Tens)
+BigGOGl collected $1209.20 from pot
+*** SUMMARY ***
+Total pot $1212 | Rake $2.80 
+Board [Ks Ts Ad Tc Th]
+Seat 1: mikimiki88 (button) showed [Ac Qd] and lost with a full house, Tens full of Aces
+Seat 2: BigGOGl (small blind) showed [Td 8d] and won ($1209.20) with four of a kind, Tens
+Seat 3: SaleH25 (big blind) folded on the Flop
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: shevliak folded before Flop (didn't bet)
+
+
+PokerStars Game #102618604225:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:54:15 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: mikimiki88 ($600 in chips) 
+Seat 2: BigGOGl ($1230.20 in chips) 
+Seat 3: SaleH25 ($236.66 in chips) 
+Seat 4: teunuss ($869.88 in chips) 
+Seat 5: Subv ($643.76 in chips) 
+Seat 6: shevliak ($247.28 in chips) 
+SaleH25: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+Subv: folds 
+shevliak: folds 
+mikimiki88: folds 
+BigGOGl: raises $6 to $12
+SaleH25: calls $9
+teunuss: folds 
+*** FLOP *** [Js 4d 4h]
+SaleH25: checks 
+BigGOGl: bets $15
+SaleH25: folds 
+Uncalled bet ($15) returned to BigGOGl
+BigGOGl collected $28.65 from pot
+BigGOGl: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [Js 4d 4h]
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: BigGOGl (button) collected ($28.65)
+Seat 3: SaleH25 (small blind) folded on the Flop
+Seat 4: teunuss (big blind) folded before Flop
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: shevliak folded before Flop (didn't bet)
+
+
+PokerStars Game #102618640647:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:54:57 ET
+Table 'Luda IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: mikimiki88 ($600 in chips) 
+Seat 2: BigGOGl ($1246.85 in chips) 
+Seat 3: SaleH25 ($224.66 in chips) 
+Seat 4: teunuss ($863.88 in chips) 
+Seat 5: Subv ($643.76 in chips) 
+Seat 6: shevliak ($247.28 in chips) 
+teunuss: posts small blind $3
+Subv: posts big blind $6
+*** HOLE CARDS ***
+shevliak: folds 
+mikimiki88: folds 
+BigGOGl: folds 
+SaleH25: calls $6
+teunuss: calls $3
+Subv: raises $24 to $30
+SaleH25: folds 
+teunuss: folds 
+Uncalled bet ($24) returned to Subv
+Subv collected $18 from pot
+Subv: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: BigGOGl folded before Flop (didn't bet)
+Seat 3: SaleH25 (button) folded before Flop
+Seat 4: teunuss (small blind) folded before Flop
+Seat 5: Subv (big blind) collected ($18)
+Seat 6: shevliak folded before Flop (didn't bet)

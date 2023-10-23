@@ -1,0 +1,2609 @@
+
+
+PokerStars Game #102591508128:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:53:08 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Dom92 ($245 in chips) 
+Seat 3: rocks50 ($606 in chips) 
+Seat 6: Zero 1100101 ($677.50 in chips) 
+Zero 1100101: posts small blind $3
+Dom92: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+LeRhaqs joins the table at seat #2 
+Zero 1100101: folds 
+Dom92: calls $6
+*** FLOP *** [8h 4h Ad]
+Dom92: checks 
+rocks50: bets $18.87
+Dom92: folds 
+Uncalled bet ($18.87) returned to rocks50
+rocks50 collected $25.78 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [8h 4h Ad]
+Seat 1: Dom92 (big blind) folded on the Flop
+Seat 3: rocks50 (button) collected ($25.78)
+Seat 6: Zero 1100101 (small blind) folded before Flop
+
+
+PokerStars Game #102591513089:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:53:27 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Dom92 ($233 in chips) 
+Seat 2: LeRhaqs ($600 in chips) 
+Seat 3: rocks50 ($619.78 in chips) 
+Seat 6: Zero 1100101 ($674.50 in chips) 
+Dom92: posts small blind $3
+LeRhaqs: posts big blind $6
+*** HOLE CARDS ***
+rocks50: folds 
+Zero 1100101: raises $6 to $12
+Dom92: folds 
+LeRhaqs: folds 
+Uncalled bet ($6) returned to Zero 1100101
+Zero 1100101 collected $15 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 (small blind) folded before Flop
+Seat 2: LeRhaqs (big blind) folded before Flop
+Seat 3: rocks50 folded before Flop (didn't bet)
+Seat 6: Zero 1100101 (button) collected ($15)
+
+
+PokerStars Game #102591516169:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:53:39 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Dom92 ($230 in chips) 
+Seat 2: LeRhaqs ($600 in chips) 
+Seat 3: rocks50 ($619.78 in chips) 
+Seat 6: Zero 1100101 ($683.50 in chips) 
+LeRhaqs: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+Zero 1100101: folds 
+Dom92: folds 
+LeRhaqs: folds 
+Uncalled bet ($3) returned to rocks50
+rocks50 collected $6 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Dom92 (button) folded before Flop (didn't bet)
+Seat 2: LeRhaqs (small blind) folded before Flop
+Seat 3: rocks50 (big blind) collected ($6)
+Seat 6: Zero 1100101 folded before Flop (didn't bet)
+
+
+PokerStars Game #102591518356:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:53:47 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Dom92 ($230 in chips) 
+Seat 2: LeRhaqs ($600 in chips) 
+Seat 3: rocks50 ($622.78 in chips) 
+Seat 6: Zero 1100101 ($683.50 in chips) 
+rocks50: posts small blind $3
+Zero 1100101: posts big blind $6
+*** HOLE CARDS ***
+Dom92: raises $6 to $12
+LeRhaqs: folds 
+rocks50: folds 
+Zero 1100101: folds 
+Uncalled bet ($6) returned to Dom92
+Dom92 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 collected ($15)
+Seat 2: LeRhaqs (button) folded before Flop (didn't bet)
+Seat 3: rocks50 (small blind) folded before Flop
+Seat 6: Zero 1100101 (big blind) folded before Flop
+
+
+PokerStars Game #102591521163:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:53:58 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Dom92 ($239 in chips) 
+Seat 2: LeRhaqs ($600 in chips) 
+Seat 3: rocks50 ($619.78 in chips) 
+Seat 6: Zero 1100101 ($677.50 in chips) 
+Zero 1100101: posts small blind $3
+Dom92: posts big blind $6
+*** HOLE CARDS ***
+LeRhaqs: folds 
+rocks50: folds 
+Pheonix387 joins the table at seat #4 
+Zero 1100101: folds 
+Uncalled bet ($3) returned to Dom92
+Dom92 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Dom92 (big blind) collected ($6)
+Seat 2: LeRhaqs folded before Flop (didn't bet)
+Seat 3: rocks50 (button) folded before Flop (didn't bet)
+Seat 6: Zero 1100101 (small blind) folded before Flop
+
+
+PokerStars Game #102591524620:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:54:11 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Dom92 ($242 in chips) 
+Seat 3: rocks50 ($619.78 in chips) 
+Seat 6: Zero 1100101 ($674.50 in chips) 
+Dom92: posts small blind $3
+LeRhaqs: is sitting out 
+rocks50: posts big blind $6
+Pheonix387: sits out 
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Dom92: folds 
+Shad2y`wow joins the table at seat #5 
+rocks50: folds 
+Uncalled bet ($6) returned to Zero 1100101
+Zero 1100101 collected $15 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 (small blind) folded before Flop
+Seat 3: rocks50 (big blind) folded before Flop
+Seat 6: Zero 1100101 (button) collected ($15)
+
+
+PokerStars Game #102591529060:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:54:28 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Dom92 ($239 in chips) 
+Seat 3: rocks50 ($613.78 in chips) 
+Seat 4: Pheonix387 ($600 in chips) 
+Seat 6: Zero 1100101 ($683.50 in chips) 
+rocks50: posts small blind $3
+Pheonix387: posts big blind $6
+Shad2y`wow: sits out 
+*** HOLE CARDS ***
+Zero 1100101: folds 
+Dom92: raises $12 to $18
+rocks50: folds 
+Pheonix387: folds 
+Uncalled bet ($12) returned to Dom92
+Dom92 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 (button) collected ($15)
+Seat 3: rocks50 (small blind) folded before Flop
+Seat 4: Pheonix387 (big blind) folded before Flop
+Seat 6: Zero 1100101 folded before Flop (didn't bet)
+
+
+PokerStars Game #102591533128:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:54:43 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Dom92 ($248 in chips) 
+Seat 3: rocks50 ($610.78 in chips) 
+Seat 4: Pheonix387 ($600 in chips) 
+Seat 5: Shad2y`wow ($240 in chips) 
+Seat 6: Zero 1100101 ($683.50 in chips) 
+Pheonix387: posts small blind $3
+Shad2y`wow: posts big blind $6
+*** HOLE CARDS ***
+Zero 1100101: folds 
+Dom92: folds 
+rocks50: raises $6 to $12
+Pheonix387: folds 
+Shad2y`wow: calls $6
+*** FLOP *** [Jh 7s 3s]
+Shad2y`wow: checks 
+rocks50: bets $18.87
+Shad2y`wow: raises $23.13 to $42
+rocks50: calls $23.13
+*** TURN *** [Jh 7s 3s] [2s]
+Shad2y`wow: bets $42
+rocks50: folds 
+Uncalled bet ($42) returned to Shad2y`wow
+Shad2y`wow collected $108.20 from pot
+Shad2y`wow: doesn't show hand 
+*** SUMMARY ***
+Total pot $111 | Rake $2.80 
+Board [Jh 7s 3s 2s]
+Seat 1: Dom92 folded before Flop (didn't bet)
+Seat 3: rocks50 (button) folded on the Turn
+Seat 4: Pheonix387 (small blind) folded before Flop
+Seat 5: Shad2y`wow (big blind) collected ($108.20)
+Seat 6: Zero 1100101 folded before Flop (didn't bet)
+
+
+PokerStars Game #102591484516:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:51:39 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #6 is the button
+Seat 3: rocks50 ($600 in chips) 
+Seat 6: Zero 1100101 ($600 in chips) 
+Zero 1100101: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+rocks50: raises $36 to $48
+Zero 1100101: folds 
+Uncalled bet ($36) returned to rocks50
+rocks50 collected $24 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 3: rocks50 (big blind) collected ($24)
+Seat 6: Zero 1100101 (button) (small blind) folded before Flop
+
+
+PokerStars Game #102591489542:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:51:58 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #3 is the button
+Seat 3: rocks50 ($612 in chips) 
+Seat 6: Zero 1100101 ($600 in chips) 
+rocks50: posts small blind $3
+Zero 1100101: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+Zero 1100101: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $12 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 3: rocks50 (button) (small blind) collected ($12)
+Seat 6: Zero 1100101 (big blind) folded before Flop
+
+
+PokerStars Game #102591491907:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:52:07 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #6 is the button
+Seat 3: rocks50 ($618 in chips) 
+Seat 6: Zero 1100101 ($600 in chips) 
+Zero 1100101: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+rocks50: raises $36 to $48
+Zero 1100101: calls $36
+*** FLOP *** [5s 7s 3s]
+rocks50: checks 
+Zero 1100101: bets $36
+rocks50: calls $36
+*** TURN *** [5s 7s 3s] [Qh]
+rocks50: checks 
+Zero 1100101: checks 
+*** RIVER *** [5s 7s 3s Qh] [Td]
+rocks50: checks 
+Dom92 joins the table at seat #1 
+Zero 1100101: checks 
+*** SHOW DOWN ***
+rocks50: shows [Kd Ah] (high card Ace)
+Zero 1100101: shows [2h 2s] (a pair of Deuces)
+Zero 1100101 collected $167.50 from pot
+*** SUMMARY ***
+Total pot $168 | Rake $0.50 
+Board [5s 7s 3s Qh Td]
+Seat 3: rocks50 (big blind) showed [Kd Ah] and lost with high card Ace
+Seat 6: Zero 1100101 (button) (small blind) showed [2h 2s] and won ($167.50) with a pair of Deuces
+
+
+PokerStars Game #102591506549:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:53:03 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #3 is the button
+Seat 3: rocks50 ($600 in chips) 
+Seat 6: Zero 1100101 ($683.50 in chips) 
+rocks50: posts small blind $3
+Zero 1100101: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+Zero 1100101: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $12 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 3: rocks50 (button) (small blind) collected ($12)
+Seat 6: Zero 1100101 (big blind) folded before Flop
+
+
+PokerStars Game #102591547312:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:55:43 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Dom92 ($248 in chips) 
+Seat 3: rocks50 ($600 in chips) 
+Seat 4: Pheonix387 ($600 in chips) 
+Seat 5: Shad2y`wow ($294.20 in chips) 
+Seat 6: Zero 1100101 ($683.50 in chips) 
+Shad2y`wow: posts small blind $3
+Zero 1100101: posts big blind $6
+*** HOLE CARDS ***
+Dom92: folds 
+rocks50: folds 
+Pheonix387: folds 
+Shad2y`wow: raises $6.36 to $12.36
+Zero 1100101: calls $6.36
+*** FLOP *** [Qh Th 8s]
+Shad2y`wow: checks 
+Zero 1100101: bets $12
+Shad2y`wow: folds 
+Uncalled bet ($12) returned to Zero 1100101
+Zero 1100101 collected $23.61 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $24.72 | Rake $1.11 
+Board [Qh Th 8s]
+Seat 1: Dom92 folded before Flop (didn't bet)
+Seat 3: rocks50 folded before Flop (didn't bet)
+Seat 4: Pheonix387 (button) folded before Flop (didn't bet)
+Seat 5: Shad2y`wow (small blind) folded on the Flop
+Seat 6: Zero 1100101 (big blind) collected ($23.61)
+
+
+PokerStars Game #102591555330:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:56:21 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Dom92 ($248 in chips) 
+Seat 3: rocks50 ($600 in chips) 
+Seat 4: Pheonix387 ($600 in chips) 
+Seat 5: Shad2y`wow ($281.84 in chips) 
+Seat 6: Zero 1100101 ($694.75 in chips) 
+Zero 1100101: posts small blind $3
+Dom92: posts big blind $6
+*** HOLE CARDS ***
+rocks50: folds 
+Pheonix387: folds 
+Shad2y`wow: folds 
+Zero 1100101: folds 
+Uncalled bet ($3) returned to Dom92
+Dom92 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Dom92 (big blind) collected ($6)
+Seat 3: rocks50 folded before Flop (didn't bet)
+Seat 4: Pheonix387 folded before Flop (didn't bet)
+Seat 5: Shad2y`wow (button) folded before Flop (didn't bet)
+Seat 6: Zero 1100101 (small blind) folded before Flop
+
+
+PokerStars Game #102591559104:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:56:39 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Dom92 ($251 in chips) 
+Seat 3: rocks50 ($600 in chips) 
+Seat 4: Pheonix387 ($600 in chips) 
+Seat 5: Shad2y`wow ($281.84 in chips) 
+Seat 6: Zero 1100101 ($691.75 in chips) 
+Dom92: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+Pheonix387: folds 
+Shad2y`wow: folds 
+Zero 1100101: folds 
+Dom92: folds 
+Uncalled bet ($3) returned to rocks50
+rocks50 collected $6 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Dom92 (small blind) folded before Flop
+Seat 3: rocks50 (big blind) collected ($6)
+Seat 4: Pheonix387 folded before Flop (didn't bet)
+Seat 5: Shad2y`wow folded before Flop (didn't bet)
+Seat 6: Zero 1100101 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102591561546:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:56:50 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Dom92 ($248 in chips) 
+Seat 3: rocks50 ($603 in chips) 
+Seat 5: Shad2y`wow ($281.84 in chips) 
+Seat 6: Zero 1100101 ($691.75 in chips) 
+rocks50: posts small blind $3
+Pheonix387: is sitting out 
+Pheonix387 leaves the table
+Shad2y`wow: posts big blind $6
+*** HOLE CARDS ***
+Zero 1100101: folds 
+Dom92: folds 
+rocks50: raises $12 to $18
+Shad2y`wow: calls $12
+*** FLOP *** [Ad 3c Qc]
+rocks50: checks 
+Shad2y`wow: bets $21
+rocks50: folds 
+Uncalled bet ($21) returned to Shad2y`wow
+Zero 1100101 is disconnected 
+Shad2y`wow collected $34.50 from pot
+Shad2y`wow: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $1.50 
+Board [Ad 3c Qc]
+Seat 1: Dom92 (button) folded before Flop (didn't bet)
+Seat 3: rocks50 (small blind) folded on the Flop
+Seat 5: Shad2y`wow (big blind) collected ($34.50)
+Seat 6: Zero 1100101 folded before Flop (didn't bet)
+
+
+PokerStars Game #102591571862:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:57:39 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Dom92 ($248 in chips) 
+Seat 3: rocks50 ($600 in chips) 
+Seat 5: Shad2y`wow ($298.34 in chips) 
+Shad2y`wow: posts small blind $3
+Zero 1100101 has timed out while disconnected
+Zero 1100101: is sitting out 
+Dom92: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+mrienader joins the table at seat #4 
+Shad2y`wow: folds 
+Dom92: raises $36 to $48
+rocks50: folds 
+Uncalled bet ($36) returned to Dom92
+Dom92 collected $27 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 1: Dom92 (big blind) collected ($27)
+Seat 3: rocks50 (button) folded before Flop
+Seat 5: Shad2y`wow (small blind) folded before Flop
+
+
+PokerStars Game #102591580491:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:58:20 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Dom92 ($263 in chips) 
+Seat 2: LeRhaqs ($600 in chips) 
+Seat 3: rocks50 ($600 in chips) 
+Seat 5: Shad2y`wow ($295.34 in chips) 
+Dom92: posts small blind $3
+LeRhaqs: posts big blind $6
+*** HOLE CARDS ***
+rocks50: folds 
+Shad2y`wow: folds 
+Dom92: folds 
+Uncalled bet ($3) returned to LeRhaqs
+LeRhaqs collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Dom92 (small blind) folded before Flop
+Seat 2: LeRhaqs (big blind) collected ($6)
+Seat 3: rocks50 folded before Flop (didn't bet)
+Seat 5: Shad2y`wow (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102591582207:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:58:28 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Dom92 ($260 in chips) 
+Seat 2: LeRhaqs ($603 in chips) 
+Seat 3: rocks50 ($600 in chips) 
+Seat 5: Shad2y`wow ($295.34 in chips) 
+LeRhaqs: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+Shad2y`wow: folds 
+Dom92: folds 
+LeRhaqs: folds 
+Uncalled bet ($3) returned to rocks50
+rocks50 collected $6 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Dom92 (button) folded before Flop (didn't bet)
+Seat 2: LeRhaqs (small blind) folded before Flop
+Seat 3: rocks50 (big blind) collected ($6)
+Seat 5: Shad2y`wow folded before Flop (didn't bet)
+
+
+PokerStars Game #102591583608:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:58:35 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Dom92 ($260 in chips) 
+Seat 2: LeRhaqs ($600 in chips) 
+Seat 3: rocks50 ($603 in chips) 
+Seat 5: Shad2y`wow ($295.34 in chips) 
+rocks50: posts small blind $3
+Shad2y`wow: posts big blind $6
+*** HOLE CARDS ***
+Dom92: folds 
+LeRhaqs: raises $6 to $12
+rocks50: raises $36 to $48
+Shad2y`wow: folds 
+LeRhaqs: folds 
+Uncalled bet ($36) returned to rocks50
+rocks50 collected $30 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: Dom92 folded before Flop (didn't bet)
+Seat 2: LeRhaqs (button) folded before Flop
+Seat 3: rocks50 (small blind) collected ($30)
+Seat 5: Shad2y`wow (big blind) folded before Flop
+
+
+PokerStars Game #102591588082:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:58:56 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Dom92 ($260 in chips) 
+Seat 2: LeRhaqs ($600 in chips) 
+Seat 3: rocks50 ($621 in chips) 
+Seat 5: Shad2y`wow ($289.34 in chips) 
+Shad2y`wow: posts small blind $3
+Dom92: posts big blind $6
+*** HOLE CARDS ***
+LeRhaqs: folds 
+rocks50: raises $6 to $12
+LeRhaqs leaves the table
+Shad2y`wow: folds 
+Dom92: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $15 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 (big blind) folded before Flop
+Seat 2: LeRhaqs folded before Flop (didn't bet)
+Seat 3: rocks50 (button) collected ($15)
+Seat 5: Shad2y`wow (small blind) folded before Flop
+
+
+PokerStars Game #102591589987:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:59:05 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Dom92 ($254 in chips) 
+Seat 3: rocks50 ($630 in chips) 
+Seat 5: Shad2y`wow ($286.34 in chips) 
+Dom92: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+Alpha 5.20 joins the table at seat #2 
+Shad2y`wow: raises $6.36 to $12.36
+Dom92: folds 
+rocks50: folds 
+Uncalled bet ($6.36) returned to Shad2y`wow
+Shad2y`wow collected $15 from pot
+Shad2y`wow: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 (small blind) folded before Flop
+Seat 3: rocks50 (big blind) folded before Flop
+Seat 5: Shad2y`wow (button) collected ($15)
+
+
+PokerStars Game #102591593272:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:59:20 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Dom92 ($251 in chips) 
+Seat 3: rocks50 ($624 in chips) 
+Seat 5: Shad2y`wow ($295.34 in chips) 
+Alpha 5.20 will be allowed to play after the button
+rocks50: posts small blind $3
+Shad2y`wow: posts big blind $6
+*** HOLE CARDS ***
+Dom92: folds 
+rocks50: folds 
+Uncalled bet ($3) returned to Shad2y`wow
+Shad2y`wow collected $6 from pot
+Shad2y`wow: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Dom92 (button) folded before Flop (didn't bet)
+Seat 3: rocks50 (small blind) folded before Flop
+Seat 5: Shad2y`wow (big blind) collected ($6)
+
+
+PokerStars Game #102591594499:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:59:26 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Dom92 ($251 in chips) 
+Seat 3: rocks50 ($621 in chips) 
+Seat 5: Shad2y`wow ($298.34 in chips) 
+Shad2y`wow: posts small blind $3
+Dom92: posts big blind $6
+Alpha 5.20: sits out 
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+Shad2y`wow: folds 
+Dom92: calls $6
+*** FLOP *** [Kh Jd 7h]
+Dom92: checks 
+rocks50: checks 
+*** TURN *** [Kh Jd 7h] [Qs]
+Dom92: bets $12
+rocks50: folds 
+Uncalled bet ($12) returned to Dom92
+Dom92 collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Kh Jd 7h Qs]
+Seat 1: Dom92 (big blind) collected ($25.78)
+Seat 3: rocks50 (button) folded on the Turn
+Seat 5: Shad2y`wow (small blind) folded before Flop
+
+
+PokerStars Game #102591598168:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 23:59:43 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Dom92 ($264.78 in chips) 
+Seat 2: Alpha 5.20 ($600 in chips) 
+Seat 3: rocks50 ($609 in chips) 
+Seat 5: Shad2y`wow ($295.34 in chips) 
+Dom92: posts small blind $3
+Alpha 5.20: posts big blind $6
+*** HOLE CARDS ***
+rocks50: folds 
+Shad2y`wow: raises $6.36 to $12.36
+Dom92: calls $9.36
+Alpha 5.20: folds 
+*** FLOP *** [3s 2c 5d]
+Dom92: checks 
+Shad2y`wow: checks 
+*** TURN *** [3s 2c 5d] [Td]
+Dom92: bets $18
+Shad2y`wow: folds 
+Uncalled bet ($18) returned to Dom92
+Dom92 collected $29.34 from pot
+*** SUMMARY ***
+Total pot $30.72 | Rake $1.38 
+Board [3s 2c 5d Td]
+Seat 1: Dom92 (small blind) collected ($29.34)
+Seat 2: Alpha 5.20 (big blind) folded before Flop
+Seat 3: rocks50 folded before Flop (didn't bet)
+Seat 5: Shad2y`wow (button) folded on the Turn
+
+
+PokerStars Game #102591604890:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:00:13 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Dom92 ($281.76 in chips) 
+Seat 2: Alpha 5.20 ($600 in chips) 
+Seat 3: rocks50 ($609 in chips) 
+Seat 5: Shad2y`wow ($282.98 in chips) 
+Alpha 5.20: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+Shad2y`wow: raises $6.36 to $12.36
+Dom92: folds 
+Alpha 5.20: folds 
+rocks50: folds 
+Uncalled bet ($6.36) returned to Shad2y`wow
+Shad2y`wow collected $15 from pot
+Shad2y`wow: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 (button) folded before Flop (didn't bet)
+Seat 2: Alpha 5.20 (small blind) folded before Flop
+Seat 3: rocks50 (big blind) folded before Flop
+Seat 5: Shad2y`wow collected ($15)
+
+
+PokerStars Game #102591614415:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:00:55 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Dom92 ($281.76 in chips) 
+Seat 2: Alpha 5.20 ($600 in chips) 
+Seat 3: rocks50 ($603 in chips) 
+Seat 5: Shad2y`wow ($291.98 in chips) 
+rocks50: posts small blind $3
+Shad2y`wow: posts big blind $6
+*** HOLE CARDS ***
+Dom92: folds 
+Alpha 5.20: raises $6 to $12
+rocks50: folds 
+Shad2y`wow: folds 
+Uncalled bet ($6) returned to Alpha 5.20
+Alpha 5.20 collected $15 from pot
+Alpha 5.20: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 folded before Flop (didn't bet)
+Seat 2: Alpha 5.20 (button) collected ($15)
+Seat 3: rocks50 (small blind) folded before Flop
+Seat 5: Shad2y`wow (big blind) folded before Flop
+
+
+PokerStars Game #102591617898:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:01:10 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Dom92 ($281.76 in chips) 
+Seat 2: Alpha 5.20 ($609 in chips) 
+Seat 3: rocks50 ($600 in chips) 
+Seat 5: Shad2y`wow ($285.98 in chips) 
+Shad2y`wow: posts small blind $3
+Dom92: posts big blind $6
+*** HOLE CARDS ***
+Alpha 5.20: folds 
+rocks50: raises $6 to $12
+Shad2y`wow: raises $24 to $36
+Dom92: folds 
+rocks50: folds 
+Uncalled bet ($24) returned to Shad2y`wow
+Shad2y`wow collected $30 from pot
+Shad2y`wow: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: Dom92 (big blind) folded before Flop
+Seat 2: Alpha 5.20 folded before Flop (didn't bet)
+Seat 3: rocks50 (button) folded before Flop
+Seat 5: Shad2y`wow (small blind) collected ($30)
+
+
+PokerStars Game #102591621954:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:01:26 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Dom92 ($275.76 in chips) 
+Seat 2: Alpha 5.20 ($609 in chips) 
+Seat 3: rocks50 ($600 in chips) 
+Seat 5: Shad2y`wow ($303.98 in chips) 
+Dom92: posts small blind $3
+Alpha 5.20: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $12 to $18
+Shad2y`wow: folds 
+Dom92: folds 
+Alpha 5.20: folds 
+Uncalled bet ($12) returned to rocks50
+rocks50 collected $15 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 (small blind) folded before Flop
+Seat 2: Alpha 5.20 (big blind) folded before Flop
+Seat 3: rocks50 collected ($15)
+Seat 5: Shad2y`wow (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102591625124:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:01:39 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Dom92 ($272.76 in chips) 
+Seat 2: Alpha 5.20 ($603 in chips) 
+Seat 3: rocks50 ($609 in chips) 
+Seat 5: Shad2y`wow ($303.98 in chips) 
+Alpha 5.20: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+Shad2y`wow: folds 
+Dom92: folds 
+Alpha 5.20: raises $12 to $18
+rocks50: folds 
+Uncalled bet ($12) returned to Alpha 5.20
+Alpha 5.20 collected $12 from pot
+Alpha 5.20: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Dom92 (button) folded before Flop (didn't bet)
+Seat 2: Alpha 5.20 (small blind) collected ($12)
+Seat 3: rocks50 (big blind) folded before Flop
+Seat 5: Shad2y`wow folded before Flop (didn't bet)
+
+
+PokerStars Game #102591627852:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:01:50 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Dom92 ($272.76 in chips) 
+Seat 2: Alpha 5.20 ($609 in chips) 
+Seat 3: rocks50 ($603 in chips) 
+rocks50: posts small blind $3
+Shad2y`wow: is sitting out 
+Dom92: posts big blind $6
+*** HOLE CARDS ***
+Alpha 5.20: raises $6 to $12
+rocks50: folds 
+Dom92: calls $6
+*** FLOP *** [Td 8s Jc]
+Dom92: checks 
+Alpha 5.20: checks 
+*** TURN *** [Td 8s Jc] [Th]
+Shad2y`wow leaves the table
+Dom92: bets $18
+Alpha 5.20: calls $18
+*** RIVER *** [Td 8s Jc Th] [7h]
+Dom92: bets $24
+Alpha 5.20: calls $24
+*** SHOW DOWN ***
+Dom92: shows [Kc Js] (two pair, Jacks and Tens)
+Alpha 5.20: mucks hand 
+Dom92 collected $109.50 from pot
+*** SUMMARY ***
+Total pot $111 | Rake $1.50 
+Board [Td 8s Jc Th 7h]
+Seat 1: Dom92 (big blind) showed [Kc Js] and won ($109.50) with two pair, Jacks and Tens
+Seat 2: Alpha 5.20 (button) mucked
+Seat 3: rocks50 (small blind) folded before Flop
+
+
+PokerStars Game #102591636505:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:02:22 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Dom92 ($328.26 in chips) 
+Seat 2: Alpha 5.20 ($600 in chips) 
+Seat 3: rocks50 ($600 in chips) 
+Dom92: posts small blind $3
+Alpha 5.20: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+Dom92: folds 
+Alpha 5.20: calls $6
+*** FLOP *** [Jh 5s Qc]
+Alpha 5.20: checks 
+rocks50: checks 
+*** TURN *** [Jh 5s Qc] [6h]
+Alpha 5.20: bets $24
+rocks50: folds 
+Uncalled bet ($24) returned to Alpha 5.20
+Alpha 5.20 collected $25.78 from pot
+Alpha 5.20: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Jh 5s Qc 6h]
+Seat 1: Dom92 (small blind) folded before Flop
+Seat 2: Alpha 5.20 (big blind) collected ($25.78)
+Seat 3: rocks50 (button) folded on the Turn
+
+
+PokerStars Game #102591650509:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:03:16 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Dom92 ($325.26 in chips) 
+Seat 2: Alpha 5.20 ($613.78 in chips) 
+Seat 3: rocks50 ($600 in chips) 
+Alpha 5.20: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+Dom92: folds 
+Alpha 5.20: raises $12 to $18
+rocks50: folds 
+Uncalled bet ($12) returned to Alpha 5.20
+Alpha 5.20 collected $12 from pot
+Alpha 5.20: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Dom92 (button) folded before Flop (didn't bet)
+Seat 2: Alpha 5.20 (small blind) collected ($12)
+Seat 3: rocks50 (big blind) folded before Flop
+
+
+PokerStars Game #102591654531:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:03:31 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Dom92 ($325.26 in chips) 
+Seat 2: Alpha 5.20 ($619.78 in chips) 
+Seat 3: rocks50 ($600 in chips) 
+rocks50: posts small blind $3
+Dom92: posts big blind $6
+*** HOLE CARDS ***
+Alpha 5.20: folds 
+rocks50: raises $12 to $18
+Dom92: folds 
+Uncalled bet ($12) returned to rocks50
+rocks50 collected $12 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Dom92 (big blind) folded before Flop
+Seat 2: Alpha 5.20 (button) folded before Flop (didn't bet)
+Seat 3: rocks50 (small blind) collected ($12)
+
+
+PokerStars Game #102591658607:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:03:45 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Dom92 ($319.26 in chips) 
+Seat 2: Alpha 5.20 ($619.78 in chips) 
+Seat 3: rocks50 ($606 in chips) 
+Dom92: posts small blind $3
+Alpha 5.20: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+Dom92: folds 
+Alpha 5.20: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $15 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 (small blind) folded before Flop
+Seat 2: Alpha 5.20 (big blind) folded before Flop
+Seat 3: rocks50 (button) collected ($15)
+
+
+PokerStars Game #102591664008:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:04:06 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Dom92 ($316.26 in chips) 
+Seat 2: Alpha 5.20 ($613.78 in chips) 
+Seat 3: rocks50 ($615 in chips) 
+Alpha 5.20: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+Dom92: raises $6 to $12
+Alpha 5.20: folds 
+rocks50: folds 
+Uncalled bet ($6) returned to Dom92
+Dom92 collected $15 from pot
+Dom92: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 (button) collected ($15)
+Seat 2: Alpha 5.20 (small blind) folded before Flop
+Seat 3: rocks50 (big blind) folded before Flop
+
+
+PokerStars Game #102591666798:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:04:16 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Dom92 ($325.26 in chips) 
+Seat 2: Alpha 5.20 ($610.78 in chips) 
+Seat 3: rocks50 ($609 in chips) 
+rocks50: posts small blind $3
+Dom92: posts big blind $6
+*** HOLE CARDS ***
+Alpha 5.20: folds 
+rocks50: folds 
+Uncalled bet ($3) returned to Dom92
+Dom92 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Dom92 (big blind) collected ($6)
+Seat 2: Alpha 5.20 (button) folded before Flop (didn't bet)
+Seat 3: rocks50 (small blind) folded before Flop
+
+
+PokerStars Game #102591669937:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:04:28 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Dom92 ($328.26 in chips) 
+Seat 2: Alpha 5.20 ($610.78 in chips) 
+Seat 3: rocks50 ($606 in chips) 
+Dom92: posts small blind $3
+Alpha 5.20: posts big blind $6
+*** HOLE CARDS ***
+rocks50: folds 
+Dom92: raises $6 to $12
+Alpha 5.20: calls $6
+*** FLOP *** [Ad 6s Td]
+Dom92: checks 
+Alpha 5.20: checks 
+*** TURN *** [Ad 6s Td] [7s]
+Dom92: checks 
+Alpha 5.20: checks 
+*** RIVER *** [Ad 6s Td 7s] [Kd]
+Dom92: bets $12
+Alpha 5.20: folds 
+Uncalled bet ($12) returned to Dom92
+Dom92 collected $22.92 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.08 
+Board [Ad 6s Td 7s Kd]
+Seat 1: Dom92 (small blind) collected ($22.92)
+Seat 2: Alpha 5.20 (big blind) folded on the River
+Seat 3: rocks50 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102591678557:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:04:59 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Dom92 ($339.18 in chips) 
+Seat 2: Alpha 5.20 ($600 in chips) 
+Seat 3: rocks50 ($606 in chips) 
+Alpha 5.20: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+Dom92: raises $6 to $12
+mrienader leaves the table
+Alpha 5.20: folds 
+rocks50: calls $6
+*** FLOP *** [Th 7s 3s]
+rocks50: checks 
+Dom92: bets $24
+rocks50: folds 
+Uncalled bet ($24) returned to Dom92
+Dom92 collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Th 7s 3s]
+Seat 1: Dom92 (button) collected ($25.78)
+Seat 2: Alpha 5.20 (small blind) folded before Flop
+Seat 3: rocks50 (big blind) folded on the Flop
+
+
+PokerStars Game #102591683643:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:05:18 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Dom92 ($352.96 in chips) 
+Seat 2: Alpha 5.20 ($600 in chips) 
+Seat 3: rocks50 ($600 in chips) 
+rocks50: posts small blind $3
+Dom92: posts big blind $6
+*** HOLE CARDS ***
+Alpha 5.20: raises $6 to $12
+rocks50: folds 
+Dom92: calls $6
+*** FLOP *** [Ks 9h Th]
+Dom92: checks 
+Alpha 5.20: bets $18
+Dom92: folds 
+Uncalled bet ($18) returned to Alpha 5.20
+Alpha 5.20 collected $25.78 from pot
+Alpha 5.20: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Ks 9h Th]
+Seat 1: Dom92 (big blind) folded on the Flop
+Seat 2: Alpha 5.20 (button) collected ($25.78)
+Seat 3: rocks50 (small blind) folded before Flop
+
+
+PokerStars Game #102591690930:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:05:45 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #3 is the button
+Seat 2: Alpha 5.20 ($613.78 in chips) 
+Seat 3: rocks50 ($600 in chips) 
+rocks50: posts small blind $3
+Dom92 leaves the table
+Alpha 5.20: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+Alpha 5.20: calls $6
+*** FLOP *** [3h 5c Qh]
+Alpha 5.20: checks 
+rocks50: bets $17.20
+Alpha 5.20: folds 
+Uncalled bet ($17.20) returned to rocks50
+rocks50 collected $23.50 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [3h 5c Qh]
+Seat 2: Alpha 5.20 (big blind) folded on the Flop
+Seat 3: rocks50 (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102592001351:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:25:25 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($246 in chips) 
+Seat 4: ZarubaNT ($600 in chips) 
+mrienader will be allowed to play after the button
+ZarubaNT: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+HoldenUte03: folds 
+ZarubaNT: folds 
+Uncalled bet ($3) returned to king10clubs
+king10clubs collected $6 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: king10clubs (big blind) collected ($6)
+Seat 2: HoldenUte03 (button) folded before Flop (didn't bet)
+Seat 4: ZarubaNT (small blind) folded before Flop
+
+
+PokerStars Game #102592003355:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:25:33 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: king10clubs ($603 in chips) 
+Seat 2: HoldenUte03 ($246 in chips) 
+Seat 4: ZarubaNT ($600 in chips) 
+king10clubs: posts small blind $3
+HoldenUte03: posts big blind $6
+mrienader: sits out 
+*** HOLE CARDS ***
+ZarubaNT: folds 
+king10clubs: folds 
+Uncalled bet ($3) returned to HoldenUte03
+HoldenUte03 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: king10clubs (small blind) folded before Flop
+Seat 2: HoldenUte03 (big blind) collected ($6)
+Seat 4: ZarubaNT (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102592006694:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:25:45 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($249 in chips) 
+Seat 3: mrienader ($600 in chips) 
+Seat 4: ZarubaNT ($600 in chips) 
+HoldenUte03: posts small blind $3
+mrienader: posts big blind $6
+*** HOLE CARDS ***
+king10clubs said, "wanna start some zaruba?"
+ZarubaNT: raises $9 to $15
+king10clubs: folds 
+HoldenUte03: folds 
+mrienader: folds 
+Uncalled bet ($9) returned to ZarubaNT
+ZarubaNT collected $15 from pot
+ZarubaNT: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: king10clubs (button) folded before Flop (didn't bet)
+Seat 2: HoldenUte03 (small blind) folded before Flop
+Seat 3: mrienader (big blind) folded before Flop
+Seat 4: ZarubaNT collected ($15)
+
+
+PokerStars Game #102592012533:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:26:08 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($246 in chips) 
+Seat 3: mrienader ($600 in chips) 
+Seat 4: ZarubaNT ($609 in chips) 
+mrienader: posts small blind $3
+ZarubaNT: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+ZarubaNT said, "400 only"
+HoldenUte03: folds 
+mrienader: folds 
+Uncalled bet ($3) returned to ZarubaNT
+ZarubaNT collected $6 from pot
+ZarubaNT: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: HoldenUte03 (button) folded before Flop (didn't bet)
+Seat 3: mrienader (small blind) folded before Flop
+Seat 4: ZarubaNT (big blind) collected ($6)
+
+
+PokerStars Game #102592015207:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:26:19 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($246 in chips) 
+Seat 3: mrienader ($600 in chips) 
+Seat 4: ZarubaNT ($612 in chips) 
+ZarubaNT: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+HoldenUte03: folds 
+mrienader: folds 
+ZarubaNT: folds 
+Uncalled bet ($3) returned to king10clubs
+king10clubs collected $6 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: king10clubs (big blind) collected ($6)
+Seat 2: HoldenUte03 folded before Flop (didn't bet)
+Seat 3: mrienader (button) folded before Flop (didn't bet)
+Seat 4: ZarubaNT (small blind) folded before Flop
+
+
+PokerStars Game #102592019442:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:26:35 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: king10clubs ($603 in chips) 
+Seat 2: HoldenUte03 ($246 in chips) 
+Seat 3: mrienader ($600 in chips) 
+Seat 4: ZarubaNT ($609 in chips) 
+king10clubs: posts small blind $3
+HoldenUte03: posts big blind $6
+*** HOLE CARDS ***
+mrienader: folds 
+mrienader leaves the table
+ZarubaNT: raises $6 to $12
+king10clubs said, "wanna start some 600 mrienader?"
+king10clubs: calls $9
+HoldenUte03: folds 
+*** FLOP *** [5s 3s Jd]
+king10clubs: checks 
+ZarubaNT: checks 
+*** TURN *** [5s 3s Jd] [4d]
+king10clubs: bets $22.60
+ZarubaNT: raises $46.40 to $69
+king10clubs: calls $46.40
+*** RIVER *** [5s 3s Jd 4d] [Kc]
+king10clubs: checks 
+ZarubaNT: bets $138
+king10clubs: calls $138
+*** SHOW DOWN ***
+ZarubaNT: shows [3c 4c] (two pair, Fours and Threes)
+king10clubs: mucks hand 
+ZarubaNT collected $442.50 from pot
+*** SUMMARY ***
+Total pot $444 | Rake $1.50 
+Board [5s 3s Jd 4d Kc]
+Seat 1: king10clubs (small blind) mucked
+Seat 2: HoldenUte03 (big blind) folded before Flop
+Seat 3: mrienader folded before Flop (didn't bet)
+Seat 4: ZarubaNT (button) showed [3c 4c] and won ($442.50) with two pair, Fours and Threes
+
+
+PokerStars Game #102592035120:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:27:36 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($240 in chips) 
+Seat 4: ZarubaNT ($832.50 in chips) 
+HoldenUte03: posts small blind $3
+ZarubaNT: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+Ner4zzurri joins the table at seat #3 
+HoldenUte03: folds 
+ZarubaNT: calls $6
+*** FLOP *** [Qd Ad 6d]
+ZarubaNT: checks 
+king10clubs: bets $17.40
+ZarubaNT: calls $17.40
+*** TURN *** [Qd Ad 6d] [3c]
+ZarubaNT: checks 
+king10clubs: checks 
+*** RIVER *** [Qd Ad 6d 3c] [Kh]
+ZarubaNT: checks 
+king10clubs: checks 
+*** SHOW DOWN ***
+ZarubaNT: shows [Ac 4c] (a pair of Aces)
+king10clubs: mucks hand 
+ZarubaNT collected $60.30 from pot
+*** SUMMARY ***
+Total pot $61.80 | Rake $1.50 
+Board [Qd Ad 6d 3c Kh]
+Seat 1: king10clubs (button) mucked
+Seat 2: HoldenUte03 (small blind) folded before Flop
+Seat 4: ZarubaNT (big blind) showed [Ac 4c] and won ($60.30) with a pair of Aces
+
+
+PokerStars Game #102592052281:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:28:43 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($237 in chips) 
+Seat 4: ZarubaNT ($863.40 in chips) 
+Ner4zzurri will be allowed to play after the button
+ZarubaNT: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+HoldenUte03: folds 
+ZarubaNT: raises $12 to $18
+king10clubs: folds 
+Uncalled bet ($12) returned to ZarubaNT
+ZarubaNT collected $12 from pot
+ZarubaNT: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: king10clubs (big blind) folded before Flop
+Seat 2: HoldenUte03 (button) folded before Flop (didn't bet)
+Seat 4: ZarubaNT (small blind) collected ($12)
+
+
+PokerStars Game #102592056235:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:28:58 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($237 in chips) 
+Seat 4: ZarubaNT ($869.40 in chips) 
+king10clubs: posts small blind $3
+HoldenUte03: posts big blind $6
+Ner4zzurri: sits out 
+*** HOLE CARDS ***
+ZarubaNT: folds 
+king10clubs: calls $3
+HoldenUte03: checks 
+*** FLOP *** [Ac 8c Jh]
+king10clubs: checks 
+HoldenUte03: checks 
+*** TURN *** [Ac 8c Jh] [Ts]
+king10clubs: checks 
+HoldenUte03: bets $6
+king10clubs: folds 
+Uncalled bet ($6) returned to HoldenUte03
+HoldenUte03 collected $11.46 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.54 
+Board [Ac 8c Jh Ts]
+Seat 1: king10clubs (small blind) folded on the Turn
+Seat 2: HoldenUte03 (big blind) collected ($11.46)
+Seat 4: ZarubaNT (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102592065495:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:29:35 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($242.46 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 4: ZarubaNT ($869.40 in chips) 
+HoldenUte03: posts small blind $3
+Ner4zzurri: posts big blind $6
+*** HOLE CARDS ***
+ZarubaNT: raises $9 to $15
+king10clubs: calls $15
+HoldenUte03: folds 
+Ner4zzurri: folds 
+*** FLOP *** [Qh Ks As]
+ZarubaNT: checks 
+king10clubs: checks 
+*** TURN *** [Qh Ks As] [6d]
+ZarubaNT: checks 
+king10clubs: checks 
+*** RIVER *** [Qh Ks As 6d] [2c]
+ZarubaNT: bets $27
+king10clubs: folds 
+Uncalled bet ($27) returned to ZarubaNT
+ZarubaNT collected $37.50 from pot
+ZarubaNT: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $1.50 
+Board [Qh Ks As 6d 2c]
+Seat 1: king10clubs (button) folded on the River
+Seat 2: HoldenUte03 (small blind) folded before Flop
+Seat 3: Ner4zzurri (big blind) folded before Flop
+Seat 4: ZarubaNT collected ($37.50)
+
+
+PokerStars Game #102591997923:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:25:12 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #2 is the button
+Seat 2: HoldenUte03 ($240 in chips) 
+Seat 4: ZarubaNT ($600 in chips) 
+HoldenUte03: posts small blind $3
+mrienader joins the table at seat #3 
+ZarubaNT: posts big blind $6
+*** HOLE CARDS ***
+king10clubs joins the table at seat #1 
+HoldenUte03: raises $234 to $240 and is all-in
+ZarubaNT: folds 
+Uncalled bet ($234) returned to HoldenUte03
+HoldenUte03 collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: HoldenUte03 (button) (small blind) collected ($12)
+Seat 4: ZarubaNT (big blind) folded before Flop
+
+
+PokerStars Game #102592228131:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:40:27 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($287.66 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 4: ZarubaNT ($1011.58 in chips) 
+Seat 5: mustanggino ($450 in chips) 
+Seat 6: KrisBj ($613.78 in chips) 
+ZarubaNT: posts small blind $3
+mustanggino: posts big blind $6
+*** HOLE CARDS ***
+KrisBj: folds 
+king10clubs: folds 
+HoldenUte03: folds 
+Ner4zzurri: folds 
+ZarubaNT: folds 
+Uncalled bet ($3) returned to mustanggino
+mustanggino collected $6 from pot
+mustanggino: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: HoldenUte03 folded before Flop (didn't bet)
+Seat 3: Ner4zzurri (button) folded before Flop (didn't bet)
+Seat 4: ZarubaNT (small blind) folded before Flop
+Seat 5: mustanggino (big blind) collected ($6)
+Seat 6: KrisBj folded before Flop (didn't bet)
+
+
+PokerStars Game #102592232409:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:40:44 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($287.66 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 4: ZarubaNT ($1008.58 in chips) 
+Seat 5: mustanggino ($453 in chips) 
+Seat 6: KrisBj ($613.78 in chips) 
+mustanggino: posts small blind $3
+KrisBj: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+HoldenUte03: folds 
+Ner4zzurri: folds 
+ZarubaNT: raises $6 to $12
+mustanggino: folds 
+KrisBj: calls $6
+*** FLOP *** [Ac 3s Jd]
+KrisBj: checks 
+ZarubaNT: bets $18
+KrisBj: folds 
+Uncalled bet ($18) returned to ZarubaNT
+ZarubaNT collected $25.78 from pot
+ZarubaNT: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Ac 3s Jd]
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: HoldenUte03 folded before Flop (didn't bet)
+Seat 3: Ner4zzurri folded before Flop (didn't bet)
+Seat 4: ZarubaNT (button) collected ($25.78)
+Seat 5: mustanggino (small blind) folded before Flop
+Seat 6: KrisBj (big blind) folded on the Flop
+
+
+PokerStars Game #102592240337:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:41:17 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($287.66 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 4: ZarubaNT ($1022.36 in chips) 
+Seat 5: mustanggino ($450 in chips) 
+Seat 6: KrisBj ($601.78 in chips) 
+KrisBj: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+HoldenUte03: folds 
+Ner4zzurri: folds 
+ZarubaNT: raises $9 to $15
+mustanggino: folds 
+KrisBj: raises $21 to $36
+king10clubs: folds 
+ZarubaNT: folds 
+Uncalled bet ($21) returned to KrisBj
+KrisBj collected $36 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0 
+Seat 1: king10clubs (big blind) folded before Flop
+Seat 2: HoldenUte03 folded before Flop (didn't bet)
+Seat 3: Ner4zzurri folded before Flop (didn't bet)
+Seat 4: ZarubaNT folded before Flop
+Seat 5: mustanggino (button) folded before Flop (didn't bet)
+Seat 6: KrisBj (small blind) collected ($36)
+
+
+PokerStars Game #102592250260:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:41:58 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #6 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($287.66 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 4: ZarubaNT ($1007.36 in chips) 
+Seat 5: mustanggino ($450 in chips) 
+Seat 6: KrisBj ($622.78 in chips) 
+king10clubs: posts small blind $3
+HoldenUte03: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri: folds 
+ZarubaNT: folds 
+mustanggino: raises $6 to $12
+KrisBj: folds 
+king10clubs: folds 
+HoldenUte03: calls $6
+*** FLOP *** [6d Ah 6s]
+HoldenUte03: checks 
+mustanggino: bets $12
+HoldenUte03: folds 
+Uncalled bet ($12) returned to mustanggino
+mustanggino collected $25.78 from pot
+mustanggino: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [6d Ah 6s]
+Seat 1: king10clubs (small blind) folded before Flop
+Seat 2: HoldenUte03 (big blind) folded on the Flop
+Seat 3: Ner4zzurri folded before Flop (didn't bet)
+Seat 4: ZarubaNT folded before Flop (didn't bet)
+Seat 5: mustanggino collected ($25.78)
+Seat 6: KrisBj (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102592261295:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:42:43 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($275.66 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 4: ZarubaNT ($1007.36 in chips) 
+Seat 5: mustanggino ($463.78 in chips) 
+Seat 6: KrisBj ($622.78 in chips) 
+HoldenUte03: posts small blind $3
+Ner4zzurri: posts big blind $6
+*** HOLE CARDS ***
+ZarubaNT: folds 
+mustanggino: folds 
+KrisBj: raises $12 to $18
+king10clubs: raises $36 to $54
+HoldenUte03: folds 
+Ner4zzurri: folds 
+KrisBj: raises $70 to $124
+king10clubs: folds 
+Uncalled bet ($70) returned to KrisBj
+KrisBj collected $117 from pot
+KrisBj: doesn't show hand 
+*** SUMMARY ***
+Total pot $117 | Rake $0 
+Seat 1: king10clubs (button) folded before Flop
+Seat 2: HoldenUte03 (small blind) folded before Flop
+Seat 3: Ner4zzurri (big blind) folded before Flop
+Seat 4: ZarubaNT folded before Flop (didn't bet)
+Seat 5: mustanggino folded before Flop (didn't bet)
+Seat 6: KrisBj collected ($117)
+
+
+PokerStars Game #102592272166:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:43:28 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($272.66 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 4: ZarubaNT ($1007.36 in chips) 
+Seat 5: mustanggino ($463.78 in chips) 
+Seat 6: KrisBj ($685.78 in chips) 
+Ner4zzurri: posts small blind $3
+ZarubaNT: posts big blind $6
+*** HOLE CARDS ***
+mustanggino: folds 
+KrisBj: folds 
+king10clubs: raises $9 to $15
+HoldenUte03: calls $15
+Ner4zzurri: calls $12
+ZarubaNT: folds 
+*** FLOP *** [2h 8c Ad]
+Ner4zzurri: checks 
+king10clubs: checks 
+HoldenUte03: checks 
+*** TURN *** [2h 8c Ad] [5s]
+Ner4zzurri: checks 
+king10clubs: checks 
+HoldenUte03: checks 
+*** RIVER *** [2h 8c Ad 5s] [5d]
+Ner4zzurri: checks 
+king10clubs: checks 
+HoldenUte03: bets $18
+Ner4zzurri: folds 
+king10clubs: folds 
+Uncalled bet ($18) returned to HoldenUte03
+HoldenUte03 collected $48.70 from pot
+*** SUMMARY ***
+Total pot $51 | Rake $2.30 
+Board [2h 8c Ad 5s 5d]
+Seat 1: king10clubs folded on the River
+Seat 2: HoldenUte03 (button) collected ($48.70)
+Seat 3: Ner4zzurri (small blind) folded on the River
+Seat 4: ZarubaNT (big blind) folded before Flop
+Seat 5: mustanggino folded before Flop (didn't bet)
+Seat 6: KrisBj folded before Flop (didn't bet)
+
+
+PokerStars Game #102592292919:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:44:55 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($306.36 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 4: ZarubaNT ($1001.36 in chips) 
+Seat 5: mustanggino ($463.78 in chips) 
+Seat 6: KrisBj ($685.78 in chips) 
+ZarubaNT: posts small blind $3
+mustanggino: posts big blind $6
+*** HOLE CARDS ***
+KrisBj: folds 
+king10clubs: folds 
+HoldenUte03: folds 
+HoldenUte03 leaves the table
+Ner4zzurri: raises $6 to $12
+ZarubaNT: folds 
+mustanggino: folds 
+Uncalled bet ($6) returned to Ner4zzurri
+Ner4zzurri collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: HoldenUte03 folded before Flop (didn't bet)
+Seat 3: Ner4zzurri (button) collected ($15)
+Seat 4: ZarubaNT (small blind) folded before Flop
+Seat 5: mustanggino (big blind) folded before Flop
+Seat 6: KrisBj folded before Flop (didn't bet)
+
+
+PokerStars Game #102592156140:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:35:34 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($245.46 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 4: ZarubaNT ($929.40 in chips) 
+Ner4zzurri: posts small blind $3
+ZarubaNT: posts big blind $6
+mustanggino: sits out 
+KrisBj: sits out 
+*** HOLE CARDS ***
+king10clubs: raises $9 to $15
+HoldenUte03: raises $230.46 to $245.46 and is all-in
+Ner4zzurri: folds 
+ZarubaNT: folds 
+king10clubs: folds 
+Uncalled bet ($230.46) returned to HoldenUte03
+HoldenUte03 collected $39 from pot
+*** SUMMARY ***
+Total pot $39 | Rake $0 
+Seat 1: king10clubs folded before Flop
+Seat 2: HoldenUte03 (button) collected ($39)
+Seat 3: Ner4zzurri (small blind) folded before Flop
+Seat 4: ZarubaNT (big blind) folded before Flop
+
+
+PokerStars Game #102592162649:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:36:00 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($269.46 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 4: ZarubaNT ($923.40 in chips) 
+Seat 5: mustanggino ($450 in chips) 
+ZarubaNT: posts small blind $3
+mustanggino: posts big blind $6
+KrisBj: sits out 
+*** HOLE CARDS ***
+king10clubs: folds 
+HoldenUte03: folds 
+Ner4zzurri: raises $6 to $12
+ZarubaNT: folds 
+mustanggino: folds 
+Uncalled bet ($6) returned to Ner4zzurri
+Ner4zzurri collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: HoldenUte03 folded before Flop (didn't bet)
+Seat 3: Ner4zzurri (button) collected ($15)
+Seat 4: ZarubaNT (small blind) folded before Flop
+Seat 5: mustanggino (big blind) folded before Flop
+
+
+PokerStars Game #102592167692:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:36:20 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($269.46 in chips) 
+Seat 3: Ner4zzurri ($609 in chips) 
+Seat 4: ZarubaNT ($920.40 in chips) 
+Seat 5: mustanggino ($450 in chips) 
+Seat 6: KrisBj ($600 in chips) 
+mustanggino: posts small blind $3
+KrisBj: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+HoldenUte03: folds 
+Ner4zzurri: folds 
+ZarubaNT: raises $6 to $12
+mustanggino: folds 
+KrisBj: calls $6
+*** FLOP *** [Kh 3h 8s]
+KrisBj: bets $15
+ZarubaNT: calls $15
+*** TURN *** [Kh 3h 8s] [Kd]
+KrisBj: checks 
+ZarubaNT: checks 
+*** RIVER *** [Kh 3h 8s Kd] [6d]
+KrisBj: bets $27
+ZarubaNT: calls $27
+*** SHOW DOWN ***
+KrisBj: shows [Qh 7c] (a pair of Kings)
+ZarubaNT: shows [Ad 3d] (two pair, Kings and Threes)
+ZarubaNT collected $108.20 from pot
+*** SUMMARY ***
+Total pot $111 | Rake $2.80 
+Board [Kh 3h 8s Kd 6d]
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: HoldenUte03 folded before Flop (didn't bet)
+Seat 3: Ner4zzurri folded before Flop (didn't bet)
+Seat 4: ZarubaNT (button) showed [Ad 3d] and won ($108.20) with two pair, Kings and Threes
+Seat 5: mustanggino (small blind) folded before Flop
+Seat 6: KrisBj (big blind) showed [Qh 7c] and lost with a pair of Kings
+
+
+PokerStars Game #102592178447:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:37:04 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($269.46 in chips) 
+Seat 3: Ner4zzurri ($609 in chips) 
+Seat 4: ZarubaNT ($974.60 in chips) 
+Seat 5: mustanggino ($450 in chips) 
+Seat 6: KrisBj ($546 in chips) 
+KrisBj: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+HoldenUte03: folds 
+Ner4zzurri: folds 
+ZarubaNT: raises $9 to $15
+mustanggino: folds 
+KrisBj: calls $12
+king10clubs: calls $9
+*** FLOP *** [8h 3h Ac]
+KrisBj: checks 
+king10clubs: checks 
+ZarubaNT: bets $27
+KrisBj: folds 
+king10clubs: folds 
+Uncalled bet ($27) returned to ZarubaNT
+ZarubaNT collected $42.98 from pot
+ZarubaNT: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $2.02 
+Board [8h 3h Ac]
+Seat 1: king10clubs (big blind) folded on the Flop
+Seat 2: HoldenUte03 folded before Flop (didn't bet)
+Seat 3: Ner4zzurri folded before Flop (didn't bet)
+Seat 4: ZarubaNT collected ($42.98)
+Seat 5: mustanggino (button) folded before Flop (didn't bet)
+Seat 6: KrisBj (small blind) folded on the Flop
+
+
+PokerStars Game #102592188308:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:37:44 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #6 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($269.46 in chips) 
+Seat 3: Ner4zzurri ($609 in chips) 
+Seat 4: ZarubaNT ($1002.58 in chips) 
+Seat 5: mustanggino ($450 in chips) 
+Seat 6: KrisBj ($600 in chips) 
+king10clubs: posts small blind $3
+HoldenUte03: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri: folds 
+ZarubaNT: folds 
+mustanggino: folds 
+KrisBj: raises $6 to $12
+king10clubs: folds 
+HoldenUte03: calls $6
+*** FLOP *** [Ah Kh 6c]
+HoldenUte03: checks 
+KrisBj: checks 
+*** TURN *** [Ah Kh 6c] [3h]
+HoldenUte03: checks 
+KrisBj: checks 
+*** RIVER *** [Ah Kh 6c 3h] [Jh]
+HoldenUte03: checks 
+KrisBj: checks 
+*** SHOW DOWN ***
+HoldenUte03: shows [2d 6d] (a pair of Sixes)
+KrisBj: shows [Jc 8s] (a pair of Jacks)
+KrisBj collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Ah Kh 6c 3h Jh]
+Seat 1: king10clubs (small blind) folded before Flop
+Seat 2: HoldenUte03 (big blind) showed [2d 6d] and lost with a pair of Sixes
+Seat 3: Ner4zzurri folded before Flop (didn't bet)
+Seat 4: ZarubaNT folded before Flop (didn't bet)
+Seat 5: mustanggino folded before Flop (didn't bet)
+Seat 6: KrisBj (button) showed [Jc 8s] and won ($25.78) with a pair of Jacks
+
+
+PokerStars Game #102592198554:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:38:27 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($257.46 in chips) 
+Seat 3: Ner4zzurri ($609 in chips) 
+Seat 4: ZarubaNT ($1002.58 in chips) 
+Seat 5: mustanggino ($450 in chips) 
+Seat 6: KrisBj ($613.78 in chips) 
+HoldenUte03: posts small blind $3
+Ner4zzurri: posts big blind $6
+*** HOLE CARDS ***
+ZarubaNT: folds 
+mustanggino: folds 
+KrisBj: folds 
+king10clubs: raises $6 to $12
+HoldenUte03: calls $9
+Ner4zzurri: folds 
+*** FLOP *** [8s 6d Qs]
+HoldenUte03: checks 
+king10clubs: bets $21
+HoldenUte03: calls $21
+*** TURN *** [8s 6d Qs] [9s]
+HoldenUte03: checks 
+king10clubs: checks 
+*** RIVER *** [8s 6d Qs 9s] [Kd]
+HoldenUte03: bets $48
+king10clubs: folds 
+Uncalled bet ($48) returned to HoldenUte03
+HoldenUte03 collected $69.20 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $2.80 
+Board [8s 6d Qs 9s Kd]
+Seat 1: king10clubs (button) folded on the River
+Seat 2: HoldenUte03 (small blind) collected ($69.20)
+Seat 3: Ner4zzurri (big blind) folded before Flop
+Seat 4: ZarubaNT folded before Flop (didn't bet)
+Seat 5: mustanggino folded before Flop (didn't bet)
+Seat 6: KrisBj folded before Flop (didn't bet)
+
+
+PokerStars Game #102592213772:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:39:28 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($293.66 in chips) 
+Seat 3: Ner4zzurri ($603 in chips) 
+Seat 4: ZarubaNT ($1002.58 in chips) 
+Seat 5: mustanggino ($450 in chips) 
+Seat 6: KrisBj ($613.78 in chips) 
+Ner4zzurri: posts small blind $3
+ZarubaNT: posts big blind $6
+*** HOLE CARDS ***
+mustanggino: folds 
+KrisBj: folds 
+king10clubs: folds 
+HoldenUte03: calls $6
+Ner4zzurri: folds 
+ZarubaNT: raises $18 to $24
+HoldenUte03: folds 
+Uncalled bet ($18) returned to ZarubaNT
+ZarubaNT collected $15 from pot
+ZarubaNT: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: HoldenUte03 (button) folded before Flop
+Seat 3: Ner4zzurri (small blind) folded before Flop
+Seat 4: ZarubaNT (big blind) collected ($15)
+Seat 5: mustanggino folded before Flop (didn't bet)
+Seat 6: KrisBj folded before Flop (didn't bet)
+
+
+PokerStars Game #102592079009:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:30:27 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: HoldenUte03 ($239.46 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 4: ZarubaNT ($891.90 in chips) 
+Ner4zzurri: posts small blind $3
+ZarubaNT: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $9 to $15
+HoldenUte03: folds 
+Ner4zzurri: folds 
+ZarubaNT: folds 
+Uncalled bet ($9) returned to king10clubs
+king10clubs collected $15 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: king10clubs collected ($15)
+Seat 2: HoldenUte03 (button) folded before Flop (didn't bet)
+Seat 3: Ner4zzurri (small blind) folded before Flop
+Seat 4: ZarubaNT (big blind) folded before Flop
+
+
+PokerStars Game #102592083129:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:30:43 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: king10clubs ($609 in chips) 
+Seat 2: HoldenUte03 ($239.46 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 4: ZarubaNT ($885.90 in chips) 
+ZarubaNT: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+HoldenUte03: folds 
+Ner4zzurri: folds 
+ZarubaNT: folds 
+Uncalled bet ($3) returned to king10clubs
+king10clubs collected $6 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: king10clubs (big blind) collected ($6)
+Seat 2: HoldenUte03 folded before Flop (didn't bet)
+Seat 3: Ner4zzurri (button) folded before Flop (didn't bet)
+Seat 4: ZarubaNT (small blind) folded before Flop
+
+
+PokerStars Game #102592089160:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:31:06 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: king10clubs ($612 in chips) 
+Seat 2: HoldenUte03 ($239.46 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 4: ZarubaNT ($882.90 in chips) 
+king10clubs: posts small blind $3
+HoldenUte03: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri: folds 
+ZarubaNT: raises $6 to $12
+king10clubs: folds 
+HoldenUte03: calls $6
+*** FLOP *** [5s 9s Ks]
+HoldenUte03: checks 
+ZarubaNT: bets $18
+HoldenUte03: calls $18
+*** TURN *** [5s 9s Ks] [3c]
+HoldenUte03: checks 
+ZarubaNT: bets $45
+HoldenUte03: folds [Kd]
+Uncalled bet ($45) returned to ZarubaNT
+ZarubaNT collected $61.50 from pot
+ZarubaNT: doesn't show hand 
+*** SUMMARY ***
+Total pot $63 | Rake $1.50 
+Board [5s 9s Ks 3c]
+Seat 1: king10clubs (small blind) folded before Flop
+Seat 2: HoldenUte03 (big blind) folded on the Turn
+Seat 3: Ner4zzurri folded before Flop (didn't bet)
+Seat 4: ZarubaNT (button) collected ($61.50)
+
+
+PokerStars Game #102592102215:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:31:57 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: king10clubs ($609 in chips) 
+Seat 2: HoldenUte03 ($209.46 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 4: ZarubaNT ($914.40 in chips) 
+HoldenUte03: posts small blind $3
+Ner4zzurri: posts big blind $6
+*** HOLE CARDS ***
+ZarubaNT: folds 
+king10clubs: raises $6 to $12
+HoldenUte03: folds 
+Ner4zzurri: calls $6
+*** FLOP *** [3h 6h 2d]
+Ner4zzurri: checks 
+king10clubs: bets $17.40
+Ner4zzurri: folds 
+Uncalled bet ($17.40) returned to king10clubs
+king10clubs collected $25.78 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [3h 6h 2d]
+Seat 1: king10clubs (button) collected ($25.78)
+Seat 2: HoldenUte03 (small blind) folded before Flop
+Seat 3: Ner4zzurri (big blind) folded on the Flop
+Seat 4: ZarubaNT folded before Flop (didn't bet)
+
+
+PokerStars Game #102592119103:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:33:04 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: king10clubs ($622.78 in chips) 
+Seat 2: HoldenUte03 ($206.46 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 4: ZarubaNT ($914.40 in chips) 
+Ner4zzurri: posts small blind $3
+ZarubaNT: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $9 to $15
+HoldenUte03: folds 
+Ner4zzurri: folds 
+ZarubaNT: folds 
+Uncalled bet ($9) returned to king10clubs
+king10clubs collected $15 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: king10clubs collected ($15)
+Seat 2: HoldenUte03 (button) folded before Flop (didn't bet)
+Seat 3: Ner4zzurri (small blind) folded before Flop
+Seat 4: ZarubaNT (big blind) folded before Flop
+
+
+PokerStars Game #102592125168:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:33:29 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: king10clubs ($631.78 in chips) 
+Seat 2: HoldenUte03 ($206.46 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 4: ZarubaNT ($908.40 in chips) 
+ZarubaNT: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+HoldenUte03: raises $6 to $12
+Ner4zzurri: folds 
+ZarubaNT: folds 
+king10clubs: folds 
+Uncalled bet ($6) returned to HoldenUte03
+HoldenUte03 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: king10clubs (big blind) folded before Flop
+Seat 2: HoldenUte03 collected ($15)
+Seat 3: Ner4zzurri (button) folded before Flop (didn't bet)
+Seat 4: ZarubaNT (small blind) folded before Flop
+
+
+PokerStars Game #102592128760:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:33:43 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: king10clubs ($625.78 in chips) 
+Seat 2: HoldenUte03 ($215.46 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 4: ZarubaNT ($905.40 in chips) 
+king10clubs: posts small blind $3
+HoldenUte03: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri: raises $9 to $15
+ZarubaNT: raises $30 to $45
+king10clubs: folds 
+HoldenUte03: folds 
+mustanggino joins the table at seat #5 
+Ner4zzurri: folds 
+Uncalled bet ($30) returned to ZarubaNT
+ZarubaNT collected $39 from pot
+ZarubaNT: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $0 
+Seat 1: king10clubs (small blind) folded before Flop
+Seat 2: HoldenUte03 (big blind) folded before Flop
+Seat 3: Ner4zzurri folded before Flop
+Seat 4: ZarubaNT (button) collected ($39)
+
+
+PokerStars Game #102592140284:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:34:29 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: king10clubs ($622.78 in chips) 
+Seat 2: HoldenUte03 ($209.46 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 4: ZarubaNT ($929.40 in chips) 
+HoldenUte03: posts small blind $3
+Ner4zzurri: posts big blind $6
+mustanggino: sits out 
+*** HOLE CARDS ***
+ZarubaNT: folds 
+king10clubs: raises $6 to $12
+HoldenUte03: calls $9
+Ner4zzurri: folds 
+*** FLOP *** [8h 4c 8c]
+HoldenUte03: checks 
+king10clubs: bets $19.50
+HoldenUte03: calls $19.50
+*** TURN *** [8h 4c 8c] [Ks]
+HoldenUte03: checks 
+KrisBj joins the table at seat #6 
+king10clubs: checks 
+*** RIVER *** [8h 4c 8c Ks] [3c]
+HoldenUte03: bets $24
+king10clubs: folds 
+Uncalled bet ($24) returned to HoldenUte03
+HoldenUte03 collected $67.50 from pot
+*** SUMMARY ***
+Total pot $69 | Rake $1.50 
+Board [8h 4c 8c Ks 3c]
+Seat 1: king10clubs (button) folded on the River
+Seat 2: HoldenUte03 (small blind) collected ($67.50)
+Seat 3: Ner4zzurri (big blind) folded before Flop
+Seat 4: ZarubaNT folded before Flop (didn't bet)
+
+
+PokerStars Game #102592372920:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:50:28 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: king10clubs ($625.78 in chips) 
+Seat 2: maxxmeister ($600 in chips) 
+Seat 3: Ner4zzurri ($609 in chips) 
+Seat 5: mustanggino ($459.56 in chips) 
+Seat 6: KrisBj ($732.23 in chips) 
+maxxmeister: posts small blind $3
+Ner4zzurri: posts big blind $6
+*** HOLE CARDS ***
+mustanggino: folds 
+KrisBj: folds 
+king10clubs: raises $6 to $12
+maxxmeister: folds 
+Ner4zzurri: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $15 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: king10clubs (button) collected ($15)
+Seat 2: maxxmeister (small blind) folded before Flop
+Seat 3: Ner4zzurri (big blind) folded before Flop
+Seat 5: mustanggino folded before Flop (didn't bet)
+Seat 6: KrisBj folded before Flop (didn't bet)
+
+
+PokerStars Game #102592375464:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:50:38 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: king10clubs ($634.78 in chips) 
+Seat 2: maxxmeister ($600 in chips) 
+Seat 3: Ner4zzurri ($603 in chips) 
+Seat 5: mustanggino ($459.56 in chips) 
+Seat 6: KrisBj ($732.23 in chips) 
+Ner4zzurri: posts small blind $3
+mustanggino: posts big blind $6
+*** HOLE CARDS ***
+KrisBj: folds 
+king10clubs: folds 
+maxxmeister: raises $6 to $12
+Ner4zzurri: folds 
+mustanggino: calls $6
+*** FLOP *** [2s 8s 3s]
+mustanggino: checks 
+maxxmeister: bets $17.01
+mustanggino: raises $30.99 to $48
+ZarubaNT leaves the table
+maxxmeister: folds 
+Uncalled bet ($30.99) returned to mustanggino
+mustanggino collected $58.27 from pot
+mustanggino: doesn't show hand 
+*** SUMMARY ***
+Total pot $61.02 | Rake $2.75 
+Board [2s 8s 3s]
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: maxxmeister (button) folded on the Flop
+Seat 3: Ner4zzurri (small blind) folded before Flop
+Seat 5: mustanggino (big blind) collected ($58.27)
+Seat 6: KrisBj folded before Flop (didn't bet)
+
+
+PokerStars Game #102592398687:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:52:15 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: king10clubs ($634.78 in chips) 
+Seat 2: maxxmeister ($600 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 5: mustanggino ($488.82 in chips) 
+Seat 6: KrisBj ($732.23 in chips) 
+mustanggino: posts small blind $3
+KrisBj: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+maxxmeister: folds 
+Ner4zzurri: raises $6 to $12
+mustanggino: folds 
+KrisBj: calls $6
+*** FLOP *** [Td 6s 7c]
+KrisBj: bets $12
+Ner4zzurri: calls $12
+*** TURN *** [Td 6s 7c] [7d]
+KrisBj: bets $36
+Ner4zzurri: folds 
+Uncalled bet ($36) returned to KrisBj
+KrisBj collected $48.70 from pot
+*** SUMMARY ***
+Total pot $51 | Rake $2.30 
+Board [Td 6s 7c 7d]
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: maxxmeister folded before Flop (didn't bet)
+Seat 3: Ner4zzurri (button) folded on the Turn
+Seat 5: mustanggino (small blind) folded before Flop
+Seat 6: KrisBj (big blind) collected ($48.70)
+
+
+PokerStars Game #102592412199:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:53:12 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: king10clubs ($634.78 in chips) 
+Seat 2: maxxmeister ($600 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 5: mustanggino ($485.82 in chips) 
+Seat 6: KrisBj ($756.93 in chips) 
+KrisBj: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+maxxmeister: folds 
+Ner4zzurri: folds 
+mustanggino: folds 
+KrisBj: calls $3
+king10clubs: checks 
+*** FLOP *** [Qd 2h Qc]
+KrisBj: checks 
+king10clubs: checks 
+*** TURN *** [Qd 2h Qc] [3s]
+KrisBj: checks 
+king10clubs: checks 
+*** RIVER *** [Qd 2h Qc 3s] [Ks]
+KrisBj: checks 
+king10clubs: checks 
+*** SHOW DOWN ***
+KrisBj: shows [Ah 4h] (a pair of Queens)
+king10clubs: mucks hand 
+KrisBj collected $11.46 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.54 
+Board [Qd 2h Qc 3s Ks]
+Seat 1: king10clubs (big blind) mucked
+Seat 2: maxxmeister folded before Flop (didn't bet)
+Seat 3: Ner4zzurri folded before Flop (didn't bet)
+Seat 5: mustanggino (button) folded before Flop (didn't bet)
+Seat 6: KrisBj (small blind) showed [Ah 4h] and won ($11.46) with a pair of Queens
+
+
+PokerStars Game #102592424275:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:54:04 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #6 is the button
+Seat 1: king10clubs ($628.78 in chips) 
+Seat 2: maxxmeister ($600 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 5: mustanggino ($485.82 in chips) 
+Seat 6: KrisBj ($762.39 in chips) 
+king10clubs: posts small blind $3
+maxxmeister: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri: raises $12 to $18
+mustanggino: folds 
+KrisBj: folds 
+king10clubs: folds 
+maxxmeister: folds 
+Uncalled bet ($12) returned to Ner4zzurri
+Ner4zzurri collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: king10clubs (small blind) folded before Flop
+Seat 2: maxxmeister (big blind) folded before Flop
+Seat 3: Ner4zzurri collected ($15)
+Seat 5: mustanggino folded before Flop (didn't bet)
+Seat 6: KrisBj (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102592430789:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:54:31 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: king10clubs ($625.78 in chips) 
+Seat 2: maxxmeister ($600 in chips) 
+Seat 3: Ner4zzurri ($609 in chips) 
+Seat 5: mustanggino ($485.82 in chips) 
+Seat 6: KrisBj ($762.39 in chips) 
+maxxmeister: posts small blind $3
+Ner4zzurri: posts big blind $6
+*** HOLE CARDS ***
+mustanggino: folds 
+KrisBj: folds 
+king10clubs: raises $6 to $12
+maxxmeister: raises $34.50 to $46.50
+Ner4zzurri: folds 
+king10clubs: folds 
+Uncalled bet ($34.50) returned to maxxmeister
+maxxmeister collected $30 from pot
+maxxmeister: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: king10clubs (button) folded before Flop
+Seat 2: maxxmeister (small blind) collected ($30)
+Seat 3: Ner4zzurri (big blind) folded before Flop
+Seat 5: mustanggino folded before Flop (didn't bet)
+Seat 6: KrisBj folded before Flop (didn't bet)
+
+
+PokerStars Game #102592300610:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:45:27 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 3: Ner4zzurri ($609 in chips) 
+Seat 4: ZarubaNT ($998.36 in chips) 
+Seat 5: mustanggino ($457.78 in chips) 
+Seat 6: KrisBj ($685.78 in chips) 
+mustanggino: posts small blind $3
+KrisBj: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $9 to $15
+Ner4zzurri: folds 
+ZarubaNT: folds 
+mustanggino: folds 
+KrisBj: calls $9
+*** FLOP *** [7s 6s 9c]
+KrisBj: checks 
+king10clubs: bets $20.60
+KrisBj: raises $21.40 to $42
+king10clubs: folds 
+Uncalled bet ($21.40) returned to KrisBj
+KrisBj collected $71.40 from pot
+KrisBj: doesn't show hand 
+*** SUMMARY ***
+Total pot $74.20 | Rake $2.80 
+Board [7s 6s 9c]
+Seat 1: king10clubs folded on the Flop
+Seat 3: Ner4zzurri folded before Flop (didn't bet)
+Seat 4: ZarubaNT (button) folded before Flop (didn't bet)
+Seat 5: mustanggino (small blind) folded before Flop
+Seat 6: KrisBj (big blind) collected ($71.40)
+
+
+PokerStars Game #102592311189:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:46:10 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 3: Ner4zzurri ($609 in chips) 
+Seat 4: ZarubaNT ($998.36 in chips) 
+Seat 5: mustanggino ($454.78 in chips) 
+Seat 6: KrisBj ($721.58 in chips) 
+KrisBj: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri: folds 
+ZarubaNT: folds 
+mustanggino: raises $6 to $12
+KrisBj: folds 
+maxxmeister joins the table at seat #2 
+king10clubs: calls $6
+*** FLOP *** [Kc Kd 2d]
+king10clubs: checks 
+mustanggino: bets $12
+king10clubs: folds 
+Uncalled bet ($12) returned to mustanggino
+mustanggino collected $25.78 from pot
+mustanggino: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Kc Kd 2d]
+Seat 1: king10clubs (big blind) folded on the Flop
+Seat 3: Ner4zzurri folded before Flop (didn't bet)
+Seat 4: ZarubaNT folded before Flop (didn't bet)
+Seat 5: mustanggino (button) collected ($25.78)
+Seat 6: KrisBj (small blind) folded before Flop
+
+
+PokerStars Game #102592321669:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:46:54 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #6 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: maxxmeister ($600 in chips) 
+Seat 3: Ner4zzurri ($609 in chips) 
+Seat 4: ZarubaNT ($998.36 in chips) 
+Seat 5: mustanggino ($468.56 in chips) 
+Seat 6: KrisBj ($718.58 in chips) 
+king10clubs: posts small blind $3
+maxxmeister: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri: folds 
+ZarubaNT: folds 
+mustanggino: folds 
+KrisBj: raises $6 to $12
+king10clubs: folds 
+maxxmeister: folds 
+Uncalled bet ($6) returned to KrisBj
+KrisBj collected $15 from pot
+KrisBj: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: king10clubs (small blind) folded before Flop
+Seat 2: maxxmeister (big blind) folded before Flop
+Seat 3: Ner4zzurri folded before Flop (didn't bet)
+Seat 4: ZarubaNT folded before Flop (didn't bet)
+Seat 5: mustanggino folded before Flop (didn't bet)
+Seat 6: KrisBj (button) collected ($15)
+
+
+PokerStars Game #102592325605:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:47:11 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: maxxmeister ($600 in chips) 
+Seat 3: Ner4zzurri ($609 in chips) 
+Seat 4: ZarubaNT ($998.36 in chips) 
+Seat 5: mustanggino ($468.56 in chips) 
+Seat 6: KrisBj ($727.58 in chips) 
+maxxmeister: posts small blind $3
+Ner4zzurri: posts big blind $6
+*** HOLE CARDS ***
+ZarubaNT: folds 
+mustanggino: folds 
+KrisBj: folds 
+king10clubs: raises $6 to $12
+maxxmeister: folds 
+Ner4zzurri: calls $6
+*** FLOP *** [Kc 6c 5h]
+Ner4zzurri: checks 
+king10clubs: bets $17.40
+Ner4zzurri: folds 
+Uncalled bet ($17.40) returned to king10clubs
+king10clubs collected $25.78 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Kc 6c 5h]
+Seat 1: king10clubs (button) collected ($25.78)
+Seat 2: maxxmeister (small blind) folded before Flop
+Seat 3: Ner4zzurri (big blind) folded on the Flop
+Seat 4: ZarubaNT folded before Flop (didn't bet)
+Seat 5: mustanggino folded before Flop (didn't bet)
+Seat 6: KrisBj folded before Flop (didn't bet)
+
+
+PokerStars Game #102592342926:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:48:24 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: king10clubs ($613.78 in chips) 
+Seat 2: maxxmeister ($600 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 5: mustanggino ($468.56 in chips) 
+Seat 6: KrisBj ($727.58 in chips) 
+Ner4zzurri: posts small blind $3
+ZarubaNT: is sitting out 
+mustanggino: posts big blind $6
+*** HOLE CARDS ***
+KrisBj: raises $6 to $12
+king10clubs: folds 
+maxxmeister: folds 
+Ner4zzurri: calls $9
+mustanggino: folds 
+*** FLOP *** [Kh 6d As]
+Ner4zzurri: checks 
+KrisBj: bets $18
+Ner4zzurri: folds 
+Uncalled bet ($18) returned to KrisBj
+KrisBj collected $28.65 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [Kh 6d As]
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: maxxmeister (button) folded before Flop (didn't bet)
+Seat 3: Ner4zzurri (small blind) folded on the Flop
+Seat 5: mustanggino (big blind) folded before Flop
+Seat 6: KrisBj collected ($28.65)
+
+
+PokerStars Game #102592354996:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:49:14 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: king10clubs ($613.78 in chips) 
+Seat 2: maxxmeister ($600 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 5: mustanggino ($462.56 in chips) 
+Seat 6: KrisBj ($744.23 in chips) 
+mustanggino: posts small blind $3
+KrisBj: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+maxxmeister: folds 
+Ner4zzurri: raises $6 to $12
+mustanggino: folds 
+KrisBj: folds 
+Uncalled bet ($6) returned to Ner4zzurri
+Ner4zzurri collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: maxxmeister folded before Flop (didn't bet)
+Seat 3: Ner4zzurri (button) collected ($15)
+Seat 5: mustanggino (small blind) folded before Flop
+Seat 6: KrisBj (big blind) folded before Flop
+
+
+PokerStars Game #102592359316:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:49:31 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: king10clubs ($613.78 in chips) 
+Seat 2: maxxmeister ($600 in chips) 
+Seat 3: Ner4zzurri ($609 in chips) 
+Seat 5: mustanggino ($459.56 in chips) 
+Seat 6: KrisBj ($738.23 in chips) 
+KrisBj: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+maxxmeister: folds 
+Ner4zzurri: folds 
+mustanggino: folds 
+KrisBj: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to KrisBj
+KrisBj collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: king10clubs (big blind) folded before Flop
+Seat 2: maxxmeister folded before Flop (didn't bet)
+Seat 3: Ner4zzurri folded before Flop (didn't bet)
+Seat 5: mustanggino (button) folded before Flop (didn't bet)
+Seat 6: KrisBj (small blind) collected ($12)
+
+
+PokerStars Game #102592365481:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:49:57 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #6 is the button
+Seat 1: king10clubs ($607.78 in chips) 
+Seat 2: maxxmeister ($600 in chips) 
+Seat 3: Ner4zzurri ($609 in chips) 
+Seat 5: mustanggino ($459.56 in chips) 
+Seat 6: KrisBj ($744.23 in chips) 
+king10clubs: posts small blind $3
+maxxmeister: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri: folds 
+mustanggino: folds 
+KrisBj: raises $6 to $12
+king10clubs: raises $33 to $45
+maxxmeister: folds 
+KrisBj: folds 
+Uncalled bet ($33) returned to king10clubs
+king10clubs collected $30 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: king10clubs (small blind) collected ($30)
+Seat 2: maxxmeister (big blind) folded before Flop
+Seat 3: Ner4zzurri folded before Flop (didn't bet)
+Seat 5: mustanggino folded before Flop (didn't bet)
+Seat 6: KrisBj (button) folded before Flop
+
+
+PokerStars Game #102592439465:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:55:09 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: king10clubs ($613.78 in chips) 
+Seat 2: maxxmeister ($618 in chips) 
+Seat 3: Ner4zzurri ($603 in chips) 
+Seat 5: mustanggino ($485.82 in chips) 
+Seat 6: KrisBj ($762.39 in chips) 
+Ner4zzurri: posts small blind $3
+mustanggino: posts big blind $6
+*** HOLE CARDS ***
+KrisBj: folds 
+king10clubs: folds 
+maxxmeister: raises $10.20 to $16.20
+Ner4zzurri: folds 
+mustanggino: folds 
+Uncalled bet ($10.20) returned to maxxmeister
+maxxmeister collected $15 from pot
+maxxmeister: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: maxxmeister (button) collected ($15)
+Seat 3: Ner4zzurri (small blind) folded before Flop
+Seat 5: mustanggino (big blind) folded before Flop
+Seat 6: KrisBj folded before Flop (didn't bet)
+
+
+PokerStars Game #102592443687:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:55:30 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: king10clubs ($613.78 in chips) 
+Seat 2: maxxmeister ($627 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 5: mustanggino ($479.82 in chips) 
+Seat 6: KrisBj ($762.39 in chips) 
+mustanggino: posts small blind $3
+KrisBj: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+maxxmeister: raises $10.20 to $16.20
+Ner4zzurri: folds 
+mustanggino: folds 
+KrisBj: folds 
+Uncalled bet ($10.20) returned to maxxmeister
+maxxmeister collected $15 from pot
+maxxmeister: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: maxxmeister collected ($15)
+Seat 3: Ner4zzurri (button) folded before Flop (didn't bet)
+Seat 5: mustanggino (small blind) folded before Flop
+Seat 6: KrisBj (big blind) folded before Flop
+
+
+PokerStars Game #102592447224:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:55:49 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: king10clubs ($613.78 in chips) 
+Seat 2: maxxmeister ($636 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 5: mustanggino ($476.82 in chips) 
+Seat 6: KrisBj ($756.39 in chips) 
+KrisBj: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+maxxmeister: folds 
+Ner4zzurri: folds 
+mustanggino: folds 
+KrisBj: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [5c Ac 2c]
+KrisBj: bets $12
+king10clubs: calls $12
+*** TURN *** [5c Ac 2c] [Jd]
+KrisBj: bets $18
+king10clubs: calls $18
+*** RIVER *** [5c Ac 2c Jd] [4c]
+KrisBj: bets $42
+king10clubs: folds 
+Uncalled bet ($42) returned to KrisBj
+KrisBj collected $81.20 from pot
+KrisBj: doesn't show hand 
+*** SUMMARY ***
+Total pot $84 | Rake $2.80 
+Board [5c Ac 2c Jd 4c]
+Seat 1: king10clubs (big blind) folded on the River
+Seat 2: maxxmeister folded before Flop (didn't bet)
+Seat 3: Ner4zzurri folded before Flop (didn't bet)
+Seat 5: mustanggino (button) folded before Flop (didn't bet)
+Seat 6: KrisBj (small blind) collected ($81.20)
+
+
+PokerStars Game #102592455615:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:56:32 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #6 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: maxxmeister ($636 in chips) 
+Seat 3: Ner4zzurri ($600 in chips) 
+Seat 5: mustanggino ($476.82 in chips) 
+Seat 6: KrisBj ($795.59 in chips) 
+king10clubs: posts small blind $3
+maxxmeister: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri: raises $12 to $18
+mustanggino: folds 
+KrisBj: folds 
+KrisBj leaves the table
+king10clubs: folds 
+maxxmeister: folds 
+Uncalled bet ($12) returned to Ner4zzurri
+Ner4zzurri collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: king10clubs (small blind) folded before Flop
+Seat 2: maxxmeister (big blind) folded before Flop
+Seat 3: Ner4zzurri collected ($15)
+Seat 5: mustanggino folded before Flop (didn't bet)
+Seat 6: KrisBj (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102592461710:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:57:04 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: maxxmeister ($630 in chips) 
+Seat 3: Ner4zzurri ($609 in chips) 
+Seat 5: mustanggino ($476.82 in chips) 
+maxxmeister: posts small blind $3
+Ner4zzurri: posts big blind $6
+*** HOLE CARDS ***
+mustanggino: folds 
+king10clubs: raises $6 to $12
+maxxmeister: folds 
+Ner4zzurri: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $15 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: king10clubs (button) collected ($15)
+Seat 2: maxxmeister (small blind) folded before Flop
+Seat 3: Ner4zzurri (big blind) folded before Flop
+Seat 5: mustanggino folded before Flop (didn't bet)
+
+
+PokerStars Game #102592466453:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 0:57:28 ET
+Table 'Adriana III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: king10clubs ($609 in chips) 
+Seat 2: maxxmeister ($627 in chips) 
+Seat 3: Ner4zzurri ($603 in chips) 
+Ner4zzurri: posts small blind $3
+mustanggino: is sitting out 
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+maxxmeister: raises $10.20 to $16.20
+Ner4zzurri: folds 
+king10clubs: calls $10.20
+*** FLOP *** [Qd Td Ts]
+king10clubs: checks 
+maxxmeister: bets $22.37
+king10clubs: calls $22.37
+*** TURN *** [Qd Td Ts] [5h]
+king10clubs: checks 
+maxxmeister: checks 
+*** RIVER *** [Qd Td Ts 5h] [6c]
+king10clubs: checks 
+maxxmeister: checks 
+*** SHOW DOWN ***
+king10clubs: shows [3h Ac] (a pair of Tens)
+maxxmeister: shows [6d 4d] (two pair, Tens and Sixes)
+maxxmeister collected $78.64 from pot
+*** SUMMARY ***
+Total pot $80.14 | Rake $1.50 
+Board [Qd Td Ts 5h 6c]
+Seat 1: king10clubs (big blind) showed [3h Ac] and lost with a pair of Tens
+Seat 2: maxxmeister (button) showed [6d 4d] and won ($78.64) with two pair, Tens and Sixes
+Seat 3: Ner4zzurri (small blind) folded before Flop

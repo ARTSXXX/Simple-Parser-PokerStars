@@ -1,0 +1,2080 @@
+
+
+PokerStars Game #102595142132:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:50:06 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($662.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [2h 2d 3s]
+vjxbkf: checks 
+king10clubs: bets $18
+vjxbkf: folds 
+Uncalled bet ($18) returned to king10clubs
+king10clubs collected $23.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [2h 2d 3s]
+Seat 2: vjxbkf (big blind) folded on the Flop
+Seat 5: king10clubs (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102595155462:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:50:44 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($674 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102595158258:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:50:52 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($606 in chips) 
+Seat 5: king10clubs ($668 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [Ah Ts 4h]
+vjxbkf: bets $18
+king10clubs: calls $18
+*** TURN *** [Ah Ts 4h] [2c]
+vjxbkf: bets $48
+king10clubs: calls $48
+*** RIVER *** [Ah Ts 4h 2c] [8d]
+vjxbkf: checks 
+king10clubs: bets $85
+vjxbkf: folds 
+Uncalled bet ($85) returned to king10clubs
+king10clubs collected $155.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $156 | Rake $0.50 
+Board [Ah Ts 4h 2c 8d]
+Seat 2: vjxbkf (big blind) folded on the River
+Seat 5: king10clubs (button) (small blind) collected ($155.50)
+
+
+PokerStars Game #102595201594:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:52:55 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($745.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [6s 4s 3c]
+king10clubs: checks 
+vjxbkf: bets $15
+king10clubs: calls $15
+*** TURN *** [6s 4s 3c] [5s]
+king10clubs: checks 
+vjxbkf: checks 
+*** RIVER *** [6s 4s 3c 5s] [Jh]
+king10clubs: checks 
+vjxbkf: checks 
+*** SHOW DOWN ***
+king10clubs: shows [Ac 8c] (high card Ace)
+vjxbkf: shows [3d 5c] (two pair, Fives and Threes)
+vjxbkf collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50 
+Board [6s 4s 3c 5s Jh]
+Seat 2: vjxbkf (button) (small blind) showed [3d 5c] and won ($53.50) with two pair, Fives and Threes
+Seat 5: king10clubs (big blind) showed [Ac 8c] and lost with high card Ace
+
+
+PokerStars Game #102595226003:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:54:03 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($626.50 in chips) 
+Seat 5: king10clubs ($718.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+Uncalled bet ($3) returned to vjxbkf
+vjxbkf collected $6 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: vjxbkf (big blind) collected ($6)
+Seat 5: king10clubs (button) (small blind) folded before Flop
+
+
+PokerStars Game #102595227762:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:54:08 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($629.50 in chips) 
+Seat 5: king10clubs ($715.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [9h Kc 6d]
+king10clubs: checks 
+vjxbkf: bets $15
+king10clubs: calls $15
+*** TURN *** [9h Kc 6d] [6s]
+king10clubs: checks 
+vjxbkf: bets $36
+king10clubs: raises $78 to $114
+vjxbkf: calls $78
+*** RIVER *** [9h Kc 6d 6s] [2d]
+king10clubs: bets $225
+vjxbkf: raises $263.50 to $488.50 and is all-in
+king10clubs: folds 
+Uncalled bet ($263.50) returned to vjxbkf
+vjxbkf collected $731.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $732 | Rake $0.50 
+Board [9h Kc 6d 6s 2d]
+Seat 2: vjxbkf (button) (small blind) collected ($731.50)
+Seat 5: king10clubs (big blind) folded on the River
+
+
+PokerStars Game #102595106321:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:48:24 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [Qc 5h 4s]
+king10clubs: checks 
+vjxbkf: bets $15
+king10clubs: calls $15
+*** TURN *** [Qc 5h 4s] [7d]
+king10clubs: checks 
+vjxbkf: bets $36
+king10clubs: calls $36
+*** RIVER *** [Qc 5h 4s 7d] [As]
+king10clubs: checks 
+vjxbkf: checks 
+*** SHOW DOWN ***
+king10clubs: shows [Ac 4h] (two pair, Aces and Fours)
+vjxbkf: mucks hand 
+king10clubs collected $125.50 from pot
+*** SUMMARY ***
+Total pot $126 | Rake $0.50 
+Board [Qc 5h 4s 7d As]
+Seat 2: vjxbkf (button) (small blind) mucked
+Seat 5: king10clubs (big blind) showed [Ac 4h] and won ($125.50) with two pair, Aces and Fours
+
+
+PokerStars Game #102595576352:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:10:50 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1135.50 in chips) 
+Seat 5: king10clubs ($880.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102595581606:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:11:04 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1129.50 in chips) 
+Seat 5: king10clubs ($886.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [2s 6h 8c]
+king10clubs: checks 
+vjxbkf: bets $15
+king10clubs: calls $15
+*** TURN *** [2s 6h 8c] [7s]
+king10clubs: bets $43
+vjxbkf: calls $43
+*** RIVER *** [2s 6h 8c 7s] [Kc]
+king10clubs: checks 
+vjxbkf: checks 
+*** SHOW DOWN ***
+king10clubs: shows [Th Js] (high card King)
+vjxbkf: shows [6d 4c] (a pair of Sixes)
+vjxbkf collected $139.50 from pot
+*** SUMMARY ***
+Total pot $140 | Rake $0.50 
+Board [2s 6h 8c 7s Kc]
+Seat 2: vjxbkf (button) (small blind) showed [6d 4c] and won ($139.50) with a pair of Sixes
+Seat 5: king10clubs (big blind) showed [Th Js] and lost with high card King
+
+
+PokerStars Game #102595613251:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:12:34 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1199 in chips) 
+Seat 5: king10clubs ($816.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: raises $33 to $45
+king10clubs: folds 
+Uncalled bet ($33) returned to vjxbkf
+vjxbkf collected $24 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: vjxbkf (big blind) collected ($24)
+Seat 5: king10clubs (button) (small blind) folded before Flop
+
+
+PokerStars Game #102595620450:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:12:54 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1211 in chips) 
+Seat 5: king10clubs ($804.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102595627710:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:13:14 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1217 in chips) 
+Seat 5: king10clubs ($798.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: raises $30 to $42
+king10clubs: calls $30
+*** FLOP *** [Ad Qc 6h]
+vjxbkf: checks 
+king10clubs: checks 
+*** TURN *** [Ad Qc 6h] [6c]
+vjxbkf: checks 
+king10clubs: bets $45
+vjxbkf: folds 
+Uncalled bet ($45) returned to king10clubs
+king10clubs collected $83.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $84 | Rake $0.50 
+Board [Ad Qc 6h 6c]
+Seat 2: vjxbkf (big blind) folded on the Turn
+Seat 5: king10clubs (button) (small blind) collected ($83.50)
+
+
+PokerStars Game #102595655307:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:14:32 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1175 in chips) 
+Seat 5: king10clubs ($840 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102595660596:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:14:47 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1181 in chips) 
+Seat 5: king10clubs ($834 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102595464089:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:05:44 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1217 in chips) 
+Seat 5: king10clubs ($800.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102595475435:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:06:14 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1223 in chips) 
+Seat 5: king10clubs ($794.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102595484905:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:06:39 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1217 in chips) 
+Seat 5: king10clubs ($800.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: raises $36 to $48
+vjxbkf: folds 
+Uncalled bet ($36) returned to king10clubs
+king10clubs collected $24 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) folded before Flop
+Seat 5: king10clubs (big blind) collected ($24)
+
+
+PokerStars Game #102595492877:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:07:01 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1205 in chips) 
+Seat 5: king10clubs ($812.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102595498822:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:07:17 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1199 in chips) 
+Seat 5: king10clubs ($818.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [7c 2c Kh]
+king10clubs: checks 
+vjxbkf: checks 
+*** TURN *** [7c 2c Kh] [Qh]
+king10clubs: checks 
+vjxbkf: checks 
+*** RIVER *** [7c 2c Kh Qh] [8d]
+king10clubs: checks 
+vjxbkf: bets $15
+king10clubs: folds 
+Uncalled bet ($15) returned to vjxbkf
+vjxbkf collected $23.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [7c 2c Kh Qh 8d]
+Seat 2: vjxbkf (button) (small blind) collected ($23.50)
+Seat 5: king10clubs (big blind) folded on the River
+
+
+PokerStars Game #102595522401:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:08:20 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1210.50 in chips) 
+Seat 5: king10clubs ($806.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: raises $33 to $45
+king10clubs: calls $33
+*** FLOP *** [2s 3c 5c]
+vjxbkf: checks 
+king10clubs: bets $48
+vjxbkf: folds 
+Uncalled bet ($48) returned to king10clubs
+king10clubs collected $89.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $90 | Rake $0.50 
+Board [2s 3c 5c]
+Seat 2: vjxbkf (big blind) folded on the Flop
+Seat 5: king10clubs (button) (small blind) collected ($89.50)
+
+
+PokerStars Game #102595540429:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:09:10 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1165.50 in chips) 
+Seat 5: king10clubs ($851 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102595544978:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:09:22 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1171.50 in chips) 
+Seat 5: king10clubs ($845 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102595551274:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:09:40 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1165.50 in chips) 
+Seat 5: king10clubs ($851 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [Ad Jd 6c]
+king10clubs: checks 
+vjxbkf: checks 
+*** TURN *** [Ad Jd 6c] [Ah]
+king10clubs: bets $18
+vjxbkf: calls $18
+*** RIVER *** [Ad Jd 6c Ah] [7d]
+king10clubs: bets $45
+vjxbkf: folds 
+Uncalled bet ($45) returned to king10clubs
+king10clubs collected $59.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $60 | Rake $0.50 
+Board [Ad Jd 6c Ah 7d]
+Seat 2: vjxbkf (button) (small blind) folded on the River
+Seat 5: king10clubs (big blind) collected ($59.50)
+
+
+PokerStars Game #102595267437:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:56:09 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($995 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102595271008:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:56:21 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($989 in chips) 
+Seat 5: king10clubs ($606 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: raises $33 to $45
+vjxbkf: calls $33
+*** FLOP *** [7h 3s Jd]
+king10clubs: bets $42
+vjxbkf: raises $69 to $111
+king10clubs: calls $69
+*** TURN *** [7h 3s Jd] [Qs]
+king10clubs: checks 
+vjxbkf: bets $108
+king10clubs: calls $108
+*** RIVER *** [7h 3s Jd Qs] [9s]
+king10clubs: checks 
+vjxbkf: bets $725 and is all-in
+king10clubs: folds 
+Uncalled bet ($725) returned to vjxbkf
+vjxbkf collected $527.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $528 | Rake $0.50 
+Board [7h 3s Jd Qs 9s]
+Seat 2: vjxbkf (button) (small blind) collected ($527.50)
+Seat 5: king10clubs (big blind) folded on the River
+
+
+PokerStars Game #102595320335:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:59:05 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1252.50 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [4c Jh 6d]
+vjxbkf: checks 
+king10clubs: bets $15
+vjxbkf: folds 
+Uncalled bet ($15) returned to king10clubs
+king10clubs collected $23.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [4c Jh 6d]
+Seat 2: vjxbkf (big blind) folded on the Flop
+Seat 5: king10clubs (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102595335510:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:59:53 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1240.50 in chips) 
+Seat 5: king10clubs ($611.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102595341603:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:00:10 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1246.50 in chips) 
+Seat 5: king10clubs ($605.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [7h 3d 9d]
+vjxbkf: checks 
+king10clubs: bets $17
+vjxbkf: raises $35 to $52
+king10clubs: calls $35
+*** TURN *** [7h 3d 9d] [As]
+vjxbkf: bets $102
+king10clubs: calls $102
+*** RIVER *** [7h 3d 9d As] [Js]
+vjxbkf: bets $231
+king10clubs: folds 
+Uncalled bet ($231) returned to vjxbkf
+vjxbkf collected $331.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $332 | Rake $0.50 
+Board [7h 3d 9d As Js]
+Seat 2: vjxbkf (big blind) collected ($331.50)
+Seat 5: king10clubs (button) (small blind) folded on the River
+
+
+PokerStars Game #102595384031:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:02:10 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1412 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102595386706:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:02:18 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1418 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: raises $30 to $42
+king10clubs: calls $30
+*** FLOP *** [8s 3h Kc]
+vjxbkf: checks 
+king10clubs: bets $54
+vjxbkf: raises $105 to $159
+king10clubs: calls $105
+*** TURN *** [8s 3h Kc] [8c]
+vjxbkf: checks 
+king10clubs: checks 
+*** RIVER *** [8s 3h Kc 8c] [3s]
+vjxbkf: checks 
+king10clubs: bets $180
+vjxbkf: folds 
+Uncalled bet ($180) returned to king10clubs
+king10clubs collected $401.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $402 | Rake $0.50 
+Board [8s 3h Kc 8c 3s]
+Seat 2: vjxbkf (big blind) folded on the River
+Seat 5: king10clubs (button) (small blind) collected ($401.50)
+
+
+PokerStars Game #102595882460:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:25:15 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1230 in chips) 
+Seat 5: king10clubs ($781.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [Ad 4c Kh]
+king10clubs: checks 
+vjxbkf: checks 
+*** TURN *** [Ad 4c Kh] [6s]
+king10clubs: checks 
+vjxbkf: bets $15
+king10clubs: calls $15
+*** RIVER *** [Ad 4c Kh 6s] [Qc]
+king10clubs: checks 
+vjxbkf: checks 
+*** SHOW DOWN ***
+king10clubs: shows [Ks 2s] (a pair of Kings)
+vjxbkf: mucks hand 
+king10clubs collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50 
+Board [Ad 4c Kh 6s Qc]
+Seat 2: vjxbkf (button) (small blind) mucked
+Seat 5: king10clubs (big blind) showed [Ks 2s] and won ($53.50) with a pair of Kings
+
+
+PokerStars Game #102595906324:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:26:24 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1203 in chips) 
+Seat 5: king10clubs ($808 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: raises $33 to $45
+king10clubs: calls $33
+*** FLOP *** [2h 5s 9c]
+vjxbkf: bets $72
+king10clubs: calls $72
+*** TURN *** [2h 5s 9c] [Ks]
+vjxbkf: bets $162
+king10clubs: calls $162
+*** RIVER *** [2h 5s 9c Ks] [7c]
+vjxbkf: bets $924 and is all-in
+king10clubs: calls $529 and is all-in
+Uncalled bet ($395) returned to vjxbkf
+*** SHOW DOWN ***
+vjxbkf: shows [9d Ad] (a pair of Nines)
+king10clubs: shows [As Kh] (a pair of Kings)
+king10clubs collected $1615.50 from pot
+*** SUMMARY ***
+Total pot $1616 | Rake $0.50 
+Board [2h 5s 9c Ks 7c]
+Seat 2: vjxbkf (big blind) showed [9d Ad] and lost with a pair of Nines
+Seat 5: king10clubs (button) (small blind) showed [As Kh] and won ($1615.50) with a pair of Kings
+
+
+PokerStars Game #102595955707:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:28:46 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($1615.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [4c As 3h]
+king10clubs: checks 
+vjxbkf: checks 
+*** TURN *** [4c As 3h] [Ts]
+king10clubs: checks 
+vjxbkf: checks 
+*** RIVER *** [4c As 3h Ts] [Jh]
+king10clubs: checks 
+vjxbkf: bets $15
+king10clubs: folds 
+Uncalled bet ($15) returned to vjxbkf
+vjxbkf collected $23.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [4c As 3h Ts Jh]
+Seat 2: vjxbkf (button) (small blind) collected ($23.50)
+Seat 5: king10clubs (big blind) folded on the River
+
+
+PokerStars Game #102595976336:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:29:46 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($611.50 in chips) 
+Seat 5: king10clubs ($1603.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [2s 6h Kc]
+vjxbkf: checks 
+king10clubs: bets $10
+vjxbkf: folds 
+Uncalled bet ($10) returned to king10clubs
+king10clubs collected $23.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [2s 6h Kc]
+Seat 2: vjxbkf (big blind) folded on the Flop
+Seat 5: king10clubs (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102595777738:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:20:16 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1180 in chips) 
+Seat 5: king10clubs ($833.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102595780986:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:20:25 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1174 in chips) 
+Seat 5: king10clubs ($839.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [Qh 6d 6c]
+king10clubs: checks 
+vjxbkf: checks 
+*** TURN *** [Qh 6d 6c] [9d]
+king10clubs: bets $18
+vjxbkf: folds 
+Uncalled bet ($18) returned to king10clubs
+king10clubs collected $23.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Qh 6d 6c 9d]
+Seat 2: vjxbkf (button) (small blind) folded on the Turn
+Seat 5: king10clubs (big blind) collected ($23.50)
+
+
+PokerStars Game #102595791214:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:20:53 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1162 in chips) 
+Seat 5: king10clubs ($851 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102595795144:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:21:05 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1156 in chips) 
+Seat 5: king10clubs ($857 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102595799640:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:21:17 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1162 in chips) 
+Seat 5: king10clubs ($851 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [Kh Qd 5c]
+vjxbkf: bets $18
+king10clubs: calls $18
+*** TURN *** [Kh Qd 5c] [3c]
+vjxbkf: checks 
+king10clubs: checks 
+*** RIVER *** [Kh Qd 5c 3c] [Ac]
+vjxbkf: bets $42
+king10clubs: folds 
+Uncalled bet ($42) returned to vjxbkf
+vjxbkf collected $59.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $60 | Rake $0.50 
+Board [Kh Qd 5c 3c Ac]
+Seat 2: vjxbkf (big blind) collected ($59.50)
+Seat 5: king10clubs (button) (small blind) folded on the River
+
+
+PokerStars Game #102595827332:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:22:36 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1191.50 in chips) 
+Seat 5: king10clubs ($821 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [6d Js Jh]
+king10clubs: checks 
+vjxbkf: checks 
+*** TURN *** [6d Js Jh] [Qc]
+king10clubs: checks 
+vjxbkf: checks 
+*** RIVER *** [6d Js Jh Qc] [8d]
+king10clubs: checks 
+vjxbkf: checks 
+*** SHOW DOWN ***
+king10clubs: shows [7h 8h] (two pair, Jacks and Eights)
+vjxbkf: mucks hand 
+king10clubs collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [6d Js Jh Qc 8d]
+Seat 2: vjxbkf (button) (small blind) mucked
+Seat 5: king10clubs (big blind) showed [7h 8h] and won ($23.50) with two pair, Jacks and Eights
+
+
+PokerStars Game #102595841106:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:23:16 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1179.50 in chips) 
+Seat 5: king10clubs ($832.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102595844843:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:23:27 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1173.50 in chips) 
+Seat 5: king10clubs ($838.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [5d 9c 7h]
+king10clubs: checks 
+vjxbkf: bets $15
+king10clubs: calls $15
+*** TURN *** [5d 9c 7h] [3d]
+king10clubs: checks 
+vjxbkf: bets $36
+king10clubs: calls $36
+*** RIVER *** [5d 9c 7h 3d] [2c]
+king10clubs: checks 
+vjxbkf: bets $87
+king10clubs: folds 
+Uncalled bet ($87) returned to vjxbkf
+vjxbkf collected $125.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $126 | Rake $0.50 
+Board [5d 9c 7h 3d 2c]
+Seat 2: vjxbkf (button) (small blind) collected ($125.50)
+Seat 5: king10clubs (big blind) folded on the River
+
+
+PokerStars Game #102595876522:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:24:58 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1236 in chips) 
+Seat 5: king10clubs ($775.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102595667735:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:15:07 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1175 in chips) 
+Seat 5: king10clubs ($840 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [6c Tc As]
+king10clubs: checks 
+vjxbkf: checks 
+*** TURN *** [6c Tc As] [5h]
+king10clubs: bets $18
+vjxbkf: calls $18
+*** RIVER *** [6c Tc As 5h] [8s]
+king10clubs: checks 
+vjxbkf: bets $36
+king10clubs: calls $36
+*** SHOW DOWN ***
+vjxbkf: shows [7c 4h] (a straight, Four to Eight)
+king10clubs: mucks hand 
+vjxbkf collected $131.50 from pot
+*** SUMMARY ***
+Total pot $132 | Rake $0.50 
+Board [6c Tc As 5h 8s]
+Seat 2: vjxbkf (button) (small blind) showed [7c 4h] and won ($131.50) with a straight, Four to Eight
+Seat 5: king10clubs (big blind) mucked
+
+
+PokerStars Game #102595695287:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:16:24 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1240.50 in chips) 
+Seat 5: king10clubs ($774 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: raises $33 to $45
+king10clubs: calls $33
+*** FLOP *** [6c 2h 9s]
+vjxbkf: bets $72
+king10clubs: calls $72
+*** TURN *** [6c 2h 9s] [4s]
+vjxbkf: checks 
+king10clubs: checks 
+*** RIVER *** [6c 2h 9s 4s] [6s]
+vjxbkf: checks 
+king10clubs: checks 
+*** SHOW DOWN ***
+vjxbkf: shows [Kc Js] (a pair of Sixes)
+king10clubs: shows [3h 4h] (two pair, Sixes and Fours)
+king10clubs collected $233.50 from pot
+*** SUMMARY ***
+Total pot $234 | Rake $0.50 
+Board [6c 2h 9s 4s 6s]
+Seat 2: vjxbkf (big blind) showed [Kc Js] and lost with a pair of Sixes
+Seat 5: king10clubs (button) (small blind) showed [3h 4h] and won ($233.50) with two pair, Sixes and Fours
+
+
+PokerStars Game #102595731420:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:18:05 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1123.50 in chips) 
+Seat 5: king10clubs ($890.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102595736276:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:18:19 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1129.50 in chips) 
+Seat 5: king10clubs ($884.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+Uncalled bet ($3) returned to vjxbkf
+vjxbkf collected $6 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: vjxbkf (big blind) collected ($6)
+Seat 5: king10clubs (button) (small blind) folded before Flop
+
+
+PokerStars Game #102595738489:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:18:25 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1132.50 in chips) 
+Seat 5: king10clubs ($881.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102595741732:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:18:34 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1138.50 in chips) 
+Seat 5: king10clubs ($875.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102595749308:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:18:55 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1132.50 in chips) 
+Seat 5: king10clubs ($881.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102595753576:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:19:07 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1138.50 in chips) 
+Seat 5: king10clubs ($875.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102595758301:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:19:21 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1132.50 in chips) 
+Seat 5: king10clubs ($881.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: raises $36 to $48
+vjxbkf: calls $36
+*** FLOP *** [7h Qh 2h]
+king10clubs: checks 
+vjxbkf: bets $57
+king10clubs: folds 
+Uncalled bet ($57) returned to vjxbkf
+vjxbkf collected $95.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $96 | Rake $0.50 
+Board [7h Qh 2h]
+Seat 2: vjxbkf (button) (small blind) collected ($95.50)
+Seat 5: king10clubs (big blind) folded on the Flop
+
+
+PokerStars Game #102596197206:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:40:10 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($1769 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: raises $33 to $45
+vjxbkf: folds 
+Uncalled bet ($33) returned to king10clubs
+king10clubs collected $24 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) folded before Flop
+Seat 5: king10clubs (big blind) collected ($24)
+
+
+PokerStars Game #102596205510:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:40:33 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($1781 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102596210862:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:40:49 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($1787 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [9c As 2c]
+king10clubs: checks 
+vjxbkf: checks 
+*** TURN *** [9c As 2c] [Jd]
+king10clubs: bets $18
+vjxbkf: calls $18
+*** RIVER *** [9c As 2c Jd] [2s]
+king10clubs: bets $42
+vjxbkf: calls $42
+*** SHOW DOWN ***
+king10clubs: shows [Ad Th] (two pair, Aces and Deuces)
+vjxbkf: mucks hand 
+king10clubs collected $143.50 from pot
+*** SUMMARY ***
+Total pot $144 | Rake $0.50 
+Board [9c As 2c Jd 2s]
+Seat 2: vjxbkf (button) (small blind) mucked
+Seat 5: king10clubs (big blind) showed [Ad Th] and won ($143.50) with two pair, Aces and Deuces
+
+
+PokerStars Game #102596253958:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:42:49 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($1858.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: raises $30 to $42
+king10clubs: folds 
+Uncalled bet ($30) returned to vjxbkf
+vjxbkf collected $24 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: vjxbkf (big blind) collected ($24)
+Seat 5: king10clubs (button) (small blind) folded before Flop
+
+
+PokerStars Game #102596267138:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:43:26 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($612 in chips) 
+Seat 5: king10clubs ($1846.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102596273901:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:43:45 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($618 in chips) 
+Seat 5: king10clubs ($1840.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [8h 3s Kh]
+vjxbkf: checks 
+king10clubs: checks 
+*** TURN *** [8h 3s Kh] [4s]
+vjxbkf: checks 
+king10clubs: bets $15
+vjxbkf: folds 
+Uncalled bet ($15) returned to king10clubs
+king10clubs collected $23.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [8h 3s Kh 4s]
+Seat 2: vjxbkf (big blind) folded on the Turn
+Seat 5: king10clubs (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102596093633:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:35:18 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($667.50 in chips) 
+Seat 5: king10clubs ($1545 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [Ah 3c 9s]
+vjxbkf: checks 
+king10clubs: bets $10
+vjxbkf: folds 
+Uncalled bet ($10) returned to king10clubs
+king10clubs collected $23.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Ah 3c 9s]
+Seat 2: vjxbkf (big blind) folded on the Flop
+Seat 5: king10clubs (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102596113886:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:36:15 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($655.50 in chips) 
+Seat 5: king10clubs ($1556.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [4d 3c Ah]
+king10clubs: checks 
+vjxbkf: bets $15
+king10clubs: calls $15
+*** TURN *** [4d 3c Ah] [Th]
+king10clubs: checks 
+vjxbkf: bets $36
+king10clubs: folds 
+Uncalled bet ($36) returned to vjxbkf
+vjxbkf collected $53.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $54 | Rake $0.50 
+Board [4d 3c Ah Th]
+Seat 2: vjxbkf (button) (small blind) collected ($53.50)
+Seat 5: king10clubs (big blind) folded on the Turn
+
+
+PokerStars Game #102596142543:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:37:34 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($682 in chips) 
+Seat 5: king10clubs ($1529.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: raises $30 to $42
+king10clubs: folds 
+Uncalled bet ($30) returned to vjxbkf
+vjxbkf collected $24 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: vjxbkf (big blind) collected ($24)
+Seat 5: king10clubs (button) (small blind) folded before Flop
+
+
+PokerStars Game #102596152657:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:38:03 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($694 in chips) 
+Seat 5: king10clubs ($1517.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102596156797:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:38:15 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($700 in chips) 
+Seat 5: king10clubs ($1511.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: raises $30 to $42
+king10clubs: calls $30
+*** FLOP *** [Ad Ac 3s]
+vjxbkf: bets $66
+king10clubs: calls $66
+*** TURN *** [Ad Ac 3s] [Jh]
+vjxbkf: bets $150
+king10clubs: calls $150
+*** RIVER *** [Ad Ac 3s Jh] [6d]
+vjxbkf: checks 
+king10clubs: checks 
+*** SHOW DOWN ***
+vjxbkf: shows [Th 8h] (a pair of Aces)
+king10clubs: shows [Ks Jd] (two pair, Aces and Jacks)
+king10clubs collected $515.50 from pot
+*** SUMMARY ***
+Total pot $516 | Rake $0.50 
+Board [Ad Ac 3s Jh 6d]
+Seat 2: vjxbkf (big blind) showed [Th 8h] and lost with a pair of Aces
+Seat 5: king10clubs (button) (small blind) showed [Ks Jd] and won ($515.50) with two pair, Aces and Jacks
+
+
+PokerStars Game #102595995281:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:30:39 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($1615 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102595999435:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:30:51 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($606 in chips) 
+Seat 5: king10clubs ($1609 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: raises $30 to $42
+king10clubs: calls $30
+*** FLOP *** [5c Qd Th]
+vjxbkf: bets $66
+king10clubs: folds 
+Uncalled bet ($66) returned to vjxbkf
+vjxbkf collected $83.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $84 | Rake $0.50 
+Board [5c Qd Th]
+Seat 2: vjxbkf (big blind) collected ($83.50)
+Seat 5: king10clubs (button) (small blind) folded on the Flop
+
+
+PokerStars Game #102596019908:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:31:49 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($647.50 in chips) 
+Seat 5: king10clubs ($1567 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [5s Qs Ac]
+king10clubs: checks 
+vjxbkf: bets $15
+king10clubs: calls $15
+*** TURN *** [5s Qs Ac] [As]
+king10clubs: checks 
+vjxbkf: checks 
+*** RIVER *** [5s Qs Ac As] [6d]
+king10clubs: bets $50
+vjxbkf: folds 
+Uncalled bet ($50) returned to king10clubs
+king10clubs collected $53.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $54 | Rake $0.50 
+Board [5s Qs Ac As 6d]
+Seat 2: vjxbkf (button) (small blind) folded on the River
+Seat 5: king10clubs (big blind) collected ($53.50)
+
+
+PokerStars Game #102596046445:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:33:05 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($620.50 in chips) 
+Seat 5: king10clubs ($1593.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: raises $30 to $42
+king10clubs: calls $30
+*** FLOP *** [5s 5d 7d]
+vjxbkf: bets $66
+king10clubs: folds 
+Uncalled bet ($66) returned to vjxbkf
+vjxbkf collected $83.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $84 | Rake $0.50 
+Board [5s 5d 7d]
+Seat 2: vjxbkf (big blind) collected ($83.50)
+Seat 5: king10clubs (button) (small blind) folded on the Flop
+
+
+PokerStars Game #102596060782:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:33:45 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($662 in chips) 
+Seat 5: king10clubs ($1551.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102596066123:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:34:01 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($668 in chips) 
+Seat 5: king10clubs ($1545.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [4c 4d 6d]
+vjxbkf: checks 
+king10clubs: bets $15
+vjxbkf: folds 
+Uncalled bet ($15) returned to king10clubs
+king10clubs collected $23.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [4c 4d 6d]
+Seat 2: vjxbkf (big blind) folded on the Flop
+Seat 5: king10clubs (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102596079401:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:34:38 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($656 in chips) 
+Seat 5: king10clubs ($1557 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [2s Kh 9d]
+king10clubs: checks 
+vjxbkf: bets $15
+king10clubs: folds 
+Uncalled bet ($15) returned to vjxbkf
+vjxbkf collected $23.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [2s Kh 9d]
+Seat 2: vjxbkf (button) (small blind) collected ($23.50)
+Seat 5: king10clubs (big blind) folded on the Flop
+
+
+PokerStars Game #102596412323:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:50:15 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($611.50 in chips) 
+Seat 5: king10clubs ($1863.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102596416459:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:50:27 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($605.50 in chips) 
+Seat 5: king10clubs ($1869.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102596421706:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:50:42 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($611.50 in chips) 
+Seat 5: king10clubs ($1863.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: raises $30 to $42
+king10clubs: folds 
+Uncalled bet ($30) returned to vjxbkf
+vjxbkf collected $24 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: vjxbkf (big blind) collected ($24)
+Seat 5: king10clubs (button) (small blind) folded before Flop
+
+
+PokerStars Game #102596426846:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:50:56 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($623.50 in chips) 
+Seat 5: king10clubs ($1851.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102596432383:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:51:12 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($629.50 in chips) 
+Seat 5: king10clubs ($1845.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102596435712:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:51:21 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($623.50 in chips) 
+Seat 5: king10clubs ($1851.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: raises $33 to $45
+vjxbkf: calls $33
+*** FLOP *** [4s 2d 3h]
+king10clubs: bets $45
+vjxbkf: folds 
+Uncalled bet ($45) returned to king10clubs
+king10clubs collected $89.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $90 | Rake $0.50 
+Board [4s 2d 3h]
+Seat 2: vjxbkf (button) (small blind) folded on the Flop
+Seat 5: king10clubs (big blind) collected ($89.50)
+
+
+PokerStars Game #102596452882:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:52:10 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($1896 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [4d Kh 8d]
+vjxbkf: checks 
+king10clubs: bets $15
+vjxbkf has timed out
+vjxbkf: folds 
+Uncalled bet ($15) returned to king10clubs
+king10clubs collected $23.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [4d Kh 8d]
+Seat 2: vjxbkf (big blind) folded on the Flop
+Seat 5: king10clubs (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102596471264:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:53:02 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($1907.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: raises $33 to $45
+vjxbkf: folds 
+Uncalled bet ($33) returned to king10clubs
+king10clubs collected $24 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) folded before Flop
+Seat 5: king10clubs (big blind) collected ($24)
+
+
+PokerStars Game #102596479622:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:53:25 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($1919.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102596486976:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:53:46 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($1925.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: raises $33 to $45
+vjxbkf: calls $33
+*** FLOP *** [9c 8c 3d]
+king10clubs: bets $54
+vjxbkf: calls $54
+*** TURN *** [9c 8c 3d] [Ah]
+king10clubs: bets $84
+vjxbkf: calls $84
+*** RIVER *** [9c 8c 3d Ah] [Kc]
+king10clubs: checks 
+vjxbkf: checks 
+*** SHOW DOWN ***
+king10clubs: shows [Jh Jc] (a pair of Jacks)
+vjxbkf: mucks hand 
+king10clubs collected $365.50 from pot
+*** SUMMARY ***
+Total pot $366 | Rake $0.50 
+Board [9c 8c 3d Ah Kc]
+Seat 2: vjxbkf (button) (small blind) mucked
+Seat 5: king10clubs (big blind) showed [Jh Jc] and won ($365.50) with a pair of Jacks
+
+
+PokerStars Game #102596304015:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:45:09 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($606 in chips) 
+Seat 5: king10clubs ($1852 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102596309648:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:45:25 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($612 in chips) 
+Seat 5: king10clubs ($1846 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [Tc 2h 3s]
+vjxbkf: checks 
+king10clubs: checks 
+*** TURN *** [Tc 2h 3s] [7c]
+vjxbkf: bets $18
+king10clubs: calls $18
+*** RIVER *** [Tc 2h 3s 7c] [Ts]
+vjxbkf: checks 
+king10clubs: checks 
+*** SHOW DOWN ***
+vjxbkf: shows [5h 8h] (a pair of Tens)
+king10clubs: shows [Ad 2c] (two pair, Tens and Deuces)
+king10clubs collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50 
+Board [Tc 2h 3s 7c Ts]
+Seat 2: vjxbkf (big blind) showed [5h 8h] and lost with a pair of Tens
+Seat 5: king10clubs (button) (small blind) showed [Ad 2c] and won ($59.50) with two pair, Tens and Deuces
+
+
+PokerStars Game #102596349659:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:47:18 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($1875.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102596355036:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:47:33 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($606 in chips) 
+Seat 5: king10clubs ($1869.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102596361184:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:47:51 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($1875.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102596367848:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:48:09 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($606 in chips) 
+Seat 5: king10clubs ($1869.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102596374051:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:48:27 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($1875.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102596380768:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:48:46 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($606 in chips) 
+Seat 5: king10clubs ($1869.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102596385072:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:48:58 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($1875.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [Qh 8s Jd]
+king10clubs: checks 
+vjxbkf: checks 
+*** TURN *** [Qh 8s Jd] [Jc]
+king10clubs: checks 
+vjxbkf has timed out
+vjxbkf: checks 
+*** RIVER *** [Qh 8s Jd Jc] [Ah]
+king10clubs: checks 
+vjxbkf: bets $15
+king10clubs: folds 
+Uncalled bet ($15) returned to vjxbkf
+vjxbkf collected $23.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Qh 8s Jd Jc Ah]
+Seat 2: vjxbkf (button) (small blind) collected ($23.50)
+Seat 5: king10clubs (big blind) folded on the River
+
+
+PokerStars Game #102596529272:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:55:54 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($2108 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102596533926:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:56:11 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($2114 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [Th 8h 3h]
+king10clubs: checks 
+vjxbkf: bets $15
+king10clubs: calls $15
+*** TURN *** [Th 8h 3h] [Qc]
+king10clubs: checks 
+vjxbkf: bets $36
+king10clubs: folds 
+Uncalled bet ($36) returned to vjxbkf
+vjxbkf collected $53.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $54 | Rake $0.50 
+Board [Th 8h 3h Qc]
+Seat 2: vjxbkf (button) (small blind) collected ($53.50)
+Seat 5: king10clubs (big blind) folded on the Turn
+
+
+PokerStars Game #102596550649:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:57:11 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($626.50 in chips) 
+Seat 5: king10clubs ($2087 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102596555936:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 4:57:30 ET
+Table 'Teutonia VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($620.50 in chips) 
+Seat 5: king10clubs ($2093 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [Td Ks 9s]
+king10clubs: checks 
+vjxbkf: checks 
+*** TURN *** [Td Ks 9s] [3c]
+king10clubs: checks 
+vjxbkf: checks 
+*** RIVER *** [Td Ks 9s 3c] [Js]
+king10clubs: checks 
+vjxbkf: bets $15
+king10clubs: folds 
+Uncalled bet ($15) returned to vjxbkf
+vjxbkf collected $23.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Td Ks 9s 3c Js]
+Seat 2: vjxbkf (button) (small blind) collected ($23.50)
+Seat 5: king10clubs (big blind) folded on the River

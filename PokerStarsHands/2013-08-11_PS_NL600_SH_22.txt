@@ -1,0 +1,2549 @@
+
+
+PokerStars Game #102586742848:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:06:05 ET
+Table 'Iclea 40-100 bb' 6-max Seat #2 is the button
+Seat 1: mikimiki88 ($1182.64 in chips) 
+Seat 2: rusdronenv ($677.20 in chips) 
+Seat 3: king10clubs ($827.26 in chips) 
+Seat 4: macker2 ($1260.60 in chips) 
+Seat 6: Aurum85 ($601.38 in chips) 
+king10clubs: posts small blind $3
+macker2: posts big blind $6
+LuckyBiitch: sits out 
+*** HOLE CARDS ***
+Aurum85: raises $9 to $15
+mikimiki88: raises $24 to $39
+rusdronenv: folds 
+king10clubs: folds 
+macker2: folds 
+Aurum85: folds 
+Uncalled bet ($24) returned to mikimiki88
+mikimiki88 collected $39 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $0 
+Seat 1: mikimiki88 collected ($39)
+Seat 2: rusdronenv (button) folded before Flop (didn't bet)
+Seat 3: king10clubs (small blind) folded before Flop
+Seat 4: macker2 (big blind) folded before Flop
+Seat 6: Aurum85 folded before Flop
+
+
+PokerStars Game #102586772729:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:07:02 ET
+Table 'Iclea 40-100 bb' 6-max Seat #3 is the button
+Seat 1: mikimiki88 ($1206.64 in chips) 
+Seat 2: rusdronenv ($677.20 in chips) 
+Seat 3: king10clubs ($824.26 in chips) 
+Seat 4: macker2 ($1254.60 in chips) 
+Seat 5: LuckyBiitch ($600 in chips) 
+Seat 6: Aurum85 ($600 in chips) 
+macker2: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: folds 
+king10clubs: raises $6 to $12
+macker2: folds 
+LuckyBiitch: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $15 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: king10clubs (button) collected ($15)
+Seat 4: macker2 (small blind) folded before Flop
+Seat 5: LuckyBiitch (big blind) folded before Flop
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102586786865:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:07:29 ET
+Table 'Iclea 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($1206.64 in chips) 
+Seat 2: rusdronenv ($677.20 in chips) 
+Seat 3: king10clubs ($833.26 in chips) 
+Seat 4: macker2 ($1251.60 in chips) 
+Seat 5: LuckyBiitch ($600 in chips) 
+Seat 6: Aurum85 ($600 in chips) 
+LuckyBiitch: posts small blind $3
+Aurum85: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+rusdronenv: folds 
+king10clubs: folds 
+macker2: folds 
+LuckyBiitch: raises $12 to $18
+Aurum85: calls $12
+*** FLOP *** [Ts 7h Th]
+LuckyBiitch: bets $24
+Aurum85: calls $24
+*** TURN *** [Ts 7h Th] [Qd]
+LuckyBiitch: checks 
+Aurum85: bets $57.60
+LuckyBiitch: calls $57.60
+*** RIVER *** [Ts 7h Th Qd] [5c]
+LuckyBiitch: checks 
+Aurum85: checks 
+*** SHOW DOWN ***
+LuckyBiitch: shows [9d 7c] (two pair, Tens and Sevens)
+Aurum85: mucks hand 
+LuckyBiitch collected $196.40 from pot
+*** SUMMARY ***
+Total pot $199.20 | Rake $2.80 
+Board [Ts 7h Th Qd 5c]
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: king10clubs folded before Flop (didn't bet)
+Seat 4: macker2 (button) folded before Flop (didn't bet)
+Seat 5: LuckyBiitch (small blind) showed [9d 7c] and won ($196.40) with two pair, Tens and Sevens
+Seat 6: Aurum85 (big blind) mucked
+
+
+PokerStars Game #102586833727:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:09:01 ET
+Table 'Iclea 40-100 bb' 6-max Seat #5 is the button
+Seat 1: mikimiki88 ($1206.64 in chips) 
+Seat 2: rusdronenv ($677.20 in chips) 
+Seat 3: king10clubs ($833.26 in chips) 
+Seat 4: macker2 ($1251.60 in chips) 
+Seat 5: LuckyBiitch ($696.80 in chips) 
+Seat 6: Aurum85 ($600 in chips) 
+Aurum85: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: raises $12 to $18
+king10clubs: folds 
+macker2: folds 
+LuckyBiitch: folds 
+Aurum85: raises $39 to $57
+mikimiki88: folds 
+rusdronenv: folds 
+Uncalled bet ($39) returned to Aurum85
+Aurum85 collected $42 from pot
+Aurum85: doesn't show hand 
+*** SUMMARY ***
+Total pot $42 | Rake $0 
+Seat 1: mikimiki88 (big blind) folded before Flop
+Seat 2: rusdronenv folded before Flop
+Seat 3: king10clubs folded before Flop (didn't bet)
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 5: LuckyBiitch (button) folded before Flop (didn't bet)
+Seat 6: Aurum85 (small blind) collected ($42)
+
+
+PokerStars Game #102586855784:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:09:44 ET
+Table 'Iclea 40-100 bb' 6-max Seat #6 is the button
+Seat 1: mikimiki88 ($1200.64 in chips) 
+Seat 2: rusdronenv ($659.20 in chips) 
+Seat 3: king10clubs ($833.26 in chips) 
+Seat 4: macker2 ($1251.60 in chips) 
+Seat 5: LuckyBiitch ($696.80 in chips) 
+Seat 6: Aurum85 ($624 in chips) 
+mikimiki88: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+macker2: folds 
+LuckyBiitch: raises $12 to $18
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: raises $42 to $60
+LuckyBiitch: calls $42
+*** FLOP *** [7c Js 2s]
+rusdronenv: checks 
+LuckyBiitch: checks 
+*** TURN *** [7c Js 2s] [9c]
+rusdronenv: checks 
+LuckyBiitch: bets $70
+rusdronenv: folds 
+Uncalled bet ($70) returned to LuckyBiitch
+LuckyBiitch collected $120.20 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $123 | Rake $2.80 
+Board [7c Js 2s 9c]
+Seat 1: mikimiki88 (small blind) folded before Flop
+Seat 2: rusdronenv (big blind) folded on the Turn
+Seat 3: king10clubs folded before Flop (didn't bet)
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 5: LuckyBiitch collected ($120.20)
+Seat 6: Aurum85 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102586557850:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:00:04 ET
+Table 'Iclea 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($1182.64 in chips) 
+Seat 2: rusdronenv ($1346.40 in chips) 
+Seat 3: king10clubs ($819.82 in chips) 
+Seat 4: macker2 ($600 in chips) 
+Seat 5: rocks50 ($611.35 in chips) 
+Seat 6: Aurum85 ($610.38 in chips) 
+rusdronenv: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+macker2: raises $6 to $12
+rocks50: folds 
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: calls $9
+king10clubs: folds 
+*** FLOP *** [6h 7d 2s]
+rusdronenv: checks 
+macker2: bets $24
+rusdronenv: calls $24
+*** TURN *** [6h 7d 2s] [Qh]
+rusdronenv: checks 
+macker2: checks 
+*** RIVER *** [6h 7d 2s Qh] [Kc]
+rusdronenv: checks 
+macker2: checks 
+*** SHOW DOWN ***
+rusdronenv: shows [3c 3d] (a pair of Threes)
+macker2: shows [9s 9c] (a pair of Nines)
+macker2 collected $75.20 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $2.80 
+Board [6h 7d 2s Qh Kc]
+Seat 1: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 2: rusdronenv (small blind) showed [3c 3d] and lost with a pair of Threes
+Seat 3: king10clubs (big blind) folded before Flop
+Seat 4: macker2 showed [9s 9c] and won ($75.20) with a pair of Nines
+Seat 5: rocks50 folded before Flop (didn't bet)
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102586589665:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:01:12 ET
+Table 'Iclea 40-100 bb' 6-max Seat #2 is the button
+Seat 1: mikimiki88 ($1182.64 in chips) 
+Seat 2: rusdronenv ($1310.40 in chips) 
+Seat 3: king10clubs ($813.82 in chips) 
+Seat 4: macker2 ($639.20 in chips) 
+Seat 5: rocks50 ($611.35 in chips) 
+Seat 6: Aurum85 ($610.38 in chips) 
+king10clubs: posts small blind $3
+macker2: posts big blind $6
+*** HOLE CARDS ***
+rocks50: folds 
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: raises $12 to $18
+king10clubs: folds 
+macker2: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $15 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv (button) collected ($15)
+Seat 3: king10clubs (small blind) folded before Flop
+Seat 4: macker2 (big blind) folded before Flop
+Seat 5: rocks50 folded before Flop (didn't bet)
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102586605250:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:01:43 ET
+Table 'Iclea 40-100 bb' 6-max Seat #3 is the button
+Seat 1: mikimiki88 ($1182.64 in chips) 
+Seat 2: rusdronenv ($1319.40 in chips) 
+Seat 3: king10clubs ($810.82 in chips) 
+Seat 4: macker2 ($633.20 in chips) 
+Seat 6: Aurum85 ($610.38 in chips) 
+macker2: posts small blind $3
+rocks50: is sitting out 
+Aurum85: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+rusdronenv: raises $12 to $18
+king10clubs: raises $42 to $60
+rocks50 leaves the table
+pumpon20 joins the table at seat #5 
+pumpon20 leaves the table
+LuckyBiitch joins the table at seat #5 
+macker2: calls $57
+Aurum85: folds 
+rusdronenv: raises $100 to $160
+king10clubs: folds 
+macker2: raises $473.20 to $633.20 and is all-in
+rusdronenv: calls $473.20
+*** FLOP *** [6s 4c 5d]
+*** TURN *** [6s 4c 5d] [8s]
+*** RIVER *** [6s 4c 5d 8s] [2c]
+*** SHOW DOWN ***
+macker2: shows [8c 8d] (three of a kind, Eights)
+rusdronenv: mucks hand 
+macker2 collected $1329.60 from pot
+*** SUMMARY ***
+Total pot $1332.40 | Rake $2.80 
+Board [6s 4c 5d 8s 2c]
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv mucked
+Seat 3: king10clubs (button) folded before Flop
+Seat 4: macker2 (small blind) showed [8c 8d] and won ($1329.60) with three of a kind, Eights
+Seat 6: Aurum85 (big blind) folded before Flop
+
+
+PokerStars Game #102586656551:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:03:20 ET
+Table 'Iclea 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($1182.64 in chips) 
+Seat 2: rusdronenv ($686.20 in chips) 
+Seat 3: king10clubs ($750.82 in chips) 
+Seat 4: macker2 ($1329.60 in chips) 
+Seat 6: Aurum85 ($604.38 in chips) 
+LuckyBiitch will be allowed to play after the button
+Aurum85: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+king10clubs: raises $9 to $15
+macker2: calls $15
+Aurum85: folds 
+mikimiki88: folds 
+*** FLOP *** [4c Ks 3h]
+king10clubs: bets $30
+macker2: folds 
+Uncalled bet ($30) returned to king10clubs
+king10clubs collected $37.24 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [4c Ks 3h]
+Seat 1: mikimiki88 (big blind) folded before Flop
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: king10clubs collected ($37.24)
+Seat 4: macker2 (button) folded on the Flop
+Seat 6: Aurum85 (small blind) folded before Flop
+
+
+PokerStars Game #102586686391:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:04:17 ET
+Table 'Iclea 40-100 bb' 6-max Seat #6 is the button
+Seat 1: mikimiki88 ($1176.64 in chips) 
+Seat 2: rusdronenv ($686.20 in chips) 
+Seat 3: king10clubs ($773.06 in chips) 
+Seat 4: macker2 ($1314.60 in chips) 
+Seat 6: Aurum85 ($601.38 in chips) 
+mikimiki88: posts small blind $3
+rusdronenv: posts big blind $6
+LuckyBiitch: sits out 
+*** HOLE CARDS ***
+king10clubs: folds 
+macker2: folds 
+Aurum85: folds 
+mikimiki88: raises $12 to $18
+rusdronenv: folds 
+Uncalled bet ($12) returned to mikimiki88
+mikimiki88 collected $12 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: mikimiki88 (small blind) collected ($12)
+Seat 2: rusdronenv (big blind) folded before Flop
+Seat 3: king10clubs folded before Flop (didn't bet)
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 6: Aurum85 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102586705853:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:04:54 ET
+Table 'Iclea 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($1182.64 in chips) 
+Seat 2: rusdronenv ($680.20 in chips) 
+Seat 3: king10clubs ($773.06 in chips) 
+Seat 4: macker2 ($1314.60 in chips) 
+Seat 6: Aurum85 ($601.38 in chips) 
+rusdronenv: posts small blind $3
+king10clubs: posts big blind $6
+LuckyBiitch: sits out 
+*** HOLE CARDS ***
+macker2: raises $6 to $12
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: folds 
+king10clubs: calls $6
+*** FLOP *** [7h 2c Qh]
+king10clubs: checks 
+macker2: bets $12
+king10clubs: calls $12
+*** TURN *** [7h 2c Qh] [5h]
+king10clubs: checks 
+macker2: checks 
+*** RIVER *** [7h 2c Qh 5h] [8c]
+king10clubs: bets $30
+macker2: calls $30
+*** SHOW DOWN ***
+king10clubs: shows [Qs Ts] (a pair of Queens)
+macker2: mucks hand 
+king10clubs collected $108.20 from pot
+*** SUMMARY ***
+Total pot $111 | Rake $2.80 
+Board [7h 2c Qh 5h 8c]
+Seat 1: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 2: rusdronenv (small blind) folded before Flop
+Seat 3: king10clubs (big blind) showed [Qs Ts] and won ($108.20) with a pair of Queens
+Seat 4: macker2 mucked
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102587155412:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:20:00 ET
+Table 'Iclea 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($1146.64 in chips) 
+Seat 2: rusdronenv ($621 in chips) 
+Seat 3: madsquared ($641.70 in chips) 
+Seat 4: macker2 ($1196.38 in chips) 
+Seat 5: LuckyBiitch ($743 in chips) 
+Seat 6: Aurum85 ($696.20 in chips) 
+rusdronenv: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+macker2: folds 
+LuckyBiitch: folds 
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: folds 
+Uncalled bet ($3) returned to madsquared
+madsquared collected $6 from pot
+madsquared: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 2: rusdronenv (small blind) folded before Flop
+Seat 3: madsquared (big blind) collected ($6)
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102587163331:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:20:16 ET
+Table 'Iclea 40-100 bb' 6-max Seat #2 is the button
+Seat 1: mikimiki88 ($1146.64 in chips) 
+Seat 2: rusdronenv ($618 in chips) 
+Seat 3: madsquared ($644.70 in chips) 
+Seat 4: macker2 ($1196.38 in chips) 
+Seat 5: LuckyBiitch ($743 in chips) 
+Seat 6: Aurum85 ($696.20 in chips) 
+madsquared: posts small blind $3
+macker2: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+Aurum85: raises $9 to $15
+mikimiki88: folds 
+rusdronenv: folds 
+madsquared: folds 
+macker2: folds 
+Uncalled bet ($9) returned to Aurum85
+Aurum85 collected $15 from pot
+Aurum85: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv (button) folded before Flop (didn't bet)
+Seat 3: madsquared (small blind) folded before Flop
+Seat 4: macker2 (big blind) folded before Flop
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: Aurum85 collected ($15)
+
+
+PokerStars Game #102587179459:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:20:50 ET
+Table 'Iclea 40-100 bb' 6-max Seat #3 is the button
+Seat 1: mikimiki88 ($1146.64 in chips) 
+Seat 2: rusdronenv ($618 in chips) 
+Seat 3: madsquared ($641.70 in chips) 
+Seat 4: macker2 ($1190.38 in chips) 
+Seat 5: LuckyBiitch ($743 in chips) 
+Seat 6: Aurum85 ($705.20 in chips) 
+macker2: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: folds 
+madsquared: raises $6 to $12
+macker2: calls $9
+LuckyBiitch: raises $38 to $50
+madsquared: folds 
+macker2: calls $38
+*** FLOP *** [8d 4h 5h]
+macker2: checks 
+LuckyBiitch: bets $60
+macker2: raises $90 to $150
+rusdronenv is disconnected 
+LuckyBiitch: calls $90
+*** TURN *** [8d 4h 5h] [As]
+macker2: bets $552
+LuckyBiitch: calls $543 and is all-in
+Uncalled bet ($9) returned to macker2
+*** RIVER *** [8d 4h 5h As] [Ac]
+*** SHOW DOWN ***
+macker2: shows [7d 6s] (a straight, Four to Eight)
+LuckyBiitch: shows [8s 8h] (a full house, Eights full of Aces)
+LuckyBiitch collected $1495.20 from pot
+*** SUMMARY ***
+Total pot $1498 | Rake $2.80 
+Board [8d 4h 5h As Ac]
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: madsquared (button) folded before Flop
+Seat 4: macker2 (small blind) showed [7d 6s] and lost with a straight, Four to Eight
+Seat 5: LuckyBiitch (big blind) showed [8s 8h] and won ($1495.20) with a full house, Eights full of Aces
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102587240534:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:23:00 ET
+Table 'Iclea 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($1146.64 in chips) 
+Seat 2: rusdronenv ($618 in chips) 
+Seat 3: madsquared ($629.70 in chips) 
+Seat 4: macker2 ($447.38 in chips) 
+Seat 5: LuckyBiitch ($1495.20 in chips) 
+Seat 6: Aurum85 ($705.20 in chips) 
+LuckyBiitch: posts small blind $3
+Aurum85: posts big blind $6
+*** HOLE CARDS ***
+macker2 said, "omg"
+mikimiki88: folds 
+rusdronenv: folds 
+madsquared: folds 
+macker2 said, "lucky is right"
+macker2: folds 
+LuckyBiitch: raises $12 to $18
+Aurum85: folds 
+Uncalled bet ($12) returned to LuckyBiitch
+LuckyBiitch collected $12 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: madsquared folded before Flop (didn't bet)
+Seat 4: macker2 (button) folded before Flop (didn't bet)
+Seat 5: LuckyBiitch (small blind) collected ($12)
+Seat 6: Aurum85 (big blind) folded before Flop
+
+
+PokerStars Game #102587271090:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:24:06 ET
+Table 'Iclea 40-100 bb' 6-max Seat #5 is the button
+Seat 1: mikimiki88 ($1146.64 in chips) 
+Seat 2: rusdronenv ($618 in chips) 
+Seat 3: madsquared ($629.70 in chips) 
+Seat 4: macker2 ($447.38 in chips) 
+Seat 5: LuckyBiitch ($1501.20 in chips) 
+Seat 6: Aurum85 ($699.20 in chips) 
+Aurum85: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+madsquared: folds 
+macker2: folds 
+LuckyBiitch: raises $6 to $12
+Aurum85: folds 
+mikimiki88: calls $6
+*** FLOP *** [Kd Kh 4s]
+mikimiki88: checks 
+LuckyBiitch: checks 
+*** TURN *** [Kd Kh 4s] [Kc]
+mikimiki88: checks 
+LuckyBiitch: bets $12
+mikimiki88: calls $12
+*** RIVER *** [Kd Kh 4s Kc] [7c]
+mikimiki88: checks 
+LuckyBiitch: checks 
+*** SHOW DOWN ***
+mikimiki88: shows [Ad 2d] (three of a kind, Kings)
+LuckyBiitch: mucks hand 
+mikimiki88 collected $48.70 from pot
+*** SUMMARY ***
+Total pot $51 | Rake $2.30 
+Board [Kd Kh 4s Kc 7c]
+Seat 1: mikimiki88 (big blind) showed [Ad 2d] and won ($48.70) with three of a kind, Kings
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: madsquared folded before Flop (didn't bet)
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 5: LuckyBiitch (button) mucked
+Seat 6: Aurum85 (small blind) folded before Flop
+
+
+PokerStars Game #102587010879:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:15:00 ET
+Table 'Iclea 40-100 bb' 6-max Seat #6 is the button
+Seat 1: mikimiki88 ($1170.64 in chips) 
+Seat 2: rusdronenv ($618 in chips) 
+Seat 5: LuckyBiitch ($743 in chips) 
+Seat 6: Aurum85 ($624 in chips) 
+mikimiki88: posts small blind $3
+rusdronenv: posts big blind $6
+macker2: sits out 
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+Aurum85: raises $9 to $15
+mikimiki88: folds 
+rusdronenv: folds 
+Uncalled bet ($9) returned to Aurum85
+Aurum85 collected $15 from pot
+Aurum85: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 (small blind) folded before Flop
+Seat 2: rusdronenv (big blind) folded before Flop
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: Aurum85 (button) collected ($15)
+
+
+PokerStars Game #102587027960:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:15:34 ET
+Table 'Iclea 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($1167.64 in chips) 
+Seat 2: rusdronenv ($612 in chips) 
+Seat 4: macker2 ($1251.60 in chips) 
+Seat 5: LuckyBiitch ($743 in chips) 
+Seat 6: Aurum85 ($633 in chips) 
+rusdronenv: posts small blind $3
+macker2: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+Aurum85: folds 
+mikimiki88: raises $6 to $12
+rusdronenv: folds 
+macker2: calls $6
+*** FLOP *** [Jd 4d 7h]
+macker2: checks 
+mikimiki88: checks 
+*** TURN *** [Jd 4d 7h] [3h]
+macker2: bets $12
+king10clubs leaves the table
+mikimiki88: folds 
+Uncalled bet ($12) returned to macker2
+macker2 collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Jd 4d 7h 3h]
+Seat 1: mikimiki88 (button) folded on the Turn
+Seat 2: rusdronenv (small blind) folded before Flop
+Seat 4: macker2 (big blind) collected ($25.78)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102587065226:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:16:51 ET
+Table 'Iclea 40-100 bb' 6-max Seat #2 is the button
+Seat 1: mikimiki88 ($1155.64 in chips) 
+Seat 2: rusdronenv ($609 in chips) 
+Seat 4: macker2 ($1265.38 in chips) 
+Seat 5: LuckyBiitch ($743 in chips) 
+Seat 6: Aurum85 ($633 in chips) 
+macker2: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: raises $12 to $18
+macker2: folds 
+LuckyBiitch: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $15 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv (button) collected ($15)
+Seat 4: macker2 (small blind) folded before Flop
+Seat 5: LuckyBiitch (big blind) folded before Flop
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102587084147:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:17:30 ET
+Table 'Iclea 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($1155.64 in chips) 
+Seat 2: rusdronenv ($618 in chips) 
+Seat 4: macker2 ($1262.38 in chips) 
+Seat 5: LuckyBiitch ($737 in chips) 
+Seat 6: Aurum85 ($633 in chips) 
+LuckyBiitch: posts small blind $3
+Aurum85: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+rusdronenv: folds 
+macker2: raises $6 to $12
+LuckyBiitch: folds 
+Aurum85: calls $6
+*** FLOP *** [4h Kc 5h]
+Aurum85: checks 
+macker2: bets $18
+Aurum85: raises $36 to $54
+macker2: calls $36
+*** TURN *** [4h Kc 5h] [8c]
+Aurum85: checks 
+madsquared joins the table at seat #3 
+macker2: checks 
+*** RIVER *** [4h Kc 5h 8c] [8s]
+Aurum85: checks 
+macker2: checks 
+*** SHOW DOWN ***
+Aurum85: shows [Ad Jh] (a pair of Eights)
+macker2: mucks hand 
+Aurum85 collected $132.20 from pot
+*** SUMMARY ***
+Total pot $135 | Rake $2.80 
+Board [4h Kc 5h 8c 8s]
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 4: macker2 (button) mucked
+Seat 5: LuckyBiitch (small blind) folded before Flop
+Seat 6: Aurum85 (big blind) showed [Ad Jh] and won ($132.20) with a pair of Eights
+
+
+PokerStars Game #102587133149:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:19:13 ET
+Table 'Iclea 40-100 bb' 6-max Seat #5 is the button
+Seat 1: mikimiki88 ($1155.64 in chips) 
+Seat 2: rusdronenv ($618 in chips) 
+Seat 4: macker2 ($1196.38 in chips) 
+Seat 5: LuckyBiitch ($734 in chips) 
+Seat 6: Aurum85 ($699.20 in chips) 
+Aurum85: posts small blind $3
+mikimiki88: posts big blind $6
+madsquared: sits out 
+*** HOLE CARDS ***
+rusdronenv: raises $12 to $18
+macker2: folds 
+LuckyBiitch: folds 
+Aurum85: folds 
+mikimiki88: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $15 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 (big blind) folded before Flop
+Seat 2: rusdronenv collected ($15)
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 5: LuckyBiitch (button) folded before Flop (didn't bet)
+Seat 6: Aurum85 (small blind) folded before Flop
+
+
+PokerStars Game #102587146953:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:19:42 ET
+Table 'Iclea 40-100 bb' 6-max Seat #6 is the button
+Seat 1: mikimiki88 ($1149.64 in chips) 
+Seat 2: rusdronenv ($627 in chips) 
+Seat 4: macker2 ($1196.38 in chips) 
+Seat 5: LuckyBiitch ($734 in chips) 
+Seat 6: Aurum85 ($696.20 in chips) 
+mikimiki88: posts small blind $3
+rusdronenv: posts big blind $6
+madsquared: sits out 
+*** HOLE CARDS ***
+macker2: folds 
+LuckyBiitch: raises $12 to $18
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: folds 
+Uncalled bet ($12) returned to LuckyBiitch
+LuckyBiitch collected $15 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 (small blind) folded before Flop
+Seat 2: rusdronenv (big blind) folded before Flop
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 5: LuckyBiitch collected ($15)
+Seat 6: Aurum85 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102586899101:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:11:11 ET
+Table 'Iclea 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($1197.64 in chips) 
+Seat 2: rusdronenv ($600 in chips) 
+Seat 3: king10clubs ($833.26 in chips) 
+Seat 4: macker2 ($1251.60 in chips) 
+Seat 5: LuckyBiitch ($757 in chips) 
+Seat 6: Aurum85 ($624 in chips) 
+rusdronenv: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+macker2: folds 
+LuckyBiitch: folds 
+Aurum85: folds 
+mikimiki88: raises $6 to $12
+rusdronenv: raises $36 to $48
+king10clubs: folds 
+mikimiki88: folds 
+Uncalled bet ($36) returned to rusdronenv
+rusdronenv collected $30 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: mikimiki88 (button) folded before Flop
+Seat 2: rusdronenv (small blind) collected ($30)
+Seat 3: king10clubs (big blind) folded before Flop
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102586916219:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:11:45 ET
+Table 'Iclea 40-100 bb' 6-max Seat #2 is the button
+Seat 1: mikimiki88 ($1185.64 in chips) 
+Seat 2: rusdronenv ($618 in chips) 
+Seat 3: king10clubs ($827.26 in chips) 
+Seat 5: LuckyBiitch ($757 in chips) 
+Seat 6: Aurum85 ($624 in chips) 
+king10clubs: posts small blind $3
+macker2: is sitting out 
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+Aurum85: raises $9 to $15
+mikimiki88: folds 
+rusdronenv: folds 
+king10clubs: folds 
+LuckyBiitch: folds 
+Uncalled bet ($9) returned to Aurum85
+Aurum85 collected $15 from pot
+Aurum85: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv (button) folded before Flop (didn't bet)
+Seat 3: king10clubs (small blind) folded before Flop
+Seat 5: LuckyBiitch (big blind) folded before Flop
+Seat 6: Aurum85 collected ($15)
+
+
+PokerStars Game #102586929072:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:12:11 ET
+Table 'Iclea 40-100 bb' 6-max Seat #3 is the button
+Seat 1: mikimiki88 ($1185.64 in chips) 
+Seat 2: rusdronenv ($618 in chips) 
+Seat 3: king10clubs ($824.26 in chips) 
+Seat 5: LuckyBiitch ($751 in chips) 
+Seat 6: Aurum85 ($633 in chips) 
+LuckyBiitch: posts small blind $3
+Aurum85: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88 has timed out
+mikimiki88: folds 
+rusdronenv: folds 
+king10clubs: raises $6 to $12
+LuckyBiitch: calls $9
+Aurum85: folds 
+*** FLOP *** [Jh Ad Tc]
+LuckyBiitch: checks 
+king10clubs: checks 
+*** TURN *** [Jh Ad Tc] [8d]
+LuckyBiitch: checks 
+king10clubs: checks 
+*** RIVER *** [Jh Ad Tc 8d] [Qd]
+LuckyBiitch: bets $14
+king10clubs: calls $14
+*** SHOW DOWN ***
+LuckyBiitch: shows [6s 6c] (a pair of Sixes)
+king10clubs: shows [Js 9h] (a straight, Eight to Queen)
+king10clubs collected $55.39 from pot
+*** SUMMARY ***
+Total pot $58 | Rake $2.61 
+Board [Jh Ad Tc 8d Qd]
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: king10clubs (button) showed [Js 9h] and won ($55.39) with a straight, Eight to Queen
+Seat 5: LuckyBiitch (small blind) showed [6s 6c] and lost with a pair of Sixes
+Seat 6: Aurum85 (big blind) folded before Flop
+
+
+PokerStars Game #102586957390:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:13:09 ET
+Table 'Iclea 40-100 bb' 6-max Seat #5 is the button
+Seat 1: mikimiki88 ($1185.64 in chips) 
+Seat 2: rusdronenv ($618 in chips) 
+Seat 3: king10clubs ($853.65 in chips) 
+Seat 5: LuckyBiitch ($725 in chips) 
+Seat 6: Aurum85 ($627 in chips) 
+Aurum85: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+king10clubs: folds 
+LuckyBiitch: raises $6 to $12
+Aurum85: folds 
+mikimiki88: folds 
+Uncalled bet ($6) returned to LuckyBiitch
+LuckyBiitch collected $15 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 (big blind) folded before Flop
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: king10clubs folded before Flop (didn't bet)
+Seat 5: LuckyBiitch (button) collected ($15)
+Seat 6: Aurum85 (small blind) folded before Flop
+
+
+PokerStars Game #102586963644:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:13:22 ET
+Table 'Iclea 40-100 bb' 6-max Seat #6 is the button
+Seat 1: mikimiki88 ($1179.64 in chips) 
+Seat 2: rusdronenv ($618 in chips) 
+Seat 3: king10clubs ($853.65 in chips) 
+Seat 5: LuckyBiitch ($734 in chips) 
+Seat 6: Aurum85 ($624 in chips) 
+mikimiki88: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+LuckyBiitch: folds 
+Aurum85: raises $9 to $15
+mikimiki88: folds 
+rusdronenv: folds 
+Uncalled bet ($9) returned to Aurum85
+Aurum85 collected $15 from pot
+Aurum85: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 (small blind) folded before Flop
+Seat 2: rusdronenv (big blind) folded before Flop
+Seat 3: king10clubs folded before Flop (didn't bet)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: Aurum85 (button) collected ($15)
+
+
+PokerStars Game #102586979602:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:13:55 ET
+Table 'Iclea 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($1176.64 in chips) 
+Seat 2: rusdronenv ($612 in chips) 
+Seat 5: LuckyBiitch ($734 in chips) 
+Seat 6: Aurum85 ($633 in chips) 
+rusdronenv: posts small blind $3
+king10clubs: is sitting out 
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: folds 
+Uncalled bet ($3) returned to LuckyBiitch
+LuckyBiitch collected $6 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 2: rusdronenv (small blind) folded before Flop
+Seat 5: LuckyBiitch (big blind) collected ($6)
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102586985622:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:14:07 ET
+Table 'Iclea 40-100 bb' 6-max Seat #2 is the button
+Seat 1: mikimiki88 ($1176.64 in chips) 
+Seat 2: rusdronenv ($609 in chips) 
+Seat 5: LuckyBiitch ($737 in chips) 
+Seat 6: Aurum85 ($633 in chips) 
+macker2 will be allowed to play after the button
+LuckyBiitch: posts small blind $3
+Aurum85: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+rusdronenv: raises $12 to $18
+LuckyBiitch: folds 
+Aurum85: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $15 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv (button) collected ($15)
+Seat 5: LuckyBiitch (small blind) folded before Flop
+Seat 6: Aurum85 (big blind) folded before Flop
+
+
+PokerStars Game #102586997033:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:14:31 ET
+Table 'Iclea 40-100 bb' 6-max Seat #5 is the button
+Seat 1: mikimiki88 ($1176.64 in chips) 
+Seat 2: rusdronenv ($618 in chips) 
+Seat 5: LuckyBiitch ($734 in chips) 
+Seat 6: Aurum85 ($627 in chips) 
+Aurum85: posts small blind $3
+mikimiki88: posts big blind $6
+macker2: sits out 
+*** HOLE CARDS ***
+rusdronenv: folds 
+LuckyBiitch: raises $6 to $12
+Aurum85: folds 
+mikimiki88: folds 
+Uncalled bet ($6) returned to LuckyBiitch
+LuckyBiitch collected $15 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 (big blind) folded before Flop
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 5: LuckyBiitch (button) collected ($15)
+Seat 6: Aurum85 (small blind) folded before Flop
+
+
+PokerStars Game #102587587442:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:35:51 ET
+Table 'Iclea 40-100 bb' 6-max Seat #6 is the button
+Seat 1: mikimiki88 ($1179.69 in chips) 
+Seat 2: rusdronenv ($777.20 in chips) 
+Seat 3: madsquared ($710 in chips) 
+Seat 4: macker2 ($610.96 in chips) 
+Seat 5: LuckyBiitch ($1318.20 in chips) 
+Seat 6: Aurum85 ($600 in chips) 
+mikimiki88: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+madsquared: folds 
+macker2: raises $6 to $12
+LuckyBiitch: calls $12
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: folds 
+*** FLOP *** [2d 4s 5h]
+macker2: bets $12
+LuckyBiitch: folds 
+Uncalled bet ($12) returned to macker2
+macker2 collected $31.52 from pot
+*** SUMMARY ***
+Total pot $33 | Rake $1.48 
+Board [2d 4s 5h]
+Seat 1: mikimiki88 (small blind) folded before Flop
+Seat 2: rusdronenv (big blind) folded before Flop
+Seat 3: madsquared folded before Flop (didn't bet)
+Seat 4: macker2 collected ($31.52)
+Seat 5: LuckyBiitch folded on the Flop
+Seat 6: Aurum85 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102587607950:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:36:39 ET
+Table 'Iclea 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($1176.69 in chips) 
+Seat 2: rusdronenv ($771.20 in chips) 
+Seat 3: madsquared ($710 in chips) 
+Seat 4: macker2 ($630.48 in chips) 
+Seat 5: LuckyBiitch ($1306.20 in chips) 
+Seat 6: Aurum85 ($600 in chips) 
+rusdronenv: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+macker2: raises $6 to $12
+LuckyBiitch: folds 
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: folds 
+madsquared: folds 
+Uncalled bet ($6) returned to macker2
+macker2 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 2: rusdronenv (small blind) folded before Flop
+Seat 3: madsquared (big blind) folded before Flop
+Seat 4: macker2 collected ($15)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102587628592:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:37:27 ET
+Table 'Iclea 40-100 bb' 6-max Seat #2 is the button
+Seat 1: mikimiki88 ($1176.69 in chips) 
+Seat 2: rusdronenv ($768.20 in chips) 
+Seat 3: madsquared ($704 in chips) 
+Seat 4: macker2 ($639.48 in chips) 
+Seat 5: LuckyBiitch ($1306.20 in chips) 
+Seat 6: Aurum85 ($600 in chips) 
+madsquared: posts small blind $3
+macker2: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+Aurum85: raises $9 to $15
+mikimiki88: folds 
+rusdronenv: folds 
+madsquared: folds 
+macker2: folds 
+Uncalled bet ($9) returned to Aurum85
+Aurum85 collected $15 from pot
+Aurum85: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv (button) folded before Flop (didn't bet)
+Seat 3: madsquared (small blind) folded before Flop
+Seat 4: macker2 (big blind) folded before Flop
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: Aurum85 collected ($15)
+
+
+PokerStars Game #102587640894:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:37:55 ET
+Table 'Iclea 40-100 bb' 6-max Seat #3 is the button
+Seat 1: mikimiki88 ($1176.69 in chips) 
+Seat 2: rusdronenv ($768.20 in chips) 
+Seat 3: madsquared ($701 in chips) 
+Seat 4: macker2 ($633.48 in chips) 
+Seat 5: LuckyBiitch ($1306.20 in chips) 
+Seat 6: Aurum85 ($609 in chips) 
+macker2: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: folds 
+madsquared: folds 
+macker2: folds 
+Uncalled bet ($3) returned to LuckyBiitch
+LuckyBiitch collected $6 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: madsquared (button) folded before Flop (didn't bet)
+Seat 4: macker2 (small blind) folded before Flop
+Seat 5: LuckyBiitch (big blind) collected ($6)
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102587650047:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:38:17 ET
+Table 'Iclea 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($1176.69 in chips) 
+Seat 2: rusdronenv ($768.20 in chips) 
+Seat 3: madsquared ($701 in chips) 
+Seat 4: macker2 ($630.48 in chips) 
+Seat 5: LuckyBiitch ($1309.20 in chips) 
+Seat 6: Aurum85 ($609 in chips) 
+LuckyBiitch: posts small blind $3
+Aurum85: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+rusdronenv: raises $12 to $18
+madsquared: folds 
+macker2: folds 
+LuckyBiitch: folds 
+Aurum85: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $15 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv collected ($15)
+Seat 3: madsquared folded before Flop (didn't bet)
+Seat 4: macker2 (button) folded before Flop (didn't bet)
+Seat 5: LuckyBiitch (small blind) folded before Flop
+Seat 6: Aurum85 (big blind) folded before Flop
+
+
+PokerStars Game #102587661923:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:38:44 ET
+Table 'Iclea 40-100 bb' 6-max Seat #5 is the button
+Seat 1: mikimiki88 ($1176.69 in chips) 
+Seat 2: rusdronenv ($777.20 in chips) 
+Seat 3: madsquared ($701 in chips) 
+Seat 4: macker2 ($630.48 in chips) 
+Seat 5: LuckyBiitch ($1306.20 in chips) 
+Seat 6: Aurum85 ($603 in chips) 
+Aurum85: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+madsquared: folds 
+macker2: folds 
+LuckyBiitch: folds 
+Aurum85: folds 
+Uncalled bet ($3) returned to mikimiki88
+mikimiki88 collected $6 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: mikimiki88 (big blind) collected ($6)
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: madsquared folded before Flop (didn't bet)
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 5: LuckyBiitch (button) folded before Flop (didn't bet)
+Seat 6: Aurum85 (small blind) folded before Flop
+
+
+PokerStars Game #102587673487:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:39:11 ET
+Table 'Iclea 40-100 bb' 6-max Seat #6 is the button
+Seat 1: mikimiki88 ($1179.69 in chips) 
+Seat 2: rusdronenv ($777.20 in chips) 
+Seat 3: madsquared ($701 in chips) 
+Seat 4: macker2 ($630.48 in chips) 
+Seat 5: LuckyBiitch ($1306.20 in chips) 
+Seat 6: Aurum85 ($600 in chips) 
+mikimiki88: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+madsquared: folds 
+macker2: folds 
+LuckyBiitch: raises $12 to $18
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: folds 
+Uncalled bet ($12) returned to LuckyBiitch
+LuckyBiitch collected $15 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 (small blind) folded before Flop
+Seat 2: rusdronenv (big blind) folded before Flop
+Seat 3: madsquared folded before Flop (didn't bet)
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 5: LuckyBiitch collected ($15)
+Seat 6: Aurum85 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102587687349:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:39:44 ET
+Table 'Iclea 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($1176.69 in chips) 
+Seat 2: rusdronenv ($771.20 in chips) 
+Seat 3: madsquared ($701 in chips) 
+Seat 4: macker2 ($630.48 in chips) 
+Seat 5: LuckyBiitch ($1315.20 in chips) 
+Seat 6: Aurum85 ($600 in chips) 
+rusdronenv: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+macker2: folds 
+LuckyBiitch: raises $12 to $18
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: calls $15
+madsquared: folds 
+*** FLOP *** [As 2h Ah]
+rusdronenv: checks 
+LuckyBiitch: bets $24
+rusdronenv: calls $24
+*** TURN *** [As 2h Ah] [7d]
+rusdronenv: checks 
+LuckyBiitch: bets $50
+rusdronenv: calls $50
+*** RIVER *** [As 2h Ah 7d] [9c]
+rusdronenv: checks 
+LuckyBiitch: checks 
+*** SHOW DOWN ***
+rusdronenv: shows [Tc Ac] (three of a kind, Aces)
+LuckyBiitch: mucks hand 
+rusdronenv collected $187.20 from pot
+*** SUMMARY ***
+Total pot $190 | Rake $2.80 
+Board [As 2h Ah 7d 9c]
+Seat 1: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 2: rusdronenv (small blind) showed [Tc Ac] and won ($187.20) with three of a kind, Aces
+Seat 3: madsquared (big blind) folded before Flop
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 5: LuckyBiitch mucked
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102587440714:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:30:20 ET
+Table 'Iclea 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($1356.69 in chips) 
+Seat 2: rusdronenv ($621 in chips) 
+Seat 3: madsquared ($609 in chips) 
+Seat 4: macker2 ($445.76 in chips) 
+Seat 5: LuckyBiitch ($1468.20 in chips) 
+Seat 6: Aurum85 ($675.20 in chips) 
+rusdronenv: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+macker2: folds 
+LuckyBiitch: folds 
+Aurum85: folds 
+mikimiki88: raises $6 to $12
+rusdronenv: folds 
+madsquared: folds 
+Uncalled bet ($6) returned to mikimiki88
+mikimiki88 collected $15 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 (button) collected ($15)
+Seat 2: rusdronenv (small blind) folded before Flop
+Seat 3: madsquared (big blind) folded before Flop
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102587450039:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:30:41 ET
+Table 'Iclea 40-100 bb' 6-max Seat #2 is the button
+Seat 1: mikimiki88 ($1365.69 in chips) 
+Seat 2: rusdronenv ($618 in chips) 
+Seat 3: madsquared ($603 in chips) 
+Seat 4: macker2 ($445.76 in chips) 
+Seat 5: LuckyBiitch ($1468.20 in chips) 
+Seat 6: Aurum85 ($675.20 in chips) 
+madsquared: posts small blind $3
+macker2: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: raises $12 to $18
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: calls $18
+madsquared: folds 
+macker2: calls $12
+*** FLOP *** [4d 2d As]
+macker2: checks 
+LuckyBiitch: bets $38
+rusdronenv: calls $38
+macker2: folds 
+*** TURN *** [4d 2d As] [3c]
+LuckyBiitch: bets $85
+rusdronenv: calls $85
+*** RIVER *** [4d 2d As 3c] [Js]
+LuckyBiitch: checks 
+rusdronenv: bets $477 and is all-in
+LuckyBiitch: folds 
+Uncalled bet ($477) returned to rusdronenv
+rusdronenv collected $300.20 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $303 | Rake $2.80 
+Board [4d 2d As 3c Js]
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv (button) collected ($300.20)
+Seat 3: madsquared (small blind) folded before Flop
+Seat 4: macker2 (big blind) folded on the Flop
+Seat 5: LuckyBiitch folded on the River
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102587506736:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:32:49 ET
+Table 'Iclea 40-100 bb' 6-max Seat #3 is the button
+Seat 1: mikimiki88 ($1365.69 in chips) 
+Seat 2: rusdronenv ($777.20 in chips) 
+Seat 3: madsquared ($600 in chips) 
+Seat 4: macker2 ($427.76 in chips) 
+Seat 5: LuckyBiitch ($1327.20 in chips) 
+Seat 6: Aurum85 ($675.20 in chips) 
+macker2: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+Aurum85: raises $9 to $15
+mikimiki88: folds 
+rusdronenv: folds 
+madsquared: calls $15
+macker2: folds 
+LuckyBiitch: folds 
+*** FLOP *** [7d Ac 3h]
+Aurum85: checks 
+madsquared: checks 
+*** TURN *** [7d Ac 3h] [8c]
+Aurum85: bets $26.40
+madsquared: calls $26.40
+*** RIVER *** [7d Ac 3h 8c] [4h]
+Aurum85: bets $62.40
+madsquared: calls $62.40
+*** SHOW DOWN ***
+Aurum85: shows [Js Ts] (high card Ace)
+madsquared: shows [Ah Td] (a pair of Aces)
+madsquared collected $213.80 from pot
+*** SUMMARY ***
+Total pot $216.60 | Rake $2.80 
+Board [7d Ac 3h 8c 4h]
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: madsquared (button) showed [Ah Td] and won ($213.80) with a pair of Aces
+Seat 4: macker2 (small blind) folded before Flop
+Seat 5: LuckyBiitch (big blind) folded before Flop
+Seat 6: Aurum85 showed [Js Ts] and lost with high card Ace
+
+
+PokerStars Game #102587533593:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:33:49 ET
+Table 'Iclea 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($1365.69 in chips) 
+Seat 2: rusdronenv ($777.20 in chips) 
+Seat 3: madsquared ($710 in chips) 
+Seat 4: macker2 ($424.76 in chips) 
+Seat 5: LuckyBiitch ($1321.20 in chips) 
+Seat 6: Aurum85 ($600 in chips) 
+LuckyBiitch: posts small blind $3
+Aurum85: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+rusdronenv is disconnected 
+rusdronenv has timed out while disconnected
+rusdronenv: folds 
+madsquared: folds 
+macker2: folds 
+LuckyBiitch: folds 
+Uncalled bet ($3) returned to Aurum85
+Aurum85 collected $6 from pot
+Aurum85: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: madsquared folded before Flop (didn't bet)
+Seat 4: macker2 (button) folded before Flop (didn't bet)
+Seat 5: LuckyBiitch (small blind) folded before Flop
+Seat 6: Aurum85 (big blind) collected ($6)
+
+
+PokerStars Game #102587547262:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:34:20 ET
+Table 'Iclea 40-100 bb' 6-max Seat #5 is the button
+Seat 1: mikimiki88 ($1365.69 in chips) 
+Seat 3: madsquared ($710 in chips) 
+Seat 4: macker2 ($424.76 in chips) 
+Seat 5: LuckyBiitch ($1318.20 in chips) 
+Seat 6: Aurum85 ($603 in chips) 
+Aurum85: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+madsquared: folds 
+macker2: raises $6 to $12
+LuckyBiitch: folds 
+Aurum85: folds 
+mikimiki88: calls $6
+*** FLOP *** [4d 8h 6h]
+mikimiki88: checks 
+macker2: bets $12
+mikimiki88: raises $29.37 to $41.37
+macker2: raises $42.63 to $84
+mikimiki88: calls $42.63
+*** TURN *** [4d 8h 6h] [Qc]
+mikimiki88: checks 
+macker2: checks 
+*** RIVER *** [4d 8h 6h Qc] [2d]
+mikimiki88: checks 
+macker2: bets $90
+mikimiki88: calls $90
+*** SHOW DOWN ***
+macker2: shows [As Ad] (a pair of Aces)
+mikimiki88: mucks hand 
+macker2 collected $372.20 from pot
+*** SUMMARY ***
+Total pot $375 | Rake $2.80 
+Board [4d 8h 6h Qc 2d]
+Seat 1: mikimiki88 (big blind) mucked
+Seat 3: madsquared folded before Flop (didn't bet)
+Seat 4: macker2 showed [As Ad] and won ($372.20) with a pair of Aces
+Seat 5: LuckyBiitch (button) folded before Flop (didn't bet)
+Seat 6: Aurum85 (small blind) folded before Flop
+
+
+PokerStars Game #102587311474:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:25:33 ET
+Table 'Iclea 40-100 bb' 6-max Seat #6 is the button
+Seat 1: mikimiki88 ($1171.34 in chips) 
+Seat 2: rusdronenv ($618 in chips) 
+Seat 3: madsquared ($629.70 in chips) 
+Seat 4: macker2 ($447.38 in chips) 
+Seat 5: LuckyBiitch ($1477.20 in chips) 
+Seat 6: Aurum85 ($696.20 in chips) 
+mikimiki88: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+madsquared: raises $12 to $18
+macker2: folds 
+LuckyBiitch: folds 
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: folds 
+Uncalled bet ($12) returned to madsquared
+madsquared collected $15 from pot
+madsquared: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 (small blind) folded before Flop
+Seat 2: rusdronenv (big blind) folded before Flop
+Seat 3: madsquared collected ($15)
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: Aurum85 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102587320467:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:25:53 ET
+Table 'Iclea 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($1168.34 in chips) 
+Seat 2: rusdronenv ($612 in chips) 
+Seat 3: madsquared ($638.70 in chips) 
+Seat 4: macker2 ($447.38 in chips) 
+Seat 5: LuckyBiitch ($1477.20 in chips) 
+Seat 6: Aurum85 ($696.20 in chips) 
+rusdronenv: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+macker2: folds 
+LuckyBiitch: folds 
+Aurum85: folds 
+mikimiki88: raises $6 to $12
+rusdronenv: folds 
+madsquared: calls $6
+*** FLOP *** [5h Ah 4d]
+madsquared: checks 
+mikimiki88: bets $18.30
+madsquared: calls $18.30
+*** TURN *** [5h Ah 4d] [9c]
+madsquared: checks 
+mikimiki88: bets $43.16
+madsquared: calls $43.16
+*** RIVER *** [5h Ah 4d 9c] [Ks]
+madsquared: checks 
+mikimiki88: bets $104.45
+madsquared: calls $104.45
+*** SHOW DOWN ***
+mikimiki88: shows [Ac 5d] (two pair, Aces and Fives)
+madsquared: mucks hand 
+mikimiki88 collected $356.02 from pot
+*** SUMMARY ***
+Total pot $358.82 | Rake $2.80 
+Board [5h Ah 4d 9c Ks]
+Seat 1: mikimiki88 (button) showed [Ac 5d] and won ($356.02) with two pair, Aces and Fives
+Seat 2: rusdronenv (small blind) folded before Flop
+Seat 3: madsquared (big blind) mucked
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102587354099:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:27:07 ET
+Table 'Iclea 40-100 bb' 6-max Seat #2 is the button
+Seat 1: mikimiki88 ($1346.45 in chips) 
+Seat 2: rusdronenv ($609 in chips) 
+Seat 3: madsquared ($600 in chips) 
+Seat 4: macker2 ($447.38 in chips) 
+Seat 5: LuckyBiitch ($1477.20 in chips) 
+Seat 6: Aurum85 ($696.20 in chips) 
+madsquared: posts small blind $3
+macker2: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+Aurum85: folds 
+mikimiki88: raises $12 to $18
+rusdronenv: folds 
+madsquared: folds 
+macker2: calls $12
+*** FLOP *** [7s Qc Td]
+macker2: checks 
+mikimiki88: bets $30.53
+macker2: folds 
+Uncalled bet ($30.53) returned to mikimiki88
+mikimiki88 collected $37.24 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [7s Qc Td]
+Seat 1: mikimiki88 collected ($37.24)
+Seat 2: rusdronenv (button) folded before Flop (didn't bet)
+Seat 3: madsquared (small blind) folded before Flop
+Seat 4: macker2 (big blind) folded on the Flop
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102587378955:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:28:02 ET
+Table 'Iclea 40-100 bb' 6-max Seat #3 is the button
+Seat 1: mikimiki88 ($1365.69 in chips) 
+Seat 2: rusdronenv ($609 in chips) 
+Seat 3: madsquared ($600 in chips) 
+Seat 4: macker2 ($429.38 in chips) 
+Seat 5: LuckyBiitch ($1477.20 in chips) 
+Seat 6: Aurum85 ($696.20 in chips) 
+macker2: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: raises $12 to $18
+madsquared: folds 
+macker2: folds 
+LuckyBiitch: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $15 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv collected ($15)
+Seat 3: madsquared (button) folded before Flop (didn't bet)
+Seat 4: macker2 (small blind) folded before Flop
+Seat 5: LuckyBiitch (big blind) folded before Flop
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102587398026:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:28:45 ET
+Table 'Iclea 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($1365.69 in chips) 
+Seat 2: rusdronenv ($618 in chips) 
+Seat 3: madsquared ($600 in chips) 
+Seat 4: macker2 ($426.38 in chips) 
+Seat 5: LuckyBiitch ($1471.20 in chips) 
+Seat 6: Aurum85 ($696.20 in chips) 
+LuckyBiitch: posts small blind $3
+Aurum85: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+rusdronenv: folds 
+madsquared: raises $12 to $18
+macker2: folds 
+LuckyBiitch: folds 
+Aurum85: folds 
+Uncalled bet ($12) returned to madsquared
+madsquared collected $15 from pot
+madsquared: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: madsquared collected ($15)
+Seat 4: macker2 (button) folded before Flop (didn't bet)
+Seat 5: LuckyBiitch (small blind) folded before Flop
+Seat 6: Aurum85 (big blind) folded before Flop
+
+
+PokerStars Game #102587406769:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:29:04 ET
+Table 'Iclea 40-100 bb' 6-max Seat #5 is the button
+Seat 1: mikimiki88 ($1365.69 in chips) 
+Seat 2: rusdronenv ($618 in chips) 
+Seat 3: madsquared ($609 in chips) 
+Seat 4: macker2 ($426.38 in chips) 
+Seat 5: LuckyBiitch ($1468.20 in chips) 
+Seat 6: Aurum85 ($690.20 in chips) 
+Aurum85: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+madsquared: folds 
+macker2: raises $9 to $15
+LuckyBiitch: folds 
+Aurum85: calls $12
+mikimiki88: folds 
+*** FLOP *** [Ah Qd As]
+Aurum85: checks 
+macker2: bets $12
+Aurum85: folds 
+Uncalled bet ($12) returned to macker2
+macker2 collected $34.38 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.62 
+Board [Ah Qd As]
+Seat 1: mikimiki88 (big blind) folded before Flop
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: madsquared folded before Flop (didn't bet)
+Seat 4: macker2 collected ($34.38)
+Seat 5: LuckyBiitch (button) folded before Flop (didn't bet)
+Seat 6: Aurum85 (small blind) folded on the Flop
+
+
+PokerStars Game #102587429247:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:29:54 ET
+Table 'Iclea 40-100 bb' 6-max Seat #6 is the button
+Seat 1: mikimiki88 ($1359.69 in chips) 
+Seat 2: rusdronenv ($618 in chips) 
+Seat 3: madsquared ($609 in chips) 
+Seat 4: macker2 ($445.76 in chips) 
+Seat 5: LuckyBiitch ($1468.20 in chips) 
+Seat 6: Aurum85 ($675.20 in chips) 
+mikimiki88: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+madsquared: folds 
+macker2: folds 
+LuckyBiitch: folds 
+Aurum85: folds 
+mikimiki88: folds 
+Uncalled bet ($3) returned to rusdronenv
+rusdronenv collected $6 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: mikimiki88 (small blind) folded before Flop
+Seat 2: rusdronenv (big blind) collected ($6)
+Seat 3: madsquared folded before Flop (didn't bet)
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: Aurum85 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102587949067:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:50:08 ET
+Table 'Iclea 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($1107.27 in chips) 
+Seat 2: rusdronenv ($905.60 in chips) 
+Seat 4: macker2 ($648.83 in chips) 
+Seat 5: neomorf ($700.04 in chips) 
+Seat 6: Aurum85 ($609 in chips) 
+rusdronenv: posts small blind $3
+macker2: posts big blind $6
+*** HOLE CARDS ***
+neomorf: folds 
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: folds 
+Uncalled bet ($3) returned to macker2
+macker2 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 2: rusdronenv (small blind) folded before Flop
+Seat 4: macker2 (big blind) collected ($6)
+Seat 5: neomorf folded before Flop (didn't bet)
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102587959608:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:50:33 ET
+Table 'Iclea 40-100 bb' 6-max Seat #2 is the button
+Seat 1: mikimiki88 ($1107.27 in chips) 
+Seat 2: rusdronenv ($902.60 in chips) 
+Seat 4: macker2 ($651.83 in chips) 
+Seat 5: neomorf ($700.04 in chips) 
+Seat 6: Aurum85 ($609 in chips) 
+macker2: posts small blind $3
+neomorf: posts big blind $6
+*** HOLE CARDS ***
+Aurum85: raises $9 to $15
+dRobespierre joins the table at seat #3 
+mikimiki88: folds 
+rusdronenv: folds 
+macker2: folds 
+neomorf: folds 
+Uncalled bet ($9) returned to Aurum85
+Aurum85 collected $15 from pot
+Aurum85: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv (button) folded before Flop (didn't bet)
+Seat 4: macker2 (small blind) folded before Flop
+Seat 5: neomorf (big blind) folded before Flop
+Seat 6: Aurum85 collected ($15)
+
+
+PokerStars Game #102587971810:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:51:03 ET
+Table 'Iclea 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($1107.27 in chips) 
+Seat 2: rusdronenv ($902.60 in chips) 
+Seat 4: macker2 ($648.83 in chips) 
+Seat 5: neomorf ($694.04 in chips) 
+Seat 6: Aurum85 ($618 in chips) 
+neomorf: posts small blind $3
+Aurum85: posts big blind $6
+dRobespierre: sits out 
+*** HOLE CARDS ***
+mikimiki88: folds 
+rusdronenv: raises $12 to $18
+macker2: folds 
+neomorf: folds 
+Aurum85: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $15 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv collected ($15)
+Seat 4: macker2 (button) folded before Flop (didn't bet)
+Seat 5: neomorf (small blind) folded before Flop
+Seat 6: Aurum85 (big blind) folded before Flop
+
+
+PokerStars Game #102587983818:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:51:33 ET
+Table 'Iclea 40-100 bb' 6-max Seat #5 is the button
+Seat 1: mikimiki88 ($1107.27 in chips) 
+Seat 2: rusdronenv ($911.60 in chips) 
+Seat 4: macker2 ($648.83 in chips) 
+Seat 5: neomorf ($691.04 in chips) 
+Seat 6: Aurum85 ($612 in chips) 
+Aurum85: posts small blind $3
+mikimiki88: posts big blind $6
+dRobespierre: sits out 
+*** HOLE CARDS ***
+rusdronenv: raises $12 to $18
+macker2: folds 
+neomorf: folds 
+Aurum85: folds 
+mikimiki88: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $15 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 (big blind) folded before Flop
+Seat 2: rusdronenv collected ($15)
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 5: neomorf (button) folded before Flop (didn't bet)
+Seat 6: Aurum85 (small blind) folded before Flop
+
+
+PokerStars Game #102587993230:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:51:56 ET
+Table 'Iclea 40-100 bb' 6-max Seat #6 is the button
+Seat 1: mikimiki88 ($1101.27 in chips) 
+Seat 2: rusdronenv ($920.60 in chips) 
+Seat 4: macker2 ($648.83 in chips) 
+Seat 5: neomorf ($691.04 in chips) 
+Seat 6: Aurum85 ($609 in chips) 
+mikimiki88: posts small blind $3
+rusdronenv: posts big blind $6
+dRobespierre: sits out 
+*** HOLE CARDS ***
+macker2: folds 
+neomorf: folds 
+Aurum85: raises $9 to $15
+mikimiki88: folds 
+rusdronenv: raises $45 to $60
+Aurum85: folds 
+Uncalled bet ($45) returned to rusdronenv
+rusdronenv collected $33 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $0 
+Seat 1: mikimiki88 (small blind) folded before Flop
+Seat 2: rusdronenv (big blind) collected ($33)
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 5: neomorf folded before Flop (didn't bet)
+Seat 6: Aurum85 (button) folded before Flop
+
+
+PokerStars Game #102588005810:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:52:27 ET
+Table 'Iclea 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($1098.27 in chips) 
+Seat 2: rusdronenv ($938.60 in chips) 
+Seat 3: dRobespierre ($240 in chips) 
+Seat 4: macker2 ($648.83 in chips) 
+Seat 5: neomorf ($691.04 in chips) 
+Seat 6: Aurum85 ($600 in chips) 
+rusdronenv: posts small blind $3
+dRobespierre: posts big blind $6
+*** HOLE CARDS ***
+macker2: folds 
+neomorf: folds 
+Aurum85: folds 
+mikimiki88: raises $6 to $12
+rusdronenv: folds 
+dRobespierre: folds 
+Uncalled bet ($6) returned to mikimiki88
+mikimiki88 collected $15 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 (button) collected ($15)
+Seat 2: rusdronenv (small blind) folded before Flop
+Seat 3: dRobespierre (big blind) folded before Flop
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 5: neomorf folded before Flop (didn't bet)
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102588015615:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:52:51 ET
+Table 'Iclea 40-100 bb' 6-max Seat #2 is the button
+Seat 1: mikimiki88 ($1107.27 in chips) 
+Seat 2: rusdronenv ($935.60 in chips) 
+Seat 3: dRobespierre ($240 in chips) 
+Seat 4: macker2 ($648.83 in chips) 
+Seat 5: neomorf ($691.04 in chips) 
+Seat 6: Aurum85 ($600 in chips) 
+dRobespierre: posts small blind $3
+macker2: posts big blind $6
+*** HOLE CARDS ***
+neomorf: folds 
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: folds 
+dRobespierre: folds 
+Uncalled bet ($3) returned to macker2
+macker2 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv (button) folded before Flop (didn't bet)
+Seat 3: dRobespierre (small blind) folded before Flop
+Seat 4: macker2 (big blind) collected ($6)
+Seat 5: neomorf folded before Flop (didn't bet)
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102588026592:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:53:19 ET
+Table 'Iclea 40-100 bb' 6-max Seat #3 is the button
+Seat 1: mikimiki88 ($1107.27 in chips) 
+Seat 2: rusdronenv ($935.60 in chips) 
+Seat 3: dRobespierre ($240 in chips) 
+Seat 4: macker2 ($651.83 in chips) 
+Seat 5: neomorf ($691.04 in chips) 
+Seat 6: Aurum85 ($600 in chips) 
+macker2: posts small blind $3
+neomorf: posts big blind $6
+*** HOLE CARDS ***
+Aurum85: raises $9 to $15
+mikimiki88: folds 
+rusdronenv: folds 
+dRobespierre: folds 
+macker2: folds 
+neomorf: folds 
+Uncalled bet ($9) returned to Aurum85
+Aurum85 collected $15 from pot
+Aurum85: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: dRobespierre (button) folded before Flop (didn't bet)
+Seat 4: macker2 (small blind) folded before Flop
+Seat 5: neomorf (big blind) folded before Flop
+Seat 6: Aurum85 collected ($15)
+
+
+PokerStars Game #102588041712:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:53:57 ET
+Table 'Iclea 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($1107.27 in chips) 
+Seat 2: rusdronenv ($935.60 in chips) 
+Seat 3: dRobespierre ($240 in chips) 
+Seat 4: macker2 ($648.83 in chips) 
+Seat 5: neomorf ($685.04 in chips) 
+Seat 6: Aurum85 ($609 in chips) 
+neomorf: posts small blind $3
+Aurum85: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+rusdronenv: folds 
+dRobespierre: folds 
+macker2: raises $6 to $12
+neomorf: folds 
+Aurum85: folds 
+Uncalled bet ($6) returned to macker2
+macker2 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: dRobespierre folded before Flop (didn't bet)
+Seat 4: macker2 (button) collected ($15)
+Seat 5: neomorf (small blind) folded before Flop
+Seat 6: Aurum85 (big blind) folded before Flop
+
+
+PokerStars Game #102588055741:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:54:32 ET
+Table 'Iclea 40-100 bb' 6-max Seat #5 is the button
+Seat 1: mikimiki88 ($1107.27 in chips) 
+Seat 2: rusdronenv ($935.60 in chips) 
+Seat 3: dRobespierre ($240 in chips) 
+Seat 4: macker2 ($657.83 in chips) 
+Seat 5: neomorf ($682.04 in chips) 
+Seat 6: Aurum85 ($603 in chips) 
+Aurum85: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+dRobespierre: folds 
+macker2: raises $6 to $12
+neomorf: folds 
+Aurum85: folds 
+mikimiki88: calls $6
+*** FLOP *** [3s Qc Kc]
+mikimiki88: checks 
+macker2: bets $12
+mikimiki88: calls $12
+*** TURN *** [3s Qc Kc] [Th]
+mikimiki88: checks 
+macker2: bets $18
+mikimiki88: raises $72 to $90
+macker2: folds 
+Uncalled bet ($72) returned to mikimiki88
+mikimiki88 collected $84.20 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $87 | Rake $2.80 
+Board [3s Qc Kc Th]
+Seat 1: mikimiki88 (big blind) collected ($84.20)
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: dRobespierre folded before Flop (didn't bet)
+Seat 4: macker2 folded on the Turn
+Seat 5: neomorf (button) folded before Flop (didn't bet)
+Seat 6: Aurum85 (small blind) folded before Flop
+
+
+PokerStars Game #102587833518:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:45:28 ET
+Table 'Iclea 40-100 bb' 6-max Seat #2 is the button
+Seat 1: mikimiki88 ($1155.69 in chips) 
+Seat 2: rusdronenv ($911.60 in chips) 
+Seat 3: madsquared ($639.21 in chips) 
+Seat 4: macker2 ($694.25 in chips) 
+Seat 6: Aurum85 ($609 in chips) 
+madsquared: posts small blind $3
+macker2: posts big blind $6
+neomorf: sits out 
+*** HOLE CARDS ***
+Aurum85: folds 
+mikimiki88: raises $6 to $12
+rusdronenv: folds 
+madsquared: folds 
+macker2: folds 
+Uncalled bet ($6) returned to mikimiki88
+mikimiki88 collected $15 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 collected ($15)
+Seat 2: rusdronenv (button) folded before Flop (didn't bet)
+Seat 3: madsquared (small blind) folded before Flop
+Seat 4: macker2 (big blind) folded before Flop
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102587844896:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:45:55 ET
+Table 'Iclea 40-100 bb' 6-max Seat #3 is the button
+Seat 1: mikimiki88 ($1164.69 in chips) 
+Seat 2: rusdronenv ($911.60 in chips) 
+Seat 3: madsquared ($636.21 in chips) 
+Seat 4: macker2 ($688.25 in chips) 
+Seat 5: neomorf ($600 in chips) 
+Seat 6: Aurum85 ($609 in chips) 
+macker2: posts small blind $3
+neomorf: posts big blind $6
+*** HOLE CARDS ***
+Aurum85: folds 
+mikimiki88: raises $12 to $18
+rusdronenv: folds 
+madsquared: folds 
+macker2: calls $15
+neomorf: calls $12
+*** FLOP *** [4c 4s 6h]
+macker2: checks 
+neomorf: checks 
+mikimiki88: bets $30.42
+macker2: calls $30.42
+neomorf: calls $30.42
+*** TURN *** [4c 4s 6h] [8d]
+macker2: checks 
+neomorf: checks 
+mikimiki88: checks 
+*** RIVER *** [4c 4s 6h 8d] [3c]
+macker2: checks 
+neomorf: bets $93
+mikimiki88: folds 
+macker2: folds 
+Uncalled bet ($93) returned to neomorf
+neomorf collected $142.46 from pot
+neomorf: doesn't show hand 
+*** SUMMARY ***
+Total pot $145.26 | Rake $2.80 
+Board [4c 4s 6h 8d 3c]
+Seat 1: mikimiki88 folded on the River
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: madsquared (button) folded before Flop (didn't bet)
+Seat 4: macker2 (small blind) folded on the River
+Seat 5: neomorf (big blind) collected ($142.46)
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102587906555:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:48:24 ET
+Table 'Iclea 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($1116.27 in chips) 
+Seat 2: rusdronenv ($911.60 in chips) 
+Seat 3: madsquared ($636.21 in chips) 
+Seat 4: macker2 ($639.83 in chips) 
+Seat 5: neomorf ($694.04 in chips) 
+Seat 6: Aurum85 ($609 in chips) 
+neomorf: posts small blind $3
+Aurum85: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+rusdronenv: folds 
+madsquared: folds 
+macker2: raises $6 to $12
+neomorf: folds 
+Aurum85: folds 
+Uncalled bet ($6) returned to macker2
+macker2 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: madsquared folded before Flop (didn't bet)
+Seat 4: macker2 (button) collected ($15)
+Seat 5: neomorf (small blind) folded before Flop
+Seat 6: Aurum85 (big blind) folded before Flop
+
+
+PokerStars Game #102587918805:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:48:54 ET
+Table 'Iclea 40-100 bb' 6-max Seat #5 is the button
+Seat 1: mikimiki88 ($1116.27 in chips) 
+Seat 2: rusdronenv ($911.60 in chips) 
+Seat 3: madsquared ($636.21 in chips) 
+Seat 4: macker2 ($648.83 in chips) 
+Seat 5: neomorf ($691.04 in chips) 
+Seat 6: Aurum85 ($603 in chips) 
+Aurum85: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+madsquared: folds 
+macker2: folds 
+neomorf: folds 
+Aurum85: raises $9 to $15
+mikimiki88: folds 
+Uncalled bet ($9) returned to Aurum85
+Aurum85 collected $12 from pot
+Aurum85: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: mikimiki88 (big blind) folded before Flop
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: madsquared folded before Flop (didn't bet)
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 5: neomorf (button) folded before Flop (didn't bet)
+Seat 6: Aurum85 (small blind) collected ($12)
+
+
+PokerStars Game #102587932981:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:49:28 ET
+Table 'Iclea 40-100 bb' 6-max Seat #6 is the button
+Seat 1: mikimiki88 ($1110.27 in chips) 
+Seat 2: rusdronenv ($911.60 in chips) 
+Seat 3: madsquared ($636.21 in chips) 
+Seat 4: macker2 ($648.83 in chips) 
+Seat 5: neomorf ($691.04 in chips) 
+Seat 6: Aurum85 ($609 in chips) 
+mikimiki88: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+madsquared: folds 
+madsquared leaves the table
+macker2: folds 
+neomorf: raises $6.24 to $12.24
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: folds 
+Uncalled bet ($6.24) returned to neomorf
+neomorf collected $15 from pot
+neomorf: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 (small blind) folded before Flop
+Seat 2: rusdronenv (big blind) folded before Flop
+Seat 3: madsquared folded before Flop (didn't bet)
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 5: neomorf collected ($15)
+Seat 6: Aurum85 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102587718842:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:40:58 ET
+Table 'Iclea 40-100 bb' 6-max Seat #2 is the button
+Seat 1: mikimiki88 ($1176.69 in chips) 
+Seat 2: rusdronenv ($866.40 in chips) 
+Seat 3: madsquared ($695 in chips) 
+Seat 4: macker2 ($630.48 in chips) 
+Seat 5: LuckyBiitch ($1223.20 in chips) 
+Seat 6: Aurum85 ($600 in chips) 
+madsquared: posts small blind $3
+macker2: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+Aurum85: folds 
+mikimiki88: raises $6 to $12
+rusdronenv: folds 
+madsquared: folds 
+macker2: calls $6
+*** FLOP *** [4c Ac Jc]
+macker2: checks 
+mikimiki88: checks 
+*** TURN *** [4c Ac Jc] [5s]
+macker2: bets $12
+mikimiki88: folds 
+Uncalled bet ($12) returned to macker2
+macker2 collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [4c Ac Jc 5s]
+Seat 1: mikimiki88 folded on the Turn
+Seat 2: rusdronenv (button) folded before Flop (didn't bet)
+Seat 3: madsquared (small blind) folded before Flop
+Seat 4: macker2 (big blind) collected ($25.78)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102587749410:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:42:09 ET
+Table 'Iclea 40-100 bb' 6-max Seat #3 is the button
+Seat 1: mikimiki88 ($1164.69 in chips) 
+Seat 2: rusdronenv ($866.40 in chips) 
+Seat 3: madsquared ($692 in chips) 
+Seat 4: macker2 ($644.26 in chips) 
+Seat 6: Aurum85 ($600 in chips) 
+macker2: posts small blind $3
+LuckyBiitch: is sitting out 
+Aurum85: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+LuckyBiitch leaves the table
+neomorf joins the table at seat #5 
+rusdronenv: raises $12 to $18
+madsquared: folds 
+macker2: folds 
+Aurum85: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $15 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv collected ($15)
+Seat 3: madsquared (button) folded before Flop (didn't bet)
+Seat 4: macker2 (small blind) folded before Flop
+Seat 6: Aurum85 (big blind) folded before Flop
+
+
+PokerStars Game #102587764671:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:42:45 ET
+Table 'Iclea 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($1164.69 in chips) 
+Seat 2: rusdronenv ($875.40 in chips) 
+Seat 3: madsquared ($692 in chips) 
+Seat 4: macker2 ($641.26 in chips) 
+Seat 6: Aurum85 ($600 in chips) 
+neomorf will be allowed to play after the button
+Aurum85: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+madsquared: raises $12 to $18
+macker2: calls $18
+Aurum85: folds 
+mikimiki88: folds 
+*** FLOP *** [Qc 5h 4d]
+madsquared: bets $28.79
+macker2: raises $28.79 to $57.58
+madsquared: folds 
+Uncalled bet ($28.79) returned to macker2
+macker2 collected $99.78 from pot
+*** SUMMARY ***
+Total pot $102.58 | Rake $2.80 
+Board [Qc 5h 4d]
+Seat 1: mikimiki88 (big blind) folded before Flop
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: madsquared folded on the Flop
+Seat 4: macker2 (button) collected ($99.78)
+Seat 6: Aurum85 (small blind) folded before Flop
+
+
+PokerStars Game #102587790132:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:43:45 ET
+Table 'Iclea 40-100 bb' 6-max Seat #6 is the button
+Seat 1: mikimiki88 ($1158.69 in chips) 
+Seat 2: rusdronenv ($875.40 in chips) 
+Seat 3: madsquared ($645.21 in chips) 
+Seat 4: macker2 ($694.25 in chips) 
+Seat 6: Aurum85 ($600 in chips) 
+mikimiki88: posts small blind $3
+rusdronenv: posts big blind $6
+neomorf: sits out 
+*** HOLE CARDS ***
+madsquared: folds 
+macker2: folds 
+Aurum85: raises $9 to $15
+mikimiki88: folds 
+rusdronenv: calls $9
+*** FLOP *** [Ac Ks Kd]
+rusdronenv: checks 
+Aurum85: bets $24
+rusdronenv: calls $24
+*** TURN *** [Ac Ks Kd] [Jc]
+rusdronenv: checks 
+Aurum85: checks 
+*** RIVER *** [Ac Ks Kd Jc] [Jd]
+rusdronenv: bets $72
+Aurum85: folds 
+Uncalled bet ($72) returned to rusdronenv
+rusdronenv collected $78.20 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $81 | Rake $2.80 
+Board [Ac Ks Kd Jc Jd]
+Seat 1: mikimiki88 (small blind) folded before Flop
+Seat 2: rusdronenv (big blind) collected ($78.20)
+Seat 3: madsquared folded before Flop (didn't bet)
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 6: Aurum85 (button) folded on the River
+
+
+PokerStars Game #102587820566:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:44:57 ET
+Table 'Iclea 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($1155.69 in chips) 
+Seat 2: rusdronenv ($914.60 in chips) 
+Seat 3: madsquared ($645.21 in chips) 
+Seat 4: macker2 ($694.25 in chips) 
+Seat 6: Aurum85 ($600 in chips) 
+rusdronenv: posts small blind $3
+madsquared: posts big blind $6
+neomorf: sits out 
+*** HOLE CARDS ***
+macker2: folds 
+Aurum85: raises $9 to $15
+mikimiki88: folds 
+rusdronenv: folds 
+madsquared: folds 
+Uncalled bet ($9) returned to Aurum85
+Aurum85 collected $15 from pot
+Aurum85: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 2: rusdronenv (small blind) folded before Flop
+Seat 3: madsquared (big blind) folded before Flop
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 6: Aurum85 collected ($15)
+
+
+PokerStars Game #102588283653:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:05:07 ET
+Table 'Iclea 40-100 bb' 6-max Seat #5 is the button
+Seat 2: rusdronenv ($1332.60 in chips) 
+Seat 5: neomorf ($867.43 in chips) 
+neomorf: posts small blind $3
+mikimiki88: is sitting out 
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88 leaves the table
+neomorf: raises $6.24 to $12.24
+rusdronenv: calls $6.24
+*** FLOP *** [9c 4h Qc]
+rusdronenv: checks 
+neomorf: checks 
+*** TURN *** [9c 4h Qc] [5h]
+rusdronenv: bets $18
+neomorf: folds 
+Uncalled bet ($18) returned to rusdronenv
+rusdronenv collected $23.98 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $24.48 | Rake $0.50 
+Board [9c 4h Qc 5h]
+Seat 2: rusdronenv (big blind) collected ($23.98)
+Seat 5: neomorf (button) (small blind) folded on the Turn
+
+
+PokerStars Game #102588085025:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:55:55 ET
+Table 'Iclea 40-100 bb' 6-max Seat #6 is the button
+Seat 1: mikimiki88 ($1149.47 in chips) 
+Seat 2: rusdronenv ($935.60 in chips) 
+Seat 3: dRobespierre ($240 in chips) 
+Seat 4: macker2 ($615.83 in chips) 
+Seat 5: neomorf ($682.04 in chips) 
+Seat 6: Aurum85 ($600 in chips) 
+mikimiki88: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+dRobespierre: folds 
+macker2: folds 
+neomorf: folds 
+Aurum85: raises $9 to $15
+mikimiki88: folds 
+rusdronenv: calls $9
+*** FLOP *** [5s 9d Js]
+rusdronenv: checks 
+Aurum85: bets $22.80
+rusdronenv: calls $22.80
+*** TURN *** [5s 9d Js] [Qh]
+rusdronenv: checks 
+Aurum85: bets $53.70
+rusdronenv: calls $53.70
+*** RIVER *** [5s 9d Js Qh] [7h]
+rusdronenv: checks 
+Aurum85: bets $128.10
+rusdronenv: raises $716 to $844.10 and is all-in
+Aurum85: folds 
+Uncalled bet ($716) returned to rusdronenv
+rusdronenv collected $439.40 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $442.20 | Rake $2.80 
+Board [5s 9d Js Qh 7h]
+Seat 1: mikimiki88 (small blind) folded before Flop
+Seat 2: rusdronenv (big blind) collected ($439.40)
+Seat 3: dRobespierre folded before Flop (didn't bet)
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 5: neomorf folded before Flop (didn't bet)
+Seat 6: Aurum85 (button) folded on the River
+
+
+PokerStars Game #102588114959:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:57:31 ET
+Table 'Iclea 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($1146.47 in chips) 
+Seat 2: rusdronenv ($1155.40 in chips) 
+Seat 3: dRobespierre ($240 in chips) 
+Seat 4: macker2 ($615.83 in chips) 
+Seat 5: neomorf ($682.04 in chips) 
+Seat 6: Aurum85 ($600 in chips) 
+rusdronenv: posts small blind $3
+dRobespierre: posts big blind $6
+*** HOLE CARDS ***
+macker2: raises $6 to $12
+neomorf: folds 
+Aurum85: calls $12
+mikimiki88: calls $12
+rusdronenv: raises $60 to $72
+dRobespierre: folds 
+macker2: calls $60
+Aurum85: folds 
+mikimiki88: folds 
+*** FLOP *** [Jd Jh 8h]
+rusdronenv: bets $72
+macker2: calls $72
+*** TURN *** [Jd Jh 8h] [4d]
+rusdronenv: bets $1011.40 and is all-in
+macker2: folds 
+Uncalled bet ($1011.40) returned to rusdronenv
+rusdronenv collected $315.20 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $318 | Rake $2.80 
+Board [Jd Jh 8h 4d]
+Seat 1: mikimiki88 (button) folded before Flop
+Seat 2: rusdronenv (small blind) collected ($315.20)
+Seat 3: dRobespierre (big blind) folded before Flop
+Seat 4: macker2 folded on the Turn
+Seat 5: neomorf folded before Flop (didn't bet)
+Seat 6: Aurum85 folded before Flop
+
+
+PokerStars Game #102588161743:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:00:01 ET
+Table 'Iclea 40-100 bb' 6-max Seat #2 is the button
+Seat 1: mikimiki88 ($1134.47 in chips) 
+Seat 2: rusdronenv ($1326.60 in chips) 
+Seat 3: dRobespierre ($240 in chips) 
+Seat 4: macker2 ($471.83 in chips) 
+Seat 5: neomorf ($682.04 in chips) 
+Seat 6: Aurum85 ($600 in chips) 
+dRobespierre: posts small blind $3
+macker2: posts big blind $6
+*** HOLE CARDS ***
+neomorf: folds 
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: folds 
+dRobespierre: folds 
+Uncalled bet ($3) returned to macker2
+macker2 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv (button) folded before Flop (didn't bet)
+Seat 3: dRobespierre (small blind) folded before Flop
+Seat 4: macker2 (big blind) collected ($6)
+Seat 5: neomorf folded before Flop (didn't bet)
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102588170951:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:00:25 ET
+Table 'Iclea 40-100 bb' 6-max Seat #3 is the button
+Seat 1: mikimiki88 ($1134.47 in chips) 
+Seat 2: rusdronenv ($1326.60 in chips) 
+Seat 3: dRobespierre ($240 in chips) 
+Seat 4: macker2 ($474.83 in chips) 
+Seat 5: neomorf ($682.04 in chips) 
+Seat 6: Aurum85 ($600 in chips) 
+macker2: posts small blind $3
+neomorf: posts big blind $6
+*** HOLE CARDS ***
+Aurum85: folds 
+mikimiki88: folds 
+rusdronenv: folds 
+dRobespierre: folds 
+macker2: raises $6 to $12
+neomorf: raises $33 to $45
+macker2: calls $33
+*** FLOP *** [6h Qs 8c]
+macker2: checks 
+neomorf: bets $42
+macker2: calls $42
+*** TURN *** [6h Qs 8c] [9d]
+macker2: checks 
+neomorf: checks 
+*** RIVER *** [6h Qs 8c 9d] [8d]
+macker2: bets $96
+neomorf: calls $96
+*** SHOW DOWN ***
+macker2: shows [7c Ad] (a pair of Eights)
+neomorf: shows [Th Tc] (two pair, Tens and Eights)
+neomorf collected $363.20 from pot
+*** SUMMARY ***
+Total pot $366 | Rake $2.80 
+Board [6h Qs 8c 9d 8d]
+Seat 1: mikimiki88 folded before Flop (didn't bet)
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: dRobespierre (button) folded before Flop (didn't bet)
+Seat 4: macker2 (small blind) showed [7c Ad] and lost with a pair of Eights
+Seat 5: neomorf (big blind) showed [Th Tc] and won ($363.20) with two pair, Tens and Eights
+Seat 6: Aurum85 folded before Flop (didn't bet)
+
+
+PokerStars Game #102588218804:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:02:30 ET
+Table 'Iclea 40-100 bb' 6-max Seat #4 is the button
+Seat 1: mikimiki88 ($1134.47 in chips) 
+Seat 2: rusdronenv ($1326.60 in chips) 
+Seat 3: dRobespierre ($240 in chips) 
+Seat 4: macker2 ($291.83 in chips) 
+Seat 5: neomorf ($862.24 in chips) 
+neomorf: posts small blind $3
+Aurum85: is sitting out 
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+dRobespierre: folds 
+Aurum85 leaves the table
+macker2: calls $6
+neomorf: calls $3
+mikimiki88: checks 
+*** FLOP *** [Tc Ks 4h]
+neomorf: checks 
+mikimiki88: checks 
+macker2: checks 
+*** TURN *** [Tc Ks 4h] [5c]
+neomorf: checks 
+mikimiki88: checks 
+macker2: checks 
+*** RIVER *** [Tc Ks 4h 5c] [5d]
+neomorf: checks 
+mikimiki88: checks 
+macker2: checks 
+*** SHOW DOWN ***
+neomorf: shows [Ad 9s] (a pair of Fives)
+mikimiki88: mucks hand 
+macker2: mucks hand 
+neomorf collected $17.19 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.81 
+Board [Tc Ks 4h 5c 5d]
+Seat 1: mikimiki88 (big blind) mucked
+Seat 2: rusdronenv folded before Flop (didn't bet)
+Seat 3: dRobespierre folded before Flop (didn't bet)
+Seat 4: macker2 (button) mucked
+Seat 5: neomorf (small blind) showed [Ad 9s] and won ($17.19) with a pair of Fives
+
+
+PokerStars Game #102588245355:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:03:35 ET
+Table 'Iclea 40-100 bb' 6-max Seat #5 is the button
+Seat 1: mikimiki88 ($1128.47 in chips) 
+Seat 2: rusdronenv ($1326.60 in chips) 
+Seat 3: dRobespierre ($240 in chips) 
+Seat 4: macker2 ($285.83 in chips) 
+Seat 5: neomorf ($873.43 in chips) 
+mikimiki88: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+dRobespierre: folds 
+dRobespierre leaves the table
+macker2: folds 
+neomorf: folds 
+mikimiki88: raises $12 to $18
+rusdronenv: raises $36 to $54
+macker2 leaves the table
+mikimiki88: folds 
+Uncalled bet ($36) returned to rusdronenv
+rusdronenv collected $36 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $0 
+Seat 1: mikimiki88 (small blind) folded before Flop
+Seat 2: rusdronenv (big blind) collected ($36)
+Seat 3: dRobespierre folded before Flop (didn't bet)
+Seat 4: macker2 folded before Flop (didn't bet)
+Seat 5: neomorf (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102588254169:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:03:56 ET
+Table 'Iclea 40-100 bb' 6-max Seat #1 is the button
+Seat 1: mikimiki88 ($1110.47 in chips) 
+Seat 2: rusdronenv ($1344.60 in chips) 
+Seat 5: neomorf ($873.43 in chips) 
+rusdronenv: posts small blind $3
+neomorf: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: raises $6 to $12
+rusdronenv: calls $9
+neomorf: folds 
+*** FLOP *** [2d 8d 7s]
+rusdronenv: checks 
+mikimiki88: bets $20.34
+rusdronenv: folds 
+Uncalled bet ($20.34) returned to mikimiki88
+mikimiki88 collected $28.65 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [2d 8d 7s]
+Seat 1: mikimiki88 (button) collected ($28.65)
+Seat 2: rusdronenv (small blind) folded on the Flop
+Seat 5: neomorf (big blind) folded before Flop

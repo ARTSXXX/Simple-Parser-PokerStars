@@ -1,0 +1,770 @@
+
+
+PokerStars Game #102610032978:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:50:13 ET
+Table 'Roma II 40-100 bb' 6-max Seat #2 is the button
+Seat 1: teunuss ($600 in chips) 
+Seat 2: patapong ($600 in chips) 
+Seat 3: LuckyBiitch ($639 in chips) 
+Seat 4: Sir_Fuj1 ($255.98 in chips) 
+Seat 5: KrisBj ($852.16 in chips) 
+Seat 6: WhatA298 ($609 in chips) 
+LuckyBiitch: posts small blind $3
+Sir_Fuj1: posts big blind $6
+*** HOLE CARDS ***
+KrisBj: folds 
+WhatA298: folds 
+teunuss: raises $9 to $15
+patapong: folds 
+LuckyBiitch: folds 
+Sir_Fuj1: raises $27 to $42
+teunuss: folds 
+Uncalled bet ($27) returned to Sir_Fuj1
+Sir_Fuj1 collected $33 from pot
+Sir_Fuj1: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $0 
+Seat 1: teunuss folded before Flop
+Seat 2: patapong (button) folded before Flop (didn't bet)
+Seat 3: LuckyBiitch (small blind) folded before Flop
+Seat 4: Sir_Fuj1 (big blind) collected ($33)
+Seat 5: KrisBj folded before Flop (didn't bet)
+Seat 6: WhatA298 folded before Flop (didn't bet)
+
+
+PokerStars Game #102610051237:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:50:39 ET
+Table 'Roma II 40-100 bb' 6-max Seat #3 is the button
+Seat 1: teunuss ($600 in chips) 
+Seat 2: patapong ($600 in chips) 
+Seat 3: LuckyBiitch ($636 in chips) 
+Seat 4: Sir_Fuj1 ($273.98 in chips) 
+Seat 5: KrisBj ($852.16 in chips) 
+Seat 6: WhatA298 ($609 in chips) 
+Sir_Fuj1: posts small blind $3
+KrisBj: posts big blind $6
+*** HOLE CARDS ***
+WhatA298: folds 
+teunuss: raises $9 to $15
+patapong: calls $15
+LuckyBiitch: calls $15
+Sir_Fuj1: folds 
+KrisBj: calls $9
+*** FLOP *** [6c Th Ah]
+KrisBj: checks 
+teunuss: bets $42
+patapong: folds 
+LuckyBiitch: folds 
+KrisBj: folds 
+Uncalled bet ($42) returned to teunuss
+teunuss collected $60.20 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $63 | Rake $2.80 
+Board [6c Th Ah]
+Seat 1: teunuss collected ($60.20)
+Seat 2: patapong folded on the Flop
+Seat 3: LuckyBiitch (button) folded on the Flop
+Seat 4: Sir_Fuj1 (small blind) folded before Flop
+Seat 5: KrisBj (big blind) folded on the Flop
+Seat 6: WhatA298 folded before Flop (didn't bet)
+
+
+PokerStars Game #102610087000:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:51:29 ET
+Table 'Roma II 40-100 bb' 6-max Seat #4 is the button
+Seat 1: teunuss ($645.20 in chips) 
+Seat 2: patapong ($600 in chips) 
+Seat 3: LuckyBiitch ($621 in chips) 
+Seat 4: Sir_Fuj1 ($270.98 in chips) 
+Seat 5: KrisBj ($837.16 in chips) 
+Seat 6: WhatA298 ($609 in chips) 
+KrisBj: posts small blind $3
+WhatA298: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+patapong: folds 
+LuckyBiitch: folds 
+Sir_Fuj1: folds 
+KrisBj: raises $6 to $12
+WhatA298: folds 
+Uncalled bet ($6) returned to KrisBj
+KrisBj collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: teunuss folded before Flop (didn't bet)
+Seat 2: patapong folded before Flop (didn't bet)
+Seat 3: LuckyBiitch folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 (button) folded before Flop (didn't bet)
+Seat 5: KrisBj (small blind) collected ($12)
+Seat 6: WhatA298 (big blind) folded before Flop
+
+
+PokerStars Game #102610108861:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:52:00 ET
+Table 'Roma II 40-100 bb' 6-max Seat #5 is the button
+Seat 1: teunuss ($645.20 in chips) 
+Seat 2: patapong ($600 in chips) 
+Seat 3: LuckyBiitch ($621 in chips) 
+Seat 4: Sir_Fuj1 ($270.98 in chips) 
+Seat 5: KrisBj ($843.16 in chips) 
+Seat 6: WhatA298 ($603 in chips) 
+WhatA298: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+patapong: folds 
+LuckyBiitch: folds 
+Sir_Fuj1: folds 
+KrisBj: raises $12 to $18
+WhatA298: calls $15
+teunuss: folds 
+*** FLOP *** [4s Qc 5d]
+WhatA298: bets $24.06
+KrisBj: calls $24.06
+*** TURN *** [4s Qc 5d] [8h]
+WhatA298: checks 
+KrisBj: checks 
+*** RIVER *** [4s Qc 5d 8h] [4d]
+WhatA298: checks 
+KrisBj: checks 
+*** SHOW DOWN ***
+WhatA298: shows [6d 6h] (two pair, Sixes and Fours)
+KrisBj: mucks hand 
+WhatA298 collected $87.32 from pot
+*** SUMMARY ***
+Total pot $90.12 | Rake $2.80 
+Board [4s Qc 5d 8h 4d]
+Seat 1: teunuss (big blind) folded before Flop
+Seat 2: patapong folded before Flop (didn't bet)
+Seat 3: LuckyBiitch folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 5: KrisBj (button) mucked
+Seat 6: WhatA298 (small blind) showed [6d 6h] and won ($87.32) with two pair, Sixes and Fours
+
+
+PokerStars Game #102610173801:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:53:33 ET
+Table 'Roma II 40-100 bb' 6-max Seat #6 is the button
+Seat 1: teunuss ($639.20 in chips) 
+Seat 2: patapong ($600 in chips) 
+Seat 3: LuckyBiitch ($621 in chips) 
+Seat 4: Sir_Fuj1 ($270.98 in chips) 
+Seat 5: KrisBj ($801.10 in chips) 
+Seat 6: WhatA298 ($648.26 in chips) 
+teunuss: posts small blind $3
+patapong: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+Sir_Fuj1: raises $12 to $18
+KrisBj: folds 
+WhatA298: folds 
+teunuss: folds 
+patapong: folds 
+Uncalled bet ($12) returned to Sir_Fuj1
+Sir_Fuj1 collected $15 from pot
+Sir_Fuj1: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: teunuss (small blind) folded before Flop
+Seat 2: patapong (big blind) folded before Flop
+Seat 3: LuckyBiitch folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 collected ($15)
+Seat 5: KrisBj folded before Flop (didn't bet)
+Seat 6: WhatA298 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102610192433:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:53:59 ET
+Table 'Roma II 40-100 bb' 6-max Seat #1 is the button
+Seat 1: teunuss ($636.20 in chips) 
+Seat 2: patapong ($600 in chips) 
+Seat 3: LuckyBiitch ($621 in chips) 
+Seat 4: Sir_Fuj1 ($279.98 in chips) 
+Seat 5: KrisBj ($801.10 in chips) 
+Seat 6: WhatA298 ($648.26 in chips) 
+patapong: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+Sir_Fuj1: folds 
+KrisBj: raises $6 to $12
+WhatA298: folds 
+teunuss: folds 
+patapong: folds 
+LuckyBiitch: folds 
+Uncalled bet ($6) returned to KrisBj
+KrisBj collected $15 from pot
+KrisBj: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: teunuss (button) folded before Flop (didn't bet)
+Seat 2: patapong (small blind) folded before Flop
+Seat 3: LuckyBiitch (big blind) folded before Flop
+Seat 4: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 5: KrisBj collected ($15)
+Seat 6: WhatA298 folded before Flop (didn't bet)
+
+
+PokerStars Game #102610205287:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:54:18 ET
+Table 'Roma II 40-100 bb' 6-max Seat #2 is the button
+Seat 1: teunuss ($636.20 in chips) 
+Seat 2: patapong ($600 in chips) 
+Seat 3: LuckyBiitch ($615 in chips) 
+Seat 4: Sir_Fuj1 ($279.98 in chips) 
+Seat 5: KrisBj ($810.10 in chips) 
+Seat 6: WhatA298 ($648.26 in chips) 
+LuckyBiitch: posts small blind $3
+Sir_Fuj1: posts big blind $6
+*** HOLE CARDS ***
+KrisBj: folds 
+WhatA298: folds 
+KrisBj leaves the table
+teunuss: raises $9 to $15
+floriiiiider joins the table at seat #5 
+floriiiiider leaves the table
+patapong: folds 
+LuckyBiitch: raises $35 to $50
+Sir_Fuj1: folds 
+teunuss: folds 
+Uncalled bet ($35) returned to LuckyBiitch
+LuckyBiitch collected $36 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $0 
+Seat 1: teunuss folded before Flop
+Seat 2: patapong (button) folded before Flop (didn't bet)
+Seat 3: LuckyBiitch (small blind) collected ($36)
+Seat 4: Sir_Fuj1 (big blind) folded before Flop
+Seat 5: KrisBj folded before Flop (didn't bet)
+Seat 6: WhatA298 folded before Flop (didn't bet)
+
+
+PokerStars Game #102610220893:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:54:40 ET
+Table 'Roma II 40-100 bb' 6-max Seat #3 is the button
+Seat 1: teunuss ($621.20 in chips) 
+Seat 2: patapong ($600 in chips) 
+Seat 3: LuckyBiitch ($636 in chips) 
+Seat 4: Sir_Fuj1 ($273.98 in chips) 
+Sir_Fuj1: posts small blind $3
+WhatA298: is sitting out 
+WhatA298 leaves the table
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+patapong: raises $9 to $15
+LuckyBiitch: folds 
+Nahar joins the table at seat #5 
+Nahar leaves the table
+Sir_Fuj1: folds 
+teunuss: calls $9
+*** FLOP *** [4s 5h 8d]
+teunuss: checks 
+patapong: bets $22.06
+teunuss: folds 
+Uncalled bet ($22.06) returned to patapong
+patapong collected $31.52 from pot
+*** SUMMARY ***
+Total pot $33 | Rake $1.48 
+Board [4s 5h 8d]
+Seat 1: teunuss (big blind) folded on the Flop
+Seat 2: patapong collected ($31.52)
+Seat 3: LuckyBiitch (button) folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 (small blind) folded before Flop
+
+
+PokerStars Game #102609837513:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:45:36 ET
+Table 'Roma II 40-100 bb' 6-max Seat #1 is the button
+Seat 1: teunuss ($666.20 in chips) 
+Seat 2: patapong ($600 in chips) 
+Seat 3: LuckyBiitch ($624 in chips) 
+Seat 5: KrisBj ($810.16 in chips) 
+Seat 6: WhatA298 ($600 in chips) 
+patapong: posts small blind $3
+LuckyBiitch: posts big blind $6
+Sir_Fuj1: sits out 
+*** HOLE CARDS ***
+KrisBj: raises $12 to $18
+WhatA298: folds 
+teunuss: raises $33 to $51
+patapong: folds 
+LuckyBiitch: folds 
+KrisBj: raises $67 to $118
+teunuss: folds 
+Uncalled bet ($67) returned to KrisBj
+KrisBj collected $111 from pot
+*** SUMMARY ***
+Total pot $111 | Rake $0 
+Seat 1: teunuss (button) folded before Flop
+Seat 2: patapong (small blind) folded before Flop
+Seat 3: LuckyBiitch (big blind) folded before Flop
+Seat 5: KrisBj collected ($111)
+Seat 6: WhatA298 folded before Flop (didn't bet)
+
+
+PokerStars Game #102609876918:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:46:31 ET
+Table 'Roma II 40-100 bb' 6-max Seat #2 is the button
+Seat 1: teunuss ($615.20 in chips) 
+Seat 2: patapong ($600 in chips) 
+Seat 3: LuckyBiitch ($618 in chips) 
+Seat 4: Sir_Fuj1 ($240 in chips) 
+Seat 5: KrisBj ($870.16 in chips) 
+Seat 6: WhatA298 ($600 in chips) 
+LuckyBiitch: posts small blind $3
+Sir_Fuj1: posts big blind $6
+*** HOLE CARDS ***
+KrisBj: folds 
+WhatA298: raises $9.36 to $15.36
+teunuss: folds 
+patapong: folds 
+LuckyBiitch: folds 
+Sir_Fuj1: folds 
+Uncalled bet ($9.36) returned to WhatA298
+WhatA298 collected $15 from pot
+WhatA298: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: teunuss folded before Flop (didn't bet)
+Seat 2: patapong (button) folded before Flop (didn't bet)
+Seat 3: LuckyBiitch (small blind) folded before Flop
+Seat 4: Sir_Fuj1 (big blind) folded before Flop
+Seat 5: KrisBj folded before Flop (didn't bet)
+Seat 6: WhatA298 collected ($15)
+
+
+PokerStars Game #102609896888:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:46:59 ET
+Table 'Roma II 40-100 bb' 6-max Seat #3 is the button
+Seat 1: teunuss ($615.20 in chips) 
+Seat 2: patapong ($600 in chips) 
+Seat 3: LuckyBiitch ($615 in chips) 
+Seat 4: Sir_Fuj1 ($234 in chips) 
+Seat 5: KrisBj ($870.16 in chips) 
+Seat 6: WhatA298 ($609 in chips) 
+Sir_Fuj1: posts small blind $3
+KrisBj: posts big blind $6
+*** HOLE CARDS ***
+WhatA298: raises $9.36 to $15.36
+teunuss: folds 
+patapong: folds 
+LuckyBiitch: folds 
+Sir_Fuj1: folds 
+KrisBj: folds 
+Uncalled bet ($9.36) returned to WhatA298
+WhatA298 collected $15 from pot
+WhatA298: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: teunuss folded before Flop (didn't bet)
+Seat 2: patapong folded before Flop (didn't bet)
+Seat 3: LuckyBiitch (button) folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 (small blind) folded before Flop
+Seat 5: KrisBj (big blind) folded before Flop
+Seat 6: WhatA298 collected ($15)
+
+
+PokerStars Game #102609915877:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:47:26 ET
+Table 'Roma II 40-100 bb' 6-max Seat #4 is the button
+Seat 1: teunuss ($615.20 in chips) 
+Seat 2: patapong ($600 in chips) 
+Seat 3: LuckyBiitch ($615 in chips) 
+Seat 4: Sir_Fuj1 ($231 in chips) 
+Seat 5: KrisBj ($864.16 in chips) 
+Seat 6: WhatA298 ($618 in chips) 
+KrisBj: posts small blind $3
+WhatA298: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+patapong: folds 
+LuckyBiitch: raises $12 to $18
+Sir_Fuj1: folds 
+KrisBj: folds 
+WhatA298: folds 
+Uncalled bet ($12) returned to LuckyBiitch
+LuckyBiitch collected $15 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: teunuss folded before Flop (didn't bet)
+Seat 2: patapong folded before Flop (didn't bet)
+Seat 3: LuckyBiitch collected ($15)
+Seat 4: Sir_Fuj1 (button) folded before Flop (didn't bet)
+Seat 5: KrisBj (small blind) folded before Flop
+Seat 6: WhatA298 (big blind) folded before Flop
+
+
+PokerStars Game #102609933508:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:47:51 ET
+Table 'Roma II 40-100 bb' 6-max Seat #5 is the button
+Seat 1: teunuss ($615.20 in chips) 
+Seat 2: patapong ($600 in chips) 
+Seat 3: LuckyBiitch ($624 in chips) 
+Seat 4: Sir_Fuj1 ($231 in chips) 
+Seat 5: KrisBj ($861.16 in chips) 
+Seat 6: WhatA298 ($612 in chips) 
+WhatA298: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+patapong: folds 
+LuckyBiitch: folds 
+Sir_Fuj1: folds 
+KrisBj: raises $6 to $12
+WhatA298: folds 
+teunuss: folds 
+Uncalled bet ($6) returned to KrisBj
+KrisBj collected $15 from pot
+KrisBj: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: teunuss (big blind) folded before Flop
+Seat 2: patapong folded before Flop (didn't bet)
+Seat 3: LuckyBiitch folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 5: KrisBj (button) collected ($15)
+Seat 6: WhatA298 (small blind) folded before Flop
+
+
+PokerStars Game #102609962290:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:48:32 ET
+Table 'Roma II 40-100 bb' 6-max Seat #6 is the button
+Seat 1: teunuss ($609.20 in chips) 
+Seat 2: patapong ($600 in chips) 
+Seat 3: LuckyBiitch ($624 in chips) 
+Seat 4: Sir_Fuj1 ($231 in chips) 
+Seat 5: KrisBj ($870.16 in chips) 
+Seat 6: WhatA298 ($609 in chips) 
+teunuss: posts small blind $3
+patapong: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+Sir_Fuj1: raises $12 to $18
+KrisBj: calls $18
+WhatA298: folds 
+teunuss: folds 
+patapong: folds 
+*** FLOP *** [9h 6c 9d]
+Sir_Fuj1: checks 
+KrisBj: checks 
+*** TURN *** [9h 6c 9d] [Jd]
+Sir_Fuj1: bets $33
+KrisBj: folds 
+Uncalled bet ($33) returned to Sir_Fuj1
+Sir_Fuj1 collected $42.98 from pot
+Sir_Fuj1: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $2.02 
+Board [9h 6c 9d Jd]
+Seat 1: teunuss (small blind) folded before Flop
+Seat 2: patapong (big blind) folded before Flop
+Seat 3: LuckyBiitch folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 collected ($42.98)
+Seat 5: KrisBj folded on the Turn
+Seat 6: WhatA298 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102610000546:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:49:26 ET
+Table 'Roma II 40-100 bb' 6-max Seat #1 is the button
+Seat 1: teunuss ($606.20 in chips) 
+Seat 2: patapong ($600 in chips) 
+Seat 3: LuckyBiitch ($624 in chips) 
+Seat 4: Sir_Fuj1 ($255.98 in chips) 
+Seat 5: KrisBj ($852.16 in chips) 
+Seat 6: WhatA298 ($609 in chips) 
+patapong: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+Sir_Fuj1: folds 
+KrisBj: folds 
+WhatA298: folds 
+teunuss: raises $6 to $12
+patapong: folds 
+LuckyBiitch: raises $33 to $45
+teunuss: folds 
+Uncalled bet ($33) returned to LuckyBiitch
+LuckyBiitch collected $27 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 1: teunuss (button) folded before Flop
+Seat 2: patapong (small blind) folded before Flop
+Seat 3: LuckyBiitch (big blind) collected ($27)
+Seat 4: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 5: KrisBj folded before Flop (didn't bet)
+Seat 6: WhatA298 folded before Flop (didn't bet)
+
+
+PokerStars Game #102609623375:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:40:34 ET
+Table 'Roma II 40-100 bb' 6-max Seat #6 is the button
+Seat 1: teunuss ($600 in chips) 
+Seat 2: patapong ($600 in chips) 
+Seat 3: LuckyBiitch ($613.78 in chips) 
+Seat 4: neomorf ($609 in chips) 
+Seat 5: KrisBj ($633 in chips) 
+Seat 6: WhatA298 ($600 in chips) 
+teunuss: posts small blind $3
+patapong: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+neomorf: folds 
+KrisBj: folds 
+WhatA298: raises $6.72 to $12.72
+teunuss: folds 
+patapong: folds 
+Uncalled bet ($6.72) returned to WhatA298
+WhatA298 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: teunuss (small blind) folded before Flop
+Seat 2: patapong (big blind) folded before Flop
+Seat 3: LuckyBiitch folded before Flop (didn't bet)
+Seat 4: neomorf folded before Flop (didn't bet)
+Seat 5: KrisBj folded before Flop (didn't bet)
+Seat 6: WhatA298 (button) collected ($15)
+
+
+PokerStars Game #102609645807:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:41:05 ET
+Table 'Roma II 40-100 bb' 6-max Seat #1 is the button
+Seat 1: teunuss ($600 in chips) 
+Seat 2: patapong ($600 in chips) 
+Seat 3: LuckyBiitch ($613.78 in chips) 
+Seat 4: neomorf ($609 in chips) 
+Seat 5: KrisBj ($633 in chips) 
+Seat 6: WhatA298 ($609 in chips) 
+patapong: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+neomorf: folds 
+KrisBj: folds 
+WhatA298: folds 
+teunuss: raises $6 to $12
+patapong: folds 
+LuckyBiitch: calls $6
+*** FLOP *** [Qs 7d 6d]
+LuckyBiitch: checks 
+teunuss: bets $18
+LuckyBiitch: calls $18
+*** TURN *** [Qs 7d 6d] [8d]
+LuckyBiitch: checks 
+teunuss: bets $45
+LuckyBiitch: calls $45
+*** RIVER *** [Qs 7d 6d 8d] [Td]
+LuckyBiitch: checks 
+teunuss: checks 
+*** SHOW DOWN ***
+LuckyBiitch: shows [8c Qc] (two pair, Queens and Eights)
+teunuss: shows [Qd Kc] (a flush, Queen high)
+teunuss collected $150.20 from pot
+*** SUMMARY ***
+Total pot $153 | Rake $2.80 
+Board [Qs 7d 6d 8d Td]
+Seat 1: teunuss (button) showed [Qd Kc] and won ($150.20) with a flush, Queen high
+Seat 2: patapong (small blind) folded before Flop
+Seat 3: LuckyBiitch (big blind) showed [8c Qc] and lost with two pair, Queens and Eights
+Seat 4: neomorf folded before Flop (didn't bet)
+Seat 5: KrisBj folded before Flop (didn't bet)
+Seat 6: WhatA298 folded before Flop (didn't bet)
+
+
+PokerStars Game #102609679784:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:41:53 ET
+Table 'Roma II 40-100 bb' 6-max Seat #2 is the button
+Seat 1: teunuss ($675.20 in chips) 
+Seat 2: patapong ($600 in chips) 
+Seat 3: LuckyBiitch ($600 in chips) 
+Seat 5: KrisBj ($633 in chips) 
+Seat 6: WhatA298 ($609 in chips) 
+LuckyBiitch: posts small blind $3
+neomorf: is sitting out 
+KrisBj: posts big blind $6
+*** HOLE CARDS ***
+WhatA298: raises $9.36 to $15.36
+teunuss: folds 
+patapong: folds 
+LuckyBiitch: folds 
+KrisBj: calls $9.36
+*** FLOP *** [2d Jh 2s]
+KrisBj: checks 
+WhatA298: bets $19.32
+KrisBj: folds 
+Uncalled bet ($19.32) returned to WhatA298
+WhatA298 collected $32.20 from pot
+WhatA298: doesn't show hand 
+*** SUMMARY ***
+Total pot $33.72 | Rake $1.52 
+Board [2d Jh 2s]
+Seat 1: teunuss folded before Flop (didn't bet)
+Seat 2: patapong (button) folded before Flop (didn't bet)
+Seat 3: LuckyBiitch (small blind) folded before Flop
+Seat 5: KrisBj (big blind) folded on the Flop
+Seat 6: WhatA298 collected ($32.20)
+
+
+PokerStars Game #102609701354:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:42:24 ET
+Table 'Roma II 40-100 bb' 6-max Seat #3 is the button
+Seat 1: teunuss ($675.20 in chips) 
+Seat 2: patapong ($600 in chips) 
+Seat 3: LuckyBiitch ($600 in chips) 
+Seat 5: KrisBj ($617.64 in chips) 
+Seat 6: WhatA298 ($625.84 in chips) 
+KrisBj: posts small blind $3
+WhatA298: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+patapong: raises $9 to $15
+LuckyBiitch: raises $29 to $44
+KrisBj: folds 
+WhatA298: folds 
+neomorf leaves the table
+patapong: folds 
+Uncalled bet ($29) returned to LuckyBiitch
+LuckyBiitch collected $39 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $0 
+Seat 1: teunuss folded before Flop (didn't bet)
+Seat 2: patapong folded before Flop
+Seat 3: LuckyBiitch (button) collected ($39)
+Seat 5: KrisBj (small blind) folded before Flop
+Seat 6: WhatA298 (big blind) folded before Flop
+
+
+PokerStars Game #102609724312:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:42:57 ET
+Table 'Roma II 40-100 bb' 6-max Seat #5 is the button
+Seat 1: teunuss ($675.20 in chips) 
+Seat 2: patapong ($600 in chips) 
+Seat 3: LuckyBiitch ($624 in chips) 
+Seat 5: KrisBj ($614.64 in chips) 
+Seat 6: WhatA298 ($619.84 in chips) 
+WhatA298: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+patapong: folds 
+LuckyBiitch: folds 
+KrisBj: folds 
+onez69 joins the table at seat #4 
+WhatA298: raises $9.36 to $15.36
+onez69 leaves the table
+teunuss: folds 
+Uncalled bet ($9.36) returned to WhatA298
+Sir_Fuj1 joins the table at seat #4 
+WhatA298 collected $12 from pot
+WhatA298: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: teunuss (big blind) folded before Flop
+Seat 2: patapong folded before Flop (didn't bet)
+Seat 3: LuckyBiitch folded before Flop (didn't bet)
+Seat 5: KrisBj (button) folded before Flop (didn't bet)
+Seat 6: WhatA298 (small blind) collected ($12)
+
+
+PokerStars Game #102609744038:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:43:25 ET
+Table 'Roma II 40-100 bb' 6-max Seat #6 is the button
+Seat 1: teunuss ($669.20 in chips) 
+Seat 2: patapong ($600 in chips) 
+Seat 3: LuckyBiitch ($624 in chips) 
+Seat 5: KrisBj ($614.64 in chips) 
+Seat 6: WhatA298 ($625.84 in chips) 
+teunuss: posts small blind $3
+patapong: posts big blind $6
+Sir_Fuj1: sits out 
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+KrisBj: raises $6 to $12
+WhatA298: calls $12
+teunuss: folds 
+patapong: calls $6
+*** FLOP *** [Ac 2c 3c]
+patapong: checks 
+KrisBj: bets $24
+WhatA298: raises $44 to $68
+patapong: folds 
+KrisBj: calls $44
+*** TURN *** [Ac 2c 3c] [5h]
+KrisBj: checks 
+WhatA298: bets $103.32
+KrisBj: raises $103.32 to $206.64
+WhatA298: folds 
+Uncalled bet ($103.32) returned to KrisBj
+KrisBj collected $378.84 from pot
+*** SUMMARY ***
+Total pot $381.64 | Rake $2.80 
+Board [Ac 2c 3c 5h]
+Seat 1: teunuss (small blind) folded before Flop
+Seat 2: patapong (big blind) folded on the Flop
+Seat 3: LuckyBiitch folded before Flop (didn't bet)
+Seat 5: KrisBj collected ($378.84)
+Seat 6: WhatA298 (button) folded on the Turn
+
+
+PokerStars Game #102609554324:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:38:57 ET
+Table 'Roma II 40-100 bb' 6-max Seat #3 is the button
+Seat 1: teunuss ($600 in chips) 
+Seat 3: LuckyBiitch ($600 in chips) 
+Seat 4: neomorf ($600 in chips) 
+Seat 5: KrisBj ($600 in chips) 
+neomorf: posts small blind $3
+KrisBj: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+LuckyBiitch: raises $6 to $12
+neomorf: folds 
+KrisBj: calls $6
+*** FLOP *** [Ks Kd Tc]
+KrisBj: checks 
+LuckyBiitch: bets $18
+KrisBj: folds 
+Uncalled bet ($18) returned to LuckyBiitch
+LuckyBiitch collected $25.78 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Ks Kd Tc]
+Seat 1: teunuss folded before Flop (didn't bet)
+Seat 3: LuckyBiitch (button) collected ($25.78)
+Seat 4: neomorf (small blind) folded before Flop
+Seat 5: KrisBj (big blind) folded on the Flop
+
+
+PokerStars Game #102609578252:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:39:30 ET
+Table 'Roma II 40-100 bb' 6-max Seat #4 is the button
+Seat 1: teunuss ($600 in chips) 
+Seat 3: LuckyBiitch ($613.78 in chips) 
+Seat 4: neomorf ($600 in chips) 
+Seat 5: KrisBj ($588 in chips) 
+Seat 6: WhatA298 ($600 in chips) 
+KrisBj: posts small blind $3
+WhatA298: posts big blind $6
+patapong: sits out 
+*** HOLE CARDS ***
+teunuss: folds 
+LuckyBiitch: folds 
+neomorf: raises $6 to $12
+KrisBj: folds 
+WhatA298: folds 
+Uncalled bet ($6) returned to neomorf
+neomorf collected $15 from pot
+neomorf: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: teunuss folded before Flop (didn't bet)
+Seat 3: LuckyBiitch folded before Flop (didn't bet)
+Seat 4: neomorf (button) collected ($15)
+Seat 5: KrisBj (small blind) folded before Flop
+Seat 6: WhatA298 (big blind) folded before Flop
+
+
+PokerStars Game #102609594314:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:39:53 ET
+Table 'Roma II 40-100 bb' 6-max Seat #5 is the button
+Seat 1: teunuss ($600 in chips) 
+Seat 3: LuckyBiitch ($613.78 in chips) 
+Seat 4: neomorf ($609 in chips) 
+Seat 5: KrisBj ($585 in chips) 
+Seat 6: WhatA298 ($600 in chips) 
+WhatA298: posts small blind $3
+teunuss: posts big blind $6
+patapong: sits out 
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+neomorf: folds 
+KrisBj: raises $6 to $12
+WhatA298: folds 
+teunuss: raises $33 to $45
+KrisBj: raises $60 to $105
+teunuss: folds 
+Uncalled bet ($60) returned to KrisBj
+KrisBj collected $93 from pot
+*** SUMMARY ***
+Total pot $93 | Rake $0 
+Seat 1: teunuss (big blind) folded before Flop
+Seat 3: LuckyBiitch folded before Flop (didn't bet)
+Seat 4: neomorf folded before Flop (didn't bet)
+Seat 5: KrisBj (button) collected ($93)
+Seat 6: WhatA298 (small blind) folded before Flop

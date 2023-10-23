@@ -1,0 +1,487 @@
+
+
+PokerStars Game #102586730766:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:05:42 ET
+Table 'Sceptrum VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: tobe4funas ($1219.70 in chips) 
+Seat 5: king10clubs ($655.14 in chips) 
+king10clubs: posts small blind $3
+tobe4funas: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+tobe4funas: raises $33 to $45
+king10clubs: folds 
+Uncalled bet ($33) returned to tobe4funas
+tobe4funas collected $24 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: tobe4funas (big blind) collected ($24)
+Seat 5: king10clubs (button) (small blind) folded before Flop
+
+
+PokerStars Game #102586741127:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:06:01 ET
+Table 'Sceptrum VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: tobe4funas ($1231.70 in chips) 
+Seat 5: king10clubs ($643.14 in chips) 
+tobe4funas: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+tobe4funas: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [Ad 3d Qd]
+king10clubs: checks 
+tobe4funas: checks 
+*** TURN *** [Ad 3d Qd] [As]
+king10clubs: checks 
+tobe4funas: checks 
+*** RIVER *** [Ad 3d Qd As] [Ts]
+king10clubs: checks 
+tobe4funas: checks 
+*** SHOW DOWN ***
+king10clubs: shows [8d 7c] (a pair of Aces)
+tobe4funas: shows [3c Jc] (two pair, Aces and Threes)
+tobe4funas collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Ad 3d Qd As Ts]
+Seat 2: tobe4funas (button) (small blind) showed [3c Jc] and won ($23.50) with two pair, Aces and Threes
+Seat 5: king10clubs (big blind) showed [8d 7c] and lost with a pair of Aces
+
+
+PokerStars Game #102586764512:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:06:46 ET
+Table 'Sceptrum VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: tobe4funas ($1243.20 in chips) 
+Seat 5: king10clubs ($631.14 in chips) 
+king10clubs: posts small blind $3
+tobe4funas: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+tobe4funas: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: tobe4funas (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102586768217:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:06:53 ET
+Table 'Sceptrum VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: tobe4funas ($1237.20 in chips) 
+Seat 5: king10clubs ($637.14 in chips) 
+tobe4funas: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+tobe4funas: raises $6 to $12
+king10clubs: raises $33 to $45
+tobe4funas: calls $33
+*** FLOP *** [Kd Tc Qs]
+king10clubs: bets $56
+tobe4funas: calls $56
+*** TURN *** [Kd Tc Qs] [7c]
+king10clubs: bets $140
+tobe4funas: calls $140
+*** RIVER *** [Kd Tc Qs 7c] [7d]
+king10clubs: bets $396.14 and is all-in
+tobe4funas: folds 
+Uncalled bet ($396.14) returned to king10clubs
+king10clubs collected $481.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $482 | Rake $0.50 
+Board [Kd Tc Qs 7c 7d]
+Seat 2: tobe4funas (button) (small blind) folded on the River
+Seat 5: king10clubs (big blind) collected ($481.50)
+
+
+PokerStars Game #102586798445:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:07:52 ET
+Table 'Sceptrum VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: tobe4funas ($996.20 in chips) 
+Seat 5: king10clubs ($877.64 in chips) 
+king10clubs: posts small blind $3
+tobe4funas: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+tobe4funas: calls $6
+*** FLOP *** [7c 8h 2s]
+tobe4funas: checks 
+king10clubs: bets $16
+tobe4funas: calls $16
+*** TURN *** [7c 8h 2s] [8s]
+tobe4funas: checks 
+king10clubs: bets $40
+tobe4funas: folds 
+Uncalled bet ($40) returned to king10clubs
+king10clubs collected $55.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $56 | Rake $0.50 
+Board [7c 8h 2s 8s]
+Seat 2: tobe4funas (big blind) folded on the Turn
+Seat 5: king10clubs (button) (small blind) collected ($55.50)
+
+
+PokerStars Game #102586816407:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:08:27 ET
+Table 'Sceptrum VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: tobe4funas ($968.20 in chips) 
+Seat 5: king10clubs ($905.14 in chips) 
+tobe4funas: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+tobe4funas: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to tobe4funas
+tobe4funas collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: tobe4funas (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102586824653:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:08:43 ET
+Table 'Sceptrum VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: tobe4funas ($974.20 in chips) 
+Seat 5: king10clubs ($899.14 in chips) 
+king10clubs: posts small blind $3
+tobe4funas: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+tobe4funas: calls $6
+*** FLOP *** [3s Ts 4h]
+tobe4funas: checks 
+king10clubs: bets $15
+tobe4funas: folds 
+Uncalled bet ($15) returned to king10clubs
+king10clubs collected $23.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [3s Ts 4h]
+Seat 2: tobe4funas (big blind) folded on the Flop
+Seat 5: king10clubs (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102586842880:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:09:18 ET
+Table 'Sceptrum VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: tobe4funas ($962.20 in chips) 
+Seat 5: king10clubs ($910.64 in chips) 
+tobe4funas: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+tobe4funas: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [6s Qc 5h]
+king10clubs: checks 
+tobe4funas: checks 
+*** TURN *** [6s Qc 5h] [5c]
+king10clubs: checks 
+tobe4funas: bets $16.45
+king10clubs: folds 
+Uncalled bet ($16.45) returned to tobe4funas
+tobe4funas collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [6s Qc 5h 5c]
+Seat 2: tobe4funas (button) (small blind) collected ($23.50)
+Seat 5: king10clubs (big blind) folded on the Turn
+
+
+PokerStars Game #102586566999:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:00:24 ET
+Table 'Sceptrum VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: tobe4funas ($1146.52 in chips) 
+Seat 5: king10clubs ($731.82 in chips) 
+king10clubs: posts small blind $3
+tobe4funas: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+tobe4funas: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: tobe4funas (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102586570243:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:00:32 ET
+Table 'Sceptrum VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: tobe4funas ($1140.52 in chips) 
+Seat 5: king10clubs ($737.82 in chips) 
+tobe4funas: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+tobe4funas: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to tobe4funas
+tobe4funas collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: tobe4funas (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102586575324:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:00:43 ET
+Table 'Sceptrum VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: tobe4funas ($1146.52 in chips) 
+Seat 5: king10clubs ($731.82 in chips) 
+king10clubs: posts small blind $3
+tobe4funas: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+tobe4funas: calls $6
+*** FLOP *** [9c 7d Qs]
+tobe4funas: checks 
+king10clubs: checks 
+*** TURN *** [9c 7d Qs] [2d]
+tobe4funas: checks 
+king10clubs: checks 
+*** RIVER *** [9c 7d Qs 2d] [4d]
+tobe4funas: checks 
+king10clubs: checks 
+*** SHOW DOWN ***
+tobe4funas: shows [5c 5h] (a pair of Fives)
+king10clubs: mucks hand 
+tobe4funas collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [9c 7d Qs 2d 4d]
+Seat 2: tobe4funas (big blind) showed [5c 5h] and won ($23.50) with a pair of Fives
+Seat 5: king10clubs (button) (small blind) mucked
+
+
+PokerStars Game #102586591281:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:01:15 ET
+Table 'Sceptrum VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: tobe4funas ($1158.02 in chips) 
+Seat 5: king10clubs ($719.82 in chips) 
+tobe4funas: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+tobe4funas: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to tobe4funas
+tobe4funas collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: tobe4funas (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102586597962:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:01:28 ET
+Table 'Sceptrum VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: tobe4funas ($1164.02 in chips) 
+Seat 5: king10clubs ($713.82 in chips) 
+king10clubs: posts small blind $3
+tobe4funas: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+tobe4funas: calls $6
+*** FLOP *** [5h Qh 5s]
+tobe4funas: checks 
+king10clubs: bets $15
+tobe4funas: folds 
+Uncalled bet ($15) returned to king10clubs
+king10clubs collected $23.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [5h Qh 5s]
+Seat 2: tobe4funas (big blind) folded on the Flop
+Seat 5: king10clubs (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102586610529:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:01:53 ET
+Table 'Sceptrum VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: tobe4funas ($1152.02 in chips) 
+Seat 5: king10clubs ($725.32 in chips) 
+tobe4funas: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+tobe4funas: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [Ts 3s Ad]
+king10clubs: checks 
+tobe4funas: bets $15.51
+king10clubs: folds 
+Uncalled bet ($15.51) returned to tobe4funas
+tobe4funas collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Ts 3s Ad]
+Seat 2: tobe4funas (button) (small blind) collected ($23.50)
+Seat 5: king10clubs (big blind) folded on the Flop
+
+
+PokerStars Game #102586625368:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:02:21 ET
+Table 'Sceptrum VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: tobe4funas ($1163.52 in chips) 
+Seat 5: king10clubs ($713.32 in chips) 
+king10clubs: posts small blind $3
+tobe4funas: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+tobe4funas: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: tobe4funas (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102586636449:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:02:43 ET
+Table 'Sceptrum VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: tobe4funas ($1157.52 in chips) 
+Seat 5: king10clubs ($719.32 in chips) 
+tobe4funas: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+tobe4funas: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [9h 9d 4h]
+king10clubs: checks 
+tobe4funas: checks 
+*** TURN *** [9h 9d 4h] [2h]
+king10clubs: bets $18
+tobe4funas: folds 
+Uncalled bet ($18) returned to king10clubs
+king10clubs collected $23.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [9h 9d 4h 2h]
+Seat 2: tobe4funas (button) (small blind) folded on the Turn
+Seat 5: king10clubs (big blind) collected ($23.50)
+
+
+PokerStars Game #102586647140:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:03:03 ET
+Table 'Sceptrum VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: tobe4funas ($1145.52 in chips) 
+Seat 5: king10clubs ($730.82 in chips) 
+king10clubs: posts small blind $3
+tobe4funas: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+tobe4funas: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: tobe4funas (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102586652281:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:03:12 ET
+Table 'Sceptrum VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: tobe4funas ($1139.52 in chips) 
+Seat 5: king10clubs ($736.82 in chips) 
+tobe4funas: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+tobe4funas: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to tobe4funas
+tobe4funas collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: tobe4funas (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102586655647:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:03:18 ET
+Table 'Sceptrum VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: tobe4funas ($1145.52 in chips) 
+Seat 5: king10clubs ($730.82 in chips) 
+king10clubs: posts small blind $3
+tobe4funas: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+tobe4funas: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: tobe4funas (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102586661053:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:03:29 ET
+Table 'Sceptrum VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: tobe4funas ($1139.52 in chips) 
+Seat 5: king10clubs ($736.82 in chips) 
+tobe4funas: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+tobe4funas: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [9s 8c 9h]
+king10clubs: checks 
+tobe4funas: bets $15.51
+king10clubs: calls $15.51
+*** TURN *** [9s 8c 9h] [Js]
+king10clubs: checks 
+tobe4funas: bets $38.16
+king10clubs: folds 
+Uncalled bet ($38.16) returned to tobe4funas
+tobe4funas collected $54.52 from pot
+*** SUMMARY ***
+Total pot $55.02 | Rake $0.50 
+Board [9s 8c 9h Js]
+Seat 2: tobe4funas (button) (small blind) collected ($54.52)
+Seat 5: king10clubs (big blind) folded on the Turn
+
+
+PokerStars Game #102586682384:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:04:09 ET
+Table 'Sceptrum VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: tobe4funas ($1166.53 in chips) 
+Seat 5: king10clubs ($709.31 in chips) 
+king10clubs: posts small blind $3
+tobe4funas: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+tobe4funas: calls $6
+*** FLOP *** [8d Jd 4c]
+tobe4funas: checks 
+king10clubs: bets $16
+tobe4funas: folds 
+Uncalled bet ($16) returned to king10clubs
+king10clubs collected $23.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [8d Jd 4c]
+Seat 2: tobe4funas (big blind) folded on the Flop
+Seat 5: king10clubs (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102586698506:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:04:40 ET
+Table 'Sceptrum VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: tobe4funas ($1154.53 in chips) 
+Seat 5: king10clubs ($720.81 in chips) 
+tobe4funas: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+tobe4funas: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [Td 5s 8c]
+king10clubs: checks 
+tobe4funas: bets $15.51
+king10clubs: calls $15.51
+*** TURN *** [Td 5s 8c] [Th]
+king10clubs: checks 
+tobe4funas: bets $38.16
+king10clubs: calls $38.16
+*** RIVER *** [Td 5s 8c Th] [Kh]
+king10clubs: checks 
+tobe4funas: bets $104.67
+king10clubs: folds 
+Uncalled bet ($104.67) returned to tobe4funas
+tobe4funas collected $130.84 from pot
+*** SUMMARY ***
+Total pot $131.34 | Rake $0.50 
+Board [Td 5s 8c Th Kh]
+Seat 2: tobe4funas (button) (small blind) collected ($130.84)
+Seat 5: king10clubs (big blind) folded on the River

@@ -1,0 +1,1146 @@
+
+
+PokerStars Game #102622738964:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:15:07 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #4 is the button
+Seat 3: djmadskin ($924.50 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: LuckyBiitch ($600 in chips) 
+pindrokk: posts small blind $3
+LuckyBiitch: posts big blind $6
+Flying Smile: sits out 
+ilir3: sits out 
+*** HOLE CARDS ***
+djmadskin: calls $6
+king10clubs: raises $13 to $19
+pindrokk: folds 
+LuckyBiitch: calls $13
+djmadskin: calls $13
+*** FLOP *** [2c 8s 9h]
+LuckyBiitch: checks 
+djmadskin: bets $24
+king10clubs: raises $48 to $72
+LuckyBiitch: folds 
+djmadskin: calls $48
+*** TURN *** [2c 8s 9h] [5h]
+djmadskin: checks 
+king10clubs: bets $120
+djmadskin: calls $120
+*** RIVER *** [2c 8s 9h 5h] [3c]
+djmadskin: checks 
+king10clubs: bets $389 and is all-in
+djmadskin: folds 
+Uncalled bet ($389) returned to king10clubs
+king10clubs collected $442.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $444 | Rake $1.50 
+Board [2c 8s 9h 5h 3c]
+Seat 3: djmadskin folded on the River
+Seat 4: king10clubs (button) collected ($442.50)
+Seat 5: pindrokk (small blind) folded before Flop
+Seat 6: LuckyBiitch (big blind) folded on the Flop
+
+
+PokerStars Game #102622814415:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:16:34 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 3: djmadskin ($713.50 in chips) 
+Seat 4: king10clubs ($831.50 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: LuckyBiitch ($600 in chips) 
+LuckyBiitch: posts small blind $3
+Flying Smile: posts big blind $6
+ilir3: sits out 
+*** HOLE CARDS ***
+djmadskin: folds 
+king10clubs: raises $9 to $15
+pindrokk: raises $25 to $40
+LuckyBiitch: folds 
+Flying Smile: folds 
+king10clubs: calls $25
+*** FLOP *** [3c 6h Jh]
+king10clubs: checks 
+pindrokk: bets $46
+king10clubs: calls $46
+*** TURN *** [3c 6h Jh] [5c]
+king10clubs: checks 
+pindrokk: checks 
+*** RIVER *** [3c 6h Jh 5c] [Tc]
+king10clubs: checks 
+pindrokk: bets $84
+king10clubs: calls $84
+*** SHOW DOWN ***
+pindrokk: shows [8s As] (high card Ace)
+king10clubs: shows [4d 6d] (a pair of Sixes)
+king10clubs collected $346.20 from pot
+*** SUMMARY ***
+Total pot $349 | Rake $2.80 
+Board [3c 6h Jh 5c Tc]
+Seat 1: Flying Smile (big blind) folded before Flop
+Seat 3: djmadskin folded before Flop (didn't bet)
+Seat 4: king10clubs showed [4d 6d] and won ($346.20) with a pair of Sixes
+Seat 5: pindrokk (button) showed [8s As] and lost with high card Ace
+Seat 6: LuckyBiitch (small blind) folded before Flop
+
+
+PokerStars Game #102622928790:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:18:44 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: djmadskin ($713.50 in chips) 
+Seat 4: king10clubs ($1007.70 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: LuckyBiitch ($600 in chips) 
+Flying Smile: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+djmadskin: calls $6
+king10clubs: folds 
+pindrokk: folds 
+LuckyBiitch: raises $15 to $21
+Flying Smile: folds 
+ilir3: folds 
+djmadskin: calls $15
+*** FLOP *** [Tc Qs Jc]
+djmadskin: checks 
+LuckyBiitch: checks 
+*** TURN *** [Tc Qs Jc] [3h]
+djmadskin: checks 
+LuckyBiitch: checks 
+*** RIVER *** [Tc Qs Jc 3h] [Td]
+djmadskin: bets $18
+LuckyBiitch: calls $18
+*** SHOW DOWN ***
+djmadskin: shows [Ac 4h] (a pair of Tens)
+LuckyBiitch: shows [7c 7s] (two pair, Tens and Sevens)
+LuckyBiitch collected $84.20 from pot
+*** SUMMARY ***
+Total pot $87 | Rake $2.80 
+Board [Tc Qs Jc 3h Td]
+Seat 1: Flying Smile (small blind) folded before Flop
+Seat 2: ilir3 (big blind) folded before Flop
+Seat 3: djmadskin showed [Ac 4h] and lost with a pair of Tens
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: pindrokk folded before Flop (didn't bet)
+Seat 6: LuckyBiitch (button) showed [7c 7s] and won ($84.20) with two pair, Tens and Sevens
+
+
+PokerStars Game #102622970019:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:19:32 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: djmadskin ($674.50 in chips) 
+Seat 4: king10clubs ($1007.70 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: LuckyBiitch ($645.20 in chips) 
+ilir3: posts small blind $3
+djmadskin: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+pindrokk: folds 
+LuckyBiitch: folds 
+Flying Smile: raises $6 to $12
+ilir3: calls $9
+djmadskin: calls $6
+*** FLOP *** [5c 3h 2h]
+ilir3: checks 
+djmadskin: checks 
+Flying Smile: bets $27
+ilir3: raises $48 to $75
+djmadskin: raises $587.50 to $662.50 and is all-in
+Flying Smile: folds 
+ilir3: folds 
+Uncalled bet ($587.50) returned to djmadskin
+djmadskin collected $210.20 from pot
+*** SUMMARY ***
+Total pot $213 | Rake $2.80 
+Board [5c 3h 2h]
+Seat 1: Flying Smile (button) folded on the Flop
+Seat 2: ilir3 (small blind) folded on the Flop
+Seat 3: djmadskin (big blind) collected ($210.20)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: pindrokk folded before Flop (didn't bet)
+Seat 6: LuckyBiitch folded before Flop (didn't bet)
+
+
+PokerStars Game #102622666973:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:13:44 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #3 is the button
+Seat 3: djmadskin ($600 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: LuckyBiitch ($600 in chips) 
+king10clubs: posts small blind $3
+pindrokk: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+djmadskin: calls $6
+king10clubs: folds 
+ilir3 joins the table at seat #2 
+pindrokk: raises $18 to $24
+djmadskin: calls $18
+*** FLOP *** [3c 6h Jd]
+pindrokk: bets $36
+djmadskin: calls $36
+*** TURN *** [3c 6h Jd] [4s]
+pindrokk: bets $95
+djmadskin: calls $95
+*** RIVER *** [3c 6h Jd 4s] [5c]
+pindrokk: bets $168
+djmadskin: calls $168
+*** SHOW DOWN ***
+pindrokk: shows [Ah Jh] (a pair of Jacks)
+djmadskin: shows [5s 4d] (two pair, Fives and Fours)
+djmadskin collected $647.50 from pot
+*** SUMMARY ***
+Total pot $649 | Rake $1.50 
+Board [3c 6h Jd 4s 5c]
+Seat 3: djmadskin (button) showed [5s 4d] and won ($647.50) with two pair, Fives and Fours
+Seat 4: king10clubs (small blind) folded before Flop
+Seat 5: pindrokk (big blind) showed [Ah Jh] and lost with a pair of Jacks
+Seat 6: LuckyBiitch folded before Flop (didn't bet)
+
+
+PokerStars Game #102624030708:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:40:21 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Flying Smile ($603 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 4: king10clubs ($1539.10 in chips) 
+Seat 5: Strz ($615.20 in chips) 
+Seat 6: LuckyBiitch ($1918.22 in chips) 
+Flying Smile: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+Strz: raises $12 to $18
+king10clubs said, "wow"
+LuckyBiitch: folds 
+Flying Smile: folds 
+ilir3: raises $42 to $60
+Strz: folds 
+Uncalled bet ($42) returned to ilir3
+ilir3 collected $39 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $0 
+Seat 1: Flying Smile (small blind) folded before Flop
+Seat 2: ilir3 (big blind) collected ($39)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: Strz folded before Flop
+Seat 6: LuckyBiitch (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102624053068:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:40:48 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 2: ilir3 ($621 in chips) 
+Seat 4: king10clubs ($1539.10 in chips) 
+Seat 5: Strz ($600 in chips) 
+Seat 6: LuckyBiitch ($1918.22 in chips) 
+ilir3: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+Strz: folds 
+LuckyBiitch: folds 
+Flying Smile: raises $6 to $12
+ilir3: raises $36 to $48
+king10clubs: folds 
+Flying Smile: folds 
+Uncalled bet ($36) returned to ilir3
+ilir3 collected $30 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: Flying Smile (button) folded before Flop
+Seat 2: ilir3 (small blind) collected ($30)
+Seat 4: king10clubs (big blind) folded before Flop
+Seat 5: Strz folded before Flop (didn't bet)
+Seat 6: LuckyBiitch folded before Flop (didn't bet)
+
+
+PokerStars Game #102624073229:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:41:12 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 2: ilir3 ($639 in chips) 
+Seat 4: king10clubs ($1533.10 in chips) 
+Seat 5: Strz ($600 in chips) 
+Seat 6: LuckyBiitch ($1918.22 in chips) 
+king10clubs: posts small blind $3
+Strz: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+Flying Smile: folds 
+djmadskin leaves the table
+ilir3: raises $6 to $12
+king10clubs: folds 
+floriiiiider joins the table at seat #3 
+Strz: folds 
+Uncalled bet ($6) returned to ilir3
+ilir3 collected $15 from pot
+floriiiiider leaves the table
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 2: ilir3 (button) collected ($15)
+Seat 4: king10clubs (small blind) folded before Flop
+Seat 5: Strz (big blind) folded before Flop
+Seat 6: LuckyBiitch folded before Flop (didn't bet)
+
+
+PokerStars Game #102624094395:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:41:37 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 2: ilir3 ($648 in chips) 
+Seat 4: king10clubs ($1530.10 in chips) 
+Seat 5: Strz ($600 in chips) 
+Seat 6: LuckyBiitch ($1918.22 in chips) 
+Strz: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+ilir3: raises $6 to $12
+king10clubs said, "funny how guys who hear from their jealous friends that i run good believe it when im the only one playing every reg hu to swtart the tables"
+king10clubs: folds 
+Strz: folds 
+ilir3 said, "what the **** does it have to do with anything"
+LuckyBiitch: folds 
+Uncalled bet ($6) returned to ilir3
+ilir3 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 2: ilir3 collected ($15)
+Seat 4: king10clubs (button) folded before Flop (didn't bet)
+Seat 5: Strz (small blind) folded before Flop
+Seat 6: LuckyBiitch (big blind) folded before Flop
+
+
+PokerStars Game #102624129584:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:42:20 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 4: king10clubs ($1530.10 in chips) 
+Seat 5: Strz ($600 in chips) 
+Flying Smile: posts small blind $3
+ilir3: is sitting out 
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+ilir3 said, "are you ******ed or something"
+Strz: raises $6 to $12
+Flying Smile: raises $33 to $45
+king10clubs said, "you might wanna shut your mouth b4 you sound even more ignorant"
+king10clubs: folds 
+ilir3 said, "omfg"
+Strz: calls $33
+*** FLOP *** [7s Ts Ks]
+ilir3 said, "maybe you should buy urself"
+ilir3 said, "a personality"
+LuckyBiitch leaves the table
+ilir3 said, "with that money u've made"
+Flying Smile: bets $54
+Strz: folds 
+Uncalled bet ($54) returned to Flying Smile
+Flying Smile collected $94.50 from pot
+ilir3 said, "level of social awkwardness is off the charts"
+*** SUMMARY ***
+Total pot $96 | Rake $1.50 
+Board [7s Ts Ks]
+Seat 1: Flying Smile (small blind) collected ($94.50)
+Seat 4: king10clubs (big blind) folded before Flop
+Seat 5: Strz (button) folded on the Flop
+
+
+PokerStars Game #102623813223:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:36:02 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: djmadskin ($410.50 in chips) 
+Seat 4: king10clubs ($1548.10 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: LuckyBiitch ($1416.45 in chips) 
+LuckyBiitch: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+ilir3 said, "dat legend about you always gettin there"
+ilir3 said, "was indeed true"
+ilir3: folds 
+djmadskin: folds 
+king10clubs: folds 
+iznak: folds 
+LuckyBiitch: folds 
+Uncalled bet ($3) returned to Flying Smile
+Flying Smile collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Flying Smile (big blind) collected ($6)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: djmadskin folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: iznak (button) folded before Flop (didn't bet)
+Seat 6: LuckyBiitch (small blind) folded before Flop
+
+
+PokerStars Game #102623828971:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:36:21 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Flying Smile ($603 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: djmadskin ($410.50 in chips) 
+Seat 4: king10clubs ($1548.10 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: LuckyBiitch ($1413.45 in chips) 
+Flying Smile: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+djmadskin: folds 
+king10clubs: folds 
+iznak: raises $6.87 to $12.87
+LuckyBiitch: raises $25.13 to $38
+Flying Smile: folds 
+ilir3: folds 
+iznak: folds 
+Uncalled bet ($25.13) returned to LuckyBiitch
+LuckyBiitch collected $34.74 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $34.74 | Rake $0 
+Seat 1: Flying Smile (small blind) folded before Flop
+Seat 2: ilir3 (big blind) folded before Flop
+Seat 3: djmadskin folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: iznak folded before Flop
+Seat 6: LuckyBiitch (button) collected ($34.74)
+
+
+PokerStars Game #102623848420:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:36:44 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: djmadskin ($410.50 in chips) 
+Seat 4: king10clubs ($1548.10 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: LuckyBiitch ($1435.32 in chips) 
+ilir3: posts small blind $3
+djmadskin: posts big blind $6
+*** HOLE CARDS ***
+king10clubs said, "should be md at yourself for how bad you played it bud"
+king10clubs: folds 
+iznak: folds 
+LuckyBiitch: folds 
+ilir3 said, "probably"
+Flying Smile: folds 
+ilir3 said, "doesnt change anything about ur infinite run good though"
+ilir3: calls $3
+king10clubs said, "dont take it out on me:)"
+djmadskin: checks 
+*** FLOP *** [8d Jd Td]
+ilir3 said, "not sure why u thught it did"
+ilir3 said, "it's cute though ;)"
+ilir3: bets $12
+djmadskin: calls $12
+*** TURN *** [8d Jd Td] [Qc]
+ilir3: checks 
+djmadskin: bets $24
+ilir3: calls $24
+*** RIVER *** [8d Jd Td Qc] [5h]
+ilir3: checks 
+djmadskin: bets $30
+ilir3: calls $30
+*** SHOW DOWN ***
+djmadskin: shows [9c 3c] (a straight, Eight to Queen)
+ilir3: mucks hand 
+djmadskin collected $141.20 from pot
+*** SUMMARY ***
+Total pot $144 | Rake $2.80 
+Board [8d Jd Td Qc 5h]
+Seat 1: Flying Smile (button) folded before Flop (didn't bet)
+Seat 2: ilir3 (small blind) mucked
+Seat 3: djmadskin (big blind) showed [9c 3c] and won ($141.20) with a straight, Eight to Queen
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: iznak folded before Flop (didn't bet)
+Seat 6: LuckyBiitch folded before Flop (didn't bet)
+
+
+PokerStars Game #102623902529:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:37:48 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: djmadskin ($479.70 in chips) 
+Seat 4: king10clubs ($1548.10 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: LuckyBiitch ($1435.32 in chips) 
+djmadskin: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+iznak: folds 
+iznak leaves the table
+Strz joins the table at seat #5 
+LuckyBiitch has timed out
+LuckyBiitch: folds 
+king10clubs said, "lol ive barely played with you your making spome bold accusations for being a noob"
+king10clubs said, "might want to shut your mouth"
+Flying Smile: raises $9 to $15
+ilir3: folds 
+djmadskin: folds 
+king10clubs: folds 
+Uncalled bet ($9) returned to Flying Smile
+Flying Smile collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Flying Smile collected ($15)
+Seat 2: ilir3 (button) folded before Flop (didn't bet)
+Seat 3: djmadskin (small blind) folded before Flop
+Seat 4: king10clubs (big blind) folded before Flop
+Seat 5: iznak folded before Flop (didn't bet)
+Seat 6: LuckyBiitch folded before Flop (didn't bet)
+
+
+PokerStars Game #102623940415:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:38:33 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Flying Smile ($609 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: djmadskin ($476.70 in chips) 
+Seat 4: king10clubs ($1542.10 in chips) 
+Seat 5: Strz ($600 in chips) 
+Seat 6: LuckyBiitch ($1435.32 in chips) 
+king10clubs: posts small blind $3
+Strz: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+Flying Smile: folds 
+ilir3: raises $6 to $12
+djmadskin: raises $12 to $24
+king10clubs: folds 
+Strz: folds 
+ilir3: folds 
+Uncalled bet ($12) returned to djmadskin
+djmadskin collected $33 from pot
+*** SUMMARY ***
+Total pot $33 | Rake $0 
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop
+Seat 3: djmadskin (button) collected ($33)
+Seat 4: king10clubs (small blind) folded before Flop
+Seat 5: Strz (big blind) folded before Flop
+Seat 6: LuckyBiitch folded before Flop (didn't bet)
+
+
+PokerStars Game #102623958076:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:38:54 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Flying Smile ($609 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: djmadskin ($497.70 in chips) 
+Seat 4: king10clubs ($1539.10 in chips) 
+Seat 5: Strz ($600 in chips) 
+Seat 6: LuckyBiitch ($1435.32 in chips) 
+Strz: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+ilir3 said, "for being a noob...."
+Flying Smile has timed out
+Flying Smile: folds 
+ilir3: folds 
+djmadskin: calls $6
+ilir3 said, "way to miss the point -.-"
+king10clubs: folds 
+Strz: raises $24 to $30
+ilir3 said, "reading comprehension 101"
+LuckyBiitch: folds 
+djmadskin: calls $24
+*** FLOP *** [Js 2c Ac]
+Strz: bets $42
+djmadskin: folds 
+Uncalled bet ($42) returned to Strz
+Strz collected $63.20 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $2.80 
+Board [Js 2c Ac]
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: djmadskin folded on the Flop
+Seat 4: king10clubs (button) folded before Flop (didn't bet)
+Seat 5: Strz (small blind) collected ($63.20)
+Seat 6: LuckyBiitch (big blind) folded before Flop
+
+
+PokerStars Game #102623996089:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:39:39 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Flying Smile ($609 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: djmadskin ($467.70 in chips) 
+Seat 4: king10clubs ($1539.10 in chips) 
+Seat 5: Strz ($633.20 in chips) 
+Seat 6: LuckyBiitch ($1429.32 in chips) 
+LuckyBiitch: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+djmadskin: calls $6
+king10clubs: folds 
+Strz: raises $12 to $18
+LuckyBiitch: raises $44 to $62
+Flying Smile: folds 
+djmadskin: calls $56
+Strz: folds 
+*** FLOP *** [6s Th 8s]
+LuckyBiitch: bets $75
+djmadskin: calls $75
+*** TURN *** [6s Th 8s] [7s]
+LuckyBiitch: bets $786
+djmadskin: calls $330.70 and is all-in
+Uncalled bet ($455.30) returned to LuckyBiitch
+*** RIVER *** [6s Th 8s 7s] [3d]
+*** SHOW DOWN ***
+LuckyBiitch: shows [9h 8h] (a straight, Six to Ten)
+djmadskin: shows [7d As] (a pair of Sevens)
+LuckyBiitch collected $956.60 from pot
+*** SUMMARY ***
+Total pot $959.40 | Rake $2.80 
+Board [6s Th 8s 7s 3d]
+Seat 1: Flying Smile (big blind) folded before Flop
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: djmadskin showed [7d As] and lost with a pair of Sevens
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: Strz (button) folded before Flop
+Seat 6: LuckyBiitch (small blind) showed [9h 8h] and won ($956.60) with a straight, Six to Ten
+
+
+PokerStars Game #102623506734:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:30:03 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Flying Smile ($602.19 in chips) 
+Seat 2: ilir3 ($609 in chips) 
+Seat 3: djmadskin ($773.90 in chips) 
+Seat 4: king10clubs ($1027.90 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: LuckyBiitch ($753.05 in chips) 
+Flying Smile: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+djmadskin: folds 
+king10clubs: folds 
+iznak: folds 
+LuckyBiitch: raises $6 to $12
+Flying Smile: folds 
+ilir3: raises $36 to $48
+LuckyBiitch: raises $44 to $92
+ilir3: calls $44
+*** FLOP *** [5s 9d Qs]
+ilir3: checks 
+LuckyBiitch: bets $100
+ilir3: raises $417 to $517 and is all-in
+LuckyBiitch: calls $417
+*** TURN *** [5s 9d Qs] [4s]
+*** RIVER *** [5s 9d Qs 4s] [6s]
+*** SHOW DOWN ***
+ilir3: shows [Kh Qc] (a pair of Queens)
+LuckyBiitch: shows [As Ks] (a flush, Ace high)
+LuckyBiitch collected $1218.20 from pot
+*** SUMMARY ***
+Total pot $1221 | Rake $2.80 
+Board [5s 9d Qs 4s 6s]
+Seat 1: Flying Smile (small blind) folded before Flop
+Seat 2: ilir3 (big blind) showed [Kh Qc] and lost with a pair of Queens
+Seat 3: djmadskin folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: iznak folded before Flop (didn't bet)
+Seat 6: LuckyBiitch (button) showed [As Ks] and won ($1218.20) with a flush, Ace high
+
+
+PokerStars Game #102623578654:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:31:28 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: djmadskin ($773.90 in chips) 
+Seat 4: king10clubs ($1027.90 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: LuckyBiitch ($1362.25 in chips) 
+ilir3: posts small blind $3
+djmadskin: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $9 to $15
+iznak: folds 
+LuckyBiitch: calls $15
+Flying Smile: folds 
+ilir3: folds 
+djmadskin: calls $9
+*** FLOP *** [2d 5c 9c]
+djmadskin: checks 
+king10clubs: bets $30
+LuckyBiitch: calls $30
+djmadskin: folds 
+*** TURN *** [2d 5c 9c] [3h]
+king10clubs: checks 
+LuckyBiitch: bets $90
+king10clubs: folds 
+Uncalled bet ($90) returned to LuckyBiitch
+LuckyBiitch collected $105.20 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $108 | Rake $2.80 
+Board [2d 5c 9c 3h]
+Seat 1: Flying Smile (button) folded before Flop (didn't bet)
+Seat 2: ilir3 (small blind) folded before Flop
+Seat 3: djmadskin (big blind) folded on the Flop
+Seat 4: king10clubs folded on the Turn
+Seat 5: iznak folded before Flop (didn't bet)
+Seat 6: LuckyBiitch collected ($105.20)
+
+
+PokerStars Game #102623622141:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:32:19 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: djmadskin ($758.90 in chips) 
+Seat 4: king10clubs ($982.90 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: LuckyBiitch ($1422.45 in chips) 
+djmadskin: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+iznak: folds 
+LuckyBiitch: folds 
+Flying Smile: folds 
+ilir3: raises $6 to $12
+djmadskin: calls $9
+king10clubs: folds 
+*** FLOP *** [As 6s Ks]
+djmadskin: bets $12
+ilir3: calls $12
+*** TURN *** [As 6s Ks] [Ts]
+djmadskin: bets $6
+ilir3: calls $6
+*** RIVER *** [As 6s Ks Ts] [Js]
+djmadskin: bets $36
+ilir3: raises $36 to $72
+djmadskin: calls $36
+*** SHOW DOWN ***
+ilir3: shows [5h Kh] (a flush, Ace high)
+djmadskin: shows [6d Ac] (a flush, Ace high)
+djmadskin collected $103.60 from pot
+ilir3 collected $103.60 from pot
+*** SUMMARY ***
+Total pot $210 | Rake $2.80 
+Board [As 6s Ks Ts Js]
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 2: ilir3 (button) showed [5h Kh] and won ($103.60) with a flush, Ace high
+Seat 3: djmadskin (small blind) showed [6d Ac] and won ($103.60) with a flush, Ace high
+Seat 4: king10clubs (big blind) folded before Flop
+Seat 5: iznak folded before Flop (didn't bet)
+Seat 6: LuckyBiitch folded before Flop (didn't bet)
+
+
+PokerStars Game #102623661592:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:33:05 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 2: ilir3 ($601.60 in chips) 
+Seat 3: djmadskin ($760.50 in chips) 
+Seat 4: king10clubs ($976.90 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: LuckyBiitch ($1422.45 in chips) 
+king10clubs: posts small blind $3
+iznak: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+djmadskin said, ":-)"
+Flying Smile has timed out
+Flying Smile: folds 
+ilir3: raises $6 to $12
+djmadskin: calls $12
+king10clubs: folds 
+iznak: folds 
+*** FLOP *** [4h 8s Ad]
+ilir3: checks 
+djmadskin: bets $18
+ilir3: calls $18
+*** TURN *** [4h 8s Ad] [3h]
+ilir3: checks 
+djmadskin: checks 
+*** RIVER *** [4h 8s Ad 3h] [2s]
+ilir3: checks 
+djmadskin: bets $36
+ilir3: calls $36
+*** SHOW DOWN ***
+djmadskin: shows [7c Qc] (high card Ace)
+ilir3: shows [7s 8h] (a pair of Eights)
+ilir3 collected $138.20 from pot
+*** SUMMARY ***
+Total pot $141 | Rake $2.80 
+Board [4h 8s Ad 3h 2s]
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 2: ilir3 showed [7s 8h] and won ($138.20) with a pair of Eights
+Seat 3: djmadskin (button) showed [7c Qc] and lost with high card Ace
+Seat 4: king10clubs (small blind) folded before Flop
+Seat 5: iznak (big blind) folded before Flop
+Seat 6: LuckyBiitch folded before Flop (didn't bet)
+
+
+PokerStars Game #102623724592:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:34:18 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 2: ilir3 ($673.80 in chips) 
+Seat 3: djmadskin ($694.50 in chips) 
+Seat 4: king10clubs ($973.90 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: LuckyBiitch ($1422.45 in chips) 
+iznak: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+ilir3 said, ":)"
+ilir3: raises $9 to $15
+djmadskin: calls $15
+king10clubs: raises $41 to $56
+iznak: folds 
+LuckyBiitch: folds 
+ilir3: raises $80 to $136
+djmadskin: calls $121
+king10clubs: calls $80
+*** FLOP *** [Ts 2s 4h]
+ilir3: checks 
+djmadskin: checks 
+king10clubs: checks 
+*** TURN *** [Ts 2s 4h] [As]
+ilir3: bets $148
+djmadskin: calls $148
+king10clubs: calls $148
+*** RIVER *** [Ts 2s 4h As] [8s]
+ilir3: checks 
+djmadskin: checks 
+king10clubs: bets $300
+ilir3: folds 
+djmadskin: folds 
+Uncalled bet ($300) returned to king10clubs
+king10clubs collected $858.20 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $861 | Rake $2.80 
+Board [Ts 2s 4h As 8s]
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 2: ilir3 folded on the River
+Seat 3: djmadskin folded on the River
+Seat 4: king10clubs (button) collected ($858.20)
+Seat 5: iznak (small blind) folded before Flop
+Seat 6: LuckyBiitch (big blind) folded before Flop
+
+
+PokerStars Game #102623299581:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:25:56 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Flying Smile ($608.19 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: djmadskin ($734.70 in chips) 
+Seat 4: king10clubs ($989.70 in chips) 
+Seat 6: LuckyBiitch ($785.18 in chips) 
+ilir3: posts small blind $3
+djmadskin: posts big blind $6
+iznak: sits out 
+*** HOLE CARDS ***
+king10clubs: folds 
+LuckyBiitch: folds 
+Flying Smile: folds 
+ilir3: folds 
+Uncalled bet ($3) returned to djmadskin
+djmadskin collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Flying Smile (button) folded before Flop (didn't bet)
+Seat 2: ilir3 (small blind) folded before Flop
+Seat 3: djmadskin (big blind) collected ($6)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 6: LuckyBiitch folded before Flop (didn't bet)
+
+
+PokerStars Game #102623306736:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:26:05 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Flying Smile ($608.19 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: djmadskin ($737.70 in chips) 
+Seat 4: king10clubs ($989.70 in chips) 
+Seat 6: LuckyBiitch ($785.18 in chips) 
+djmadskin: posts small blind $3
+king10clubs: posts big blind $6
+iznak: sits out 
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+Flying Smile: folds 
+ilir3: raises $6 to $12
+djmadskin: calls $9
+king10clubs: calls $6
+*** FLOP *** [2s 5c 2d]
+djmadskin: checks 
+king10clubs: checks 
+ilir3: bets $20
+djmadskin: folds 
+king10clubs: calls $20
+*** TURN *** [2s 5c 2d] [5h]
+king10clubs: checks 
+ilir3: checks 
+*** RIVER *** [2s 5c 2d 5h] [Ac]
+king10clubs: bets $54
+ilir3: folds 
+Uncalled bet ($54) returned to king10clubs
+king10clubs collected $73.20 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $76 | Rake $2.80 
+Board [2s 5c 2d 5h Ac]
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 2: ilir3 (button) folded on the River
+Seat 3: djmadskin (small blind) folded on the Flop
+Seat 4: king10clubs (big blind) collected ($73.20)
+Seat 6: LuckyBiitch folded before Flop (didn't bet)
+
+
+PokerStars Game #102623350610:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:26:57 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Flying Smile ($608.19 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: djmadskin ($725.70 in chips) 
+Seat 4: king10clubs ($1030.90 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: LuckyBiitch ($785.18 in chips) 
+king10clubs: posts small blind $3
+iznak: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: raises $12 to $18
+Flying Smile: folds 
+ilir3: folds 
+djmadskin: calls $18
+king10clubs: folds 
+iznak: folds 
+*** FLOP *** [3d 9c 5h]
+LuckyBiitch: checks 
+djmadskin: checks 
+*** TURN *** [3d 9c 5h] [Ah]
+LuckyBiitch: bets $24
+djmadskin: calls $24
+*** RIVER *** [3d 9c 5h Ah] [9h]
+LuckyBiitch: checks 
+djmadskin: bets $48
+LuckyBiitch: folds 
+Uncalled bet ($48) returned to djmadskin
+djmadskin collected $90.20 from pot
+*** SUMMARY ***
+Total pot $93 | Rake $2.80 
+Board [3d 9c 5h Ah 9h]
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: djmadskin (button) collected ($90.20)
+Seat 4: king10clubs (small blind) folded before Flop
+Seat 5: iznak (big blind) folded before Flop
+Seat 6: LuckyBiitch folded on the River
+
+
+PokerStars Game #102623437288:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:28:41 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Flying Smile ($608.19 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: djmadskin ($773.90 in chips) 
+Seat 4: king10clubs ($1027.90 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: LuckyBiitch ($743.18 in chips) 
+iznak: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+ilir3: folds 
+djmadskin: folds 
+king10clubs: folds 
+iznak: raises $6.87 to $12.87
+LuckyBiitch: raises $25.13 to $38
+iznak: folds 
+Uncalled bet ($25.13) returned to LuckyBiitch
+LuckyBiitch collected $25.74 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $25.74 | Rake $0 
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: djmadskin folded before Flop (didn't bet)
+Seat 4: king10clubs (button) folded before Flop (didn't bet)
+Seat 5: iznak (small blind) folded before Flop
+Seat 6: LuckyBiitch (big blind) collected ($25.74)
+
+
+PokerStars Game #102623462946:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:29:12 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Flying Smile ($608.19 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: djmadskin ($773.90 in chips) 
+Seat 4: king10clubs ($1027.90 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: LuckyBiitch ($756.05 in chips) 
+LuckyBiitch: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+ilir3: raises $9 to $15
+djmadskin: folds 
+king10clubs: folds 
+iznak: folds 
+LuckyBiitch: folds 
+Flying Smile: folds 
+Uncalled bet ($9) returned to ilir3
+ilir3 collected $15 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Flying Smile (big blind) folded before Flop
+Seat 2: ilir3 collected ($15)
+Seat 3: djmadskin folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: iznak (button) folded before Flop (didn't bet)
+Seat 6: LuckyBiitch (small blind) folded before Flop
+
+
+PokerStars Game #102623048883:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:21:02 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: djmadskin ($797.70 in chips) 
+Seat 4: king10clubs ($1007.70 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: LuckyBiitch ($645.20 in chips) 
+djmadskin: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+pindrokk: folds 
+LuckyBiitch: folds 
+Flying Smile: raises $9 to $15
+ilir3: folds 
+djmadskin: calls $12
+king10clubs: calls $9
+*** FLOP *** [8s 3s 6d]
+djmadskin: bets $6
+king10clubs: folds 
+Flying Smile: calls $6
+*** TURN *** [8s 3s 6d] [Qd]
+djmadskin: bets $12
+Flying Smile: calls $12
+*** RIVER *** [8s 3s 6d Qd] [4c]
+djmadskin: bets $24
+Flying Smile: calls $24
+*** SHOW DOWN ***
+djmadskin: shows [Ah 3h] (a pair of Threes)
+Flying Smile: shows [5h 5d] (a pair of Fives)
+Flying Smile collected $126.20 from pot
+*** SUMMARY ***
+Total pot $129 | Rake $2.80 
+Board [8s 3s 6d Qd 4c]
+Seat 1: Flying Smile showed [5h 5d] and won ($126.20) with a pair of Fives
+Seat 2: ilir3 (button) folded before Flop (didn't bet)
+Seat 3: djmadskin (small blind) showed [Ah 3h] and lost with a pair of Threes
+Seat 4: king10clubs (big blind) folded on the Flop
+Seat 5: pindrokk folded before Flop (didn't bet)
+Seat 6: LuckyBiitch folded before Flop (didn't bet)
+
+
+PokerStars Game #102623096011:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:21:57 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Flying Smile ($669.20 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: djmadskin ($740.70 in chips) 
+Seat 4: king10clubs ($992.70 in chips) 
+Seat 6: LuckyBiitch ($645.20 in chips) 
+king10clubs: posts small blind $3
+pindrokk: is sitting out 
+pindrokk leaves the table
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: raises $12 to $18
+ilir3: folds 
+djmadskin: folds 
+king10clubs: folds 
+LuckyBiitch: calls $12
+*** FLOP *** [Qh 2d 5h]
+LuckyBiitch: checks 
+iznak joins the table at seat #5 
+Flying Smile: bets $30
+LuckyBiitch: calls $30
+*** TURN *** [Qh 2d 5h] [9s]
+LuckyBiitch: checks 
+Flying Smile: bets $84
+LuckyBiitch: calls $84
+*** RIVER *** [Qh 2d 5h 9s] [Ad]
+LuckyBiitch: checks 
+Flying Smile: checks 
+*** SHOW DOWN ***
+LuckyBiitch: shows [Qs Ah] (two pair, Aces and Queens)
+Flying Smile: mucks hand 
+LuckyBiitch collected $264.20 from pot
+*** SUMMARY ***
+Total pot $267 | Rake $2.80 
+Board [Qh 2d 5h 9s Ad]
+Seat 1: Flying Smile mucked
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: djmadskin (button) folded before Flop (didn't bet)
+Seat 4: king10clubs (small blind) folded before Flop
+Seat 6: LuckyBiitch (big blind) showed [Qs Ah] and won ($264.20) with two pair, Aces and Queens
+
+
+PokerStars Game #102623160395:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:23:12 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: djmadskin ($740.70 in chips) 
+Seat 4: king10clubs ($989.70 in chips) 
+Seat 6: LuckyBiitch ($777.40 in chips) 
+iznak will be allowed to play after the button
+LuckyBiitch: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+djmadskin: calls $6
+king10clubs: folds 
+LuckyBiitch: calls $3
+Flying Smile: checks 
+*** FLOP *** [5s Qh 5c]
+LuckyBiitch: checks 
+Flying Smile: checks 
+djmadskin: checks 
+*** TURN *** [5s Qh 5c] [4s]
+LuckyBiitch: checks 
+Flying Smile: bets $18
+djmadskin: folds 
+LuckyBiitch: folds 
+Uncalled bet ($18) returned to Flying Smile
+Flying Smile collected $17.19 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.81 
+Board [5s Qh 5c 4s]
+Seat 1: Flying Smile (big blind) collected ($17.19)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: djmadskin folded on the Turn
+Seat 4: king10clubs (button) folded before Flop (didn't bet)
+Seat 6: LuckyBiitch (small blind) folded on the Turn
+
+
+PokerStars Game #102623229156:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:24:33 ET
+Table 'Phobos IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Flying Smile ($611.19 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: djmadskin ($734.70 in chips) 
+Seat 4: king10clubs ($989.70 in chips) 
+Seat 6: LuckyBiitch ($771.40 in chips) 
+Flying Smile: posts small blind $3
+ilir3: posts big blind $6
+iznak: sits out 
+*** HOLE CARDS ***
+djmadskin has timed out
+djmadskin: folds 
+king10clubs: folds 
+LuckyBiitch: raises $6 to $12
+Flying Smile: folds 
+ilir3: calls $6
+*** FLOP *** [2h Qs Js]
+ilir3: checks 
+LuckyBiitch: bets $17
+ilir3: folds 
+Uncalled bet ($17) returned to LuckyBiitch
+LuckyBiitch collected $25.78 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [2h Qs Js]
+Seat 1: Flying Smile (small blind) folded before Flop
+Seat 2: ilir3 (big blind) folded on the Flop
+Seat 3: djmadskin folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 6: LuckyBiitch (button) collected ($25.78)

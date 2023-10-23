@@ -1,0 +1,4531 @@
+
+
+PokerStars Game #102604527397:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:40:10 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 3: monro25 ($235 in chips) 
+Seat 4: onez69 ($240 in chips) 
+Seat 5: dumbo2000 ($252 in chips) 
+Seat 6: dreamtech129 ($612 in chips) 
+Scarface.VLT: posts small blind $3
+monro25: posts big blind $6
+*** HOLE CARDS ***
+elvn89 joins the table at seat #2 
+onez69: folds 
+dumbo2000: raises $9 to $15
+dreamtech129: folds 
+Scarface.VLT: folds 
+monro25: folds 
+Uncalled bet ($9) returned to dumbo2000
+dumbo2000 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT (small blind) folded before Flop
+Seat 3: monro25 (big blind) folded before Flop
+Seat 4: onez69 folded before Flop (didn't bet)
+Seat 5: dumbo2000 collected ($15)
+Seat 6: dreamtech129 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102604544304:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:40:38 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 3: monro25 ($229 in chips) 
+Seat 4: onez69 ($240 in chips) 
+Seat 5: dumbo2000 ($261 in chips) 
+Seat 6: dreamtech129 ($612 in chips) 
+elvn89 will be allowed to play after the button
+monro25: posts small blind $3
+onez69: posts big blind $6
+*** HOLE CARDS ***
+dumbo2000: raises $9 to $15
+dreamtech129: raises $30 to $45
+Scarface.VLT: folds 
+monro25: folds 
+onez69: folds 
+dumbo2000: folds 
+Uncalled bet ($30) returned to dreamtech129
+dreamtech129 collected $39 from pot
+dreamtech129: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $0 
+Seat 1: Scarface.VLT (button) folded before Flop (didn't bet)
+Seat 3: monro25 (small blind) folded before Flop
+Seat 4: onez69 (big blind) folded before Flop
+Seat 5: dumbo2000 folded before Flop
+Seat 6: dreamtech129 collected ($39)
+
+
+PokerStars Game #102604562795:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:41:09 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 3: monro25 ($226 in chips) 
+Seat 4: onez69 ($234 in chips) 
+Seat 5: dumbo2000 ($246 in chips) 
+Seat 6: dreamtech129 ($636 in chips) 
+onez69: posts small blind $3
+dumbo2000: posts big blind $6
+elvn89: sits out 
+*** HOLE CARDS ***
+dreamtech129: raises $7.80 to $13.80
+Scarface.VLT: raises $16.20 to $30
+monro25: folds 
+onez69: folds 
+dumbo2000: folds 
+dreamtech129: raises $57 to $87
+Scarface.VLT: folds 
+Uncalled bet ($57) returned to dreamtech129
+dreamtech129 collected $69 from pot
+dreamtech129: doesn't show hand 
+*** SUMMARY ***
+Total pot $69 | Rake $0 
+Seat 1: Scarface.VLT folded before Flop
+Seat 3: monro25 (button) folded before Flop (didn't bet)
+Seat 4: onez69 (small blind) folded before Flop
+Seat 5: dumbo2000 (big blind) folded before Flop
+Seat 6: dreamtech129 collected ($69)
+
+
+PokerStars Game #102604582082:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:41:41 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 3: monro25 ($226 in chips) 
+Seat 4: onez69 ($231 in chips) 
+Seat 5: dumbo2000 ($240 in chips) 
+Seat 6: dreamtech129 ($675 in chips) 
+dumbo2000: posts small blind $3
+dreamtech129: posts big blind $6
+elvn89: sits out 
+*** HOLE CARDS ***
+Scarface.VLT: folds 
+monro25: folds 
+onez69: folds 
+dumbo2000: folds 
+Uncalled bet ($3) returned to dreamtech129
+dreamtech129 collected $6 from pot
+dreamtech129: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 (button) folded before Flop (didn't bet)
+Seat 5: dumbo2000 (small blind) folded before Flop
+Seat 6: dreamtech129 (big blind) collected ($6)
+
+
+PokerStars Game #102604593552:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:42:00 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 3: monro25 ($226 in chips) 
+Seat 4: onez69 ($231 in chips) 
+Seat 5: dumbo2000 ($240 in chips) 
+Seat 6: dreamtech129 ($678 in chips) 
+dreamtech129: posts small blind $3
+Scarface.VLT: posts big blind $6
+elvn89: sits out 
+*** HOLE CARDS ***
+monro25: folds 
+onez69: folds 
+dumbo2000: folds 
+dreamtech129: raises $7.80 to $13.80
+Scarface.VLT: raises $28.20 to $42
+dreamtech129: folds 
+Uncalled bet ($28.20) returned to Scarface.VLT
+Scarface.VLT collected $27.60 from pot
+Scarface.VLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $27.60 | Rake $0 
+Seat 1: Scarface.VLT (big blind) collected ($27.60)
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 folded before Flop (didn't bet)
+Seat 5: dumbo2000 (button) folded before Flop (didn't bet)
+Seat 6: dreamtech129 (small blind) folded before Flop
+
+
+PokerStars Game #102604625468:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:42:54 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Scarface.VLT ($613.80 in chips) 
+Seat 2: elvn89 ($240 in chips) 
+Seat 3: monro25 ($226 in chips) 
+Seat 4: onez69 ($231 in chips) 
+Seat 5: dumbo2000 ($240 in chips) 
+Seat 6: dreamtech129 ($664.20 in chips) 
+Scarface.VLT: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+monro25: raises $12 to $18
+onez69: folds 
+dumbo2000: folds 
+dreamtech129: folds 
+Scarface.VLT: folds 
+elvn89: folds 
+Uncalled bet ($12) returned to monro25
+monro25 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT (small blind) folded before Flop
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: monro25 collected ($15)
+Seat 4: onez69 folded before Flop (didn't bet)
+Seat 5: dumbo2000 folded before Flop (didn't bet)
+Seat 6: dreamtech129 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102604636982:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:43:14 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Scarface.VLT ($610.80 in chips) 
+Seat 2: elvn89 ($234 in chips) 
+Seat 3: monro25 ($235 in chips) 
+Seat 4: onez69 ($231 in chips) 
+Seat 5: dumbo2000 ($240 in chips) 
+Seat 6: dreamtech129 ($664.20 in chips) 
+elvn89: posts small blind $3
+monro25: posts big blind $6
+*** HOLE CARDS ***
+onez69: folds 
+dumbo2000: folds 
+dreamtech129: folds 
+Scarface.VLT: folds 
+elvn89: raises $7.02 to $13.02
+monro25: raises $31.02 to $44.04
+elvn89: folds 
+Uncalled bet ($31.02) returned to monro25
+monro25 collected $26.04 from pot
+*** SUMMARY ***
+Total pot $26.04 | Rake $0 
+Seat 1: Scarface.VLT (button) folded before Flop (didn't bet)
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: monro25 (big blind) collected ($26.04)
+Seat 4: onez69 folded before Flop (didn't bet)
+Seat 5: dumbo2000 folded before Flop (didn't bet)
+Seat 6: dreamtech129 folded before Flop (didn't bet)
+
+
+PokerStars Game #102604660718:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:43:53 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Scarface.VLT ($610.80 in chips) 
+Seat 2: elvn89 ($220.98 in chips) 
+Seat 3: monro25 ($248.02 in chips) 
+Seat 4: onez69 ($231 in chips) 
+Seat 5: dumbo2000 ($240 in chips) 
+Seat 6: dreamtech129 ($664.20 in chips) 
+monro25: posts small blind $3
+onez69: posts big blind $6
+*** HOLE CARDS ***
+dumbo2000: folds 
+dreamtech129: raises $7.80 to $13.80
+Scarface.VLT: folds 
+dumbo2000 leaves the table
+elvn89: folds 
+monro25: folds 
+barrao joins the table at seat #5 
+onez69: folds 
+Uncalled bet ($7.80) returned to dreamtech129
+dreamtech129 collected $15 from pot
+dreamtech129: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: monro25 (small blind) folded before Flop
+Seat 4: onez69 (big blind) folded before Flop
+Seat 5: dumbo2000 folded before Flop (didn't bet)
+Seat 6: dreamtech129 collected ($15)
+
+
+PokerStars Game #102604669885:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:44:09 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Scarface.VLT ($610.80 in chips) 
+Seat 2: elvn89 ($220.98 in chips) 
+Seat 3: monro25 ($245.02 in chips) 
+Seat 4: onez69 ($225 in chips) 
+Seat 5: barrao ($240 in chips) 
+Seat 6: dreamtech129 ($673.20 in chips) 
+onez69: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+dreamtech129: folds 
+Scarface.VLT: folds 
+elvn89: raises $7.02 to $13.02
+monro25: folds 
+onez69: folds 
+barrao: folds 
+Uncalled bet ($7.02) returned to elvn89
+elvn89 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: elvn89 collected ($15)
+Seat 3: monro25 (button) folded before Flop (didn't bet)
+Seat 4: onez69 (small blind) folded before Flop
+Seat 5: barrao (big blind) folded before Flop
+Seat 6: dreamtech129 folded before Flop (didn't bet)
+
+
+PokerStars Game #102604696779:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:44:54 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Scarface.VLT ($610.80 in chips) 
+Seat 2: elvn89 ($229.98 in chips) 
+Seat 3: monro25 ($245.02 in chips) 
+Seat 4: onez69 ($222 in chips) 
+Seat 5: barrao ($234 in chips) 
+Seat 6: dreamtech129 ($673.20 in chips) 
+barrao: posts small blind $3
+dreamtech129: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: raises $12 to $18
+elvn89: folds 
+monro25: folds 
+onez69: folds 
+barrao: folds 
+dreamtech129: folds 
+Uncalled bet ($12) returned to Scarface.VLT
+Scarface.VLT collected $15 from pot
+Scarface.VLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT collected ($15)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: dreamtech129 (big blind) folded before Flop
+
+
+PokerStars Game #102604463053:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:38:21 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 3: monro25 ($250 in chips) 
+Seat 4: onez69 ($240 in chips) 
+monro25: posts small blind $3
+onez69: posts big blind $6
+*** HOLE CARDS ***
+dumbo2000 joins the table at seat #5 
+WhatA298 joins the table at seat #2 
+Scarface.VLT: raises $6 to $12
+WhatA298 leaves the table
+monro25: folds 
+VegasMidas leaves the table
+onez69: folds 
+Uncalled bet ($6) returned to Scarface.VLT
+Scarface.VLT collected $15 from pot
+Scarface.VLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT (button) collected ($15)
+Seat 3: monro25 (small blind) folded before Flop
+Seat 4: onez69 (big blind) folded before Flop
+
+
+PokerStars Game #102604473568:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:38:39 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Scarface.VLT ($609 in chips) 
+Seat 3: monro25 ($247 in chips) 
+Seat 4: onez69 ($234 in chips) 
+Seat 5: dumbo2000 ($240 in chips) 
+onez69: posts small blind $3
+dumbo2000: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: raises $6 to $12
+monro25: calls $12
+onez69: folds 
+dreamtech129 joins the table at seat #6 
+dumbo2000: raises $66 to $78
+Scarface.VLT: folds 
+monro25: folds 
+Uncalled bet ($66) returned to dumbo2000
+dumbo2000 collected $39 from pot
+dumbo2000: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $0 
+Seat 1: Scarface.VLT folded before Flop
+Seat 3: monro25 (button) folded before Flop
+Seat 4: onez69 (small blind) folded before Flop
+Seat 5: dumbo2000 (big blind) collected ($39)
+
+
+PokerStars Game #102604496879:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:39:19 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 3: monro25 ($235 in chips) 
+Seat 4: onez69 ($231 in chips) 
+Seat 5: dumbo2000 ($267 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+dumbo2000: posts small blind $3
+dreamtech129: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: folds 
+monro25: folds 
+onez69: folds 
+dumbo2000: raises $9 to $15
+dreamtech129: raises $21 to $36
+dumbo2000: folds 
+Uncalled bet ($21) returned to dreamtech129
+dreamtech129 collected $30 from pot
+dreamtech129: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 (button) folded before Flop (didn't bet)
+Seat 5: dumbo2000 (small blind) folded before Flop
+Seat 6: dreamtech129 (big blind) collected ($30)
+
+
+PokerStars Game #102604509071:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:39:39 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 3: monro25 ($235 in chips) 
+Seat 4: onez69 ($231 in chips) 
+Seat 5: dumbo2000 ($252 in chips) 
+Seat 6: dreamtech129 ($615 in chips) 
+dreamtech129: posts small blind $3
+Scarface.VLT: posts big blind $6
+*** HOLE CARDS ***
+monro25: folds 
+onez69: raises $9 to $15
+dumbo2000: folds 
+dreamtech129: folds 
+Scarface.VLT: folds 
+Uncalled bet ($9) returned to onez69
+onez69 collected $15 from pot
+onez69: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT (big blind) folded before Flop
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 collected ($15)
+Seat 5: dumbo2000 (button) folded before Flop (didn't bet)
+Seat 6: dreamtech129 (small blind) folded before Flop
+
+
+PokerStars Game #102605071682:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:55:12 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($211.98 in chips) 
+Seat 3: monro25 ($209.02 in chips) 
+Seat 4: onez69 ($466.98 in chips) 
+Seat 5: barrao ($576.40 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+onez69: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+dreamtech129: folds 
+Scarface.VLT: folds 
+elvn89: folds 
+monro25: raises $12 to $18
+onez69: folds 
+barrao: folds 
+Uncalled bet ($12) returned to monro25
+monro25 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: monro25 (button) collected ($15)
+Seat 4: onez69 (small blind) folded before Flop
+Seat 5: barrao (big blind) folded before Flop
+Seat 6: dreamtech129 folded before Flop (didn't bet)
+
+
+PokerStars Game #102605090794:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:55:51 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($211.98 in chips) 
+Seat 3: monro25 ($218.02 in chips) 
+Seat 4: onez69 ($463.98 in chips) 
+Seat 5: barrao ($570.40 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+barrao: posts small blind $3
+dreamtech129: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: folds 
+elvn89: folds 
+monro25: folds 
+onez69: raises $9 to $15
+barrao: folds 
+dreamtech129: folds 
+Uncalled bet ($9) returned to onez69
+onez69 collected $15 from pot
+onez69: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 (button) collected ($15)
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: dreamtech129 (big blind) folded before Flop
+
+
+PokerStars Game #102605097707:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:56:06 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($211.98 in chips) 
+Seat 3: monro25 ($218.02 in chips) 
+Seat 4: onez69 ($472.98 in chips) 
+Seat 5: barrao ($567.40 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+dreamtech129: posts small blind $3
+Scarface.VLT: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+monro25: folds 
+onez69: folds 
+barrao: raises $6 to $12
+dreamtech129: folds 
+Scarface.VLT: folds 
+Uncalled bet ($6) returned to barrao
+barrao collected $15 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT (big blind) folded before Flop
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 folded before Flop (didn't bet)
+Seat 5: barrao (button) collected ($15)
+Seat 6: dreamtech129 (small blind) folded before Flop
+
+
+PokerStars Game #102605110325:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:56:33 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($211.98 in chips) 
+Seat 3: monro25 ($218.02 in chips) 
+Seat 4: onez69 ($472.98 in chips) 
+Seat 5: barrao ($576.40 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+Scarface.VLT: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+monro25: folds 
+onez69: folds 
+barrao: raises $6 to $12
+dreamtech129: folds 
+Scarface.VLT: folds 
+elvn89: folds 
+Uncalled bet ($6) returned to barrao
+barrao collected $15 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT (small blind) folded before Flop
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 folded before Flop (didn't bet)
+Seat 5: barrao collected ($15)
+Seat 6: dreamtech129 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102605119725:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:56:53 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($205.98 in chips) 
+Seat 3: monro25 ($218.02 in chips) 
+Seat 4: onez69 ($472.98 in chips) 
+Seat 5: barrao ($585.40 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+elvn89: posts small blind $3
+monro25: posts big blind $6
+*** HOLE CARDS ***
+onez69: raises $9 to $15
+barrao: folds 
+dreamtech129: folds 
+Scarface.VLT: folds 
+elvn89: folds 
+monro25: folds 
+Uncalled bet ($9) returned to onez69
+onez69 collected $15 from pot
+onez69: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT (button) folded before Flop (didn't bet)
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: monro25 (big blind) folded before Flop
+Seat 4: onez69 collected ($15)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: dreamtech129 folded before Flop (didn't bet)
+
+
+PokerStars Game #102605131827:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:57:19 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($202.98 in chips) 
+Seat 3: monro25 ($212.02 in chips) 
+Seat 4: onez69 ($481.98 in chips) 
+Seat 5: barrao ($585.40 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+monro25: posts small blind $3
+onez69: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+dreamtech129: raises $7.80 to $13.80
+Scarface.VLT: folds 
+elvn89: raises $7.80 to $21.60
+monro25: folds 
+onez69: folds 
+dreamtech129: raises $20.40 to $42
+elvn89: raises $160.98 to $202.98 and is all-in
+dreamtech129: folds 
+Uncalled bet ($160.98) returned to elvn89
+elvn89 collected $93 from pot
+*** SUMMARY ***
+Total pot $93 | Rake $0 
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: elvn89 (button) collected ($93)
+Seat 3: monro25 (small blind) folded before Flop
+Seat 4: onez69 (big blind) folded before Flop
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: dreamtech129 folded before Flop
+
+
+PokerStars Game #102605146298:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:57:50 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($253.98 in chips) 
+Seat 3: monro25 ($209.02 in chips) 
+Seat 4: onez69 ($475.98 in chips) 
+Seat 5: barrao ($585.40 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+onez69: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+dreamtech129: folds 
+Scarface.VLT: folds 
+elvn89: folds 
+monro25: raises $12 to $18
+onez69: folds 
+barrao: folds 
+Uncalled bet ($12) returned to monro25
+monro25 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: monro25 (button) collected ($15)
+Seat 4: onez69 (small blind) folded before Flop
+Seat 5: barrao (big blind) folded before Flop
+Seat 6: dreamtech129 folded before Flop (didn't bet)
+
+
+PokerStars Game #102605174171:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:58:48 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($253.98 in chips) 
+Seat 3: monro25 ($218.02 in chips) 
+Seat 4: onez69 ($472.98 in chips) 
+Seat 5: barrao ($579.40 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+barrao: posts small blind $3
+dreamtech129: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: folds 
+elvn89: folds 
+monro25: raises $12 to $18
+onez69: folds 
+barrao: folds 
+dreamtech129: folds 
+Uncalled bet ($12) returned to monro25
+monro25 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: monro25 collected ($15)
+Seat 4: onez69 (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: dreamtech129 (big blind) folded before Flop
+
+
+PokerStars Game #102605183650:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:59:08 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($253.98 in chips) 
+Seat 3: monro25 ($227.02 in chips) 
+Seat 4: onez69 ($472.98 in chips) 
+Seat 5: barrao ($576.40 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+dreamtech129: posts small blind $3
+Scarface.VLT: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+monro25: folds 
+onez69: raises $9 to $15
+barrao: folds 
+dreamtech129: folds 
+Scarface.VLT: folds 
+Uncalled bet ($9) returned to onez69
+onez69 collected $15 from pot
+onez69: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT (big blind) folded before Flop
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 collected ($15)
+Seat 5: barrao (button) folded before Flop (didn't bet)
+Seat 6: dreamtech129 (small blind) folded before Flop
+
+
+PokerStars Game #102605191398:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:59:25 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($253.98 in chips) 
+Seat 3: monro25 ($227.02 in chips) 
+Seat 4: onez69 ($481.98 in chips) 
+Seat 5: barrao ($576.40 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+Scarface.VLT: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+monro25: folds 
+onez69: folds 
+barrao: folds 
+dreamtech129: folds 
+Scarface.VLT: raises $9 to $15
+elvn89: calls $9
+*** FLOP *** [Th 4c 2c]
+Scarface.VLT: checks 
+elvn89: bets $14.32
+Scarface.VLT: calls $14.32
+*** TURN *** [Th 4c 2c] [Ad]
+Scarface.VLT: checks 
+elvn89: bets $28
+Scarface.VLT: folds 
+Uncalled bet ($28) returned to elvn89
+elvn89 collected $56 from pot
+*** SUMMARY ***
+Total pot $58.64 | Rake $2.64 
+Board [Th 4c 2c Ad]
+Seat 1: Scarface.VLT (small blind) folded on the Turn
+Seat 2: elvn89 (big blind) collected ($56)
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: dreamtech129 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102605228154:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:00:35 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($280.66 in chips) 
+Seat 3: monro25 ($227.02 in chips) 
+Seat 4: onez69 ($481.98 in chips) 
+Seat 5: barrao ($576.40 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+elvn89: posts small blind $3
+monro25: posts big blind $6
+*** HOLE CARDS ***
+onez69: raises $9 to $15
+barrao: folds 
+dreamtech129: folds 
+Scarface.VLT: folds 
+elvn89: folds 
+monro25: folds 
+Uncalled bet ($9) returned to onez69
+onez69 collected $15 from pot
+onez69: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT (button) folded before Flop (didn't bet)
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: monro25 (big blind) folded before Flop
+Seat 4: onez69 collected ($15)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: dreamtech129 folded before Flop (didn't bet)
+
+
+PokerStars Game #102605247928:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:01:10 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($277.66 in chips) 
+Seat 3: monro25 ($221.02 in chips) 
+Seat 4: onez69 ($490.98 in chips) 
+Seat 5: barrao ($576.40 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+monro25: posts small blind $3
+onez69: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+dreamtech129: folds 
+Scarface.VLT: folds 
+elvn89: folds 
+monro25: raises $12 to $18
+onez69: calls $12
+*** FLOP *** [Qh 2s Ts]
+monro25: bets $12
+onez69: calls $12
+*** TURN *** [Qh 2s Ts] [Jh]
+monro25: bets $36
+onez69: folds 
+Uncalled bet ($36) returned to monro25
+monro25 collected $57.30 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $2.70 
+Board [Qh 2s Ts Jh]
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: monro25 (small blind) collected ($57.30)
+Seat 4: onez69 (big blind) folded on the Turn
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: dreamtech129 folded before Flop (didn't bet)
+
+
+PokerStars Game #102605276406:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:01:55 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($277.66 in chips) 
+Seat 3: monro25 ($248.32 in chips) 
+Seat 4: onez69 ($460.98 in chips) 
+Seat 5: barrao ($576.40 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+onez69: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+dreamtech129: folds 
+Scarface.VLT: folds 
+elvn89: raises $7.02 to $13.02
+monro25: folds 
+onez69: folds 
+barrao: calls $7.02
+*** FLOP *** [5s 5c 2c]
+barrao: checks 
+elvn89: bets $13.86
+barrao: calls $13.86
+*** TURN *** [5s 5c 2c] [2d]
+barrao: checks 
+elvn89: bets $22.22
+barrao: calls $22.22
+*** RIVER *** [5s 5c 2c 2d] [6h]
+barrao: checks 
+elvn89: bets $49.20
+barrao: calls $49.20
+*** SHOW DOWN ***
+elvn89: shows [Jh 9h] (two pair, Fives and Deuces)
+barrao: shows [Ad Jc] (two pair, Fives and Deuces - Ace kicker)
+barrao collected $196.80 from pot
+*** SUMMARY ***
+Total pot $199.60 | Rake $2.80 
+Board [5s 5c 2c 2d 6h]
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: elvn89 showed [Jh 9h] and lost with two pair, Fives and Deuces
+Seat 3: monro25 (button) folded before Flop (didn't bet)
+Seat 4: onez69 (small blind) folded before Flop
+Seat 5: barrao (big blind) showed [Ad Jc] and won ($196.80) with two pair, Fives and Deuces
+Seat 6: dreamtech129 folded before Flop (didn't bet)
+
+
+PokerStars Game #102605314349:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:02:53 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($179.36 in chips) 
+Seat 3: monro25 ($248.32 in chips) 
+Seat 4: onez69 ($457.98 in chips) 
+Seat 5: barrao ($674.90 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+barrao: posts small blind $3
+dreamtech129: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: folds 
+elvn89: raises $7.02 to $13.02
+monro25: folds 
+onez69: folds 
+barrao: folds 
+dreamtech129: folds 
+Uncalled bet ($7.02) returned to elvn89
+elvn89 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: elvn89 collected ($15)
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: dreamtech129 (big blind) folded before Flop
+
+
+PokerStars Game #102605328656:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:03:14 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($188.36 in chips) 
+Seat 3: monro25 ($248.32 in chips) 
+Seat 4: onez69 ($457.98 in chips) 
+Seat 5: barrao ($671.90 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+dreamtech129: posts small blind $3
+Scarface.VLT: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+monro25: folds 
+onez69: raises $9 to $15
+barrao: folds 
+dreamtech129: folds 
+Scarface.VLT: folds 
+Uncalled bet ($9) returned to onez69
+onez69 collected $15 from pot
+onez69: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT (big blind) folded before Flop
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 collected ($15)
+Seat 5: barrao (button) folded before Flop (didn't bet)
+Seat 6: dreamtech129 (small blind) folded before Flop
+
+
+PokerStars Game #102605338224:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:03:28 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($188.36 in chips) 
+Seat 3: monro25 ($248.32 in chips) 
+Seat 4: onez69 ($466.98 in chips) 
+Seat 5: barrao ($671.90 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+Scarface.VLT: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+monro25: folds 
+onez69: folds 
+barrao: folds 
+dreamtech129: raises $7.80 to $13.80
+Scarface.VLT: folds 
+elvn89: folds 
+Uncalled bet ($7.80) returned to dreamtech129
+dreamtech129 collected $15 from pot
+dreamtech129: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT (small blind) folded before Flop
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: dreamtech129 (button) collected ($15)
+
+
+PokerStars Game #102605358001:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:03:57 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($182.36 in chips) 
+Seat 3: monro25 ($248.32 in chips) 
+Seat 4: onez69 ($466.98 in chips) 
+Seat 5: barrao ($671.90 in chips) 
+Seat 6: dreamtech129 ($609 in chips) 
+elvn89: posts small blind $3
+monro25: posts big blind $6
+*** HOLE CARDS ***
+onez69: folds 
+barrao: folds 
+dreamtech129: folds 
+Scarface.VLT: folds 
+elvn89: raises $7.02 to $13.02
+monro25: calls $7.02
+*** FLOP *** [Th Jh Kc]
+elvn89: checks 
+monro25: bets $12
+elvn89: folds 
+Uncalled bet ($12) returned to monro25
+monro25 collected $24.87 from pot
+*** SUMMARY ***
+Total pot $26.04 | Rake $1.17 
+Board [Th Jh Kc]
+Seat 1: Scarface.VLT (button) folded before Flop (didn't bet)
+Seat 2: elvn89 (small blind) folded on the Flop
+Seat 3: monro25 (big blind) collected ($24.87)
+Seat 4: onez69 folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: dreamtech129 folded before Flop (didn't bet)
+
+
+PokerStars Game #102605392131:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:04:46 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($169.34 in chips) 
+Seat 3: monro25 ($260.17 in chips) 
+Seat 4: onez69 ($466.98 in chips) 
+Seat 5: barrao ($671.90 in chips) 
+Seat 6: dreamtech129 ($609 in chips) 
+monro25: posts small blind $3
+onez69: posts big blind $6
+*** HOLE CARDS ***
+barrao: raises $6 to $12
+dreamtech129: folds 
+Scarface.VLT: folds 
+elvn89: folds 
+monro25: folds 
+onez69: folds 
+Uncalled bet ($6) returned to barrao
+barrao collected $15 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: monro25 (small blind) folded before Flop
+Seat 4: onez69 (big blind) folded before Flop
+Seat 5: barrao collected ($15)
+Seat 6: dreamtech129 folded before Flop (didn't bet)
+
+
+PokerStars Game #102604919825:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:51:01 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 2: elvn89 ($214.98 in chips) 
+Seat 3: monro25 ($218.02 in chips) 
+Seat 4: onez69 ($433.78 in chips) 
+Seat 5: barrao ($558.40 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+elvn89: posts small blind $3
+monro25: posts big blind $6
+*** HOLE CARDS ***
+onez69: folds 
+barrao: folds 
+dreamtech129: folds 
+elvn89: raises $7.02 to $13.02
+monro25: folds 
+Uncalled bet ($7.02) returned to elvn89
+elvn89 collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: elvn89 (small blind) collected ($12)
+Seat 3: monro25 (big blind) folded before Flop
+Seat 4: onez69 folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: dreamtech129 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102604936394:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:51:28 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 2: elvn89 ($220.98 in chips) 
+Seat 3: monro25 ($212.02 in chips) 
+Seat 4: onez69 ($433.78 in chips) 
+Seat 5: barrao ($558.40 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+monro25: posts small blind $3
+onez69: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+dreamtech129: folds 
+elvn89: folds 
+monro25: raises $12 to $18
+onez69: folds 
+Uncalled bet ($12) returned to monro25
+monro25 collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: monro25 (small blind) collected ($12)
+Seat 4: onez69 (big blind) folded before Flop
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: dreamtech129 folded before Flop (didn't bet)
+
+
+PokerStars Game #102604952962:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:51:56 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 2: elvn89 ($220.98 in chips) 
+Seat 3: monro25 ($218.02 in chips) 
+Seat 4: onez69 ($427.78 in chips) 
+Seat 5: barrao ($558.40 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+onez69: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+dreamtech129: folds 
+elvn89: folds 
+monro25: folds 
+onez69: folds 
+Uncalled bet ($3) returned to barrao
+barrao collected $6 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: monro25 (button) folded before Flop (didn't bet)
+Seat 4: onez69 (small blind) folded before Flop
+Seat 5: barrao (big blind) collected ($6)
+Seat 6: dreamtech129 folded before Flop (didn't bet)
+
+
+PokerStars Game #102604962381:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:52:11 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 2: elvn89 ($220.98 in chips) 
+Seat 3: monro25 ($218.02 in chips) 
+Seat 4: onez69 ($424.78 in chips) 
+Seat 5: barrao ($561.40 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+barrao: posts small blind $3
+dreamtech129: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+monro25: folds 
+onez69: raises $9 to $15
+barrao: folds 
+dreamtech129: calls $9
+*** FLOP *** [2s 3s 9h]
+dreamtech129: checks 
+onez69: bets $15
+dreamtech129: calls $15
+*** TURN *** [2s 3s 9h] [Kc]
+dreamtech129: checks 
+onez69: bets $42
+dreamtech129: folds 
+Uncalled bet ($42) returned to onez69
+onez69 collected $60.20 from pot
+onez69: doesn't show hand 
+*** SUMMARY ***
+Total pot $63 | Rake $2.80 
+Board [2s 3s 9h Kc]
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 (button) collected ($60.20)
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: dreamtech129 (big blind) folded on the Turn
+
+
+PokerStars Game #102605005608:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:53:23 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($220.98 in chips) 
+Seat 3: monro25 ($218.02 in chips) 
+Seat 4: onez69 ($454.98 in chips) 
+Seat 5: barrao ($558.40 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+dreamtech129: posts small blind $3
+Scarface.VLT: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+monro25: folds 
+onez69: folds 
+barrao: raises $6 to $12
+dreamtech129: folds 
+Scarface.VLT: folds 
+Uncalled bet ($6) returned to barrao
+barrao collected $15 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT (big blind) folded before Flop
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 folded before Flop (didn't bet)
+Seat 5: barrao (button) collected ($15)
+Seat 6: dreamtech129 (small blind) folded before Flop
+
+
+PokerStars Game #102605022561:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:53:51 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($220.98 in chips) 
+Seat 3: monro25 ($218.02 in chips) 
+Seat 4: onez69 ($454.98 in chips) 
+Seat 5: barrao ($567.40 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+Scarface.VLT: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+monro25: folds 
+onez69: raises $9 to $15
+barrao: folds 
+dreamtech129: folds 
+Scarface.VLT: folds 
+elvn89: folds 
+Uncalled bet ($9) returned to onez69
+onez69 collected $15 from pot
+onez69: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT (small blind) folded before Flop
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 collected ($15)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: dreamtech129 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102605041656:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:54:22 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($214.98 in chips) 
+Seat 3: monro25 ($218.02 in chips) 
+Seat 4: onez69 ($463.98 in chips) 
+Seat 5: barrao ($567.40 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+elvn89: posts small blind $3
+monro25: posts big blind $6
+*** HOLE CARDS ***
+onez69: raises $9 to $15
+barrao: folds 
+dreamtech129: folds 
+Scarface.VLT: folds 
+elvn89: folds 
+monro25: folds 
+Uncalled bet ($9) returned to onez69
+onez69 collected $15 from pot
+onez69: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT (button) folded before Flop (didn't bet)
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: monro25 (big blind) folded before Flop
+Seat 4: onez69 collected ($15)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: dreamtech129 folded before Flop (didn't bet)
+
+
+PokerStars Game #102605050395:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:54:36 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($211.98 in chips) 
+Seat 3: monro25 ($212.02 in chips) 
+Seat 4: onez69 ($472.98 in chips) 
+Seat 5: barrao ($567.40 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+monro25: posts small blind $3
+onez69: posts big blind $6
+*** HOLE CARDS ***
+barrao: raises $9 to $15
+dreamtech129: folds 
+Scarface.VLT: folds 
+elvn89: folds 
+monro25: folds 
+onez69: folds 
+Uncalled bet ($9) returned to barrao
+barrao collected $15 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: monro25 (small blind) folded before Flop
+Seat 4: onez69 (big blind) folded before Flop
+Seat 5: barrao collected ($15)
+Seat 6: dreamtech129 folded before Flop (didn't bet)
+
+
+PokerStars Game #102604712777:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:45:20 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Scarface.VLT ($619.80 in chips) 
+Seat 2: elvn89 ($229.98 in chips) 
+Seat 3: monro25 ($245.02 in chips) 
+Seat 4: onez69 ($222 in chips) 
+Seat 5: barrao ($231 in chips) 
+Seat 6: dreamtech129 ($667.20 in chips) 
+dreamtech129: posts small blind $3
+Scarface.VLT: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+monro25: folds 
+onez69: raises $9 to $15
+barrao: folds 
+dreamtech129: raises $24 to $39
+Scarface.VLT: folds 
+onez69: folds 
+Uncalled bet ($24) returned to dreamtech129
+dreamtech129 collected $36 from pot
+dreamtech129: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $0 
+Seat 1: Scarface.VLT (big blind) folded before Flop
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 folded before Flop
+Seat 5: barrao (button) folded before Flop (didn't bet)
+Seat 6: dreamtech129 (small blind) collected ($36)
+
+
+PokerStars Game #102604744068:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:46:12 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Scarface.VLT ($613.80 in chips) 
+Seat 2: elvn89 ($229.98 in chips) 
+Seat 3: monro25 ($245.02 in chips) 
+Seat 4: onez69 ($207 in chips) 
+Seat 5: barrao ($231 in chips) 
+Seat 6: dreamtech129 ($688.20 in chips) 
+Scarface.VLT: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+monro25: folds 
+onez69: folds 
+barrao: raises $6 to $12
+dreamtech129: folds 
+Scarface.VLT: folds 
+elvn89: folds 
+Uncalled bet ($6) returned to barrao
+barrao collected $15 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT (small blind) folded before Flop
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 folded before Flop (didn't bet)
+Seat 5: barrao collected ($15)
+Seat 6: dreamtech129 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102604760190:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:46:39 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Scarface.VLT ($610.80 in chips) 
+Seat 2: elvn89 ($223.98 in chips) 
+Seat 3: monro25 ($245.02 in chips) 
+Seat 4: onez69 ($207 in chips) 
+Seat 5: barrao ($240 in chips) 
+Seat 6: dreamtech129 ($688.20 in chips) 
+elvn89: posts small blind $3
+monro25: posts big blind $6
+*** HOLE CARDS ***
+onez69: raises $9 to $15
+barrao: folds 
+dreamtech129: folds 
+Scarface.VLT: folds 
+elvn89: folds 
+monro25: folds 
+Uncalled bet ($9) returned to onez69
+onez69 collected $15 from pot
+onez69: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT (button) folded before Flop (didn't bet)
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: monro25 (big blind) folded before Flop
+Seat 4: onez69 collected ($15)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: dreamtech129 folded before Flop (didn't bet)
+
+
+PokerStars Game #102604770184:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:46:55 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Scarface.VLT ($610.80 in chips) 
+Seat 2: elvn89 ($220.98 in chips) 
+Seat 3: monro25 ($239.02 in chips) 
+Seat 4: onez69 ($216 in chips) 
+Seat 5: barrao ($240 in chips) 
+Seat 6: dreamtech129 ($688.20 in chips) 
+monro25: posts small blind $3
+onez69: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+dreamtech129: folds 
+Scarface.VLT: raises $6 to $12
+elvn89: folds 
+monro25: folds 
+onez69: calls $6
+*** FLOP *** [6s 5h Ks]
+onez69: checks 
+Scarface.VLT: checks 
+*** TURN *** [6s 5h Ks] [Kd]
+onez69: checks 
+Scarface.VLT: checks 
+*** RIVER *** [6s 5h Ks Kd] [Td]
+onez69: checks 
+Scarface.VLT: checks 
+*** SHOW DOWN ***
+onez69: shows [Ah 8h] (a pair of Kings)
+Scarface.VLT: mucks hand 
+onez69 collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [6s 5h Ks Kd Td]
+Seat 1: Scarface.VLT mucked
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: monro25 (small blind) folded before Flop
+Seat 4: onez69 (big blind) showed [Ah 8h] and won ($25.78) with a pair of Kings
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: dreamtech129 folded before Flop (didn't bet)
+
+
+PokerStars Game #102604834363:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:48:41 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($220.98 in chips) 
+Seat 3: monro25 ($236.02 in chips) 
+Seat 4: onez69 ($469.78 in chips) 
+Seat 5: barrao ($240 in chips) 
+Seat 6: dreamtech129 ($688.20 in chips) 
+onez69: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+dreamtech129: folds 
+Scarface.VLT: folds 
+elvn89: folds 
+monro25: raises $12 to $18
+onez69: folds 
+barrao: raises $27 to $45
+monro25: folds 
+Uncalled bet ($27) returned to barrao
+barrao collected $39 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $0 
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: monro25 (button) folded before Flop
+Seat 4: onez69 (small blind) folded before Flop
+Seat 5: barrao (big blind) collected ($39)
+Seat 6: dreamtech129 folded before Flop (didn't bet)
+
+
+PokerStars Game #102604857051:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:49:18 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($220.98 in chips) 
+Seat 3: monro25 ($218.02 in chips) 
+Seat 4: onez69 ($466.78 in chips) 
+Seat 5: barrao ($261 in chips) 
+Seat 6: dreamtech129 ($688.20 in chips) 
+barrao: posts small blind $3
+dreamtech129: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: folds 
+elvn89: folds 
+monro25: folds 
+onez69: folds 
+barrao: raises $9 to $15
+dreamtech129: raises $21 to $36
+barrao: raises $225 to $261 and is all-in
+dreamtech129: calls $225
+*** FLOP *** [Qd 3d 8c]
+*** TURN *** [Qd 3d 8c] [Kc]
+*** RIVER *** [Qd 3d 8c Kc] [7c]
+*** SHOW DOWN ***
+barrao: shows [6c Ac] (a flush, Ace high)
+dreamtech129: mucks hand 
+barrao collected $519.20 from pot
+*** SUMMARY ***
+Total pot $522 | Rake $2.80 
+Board [Qd 3d 8c Kc 7c]
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) showed [6c Ac] and won ($519.20) with a flush, Ace high
+Seat 6: dreamtech129 (big blind) mucked
+
+
+PokerStars Game #102604877153:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:49:51 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 2: elvn89 ($220.98 in chips) 
+Seat 3: monro25 ($218.02 in chips) 
+Seat 4: onez69 ($466.78 in chips) 
+Seat 5: barrao ($519.20 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+dreamtech129: posts small blind $3
+Scarface.VLT: is sitting out 
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+monro25: folds 
+onez69: raises $9 to $15
+barrao: calls $15
+dreamtech129: folds 
+elvn89: folds 
+*** FLOP *** [3c Jh 2c]
+onez69: bets $18
+barrao: calls $18
+*** TURN *** [3c Jh 2c] [9c]
+onez69: checks 
+barrao: bets $24
+onez69: folds 
+Uncalled bet ($24) returned to barrao
+barrao collected $72.20 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $75 | Rake $2.80 
+Board [3c Jh 2c 9c]
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 folded on the Turn
+Seat 5: barrao (button) collected ($72.20)
+Seat 6: dreamtech129 (small blind) folded before Flop
+
+
+PokerStars Game #102606070690:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:20:18 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 2: elvn89 ($219 in chips) 
+Seat 4: onez69 ($391.98 in chips) 
+Seat 5: barrao ($768.30 in chips) 
+Seat 6: Azn1nvas1on ($1034.77 in chips) 
+Azn1nvas1on: posts small blind $3
+Scarface.VLT: is sitting out 
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+onez69: raises $9 to $15
+barrao: calls $15
+Azn1nvas1on: folds 
+elvn89: folds 
+*** FLOP *** [5s 2s Td]
+onez69: bets $24
+barrao: calls $24
+*** TURN *** [5s 2s Td] [6c]
+onez69: bets $45
+barrao: calls $45
+*** RIVER *** [5s 2s Td 6c] [Ah]
+Chappolini joins the table at seat #3 
+onez69: bets $150
+barrao: calls $150
+*** SHOW DOWN ***
+onez69: shows [Qs Ac] (a pair of Aces)
+barrao: mucks hand 
+onez69 collected $475.50 from pot
+*** SUMMARY ***
+Total pot $477 | Rake $1.50 
+Board [5s 2s Td 6c Ah]
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 4: onez69 showed [Qs Ac] and won ($475.50) with a pair of Aces
+Seat 5: barrao (button) mucked
+Seat 6: Azn1nvas1on (small blind) folded before Flop
+
+
+PokerStars Game #102606111425:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:21:13 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 2: elvn89 ($213 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: onez69 ($633.48 in chips) 
+Seat 5: barrao ($534.30 in chips) 
+Seat 6: Azn1nvas1on ($1031.77 in chips) 
+elvn89: posts small blind $3
+Chappolini: posts big blind $6
+*** HOLE CARDS ***
+onez69: raises $9 to $15
+barrao: folds 
+Azn1nvas1on: folds 
+elvn89: folds 
+Chappolini: folds 
+Uncalled bet ($9) returned to onez69
+onez69 collected $15 from pot
+onez69: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: Chappolini (big blind) folded before Flop
+Seat 4: onez69 collected ($15)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102606126324:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:21:33 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 2: elvn89 ($210 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 5: barrao ($534.30 in chips) 
+Seat 6: Azn1nvas1on ($1031.77 in chips) 
+Chappolini: posts small blind $3
+onez69: is sitting out 
+barrao: posts big blind $6
+*** HOLE CARDS ***
+onez69 leaves the table
+Azn1nvas1on: raises $12 to $18
+elvn89: folds 
+Chappolini: folds 
+barrao: folds 
+Uncalled bet ($12) returned to Azn1nvas1on
+Azn1nvas1on collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: Chappolini (small blind) folded before Flop
+Seat 5: barrao (big blind) folded before Flop
+Seat 6: Azn1nvas1on collected ($15)
+
+
+PokerStars Game #102606138657:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:21:50 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 2: elvn89 ($210 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 5: barrao ($528.30 in chips) 
+Seat 6: Azn1nvas1on ($1040.77 in chips) 
+barrao: posts small blind $3
+Azn1nvas1on: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+Chappolini: folds 
+barrao: raises $9 to $15
+x_QUIXTAR_x joins the table at seat #4 
+x_QUIXTAR_x leaves the table
+Azn1nvas1on: raises $33 to $48
+barrao: raises $48 to $96
+Azn1nvas1on: folds 
+Uncalled bet ($48) returned to barrao
+barrao collected $96 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $96 | Rake $0 
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) collected ($96)
+Seat 6: Azn1nvas1on (big blind) folded before Flop
+
+
+PokerStars Game #102606173283:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:22:37 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 2: elvn89 ($210 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 5: barrao ($576.30 in chips) 
+Seat 6: Azn1nvas1on ($992.77 in chips) 
+Azn1nvas1on: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+Chappolini: raises $9 to $15
+jdapollo joins the table at seat #4 
+barrao: folds 
+Azn1nvas1on: folds 
+elvn89: folds 
+Uncalled bet ($9) returned to Chappolini
+Chappolini collected $15 from pot
+Chappolini: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: Chappolini collected ($15)
+Seat 5: barrao (button) folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on (small blind) folded before Flop
+
+
+PokerStars Game #102606187711:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:22:56 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 2: elvn89 ($204 in chips) 
+Seat 3: Chappolini ($609 in chips) 
+Seat 5: barrao ($576.30 in chips) 
+Seat 6: Azn1nvas1on ($989.77 in chips) 
+elvn89: posts small blind $3
+Chappolini: posts big blind $6
+jdapollo: sits out 
+*** HOLE CARDS ***
+barrao: folds 
+Azn1nvas1on: folds 
+elvn89: raises $7.02 to $13.02
+Chappolini: folds 
+Uncalled bet ($7.02) returned to elvn89
+elvn89 collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: elvn89 (small blind) collected ($12)
+Seat 3: Chappolini (big blind) folded before Flop
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102606198915:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:23:11 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 2: elvn89 ($210 in chips) 
+Seat 3: Chappolini ($603 in chips) 
+Seat 4: jdapollo ($600 in chips) 
+Seat 5: barrao ($576.30 in chips) 
+Seat 6: Azn1nvas1on ($989.77 in chips) 
+Chappolini: posts small blind $3
+jdapollo: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+Azn1nvas1on: raises $12 to $18
+elvn89: folds 
+Chappolini: folds 
+jdapollo: calls $12
+*** FLOP *** [9s 7d 8h]
+jdapollo: checks 
+Azn1nvas1on: bets $27
+jdapollo: folds 
+Uncalled bet ($27) returned to Azn1nvas1on
+Azn1nvas1on collected $37.24 from pot
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [9s 7d 8h]
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: Chappolini (small blind) folded before Flop
+Seat 4: jdapollo (big blind) folded on the Flop
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on collected ($37.24)
+
+
+PokerStars Game #102606229636:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:23:53 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 2: elvn89 ($210 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($582 in chips) 
+Seat 6: Azn1nvas1on ($1009.01 in chips) 
+jdapollo: posts small blind $3
+barrao: is sitting out 
+Azn1nvas1on: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+Chappolini: folds 
+jdapollo: folds 
+Uncalled bet ($3) returned to Azn1nvas1on
+Azn1nvas1on collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini (button) folded before Flop (didn't bet)
+Seat 4: jdapollo (small blind) folded before Flop
+Seat 6: Azn1nvas1on (big blind) collected ($6)
+
+
+PokerStars Game #102606245333:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:24:14 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 2: elvn89 ($210 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($600 in chips) 
+Seat 6: Azn1nvas1on ($1012.01 in chips) 
+barrao will be allowed to play after the button
+Azn1nvas1on: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+Chappolini: folds 
+jdapollo: raises $12 to $18
+Azn1nvas1on: folds 
+elvn89: folds 
+Uncalled bet ($12) returned to jdapollo
+jdapollo collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: jdapollo (button) collected ($15)
+Seat 6: Azn1nvas1on (small blind) folded before Flop
+
+
+PokerStars Game #102606256273:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:24:29 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 2: elvn89 ($204 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($609 in chips) 
+Seat 6: Azn1nvas1on ($1009.01 in chips) 
+elvn89: posts small blind $3
+Chappolini: posts big blind $6
+barrao: sits out 
+*** HOLE CARDS ***
+jdapollo: folds 
+Azn1nvas1on: folds 
+elvn89: raises $7.02 to $13.02
+Chappolini: calls $7.02
+*** FLOP *** [7h Qs Kd]
+elvn89: checks 
+Chappolini: checks 
+*** TURN *** [7h Qs Kd] [5s]
+elvn89: checks 
+Chappolini: checks 
+*** RIVER *** [7h Qs Kd 5s] [4h]
+elvn89: checks 
+Chappolini: checks 
+*** SHOW DOWN ***
+elvn89: shows [9c 3h] (high card King)
+Chappolini: shows [2d Ad] (high card Ace)
+Chappolini collected $24.87 from pot
+*** SUMMARY ***
+Total pot $26.04 | Rake $1.17 
+Board [7h Qs Kd 5s 4h]
+Seat 2: elvn89 (small blind) showed [9c 3h] and lost with high card King
+Seat 3: Chappolini (big blind) showed [2d Ad] and won ($24.87) with high card Ace
+Seat 4: jdapollo folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102605877051:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:16:00 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Scarface.VLT ($726.20 in chips) 
+Seat 2: elvn89 ($228 in chips) 
+Seat 3: monro25 ($356.37 in chips) 
+Seat 4: onez69 ($412.98 in chips) 
+Seat 5: barrao ($819.30 in chips) 
+Seat 6: Azn1nvas1on ($600 in chips) 
+Scarface.VLT: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+monro25: folds 
+onez69: folds 
+barrao: folds 
+Azn1nvas1on: raises $6 to $12
+Scarface.VLT: folds 
+elvn89: folds 
+Uncalled bet ($6) returned to Azn1nvas1on
+Azn1nvas1on collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT (small blind) folded before Flop
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on (button) collected ($15)
+
+
+PokerStars Game #102605903993:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:16:36 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Scarface.VLT ($723.20 in chips) 
+Seat 2: elvn89 ($222 in chips) 
+Seat 3: monro25 ($356.37 in chips) 
+Seat 4: onez69 ($412.98 in chips) 
+Seat 5: barrao ($819.30 in chips) 
+Seat 6: Azn1nvas1on ($609 in chips) 
+elvn89: posts small blind $3
+monro25: posts big blind $6
+*** HOLE CARDS ***
+onez69: raises $9 to $15
+barrao: folds 
+Azn1nvas1on: raises $33 to $48
+Scarface.VLT: folds 
+elvn89: folds 
+monro25: folds 
+onez69: folds 
+Uncalled bet ($33) returned to Azn1nvas1on
+Azn1nvas1on collected $39 from pot
+*** SUMMARY ***
+Total pot $39 | Rake $0 
+Seat 1: Scarface.VLT (button) folded before Flop (didn't bet)
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: monro25 (big blind) folded before Flop
+Seat 4: onez69 folded before Flop
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on collected ($39)
+
+
+PokerStars Game #102605931639:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:17:13 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Scarface.VLT ($723.20 in chips) 
+Seat 2: elvn89 ($219 in chips) 
+Seat 3: monro25 ($350.37 in chips) 
+Seat 4: onez69 ($397.98 in chips) 
+Seat 5: barrao ($819.30 in chips) 
+Seat 6: Azn1nvas1on ($633 in chips) 
+monro25: posts small blind $3
+onez69: posts big blind $6
+*** HOLE CARDS ***
+barrao: raises $9 to $15
+Azn1nvas1on: raises $39 to $54
+Scarface.VLT: folds 
+elvn89: folds 
+monro25: calls $51
+onez69: folds 
+barrao: folds 
+*** FLOP *** [6d 9s 7h]
+monro25: checks 
+Azn1nvas1on: checks 
+*** TURN *** [6d 9s 7h] [8s]
+monro25: bets $72
+Azn1nvas1on: calls $72
+*** RIVER *** [6d 9s 7h 8s] [Qh]
+monro25: checks 
+Azn1nvas1on: bets $507 and is all-in
+monro25: calls $224.37 and is all-in
+Uncalled bet ($282.63) returned to Azn1nvas1on
+*** SHOW DOWN ***
+Azn1nvas1on: shows [Ts Ad] (a straight, Six to Ten)
+monro25: mucks hand 
+Azn1nvas1on collected $718.94 from pot
+*** SUMMARY ***
+Total pot $721.74 | Rake $2.80 
+Board [6d 9s 7h 8s Qh]
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: monro25 (small blind) mucked
+Seat 4: onez69 (big blind) folded before Flop
+Seat 5: barrao folded before Flop
+Seat 6: Azn1nvas1on showed [Ts Ad] and won ($718.94) with a straight, Six to Ten
+
+
+PokerStars Game #102606034240:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:19:29 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Scarface.VLT ($723.20 in chips) 
+Seat 2: elvn89 ($219 in chips) 
+Seat 4: onez69 ($391.98 in chips) 
+Seat 5: barrao ($804.30 in chips) 
+Seat 6: Azn1nvas1on ($1001.57 in chips) 
+barrao: posts small blind $3
+Azn1nvas1on: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: folds 
+elvn89: folds 
+onez69: folds 
+monro25 leaves the table
+barrao: raises $9 to $15
+Azn1nvas1on: calls $9
+*** FLOP *** [Ts Qc 7d]
+barrao: bets $21
+Azn1nvas1on: calls $21
+*** TURN *** [Ts Qc 7d] [8s]
+barrao: checks 
+Azn1nvas1on: checks 
+*** RIVER *** [Ts Qc 7d 8s] [6s]
+barrao: checks 
+Azn1nvas1on: checks 
+*** SHOW DOWN ***
+barrao: shows [Jd Qd] (a pair of Queens)
+Azn1nvas1on: shows [6c 7c] (two pair, Sevens and Sixes)
+Azn1nvas1on collected $69.20 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $2.80 
+Board [Ts Qc 7d 8s 6s]
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 4: onez69 (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) showed [Jd Qd] and lost with a pair of Queens
+Seat 6: Azn1nvas1on (big blind) showed [6c 7c] and won ($69.20) with two pair, Sevens and Sixes
+
+
+PokerStars Game #102605664009:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:11:08 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($237 in chips) 
+Seat 3: monro25 ($356.37 in chips) 
+Seat 4: onez69 ($451.98 in chips) 
+Seat 5: barrao ($795.10 in chips) 
+Azn1nvas1on will be allowed to play after the button
+Scarface.VLT: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+monro25: folds 
+onez69: folds 
+barrao: raises $6 to $12
+Scarface.VLT: raises $30 to $42
+elvn89: folds 
+barrao: folds 
+Uncalled bet ($30) returned to Scarface.VLT
+Scarface.VLT collected $30 from pot
+Scarface.VLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: Scarface.VLT (small blind) collected ($30)
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 folded before Flop (didn't bet)
+Seat 5: barrao (button) folded before Flop
+
+
+PokerStars Game #102605684596:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:11:37 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Scarface.VLT ($618 in chips) 
+Seat 2: elvn89 ($231 in chips) 
+Seat 3: monro25 ($356.37 in chips) 
+Seat 4: onez69 ($451.98 in chips) 
+Seat 5: barrao ($783.10 in chips) 
+elvn89: posts small blind $3
+monro25: posts big blind $6
+Azn1nvas1on: sits out 
+*** HOLE CARDS ***
+onez69: folds 
+barrao: raises $9 to $15
+Scarface.VLT: folds 
+elvn89: folds 
+monro25: folds 
+Uncalled bet ($9) returned to barrao
+barrao collected $15 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT (button) folded before Flop (didn't bet)
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: monro25 (big blind) folded before Flop
+Seat 4: onez69 folded before Flop (didn't bet)
+Seat 5: barrao collected ($15)
+
+
+PokerStars Game #102605697086:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:11:54 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Scarface.VLT ($618 in chips) 
+Seat 2: elvn89 ($228 in chips) 
+Seat 3: monro25 ($350.37 in chips) 
+Seat 4: onez69 ($451.98 in chips) 
+Seat 5: barrao ($792.10 in chips) 
+monro25: posts small blind $3
+onez69: posts big blind $6
+Azn1nvas1on: sits out 
+*** HOLE CARDS ***
+barrao: folds 
+Scarface.VLT: raises $6 to $12
+elvn89: folds 
+monro25: folds 
+onez69: folds 
+Uncalled bet ($6) returned to Scarface.VLT
+Scarface.VLT collected $15 from pot
+Scarface.VLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT collected ($15)
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: monro25 (small blind) folded before Flop
+Seat 4: onez69 (big blind) folded before Flop
+Seat 5: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102605709159:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:12:11 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Scarface.VLT ($627 in chips) 
+Seat 2: elvn89 ($228 in chips) 
+Seat 3: monro25 ($347.37 in chips) 
+Seat 4: onez69 ($445.98 in chips) 
+Seat 5: barrao ($792.10 in chips) 
+onez69: posts small blind $3
+barrao: posts big blind $6
+Azn1nvas1on: sits out 
+*** HOLE CARDS ***
+Scarface.VLT: folds 
+elvn89: folds 
+monro25: folds 
+onez69: raises $9 to $15
+barrao: calls $9
+*** FLOP *** [Ks 8s 9c]
+onez69 has timed out
+onez69: checks 
+barrao: checks 
+*** TURN *** [Ks 8s 9c] [Th]
+onez69: checks 
+barrao: bets $18
+onez69: calls $18
+*** RIVER *** [Ks 8s 9c Th] [2d]
+onez69: checks 
+barrao: bets $81
+onez69: folds 
+Uncalled bet ($81) returned to barrao
+barrao collected $63.20 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $66 | Rake $2.80 
+Board [Ks 8s 9c Th 2d]
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: monro25 (button) folded before Flop (didn't bet)
+Seat 4: onez69 (small blind) folded on the River
+Seat 5: barrao (big blind) collected ($63.20)
+
+
+PokerStars Game #102605802776:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:14:20 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Scarface.VLT ($627 in chips) 
+Seat 2: elvn89 ($228 in chips) 
+Seat 3: monro25 ($347.37 in chips) 
+Seat 4: onez69 ($412.98 in chips) 
+Seat 5: barrao ($822.30 in chips) 
+Seat 6: Azn1nvas1on ($600 in chips) 
+barrao: posts small blind $3
+Azn1nvas1on: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: folds 
+elvn89: folds 
+monro25: raises $12 to $18
+onez69: folds 
+barrao: folds 
+Azn1nvas1on: folds 
+Uncalled bet ($12) returned to monro25
+monro25 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: monro25 collected ($15)
+Seat 4: onez69 (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: Azn1nvas1on (big blind) folded before Flop
+
+
+PokerStars Game #102605822320:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:14:46 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Scarface.VLT ($627 in chips) 
+Seat 2: elvn89 ($228 in chips) 
+Seat 3: monro25 ($356.37 in chips) 
+Seat 4: onez69 ($412.98 in chips) 
+Seat 5: barrao ($819.30 in chips) 
+Seat 6: Azn1nvas1on ($600 in chips) 
+Azn1nvas1on: posts small blind $3
+Scarface.VLT: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+monro25: folds 
+onez69: folds 
+barrao: folds 
+Azn1nvas1on: raises $12 to $18
+Scarface.VLT: calls $12
+*** FLOP *** [4d 5c Qc]
+Azn1nvas1on: bets $24
+Scarface.VLT: calls $24
+*** TURN *** [4d 5c Qc] [Jd]
+Azn1nvas1on: bets $60
+Scarface.VLT: calls $60
+*** RIVER *** [4d 5c Qc Jd] [2h]
+Azn1nvas1on: checks 
+Scarface.VLT: checks 
+*** SHOW DOWN ***
+Azn1nvas1on: shows [6h 5h] (a pair of Fives)
+Scarface.VLT: shows [9s Qd] (a pair of Queens)
+Scarface.VLT collected $201.20 from pot
+*** SUMMARY ***
+Total pot $204 | Rake $2.80 
+Board [4d 5c Qc Jd 2h]
+Seat 1: Scarface.VLT (big blind) showed [9s Qd] and won ($201.20) with a pair of Queens
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 folded before Flop (didn't bet)
+Seat 5: barrao (button) folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on (small blind) showed [6h 5h] and lost with a pair of Fives
+
+
+PokerStars Game #102605403385:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:05:02 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($169.34 in chips) 
+Seat 3: monro25 ($257.17 in chips) 
+Seat 4: onez69 ($460.98 in chips) 
+Seat 5: barrao ($680.90 in chips) 
+Seat 6: dreamtech129 ($609 in chips) 
+onez69: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+dreamtech129: folds 
+Scarface.VLT: folds 
+elvn89: folds 
+monro25: raises $12 to $18
+onez69: folds 
+barrao: folds 
+Uncalled bet ($12) returned to monro25
+monro25 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: monro25 (button) collected ($15)
+Seat 4: onez69 (small blind) folded before Flop
+Seat 5: barrao (big blind) folded before Flop
+Seat 6: dreamtech129 folded before Flop (didn't bet)
+
+
+PokerStars Game #102605418115:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:05:23 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($169.34 in chips) 
+Seat 3: monro25 ($266.17 in chips) 
+Seat 4: onez69 ($457.98 in chips) 
+Seat 5: barrao ($674.90 in chips) 
+Seat 6: dreamtech129 ($609 in chips) 
+barrao: posts small blind $3
+dreamtech129: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: folds 
+elvn89: folds 
+monro25: folds 
+onez69: raises $9 to $15
+barrao: raises $24 to $39
+dreamtech129: raises $57 to $96
+onez69: folds 
+barrao: calls $57
+*** FLOP *** [2s Jd 2c]
+barrao: checks 
+dreamtech129: bets $114
+barrao: calls $114
+*** TURN *** [2s Jd 2c] [Js]
+barrao: checks 
+dreamtech129: checks 
+*** RIVER *** [2s Jd 2c Js] [Th]
+barrao: bets $117
+dreamtech129: folds 
+Uncalled bet ($117) returned to barrao
+barrao collected $432.20 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $435 | Rake $2.80 
+Board [2s Jd 2c Js Th]
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 (button) folded before Flop
+Seat 5: barrao (small blind) collected ($432.20)
+Seat 6: dreamtech129 (big blind) folded on the River
+
+
+PokerStars Game #102605518261:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:07:44 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($169.34 in chips) 
+Seat 3: monro25 ($266.17 in chips) 
+Seat 4: onez69 ($442.98 in chips) 
+Seat 5: barrao ($897.10 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+dreamtech129: posts small blind $3
+Scarface.VLT: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+monro25: folds 
+onez69: folds 
+barrao: folds 
+dreamtech129: folds 
+Uncalled bet ($3) returned to Scarface.VLT
+Scarface.VLT collected $6 from pot
+Scarface.VLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Scarface.VLT (big blind) collected ($6)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 folded before Flop (didn't bet)
+Seat 5: barrao (button) folded before Flop (didn't bet)
+Seat 6: dreamtech129 (small blind) folded before Flop
+
+
+PokerStars Game #102605529159:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:08:00 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Scarface.VLT ($603 in chips) 
+Seat 2: elvn89 ($169.34 in chips) 
+Seat 3: monro25 ($266.17 in chips) 
+Seat 4: onez69 ($442.98 in chips) 
+Seat 5: barrao ($897.10 in chips) 
+Seat 6: dreamtech129 ($600 in chips) 
+Scarface.VLT: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+monro25: folds 
+onez69: folds 
+barrao: folds 
+dreamtech129: raises $7.80 to $13.80
+Scarface.VLT: folds 
+elvn89: folds 
+Uncalled bet ($7.80) returned to dreamtech129
+dreamtech129 collected $15 from pot
+dreamtech129: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT (small blind) folded before Flop
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: monro25 folded before Flop (didn't bet)
+Seat 4: onez69 folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: dreamtech129 (button) collected ($15)
+
+
+PokerStars Game #102605539551:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:08:14 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($240 in chips) 
+Seat 3: monro25 ($266.17 in chips) 
+Seat 4: onez69 ($442.98 in chips) 
+Seat 5: barrao ($897.10 in chips) 
+Seat 6: dreamtech129 ($609 in chips) 
+elvn89: posts small blind $3
+monro25: posts big blind $6
+*** HOLE CARDS ***
+onez69: folds 
+barrao: folds 
+dreamtech129: raises $7.80 to $13.80
+Scarface.VLT: folds 
+elvn89: folds 
+monro25: folds 
+Uncalled bet ($7.80) returned to dreamtech129
+dreamtech129 collected $15 from pot
+dreamtech129: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Scarface.VLT (button) folded before Flop (didn't bet)
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: monro25 (big blind) folded before Flop
+Seat 4: onez69 folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: dreamtech129 collected ($15)
+
+
+PokerStars Game #102605554984:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:08:36 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($237 in chips) 
+Seat 3: monro25 ($260.17 in chips) 
+Seat 4: onez69 ($442.98 in chips) 
+Seat 5: barrao ($897.10 in chips) 
+Seat 6: dreamtech129 ($618 in chips) 
+monro25: posts small blind $3
+onez69: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+dreamtech129: folds 
+Scarface.VLT: folds 
+elvn89: folds 
+monro25: folds 
+Uncalled bet ($3) returned to onez69
+onez69 collected $6 from pot
+onez69: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: monro25 (small blind) folded before Flop
+Seat 4: onez69 (big blind) collected ($6)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: dreamtech129 folded before Flop (didn't bet)
+
+
+PokerStars Game #102605570017:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:08:57 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($237 in chips) 
+Seat 3: monro25 ($257.17 in chips) 
+Seat 4: onez69 ($445.98 in chips) 
+Seat 5: barrao ($897.10 in chips) 
+Seat 6: dreamtech129 ($618 in chips) 
+onez69: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+dreamtech129: folds 
+Scarface.VLT: folds 
+dreamtech129 leaves the table
+elvn89: folds 
+monro25: folds 
+onez69: raises $9 to $15
+barrao: folds 
+Uncalled bet ($9) returned to onez69
+onez69 collected $12 from pot
+onez69: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: monro25 (button) folded before Flop (didn't bet)
+Seat 4: onez69 (small blind) collected ($12)
+Seat 5: barrao (big blind) folded before Flop
+Seat 6: dreamtech129 folded before Flop (didn't bet)
+
+
+PokerStars Game #102605587139:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:09:21 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: elvn89 ($237 in chips) 
+Seat 3: monro25 ($257.17 in chips) 
+Seat 4: onez69 ($451.98 in chips) 
+Seat 5: barrao ($891.10 in chips) 
+barrao: posts small blind $3
+Scarface.VLT: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+monro25: raises $12 to $18
+onez69: folds 
+Azn1nvas1on joins the table at seat #6 
+barrao: raises $24 to $42
+Scarface.VLT: folds 
+monro25: calls $24
+*** FLOP *** [Qd 5h 4c]
+barrao: checks 
+monro25: checks 
+*** TURN *** [Qd 5h 4c] [Qh]
+barrao: checks 
+monro25: bets $54
+barrao: calls $54
+*** RIVER *** [Qd 5h 4c Qh] [6d]
+barrao: checks 
+monro25: bets $161.17 and is all-in
+barrao: folds 
+Uncalled bet ($161.17) returned to monro25
+monro25 collected $195.20 from pot
+*** SUMMARY ***
+Total pot $198 | Rake $2.80 
+Board [Qd 5h 4c Qh 6d]
+Seat 1: Scarface.VLT (big blind) folded before Flop
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: monro25 collected ($195.20)
+Seat 4: onez69 (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) folded on the River
+
+
+PokerStars Game #102607011080:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:40:47 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: LuckyMorkva ($648 in chips) 
+Seat 2: elvn89 ($231.89 in chips) 
+Seat 3: Chappolini ($606 in chips) 
+Seat 4: jdapollo ($631.70 in chips) 
+Seat 5: barrao ($952.66 in chips) 
+Seat 6: Azn1nvas1on ($730.90 in chips) 
+elvn89: posts small blind $3
+Chappolini: posts big blind $6
+*** HOLE CARDS ***
+jdapollo: folds 
+barrao: folds 
+Azn1nvas1on: folds 
+LuckyMorkva: raises $6 to $12
+elvn89: folds 
+Chappolini: folds 
+Uncalled bet ($6) returned to LuckyMorkva
+LuckyMorkva collected $15 from pot
+LuckyMorkva: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyMorkva (button) collected ($15)
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: Chappolini (big blind) folded before Flop
+Seat 4: jdapollo folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on folded before Flop (didn't bet)
+
+
+PokerStars Game #102607030223:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:41:11 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: LuckyMorkva ($657 in chips) 
+Seat 2: elvn89 ($228.89 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($631.70 in chips) 
+Seat 5: barrao ($952.66 in chips) 
+Seat 6: Azn1nvas1on ($730.90 in chips) 
+Chappolini: posts small blind $3
+jdapollo: posts big blind $6
+*** HOLE CARDS ***
+barrao: raises $6 to $12
+Azn1nvas1on: folds 
+LuckyMorkva: calls $12
+elvn89: folds 
+Chappolini: folds 
+jdapollo: folds 
+*** FLOP *** [5h Kc 5d]
+barrao: bets $15
+LuckyMorkva: folds 
+Uncalled bet ($15) returned to barrao
+barrao collected $31.52 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $1.48 
+Board [5h Kc 5d]
+Seat 1: LuckyMorkva folded on the Flop
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: Chappolini (small blind) folded before Flop
+Seat 4: jdapollo (big blind) folded before Flop
+Seat 5: barrao collected ($31.52)
+Seat 6: Azn1nvas1on folded before Flop (didn't bet)
+
+
+PokerStars Game #102607059868:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:41:49 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: LuckyMorkva ($645 in chips) 
+Seat 2: elvn89 ($228.89 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($625.70 in chips) 
+Seat 5: barrao ($972.18 in chips) 
+Seat 6: Azn1nvas1on ($730.90 in chips) 
+jdapollo: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Azn1nvas1on: raises $12 to $18
+LuckyMorkva: raises $36 to $54
+elvn89: folds 
+Chappolini: folds 
+jdapollo: folds 
+barrao: folds 
+Azn1nvas1on: raises $69 to $123
+LuckyMorkva: folds 
+Uncalled bet ($69) returned to Azn1nvas1on
+Azn1nvas1on collected $117 from pot
+*** SUMMARY ***
+Total pot $117 | Rake $0 
+Seat 1: LuckyMorkva folded before Flop
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini (button) folded before Flop (didn't bet)
+Seat 4: jdapollo (small blind) folded before Flop
+Seat 5: barrao (big blind) folded before Flop
+Seat 6: Azn1nvas1on collected ($117)
+
+
+PokerStars Game #102607110252:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:42:53 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: LuckyMorkva ($600 in chips) 
+Seat 2: elvn89 ($228.89 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($622.70 in chips) 
+Seat 5: barrao ($966.18 in chips) 
+Seat 6: Azn1nvas1on ($793.90 in chips) 
+barrao: posts small blind $3
+Azn1nvas1on: posts big blind $6
+*** HOLE CARDS ***
+LuckyMorkva: raises $12 to $18
+elvn89: folds 
+Chappolini: folds 
+jdapollo: calls $18
+barrao: folds 
+Azn1nvas1on: folds 
+*** FLOP *** [Jc Jd 6s]
+LuckyMorkva: bets $30
+jdapollo: folds 
+Uncalled bet ($30) returned to LuckyMorkva
+LuckyMorkva collected $42.98 from pot
+LuckyMorkva: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $2.02 
+Board [Jc Jd 6s]
+Seat 1: LuckyMorkva collected ($42.98)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: jdapollo (button) folded on the Flop
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: Azn1nvas1on (big blind) folded before Flop
+
+
+PokerStars Game #102607140401:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:43:32 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: LuckyMorkva ($624.98 in chips) 
+Seat 2: elvn89 ($228.89 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($604.70 in chips) 
+Seat 5: barrao ($963.18 in chips) 
+Seat 6: Azn1nvas1on ($787.90 in chips) 
+Azn1nvas1on: posts small blind $3
+LuckyMorkva: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+Chappolini: folds 
+jdapollo: raises $12 to $18
+barrao: folds 
+Azn1nvas1on: folds 
+LuckyMorkva: folds 
+Uncalled bet ($12) returned to jdapollo
+jdapollo collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyMorkva (big blind) folded before Flop
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: jdapollo collected ($15)
+Seat 5: barrao (button) folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on (small blind) folded before Flop
+
+
+PokerStars Game #102607166847:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:44:06 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: LuckyMorkva ($618.98 in chips) 
+Seat 2: elvn89 ($228.89 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($613.70 in chips) 
+Seat 5: barrao ($963.18 in chips) 
+Seat 6: Azn1nvas1on ($784.90 in chips) 
+LuckyMorkva: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+Chappolini: folds 
+jdapollo: folds 
+barrao: folds 
+Azn1nvas1on: raises $6 to $12
+LuckyMorkva: folds 
+elvn89: folds 
+Uncalled bet ($6) returned to Azn1nvas1on
+Azn1nvas1on collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyMorkva (small blind) folded before Flop
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: jdapollo folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on (button) collected ($15)
+
+
+PokerStars Game #102607190260:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:44:36 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: LuckyMorkva ($615.98 in chips) 
+Seat 2: elvn89 ($222.89 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($613.70 in chips) 
+Seat 5: barrao ($963.18 in chips) 
+Seat 6: Azn1nvas1on ($793.90 in chips) 
+elvn89: posts small blind $3
+Chappolini: posts big blind $6
+*** HOLE CARDS ***
+jdapollo has timed out
+jdapollo: folds 
+barrao: folds 
+Azn1nvas1on: folds 
+LuckyMorkva: raises $6 to $12
+elvn89: raises $6 to $18
+Chappolini: folds 
+LuckyMorkva: calls $6
+*** FLOP *** [9h 2h 3c]
+elvn89: bets $20.05
+LuckyMorkva: calls $20.05
+*** TURN *** [9h 2h 3c] [Js]
+elvn89: bets $32.51
+LuckyMorkva: calls $32.51
+*** RIVER *** [9h 2h 3c Js] [8s]
+elvn89: bets $59.17
+LuckyMorkva: calls $59.17
+*** SHOW DOWN ***
+elvn89: shows [Ah Td] (high card Ace)
+LuckyMorkva: shows [Jh 6h] (a pair of Jacks)
+LuckyMorkva collected $262.66 from pot
+*** SUMMARY ***
+Total pot $265.46 | Rake $2.80 
+Board [9h 2h 3c Js 8s]
+Seat 1: LuckyMorkva (button) showed [Jh 6h] and won ($262.66) with a pair of Jacks
+Seat 2: elvn89 (small blind) showed [Ah Td] and lost with high card Ace
+Seat 3: Chappolini (big blind) folded before Flop
+Seat 4: jdapollo folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on folded before Flop (didn't bet)
+
+
+PokerStars Game #102606745379:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:35:07 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: LuckyMorkva ($600 in chips) 
+Seat 2: elvn89 ($240 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($640.70 in chips) 
+Seat 5: barrao ($886.46 in chips) 
+Seat 6: Azn1nvas1on ($832.01 in chips) 
+Azn1nvas1on: posts small blind $3
+LuckyMorkva: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+Chappolini: folds 
+jdapollo: folds 
+barrao: folds 
+Azn1nvas1on: folds 
+Uncalled bet ($3) returned to LuckyMorkva
+LuckyMorkva collected $6 from pot
+LuckyMorkva: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: LuckyMorkva (big blind) collected ($6)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: jdapollo folded before Flop (didn't bet)
+Seat 5: barrao (button) folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on (small blind) folded before Flop
+
+
+PokerStars Game #102606764367:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:35:31 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: LuckyMorkva ($603 in chips) 
+Seat 2: elvn89 ($240 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($640.70 in chips) 
+Seat 5: barrao ($886.46 in chips) 
+Seat 6: Azn1nvas1on ($829.01 in chips) 
+LuckyMorkva: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+Chappolini: folds 
+jdapollo: folds 
+barrao: raises $9 to $15
+Azn1nvas1on: calls $15
+LuckyMorkva: raises $60 to $75
+elvn89: folds 
+barrao: folds 
+Azn1nvas1on: folds 
+Uncalled bet ($60) returned to LuckyMorkva
+LuckyMorkva collected $51 from pot
+LuckyMorkva: doesn't show hand 
+*** SUMMARY ***
+Total pot $51 | Rake $0 
+Seat 1: LuckyMorkva (small blind) collected ($51)
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: jdapollo folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop
+Seat 6: Azn1nvas1on (button) folded before Flop
+
+
+PokerStars Game #102606805622:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:36:24 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: LuckyMorkva ($639 in chips) 
+Seat 2: elvn89 ($234 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($640.70 in chips) 
+Seat 5: barrao ($871.46 in chips) 
+Seat 6: Azn1nvas1on ($814.01 in chips) 
+elvn89: posts small blind $3
+Chappolini: posts big blind $6
+*** HOLE CARDS ***
+jdapollo: folds 
+barrao: folds 
+Azn1nvas1on: folds 
+LuckyMorkva: raises $6 to $12
+elvn89: folds 
+Chappolini: folds 
+Uncalled bet ($6) returned to LuckyMorkva
+LuckyMorkva collected $15 from pot
+LuckyMorkva: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyMorkva (button) collected ($15)
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: Chappolini (big blind) folded before Flop
+Seat 4: jdapollo folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on folded before Flop (didn't bet)
+
+
+PokerStars Game #102606828038:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:36:53 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: LuckyMorkva ($648 in chips) 
+Seat 2: elvn89 ($231 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($640.70 in chips) 
+Seat 5: barrao ($871.46 in chips) 
+Seat 6: Azn1nvas1on ($814.01 in chips) 
+Chappolini: posts small blind $3
+jdapollo: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+Azn1nvas1on: folds 
+LuckyMorkva: folds 
+elvn89: folds 
+Chappolini: raises $12 to $18
+jdapollo: folds 
+Uncalled bet ($12) returned to Chappolini
+Chappolini collected $12 from pot
+Chappolini: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: LuckyMorkva folded before Flop (didn't bet)
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: Chappolini (small blind) collected ($12)
+Seat 4: jdapollo (big blind) folded before Flop
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on folded before Flop (didn't bet)
+
+
+PokerStars Game #102606851501:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:37:23 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: LuckyMorkva ($648 in chips) 
+Seat 2: elvn89 ($231 in chips) 
+Seat 3: Chappolini ($606 in chips) 
+Seat 4: jdapollo ($634.70 in chips) 
+Seat 5: barrao ($871.46 in chips) 
+Seat 6: Azn1nvas1on ($814.01 in chips) 
+jdapollo: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Azn1nvas1on: raises $12 to $18
+LuckyMorkva: folds 
+elvn89: folds 
+Chappolini: folds 
+jdapollo: folds 
+barrao: calls $12
+*** FLOP *** [5s 6d 9h]
+barrao: checks 
+Azn1nvas1on: bets $27
+barrao: raises $39 to $66
+Azn1nvas1on: calls $39
+*** TURN *** [5s 6d 9h] [Jh]
+barrao: bets $102
+Azn1nvas1on: folds 
+Uncalled bet ($102) returned to barrao
+barrao collected $168.20 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $171 | Rake $2.80 
+Board [5s 6d 9h Jh]
+Seat 1: LuckyMorkva folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini (button) folded before Flop (didn't bet)
+Seat 4: jdapollo (small blind) folded before Flop
+Seat 5: barrao (big blind) collected ($168.20)
+Seat 6: Azn1nvas1on folded on the Turn
+
+
+PokerStars Game #102606921046:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:38:52 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: LuckyMorkva ($648 in chips) 
+Seat 2: elvn89 ($231 in chips) 
+Seat 3: Chappolini ($606 in chips) 
+Seat 4: jdapollo ($631.70 in chips) 
+Seat 5: barrao ($955.66 in chips) 
+Seat 6: Azn1nvas1on ($730.01 in chips) 
+barrao: posts small blind $3
+Azn1nvas1on: posts big blind $6
+*** HOLE CARDS ***
+LuckyMorkva has timed out
+LuckyMorkva: folds 
+elvn89: folds 
+Chappolini: folds 
+jdapollo: folds 
+barrao: folds 
+Uncalled bet ($3) returned to Azn1nvas1on
+Azn1nvas1on collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: LuckyMorkva folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: jdapollo (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: Azn1nvas1on (big blind) collected ($6)
+
+
+PokerStars Game #102606947197:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:39:25 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: LuckyMorkva ($648 in chips) 
+Seat 2: elvn89 ($231 in chips) 
+Seat 3: Chappolini ($606 in chips) 
+Seat 4: jdapollo ($631.70 in chips) 
+Seat 5: barrao ($952.66 in chips) 
+Seat 6: Azn1nvas1on ($733.01 in chips) 
+Azn1nvas1on: posts small blind $3
+LuckyMorkva: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+Chappolini: folds 
+jdapollo: folds 
+barrao: folds 
+Azn1nvas1on: folds 
+Uncalled bet ($3) returned to LuckyMorkva
+LuckyMorkva collected $6 from pot
+LuckyMorkva: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: LuckyMorkva (big blind) collected ($6)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: jdapollo folded before Flop (didn't bet)
+Seat 5: barrao (button) folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on (small blind) folded before Flop
+
+
+PokerStars Game #102606964064:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:39:46 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: LuckyMorkva ($651 in chips) 
+Seat 2: elvn89 ($231 in chips) 
+Seat 3: Chappolini ($606 in chips) 
+Seat 4: jdapollo ($631.70 in chips) 
+Seat 5: barrao ($952.66 in chips) 
+Seat 6: Azn1nvas1on ($730.01 in chips) 
+LuckyMorkva: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+Chappolini: folds 
+jdapollo: folds 
+barrao has timed out
+barrao: folds 
+Azn1nvas1on: raises $6 to $12
+LuckyMorkva: folds 
+elvn89: calls $6
+*** FLOP *** [2s As 2c]
+elvn89: checks 
+Azn1nvas1on: checks 
+*** TURN *** [2s As 2c] [Kd]
+elvn89: checks 
+Azn1nvas1on: checks 
+*** RIVER *** [2s As 2c Kd] [2h]
+elvn89: checks 
+Azn1nvas1on: checks 
+*** SHOW DOWN ***
+elvn89: shows [Jc Qd] (three of a kind, Deuces)
+Azn1nvas1on: shows [4h Qh] (three of a kind, Deuces)
+elvn89 collected $12.89 from pot
+Azn1nvas1on collected $12.89 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [2s As 2c Kd 2h]
+Seat 1: LuckyMorkva (small blind) folded before Flop
+Seat 2: elvn89 (big blind) showed [Jc Qd] and won ($12.89) with three of a kind, Deuces
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: jdapollo folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on (button) showed [4h Qh] and won ($12.89) with three of a kind, Deuces
+
+
+PokerStars Game #102606552907:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:31:02 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 2: elvn89 ($181.98 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($553.50 in chips) 
+Seat 5: barrao ($923.68 in chips) 
+Seat 6: Azn1nvas1on ($838.01 in chips) 
+barrao: posts small blind $3
+Azn1nvas1on: posts big blind $6
+LuckyMorkva: sits out 
+*** HOLE CARDS ***
+elvn89: folds 
+Chappolini: folds 
+jdapollo: folds 
+barrao: folds 
+Uncalled bet ($3) returned to Azn1nvas1on
+Azn1nvas1on collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: jdapollo (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: Azn1nvas1on (big blind) collected ($6)
+
+
+PokerStars Game #102606568882:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:31:23 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: LuckyMorkva ($600 in chips) 
+Seat 2: elvn89 ($181.98 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($553.50 in chips) 
+Seat 5: barrao ($920.68 in chips) 
+Seat 6: Azn1nvas1on ($841.01 in chips) 
+Azn1nvas1on: posts small blind $3
+LuckyMorkva: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+Chappolini: folds 
+jdapollo: folds 
+barrao: folds 
+Azn1nvas1on: folds 
+Uncalled bet ($3) returned to LuckyMorkva
+LuckyMorkva collected $6 from pot
+LuckyMorkva: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: LuckyMorkva (big blind) collected ($6)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: jdapollo folded before Flop (didn't bet)
+Seat 5: barrao (button) folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on (small blind) folded before Flop
+
+
+PokerStars Game #102606583732:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:31:42 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: LuckyMorkva ($603 in chips) 
+Seat 2: elvn89 ($181.98 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($553.50 in chips) 
+Seat 5: barrao ($920.68 in chips) 
+Seat 6: Azn1nvas1on ($838.01 in chips) 
+LuckyMorkva: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+Chappolini: folds 
+jdapollo: raises $12 to $18
+barrao: raises $27 to $45
+Azn1nvas1on: folds 
+LuckyMorkva: folds 
+elvn89: folds 
+jdapollo: raises $105 to $150
+barrao: folds 
+Uncalled bet ($105) returned to jdapollo
+jdapollo collected $99 from pot
+*** SUMMARY ***
+Total pot $99 | Rake $0 
+Seat 1: LuckyMorkva (small blind) folded before Flop
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: jdapollo collected ($99)
+Seat 5: barrao folded before Flop
+Seat 6: Azn1nvas1on (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102606622030:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:32:30 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: LuckyMorkva ($600 in chips) 
+Seat 2: elvn89 ($175.98 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($607.50 in chips) 
+Seat 5: barrao ($875.68 in chips) 
+Seat 6: Azn1nvas1on ($838.01 in chips) 
+elvn89: posts small blind $3
+Chappolini: posts big blind $6
+*** HOLE CARDS ***
+jdapollo: folds 
+barrao: folds 
+Azn1nvas1on: folds 
+LuckyMorkva: folds 
+elvn89: raises $7.02 to $13.02
+Chappolini: folds 
+Uncalled bet ($7.02) returned to elvn89
+elvn89 collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: LuckyMorkva (button) folded before Flop (didn't bet)
+Seat 2: elvn89 (small blind) collected ($12)
+Seat 3: Chappolini (big blind) folded before Flop
+Seat 4: jdapollo folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on folded before Flop (didn't bet)
+
+
+PokerStars Game #102606640564:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:32:54 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: LuckyMorkva ($600 in chips) 
+Seat 2: elvn89 ($181.98 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($607.50 in chips) 
+Seat 5: barrao ($875.68 in chips) 
+Seat 6: Azn1nvas1on ($838.01 in chips) 
+Chappolini: posts small blind $3
+jdapollo: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+Azn1nvas1on: folds 
+LuckyMorkva: raises $9 to $15
+elvn89: folds 
+Chappolini: folds 
+jdapollo: folds 
+Uncalled bet ($9) returned to LuckyMorkva
+LuckyMorkva collected $15 from pot
+LuckyMorkva: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyMorkva collected ($15)
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: Chappolini (small blind) folded before Flop
+Seat 4: jdapollo (big blind) folded before Flop
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on folded before Flop (didn't bet)
+
+
+PokerStars Game #102606662468:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:33:21 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: LuckyMorkva ($609 in chips) 
+Seat 2: elvn89 ($181.98 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($601.50 in chips) 
+Seat 5: barrao ($875.68 in chips) 
+Seat 6: Azn1nvas1on ($838.01 in chips) 
+jdapollo: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Azn1nvas1on: folds 
+LuckyMorkva: folds 
+elvn89: folds 
+Chappolini: raises $6 to $12
+jdapollo: folds 
+barrao: calls $6
+*** FLOP *** [7s Td 2d]
+barrao: bets $9
+Chappolini: folds 
+Uncalled bet ($9) returned to barrao
+barrao collected $25.78 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [7s Td 2d]
+Seat 1: LuckyMorkva folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini (button) folded on the Flop
+Seat 4: jdapollo (small blind) folded before Flop
+Seat 5: barrao (big blind) collected ($25.78)
+Seat 6: Azn1nvas1on folded before Flop (didn't bet)
+
+
+PokerStars Game #102606691982:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:33:59 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: LuckyMorkva ($609 in chips) 
+Seat 2: elvn89 ($181.98 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($598.50 in chips) 
+Seat 5: barrao ($889.46 in chips) 
+Seat 6: Azn1nvas1on ($838.01 in chips) 
+barrao: posts small blind $3
+Azn1nvas1on: posts big blind $6
+*** HOLE CARDS ***
+LuckyMorkva: raises $12 to $18
+elvn89: calls $18
+Chappolini: folds 
+jdapollo: calls $18
+barrao: folds 
+Azn1nvas1on: folds 
+*** FLOP *** [Th Ks 2s]
+LuckyMorkva: checks 
+elvn89: checks 
+jdapollo: bets $54
+LuckyMorkva: folds 
+elvn89: folds 
+Uncalled bet ($54) returned to jdapollo
+jdapollo collected $60.20 from pot
+*** SUMMARY ***
+Total pot $63 | Rake $2.80 
+Board [Th Ks 2s]
+Seat 1: LuckyMorkva folded on the Flop
+Seat 2: elvn89 folded on the Flop
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: jdapollo (button) collected ($60.20)
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: Azn1nvas1on (big blind) folded before Flop
+
+
+PokerStars Game #102606305697:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:25:35 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 2: elvn89 ($190.98 in chips) 
+Seat 3: Chappolini ($611.85 in chips) 
+Seat 4: jdapollo ($609 in chips) 
+Seat 6: Azn1nvas1on ($1009.01 in chips) 
+Chappolini: posts small blind $3
+jdapollo: posts big blind $6
+barrao: sits out 
+*** HOLE CARDS ***
+Azn1nvas1on: raises $12 to $18
+elvn89: folds 
+Chappolini: folds 
+jdapollo: raises $48 to $66
+Azn1nvas1on: calls $48
+*** FLOP *** [Kh 7h Td]
+jdapollo: bets $96
+Azn1nvas1on: calls $96
+*** TURN *** [Kh 7h Td] [4c]
+jdapollo: bets $447 and is all-in
+Azn1nvas1on: folds 
+Uncalled bet ($447) returned to jdapollo
+jdapollo collected $325.50 from pot
+*** SUMMARY ***
+Total pot $327 | Rake $1.50 
+Board [Kh 7h Td 4c]
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: Chappolini (small blind) folded before Flop
+Seat 4: jdapollo (big blind) collected ($325.50)
+Seat 6: Azn1nvas1on folded on the Turn
+
+
+PokerStars Game #102606345972:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:26:29 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 2: elvn89 ($190.98 in chips) 
+Seat 3: Chappolini ($608.85 in chips) 
+Seat 4: jdapollo ($772.50 in chips) 
+Seat 5: barrao ($576.30 in chips) 
+Seat 6: Azn1nvas1on ($847.01 in chips) 
+jdapollo: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Azn1nvas1on: folds 
+elvn89: folds 
+Chappolini: raises $6 to $12
+jdapollo: folds 
+barrao: calls $6
+*** FLOP *** [6s 6d 4c]
+barrao: bets $9
+Chappolini: folds 
+Uncalled bet ($9) returned to barrao
+barrao collected $25.78 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [6s 6d 4c]
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini (button) folded on the Flop
+Seat 4: jdapollo (small blind) folded before Flop
+Seat 5: barrao (big blind) collected ($25.78)
+Seat 6: Azn1nvas1on folded before Flop (didn't bet)
+
+
+PokerStars Game #102606363048:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:26:52 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 2: elvn89 ($190.98 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($769.50 in chips) 
+Seat 5: barrao ($590.08 in chips) 
+Seat 6: Azn1nvas1on ($847.01 in chips) 
+barrao: posts small blind $3
+Azn1nvas1on: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+Chappolini: folds 
+jdapollo: raises $12 to $18
+barrao: raises $27 to $45
+Azn1nvas1on: folds 
+jdapollo: calls $27
+*** FLOP *** [8h Js 5d]
+barrao: bets $75
+jdapollo: folds 
+Uncalled bet ($75) returned to barrao
+barrao collected $93.20 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $96 | Rake $2.80 
+Board [8h Js 5d]
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: jdapollo (button) folded on the Flop
+Seat 5: barrao (small blind) collected ($93.20)
+Seat 6: Azn1nvas1on (big blind) folded before Flop
+
+
+PokerStars Game #102606397634:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:27:38 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 2: elvn89 ($190.98 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($724.50 in chips) 
+Seat 5: barrao ($638.28 in chips) 
+Seat 6: Azn1nvas1on ($841.01 in chips) 
+Azn1nvas1on: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+Chappolini: folds 
+jdapollo: folds 
+barrao: raises $6 to $12
+Azn1nvas1on: folds 
+elvn89: folds 
+Uncalled bet ($6) returned to barrao
+barrao collected $15 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: jdapollo folded before Flop (didn't bet)
+Seat 5: barrao (button) collected ($15)
+Seat 6: Azn1nvas1on (small blind) folded before Flop
+
+
+PokerStars Game #102606412196:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:27:57 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 2: elvn89 ($184.98 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($724.50 in chips) 
+Seat 5: barrao ($647.28 in chips) 
+Seat 6: Azn1nvas1on ($838.01 in chips) 
+elvn89: posts small blind $3
+Chappolini: posts big blind $6
+*** HOLE CARDS ***
+jdapollo: folds 
+barrao: raises $9 to $15
+Azn1nvas1on: folds 
+elvn89: folds 
+Chappolini: calls $9
+*** FLOP *** [6d 9c Ac]
+Chappolini: bets $24
+barrao: raises $54 to $78
+Chappolini: calls $54
+*** TURN *** [6d 9c Ac] [Jd]
+Chappolini: checks 
+barrao: bets $111
+Chappolini: folds 
+Uncalled bet ($111) returned to barrao
+barrao collected $186.20 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $189 | Rake $2.80 
+Board [6d 9c Ac Jd]
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: Chappolini (big blind) folded on the Turn
+Seat 4: jdapollo folded before Flop (didn't bet)
+Seat 5: barrao collected ($186.20)
+Seat 6: Azn1nvas1on (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102606469478:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:29:14 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 2: elvn89 ($181.98 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($724.50 in chips) 
+Seat 5: barrao ($740.48 in chips) 
+Seat 6: Azn1nvas1on ($838.01 in chips) 
+Chappolini: posts small blind $3
+jdapollo: posts big blind $6
+Scarface.VLT: sits out 
+*** HOLE CARDS ***
+barrao: raises $9 to $15
+Azn1nvas1on: folds 
+elvn89: folds 
+Chappolini: folds 
+jdapollo: folds 
+Uncalled bet ($9) returned to barrao
+barrao collected $15 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: Chappolini (small blind) folded before Flop
+Seat 4: jdapollo (big blind) folded before Flop
+Seat 5: barrao collected ($15)
+Seat 6: Azn1nvas1on folded before Flop (didn't bet)
+
+
+PokerStars Game #102606495254:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:29:48 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 2: elvn89 ($181.98 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($718.50 in chips) 
+Seat 5: barrao ($749.48 in chips) 
+Seat 6: Azn1nvas1on ($838.01 in chips) 
+jdapollo: posts small blind $3
+barrao: posts big blind $6
+Scarface.VLT: sits out 
+*** HOLE CARDS ***
+Azn1nvas1on: folds 
+elvn89: folds 
+Scarface.VLT leaves the table
+Chappolini: raises $6 to $12
+LuckyMorkva joins the table at seat #1 
+jdapollo: raises $36 to $48
+barrao: raises $48 to $96
+Chappolini: folds 
+jdapollo: calls $48
+*** FLOP *** [3s 9c 6s]
+jdapollo: checks 
+barrao: bets $69
+jdapollo: calls $69
+*** TURN *** [3s 9c 6s] [Jc]
+jdapollo: checks 
+barrao: bets $192
+jdapollo: folds 
+Uncalled bet ($192) returned to barrao
+barrao collected $339.20 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $342 | Rake $2.80 
+Board [3s 9c 6s Jc]
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini (button) folded before Flop
+Seat 4: jdapollo (small blind) folded on the Turn
+Seat 5: barrao (big blind) collected ($339.20)
+Seat 6: Azn1nvas1on folded before Flop (didn't bet)
+
+
+PokerStars Game #102608183231:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:07:11 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: LuckyMorkva ($1613.14 in chips) 
+Seat 2: elvn89 ($181.98 in chips) 
+Seat 3: Chappolini ($610.11 in chips) 
+Seat 5: barrao ($1077.15 in chips) 
+Seat 6: Azn1nvas1on ($600 in chips) 
+LuckyMorkva: posts small blind $3
+elvn89: posts big blind $6
+floriiiiider: sits out 
+*** HOLE CARDS ***
+Chappolini: folds 
+barrao: folds 
+Azn1nvas1on: folds 
+Azn1nvas1on leaves the table
+LuckyMorkva: raises $6 to $12
+elvn89: calls $6
+*** FLOP *** [5d 5h 9c]
+LuckyMorkva: bets $14.69
+elvn89: calls $14.69
+*** TURN *** [5d 5h 9c] [As]
+LuckyMorkva: bets $35.69
+elvn89: calls $35.69
+*** RIVER *** [5d 5h 9c As] [8d]
+LuckyMorkva: bets $147.98
+floriiiiider leaves the table
+x_QUIXTAR_x joins the table at seat #4 
+elvn89: folds 
+Uncalled bet ($147.98) returned to LuckyMorkva
+LuckyMorkva collected $121.96 from pot
+LuckyMorkva: doesn't show hand 
+*** SUMMARY ***
+Total pot $124.76 | Rake $2.80 
+Board [5d 5h 9c As 8d]
+Seat 1: LuckyMorkva (small blind) collected ($121.96)
+Seat 2: elvn89 (big blind) folded on the River
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102608284452:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:09:26 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: LuckyMorkva ($1672.72 in chips) 
+Seat 2: elvn89 ($240 in chips) 
+Seat 3: Chappolini ($610.11 in chips) 
+Seat 5: barrao ($1077.15 in chips) 
+elvn89: posts small blind $3
+Chappolini: posts big blind $6
+x_QUIXTAR_x: sits out 
+*** HOLE CARDS ***
+barrao: folds 
+LuckyMorkva: raises $6 to $12
+elvn89: raises $18 to $30
+Chappolini: folds 
+LuckyMorkva: folds 
+Uncalled bet ($18) returned to elvn89
+elvn89 collected $30 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: LuckyMorkva (button) folded before Flop
+Seat 2: elvn89 (small blind) collected ($30)
+Seat 3: Chappolini (big blind) folded before Flop
+Seat 5: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102608304162:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:09:53 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: LuckyMorkva ($1660.72 in chips) 
+Seat 2: elvn89 ($258 in chips) 
+Seat 3: Chappolini ($604.11 in chips) 
+Seat 4: x_QUIXTAR_x ($300 in chips) 
+Seat 5: barrao ($1077.15 in chips) 
+Chappolini: posts small blind $3
+x_QUIXTAR_x: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+LuckyMorkva: raises $6 to $12
+elvn89: folds 
+Chappolini: folds 
+x_QUIXTAR_x: folds 
+Uncalled bet ($6) returned to LuckyMorkva
+LuckyMorkva collected $15 from pot
+LuckyMorkva: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyMorkva collected ($15)
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: Chappolini (small blind) folded before Flop
+Seat 4: x_QUIXTAR_x (big blind) folded before Flop
+Seat 5: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102607690129:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:55:16 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: LuckyMorkva ($700.91 in chips) 
+Seat 2: elvn89 ($190.98 in chips) 
+Seat 3: Chappolini ($631.11 in chips) 
+Seat 4: jdapollo ($586.70 in chips) 
+Seat 5: barrao ($1019.24 in chips) 
+Seat 6: Azn1nvas1on ($841.90 in chips) 
+jdapollo: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Azn1nvas1on: folds 
+LuckyMorkva: raises $12 to $18
+elvn89: folds 
+Chappolini: folds 
+jdapollo: folds 
+barrao: folds 
+Uncalled bet ($12) returned to LuckyMorkva
+LuckyMorkva collected $15 from pot
+LuckyMorkva: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyMorkva collected ($15)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini (button) folded before Flop (didn't bet)
+Seat 4: jdapollo (small blind) folded before Flop
+Seat 5: barrao (big blind) folded before Flop
+Seat 6: Azn1nvas1on folded before Flop (didn't bet)
+
+
+PokerStars Game #102607706706:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:55:44 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: LuckyMorkva ($709.91 in chips) 
+Seat 2: elvn89 ($190.98 in chips) 
+Seat 3: Chappolini ($631.11 in chips) 
+Seat 4: jdapollo ($583.70 in chips) 
+Seat 5: barrao ($1013.24 in chips) 
+Seat 6: Azn1nvas1on ($841.90 in chips) 
+barrao: posts small blind $3
+Azn1nvas1on: posts big blind $6
+*** HOLE CARDS ***
+LuckyMorkva: folds 
+elvn89: folds 
+Chappolini: raises $9 to $15
+jdapollo: folds 
+barrao: folds 
+Azn1nvas1on: folds 
+Uncalled bet ($9) returned to Chappolini
+Chappolini collected $15 from pot
+Chappolini: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyMorkva folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini collected ($15)
+Seat 4: jdapollo (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: Azn1nvas1on (big blind) folded before Flop
+
+
+PokerStars Game #102607723542:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:56:13 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: LuckyMorkva ($709.91 in chips) 
+Seat 2: elvn89 ($190.98 in chips) 
+Seat 3: Chappolini ($640.11 in chips) 
+Seat 4: jdapollo ($583.70 in chips) 
+Seat 5: barrao ($1010.24 in chips) 
+Seat 6: Azn1nvas1on ($835.90 in chips) 
+Azn1nvas1on: posts small blind $3
+LuckyMorkva: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+Chappolini: raises $12 to $18
+jdapollo: folds 
+barrao: folds 
+Azn1nvas1on: folds 
+LuckyMorkva: folds 
+Uncalled bet ($12) returned to Chappolini
+Chappolini collected $15 from pot
+Chappolini: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyMorkva (big blind) folded before Flop
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini collected ($15)
+Seat 4: jdapollo folded before Flop (didn't bet)
+Seat 5: barrao (button) folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on (small blind) folded before Flop
+
+
+PokerStars Game #102607741913:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:56:44 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: LuckyMorkva ($703.91 in chips) 
+Seat 2: elvn89 ($190.98 in chips) 
+Seat 3: Chappolini ($649.11 in chips) 
+Seat 4: jdapollo ($583.70 in chips) 
+Seat 5: barrao ($1010.24 in chips) 
+Seat 6: Azn1nvas1on ($832.90 in chips) 
+LuckyMorkva: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+Chappolini: folds 
+jdapollo: folds 
+barrao: folds 
+Azn1nvas1on: raises $6 to $12
+LuckyMorkva: raises $36 to $48
+elvn89: folds 
+Azn1nvas1on: calls $36
+*** FLOP *** [3s 9h 7d]
+LuckyMorkva: checks 
+Azn1nvas1on: bets $57
+LuckyMorkva: raises $72.73 to $129.73
+Azn1nvas1on: folds 
+Uncalled bet ($72.73) returned to LuckyMorkva
+LuckyMorkva collected $213.20 from pot
+LuckyMorkva: doesn't show hand 
+*** SUMMARY ***
+Total pot $216 | Rake $2.80 
+Board [3s 9h 7d]
+Seat 1: LuckyMorkva (small blind) collected ($213.20)
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: jdapollo folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on (button) folded on the Flop
+
+
+PokerStars Game #102607806391:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:58:33 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: LuckyMorkva ($812.11 in chips) 
+Seat 2: elvn89 ($184.98 in chips) 
+Seat 3: Chappolini ($649.11 in chips) 
+Seat 4: jdapollo ($583.70 in chips) 
+Seat 5: barrao ($1010.24 in chips) 
+Seat 6: Azn1nvas1on ($727.90 in chips) 
+elvn89: posts small blind $3
+Chappolini: posts big blind $6
+*** HOLE CARDS ***
+jdapollo: folds 
+barrao: raises $12 to $18
+Azn1nvas1on: folds 
+LuckyMorkva: calls $18
+elvn89: folds 
+Chappolini: folds 
+*** FLOP *** [2s 8d Td]
+barrao: checks 
+LuckyMorkva: bets $27.51
+barrao: calls $27.51
+*** TURN *** [2s 8d Td] [Qh]
+barrao: checks 
+LuckyMorkva: checks 
+*** RIVER *** [2s 8d Td Qh] [5s]
+barrao: bets $24
+LuckyMorkva: folds 
+Uncalled bet ($24) returned to barrao
+barrao collected $97.22 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $100.02 | Rake $2.80 
+Board [2s 8d Td Qh 5s]
+Seat 1: LuckyMorkva (button) folded on the River
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: Chappolini (big blind) folded before Flop
+Seat 4: jdapollo folded before Flop (didn't bet)
+Seat 5: barrao collected ($97.22)
+Seat 6: Azn1nvas1on folded before Flop (didn't bet)
+
+
+PokerStars Game #102607869310:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:00:16 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: LuckyMorkva ($766.60 in chips) 
+Seat 2: elvn89 ($181.98 in chips) 
+Seat 3: Chappolini ($643.11 in chips) 
+Seat 4: jdapollo ($583.70 in chips) 
+Seat 5: barrao ($1061.95 in chips) 
+Seat 6: Azn1nvas1on ($727.90 in chips) 
+Chappolini: posts small blind $3
+jdapollo: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+Azn1nvas1on: folds 
+LuckyMorkva: raises $9 to $15
+elvn89: folds 
+Chappolini: folds 
+jdapollo: calls $9
+*** FLOP *** [5d Jc 8c]
+jdapollo: checks 
+LuckyMorkva: bets $20.17
+jdapollo: calls $20.17
+*** TURN *** [5d Jc 8c] [Qd]
+jdapollo: checks 
+LuckyMorkva: bets $52.38
+jdapollo: folds 
+Uncalled bet ($52.38) returned to LuckyMorkva
+LuckyMorkva collected $70.54 from pot
+LuckyMorkva: doesn't show hand 
+*** SUMMARY ***
+Total pot $73.34 | Rake $2.80 
+Board [5d Jc 8c Qd]
+Seat 1: LuckyMorkva collected ($70.54)
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: Chappolini (small blind) folded before Flop
+Seat 4: jdapollo (big blind) folded on the Turn
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on folded before Flop (didn't bet)
+
+
+PokerStars Game #102607931740:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:01:45 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: LuckyMorkva ($801.97 in chips) 
+Seat 2: elvn89 ($181.98 in chips) 
+Seat 3: Chappolini ($640.11 in chips) 
+Seat 4: jdapollo ($548.53 in chips) 
+Seat 5: barrao ($1061.95 in chips) 
+Seat 6: Azn1nvas1on ($727.90 in chips) 
+jdapollo: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Azn1nvas1on: folds 
+LuckyMorkva: folds 
+elvn89: folds 
+Chappolini: raises $6 to $12
+jdapollo: folds 
+barrao: calls $6
+*** FLOP *** [Ah 4s Ad]
+barrao: checks 
+Chappolini: bets $18
+barrao: calls $18
+*** TURN *** [Ah 4s Ad] [9h]
+barrao: checks 
+Chappolini: checks 
+*** RIVER *** [Ah 4s Ad 9h] [As]
+barrao: checks 
+Chappolini: checks 
+*** SHOW DOWN ***
+barrao: shows [6d Kd] (three of a kind, Aces)
+Chappolini: mucks hand 
+barrao collected $60.20 from pot
+*** SUMMARY ***
+Total pot $63 | Rake $2.80 
+Board [Ah 4s Ad 9h As]
+Seat 1: LuckyMorkva folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini (button) mucked
+Seat 4: jdapollo (small blind) folded before Flop
+Seat 5: barrao (big blind) showed [6d Kd] and won ($60.20) with three of a kind, Aces
+Seat 6: Azn1nvas1on folded before Flop (didn't bet)
+
+
+PokerStars Game #102607969788:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:02:35 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: LuckyMorkva ($801.97 in chips) 
+Seat 2: elvn89 ($181.98 in chips) 
+Seat 3: Chappolini ($610.11 in chips) 
+Seat 4: jdapollo ($545.53 in chips) 
+Seat 5: barrao ($1092.15 in chips) 
+Seat 6: Azn1nvas1on ($727.90 in chips) 
+barrao: posts small blind $3
+Azn1nvas1on: posts big blind $6
+*** HOLE CARDS ***
+LuckyMorkva: folds 
+elvn89: folds 
+Chappolini: folds 
+jdapollo: raises $6 to $12
+barrao: folds 
+Azn1nvas1on: calls $6
+*** FLOP *** [Qh Kd 7h]
+Azn1nvas1on: checks 
+jdapollo: bets $24
+Azn1nvas1on: calls $24
+*** TURN *** [Qh Kd 7h] [3h]
+Azn1nvas1on: checks 
+jdapollo: bets $54
+Azn1nvas1on: calls $54
+*** RIVER *** [Qh Kd 7h 3h] [Td]
+Azn1nvas1on: checks 
+jdapollo: bets $108
+Azn1nvas1on: raises $529.90 to $637.90 and is all-in
+jdapollo: calls $347.53 and is all-in
+Uncalled bet ($182.37) returned to Azn1nvas1on
+*** SHOW DOWN ***
+Azn1nvas1on: shows [Kh 9h] (a flush, King high)
+jdapollo: mucks hand 
+Azn1nvas1on collected $1091.26 from pot
+*** SUMMARY ***
+Total pot $1094.06 | Rake $2.80 
+Board [Qh Kd 7h 3h Td]
+Seat 1: LuckyMorkva folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: jdapollo (button) mucked
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: Azn1nvas1on (big blind) showed [Kh 9h] and won ($1091.26) with a flush, King high
+
+
+PokerStars Game #102608040466:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:04:07 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: LuckyMorkva ($801.97 in chips) 
+Seat 2: elvn89 ($181.98 in chips) 
+Seat 3: Chappolini ($610.11 in chips) 
+Seat 5: barrao ($1089.15 in chips) 
+Seat 6: Azn1nvas1on ($1273.63 in chips) 
+Azn1nvas1on: posts small blind $3
+LuckyMorkva: posts big blind $6
+*** HOLE CARDS ***
+jdapollo leaves the table
+floriiiiider joins the table at seat #4 
+elvn89: folds 
+Chappolini: folds 
+barrao: raises $6 to $12
+Azn1nvas1on: raises $36 to $48
+LuckyMorkva: raises $48 to $96
+barrao: folds 
+Azn1nvas1on: calls $48
+*** FLOP *** [Qd 8s Jh]
+Azn1nvas1on: checks 
+LuckyMorkva: checks 
+*** TURN *** [Qd 8s Jh] [3d]
+Azn1nvas1on: bets $120
+LuckyMorkva: calls $120
+*** RIVER *** [Qd 8s Jh 3d] [6h]
+Azn1nvas1on: bets $245
+LuckyMorkva: raises $340.97 to $585.97 and is all-in
+Azn1nvas1on: calls $340.97
+*** SHOW DOWN ***
+LuckyMorkva: shows [Kd Ks] (a pair of Kings)
+Azn1nvas1on: mucks hand 
+LuckyMorkva collected $1613.14 from pot
+*** SUMMARY ***
+Total pot $1615.94 | Rake $2.80 
+Board [Qd 8s Jh 3d 6h]
+Seat 1: LuckyMorkva (big blind) showed [Kd Ks] and won ($1613.14) with a pair of Kings
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 5: barrao (button) folded before Flop
+Seat 6: Azn1nvas1on (small blind) mucked
+
+
+PokerStars Game #102607449049:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:50:05 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: LuckyMorkva ($730.91 in chips) 
+Seat 2: elvn89 ($231 in chips) 
+Seat 3: Chappolini ($621 in chips) 
+Seat 4: jdapollo ($628.70 in chips) 
+Seat 5: barrao ($942.18 in chips) 
+Seat 6: Azn1nvas1on ($823.90 in chips) 
+Chappolini: posts small blind $3
+jdapollo: posts big blind $6
+*** HOLE CARDS ***
+barrao: raises $9 to $15
+Azn1nvas1on: folds 
+LuckyMorkva: calls $15
+elvn89: folds 
+Chappolini: folds 
+jdapollo: calls $9
+*** FLOP *** [6h 7d Jd]
+jdapollo: checks 
+barrao: bets $33
+LuckyMorkva: folds 
+jdapollo: folds 
+Uncalled bet ($33) returned to barrao
+barrao collected $45.84 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $48 | Rake $2.16 
+Board [6h 7d Jd]
+Seat 1: LuckyMorkva folded on the Flop
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: Chappolini (small blind) folded before Flop
+Seat 4: jdapollo (big blind) folded on the Flop
+Seat 5: barrao collected ($45.84)
+Seat 6: Azn1nvas1on folded before Flop (didn't bet)
+
+
+PokerStars Game #102607495497:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:51:04 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: LuckyMorkva ($715.91 in chips) 
+Seat 2: elvn89 ($231 in chips) 
+Seat 3: Chappolini ($618 in chips) 
+Seat 4: jdapollo ($613.70 in chips) 
+Seat 5: barrao ($973.02 in chips) 
+Seat 6: Azn1nvas1on ($823.90 in chips) 
+jdapollo: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Azn1nvas1on: folds 
+LuckyMorkva: folds 
+elvn89: raises $7.02 to $13.02
+Chappolini: folds 
+jdapollo: folds 
+barrao: calls $7.02
+*** FLOP *** [As Td 6h]
+barrao: bets $9
+elvn89: raises $9 to $18
+barrao: calls $9
+*** TURN *** [As Td 6h] [9c]
+barrao: bets $21
+elvn89: folds 
+Uncalled bet ($21) returned to barrao
+barrao collected $62.24 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $65.04 | Rake $2.80 
+Board [As Td 6h 9c]
+Seat 1: LuckyMorkva folded before Flop (didn't bet)
+Seat 2: elvn89 folded on the Turn
+Seat 3: Chappolini (button) folded before Flop (didn't bet)
+Seat 4: jdapollo (small blind) folded before Flop
+Seat 5: barrao (big blind) collected ($62.24)
+Seat 6: Azn1nvas1on folded before Flop (didn't bet)
+
+
+PokerStars Game #102607539198:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:52:00 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: LuckyMorkva ($715.91 in chips) 
+Seat 2: elvn89 ($199.98 in chips) 
+Seat 3: Chappolini ($618 in chips) 
+Seat 4: jdapollo ($610.70 in chips) 
+Seat 5: barrao ($1004.24 in chips) 
+Seat 6: Azn1nvas1on ($823.90 in chips) 
+barrao: posts small blind $3
+Azn1nvas1on: posts big blind $6
+*** HOLE CARDS ***
+LuckyMorkva: folds 
+elvn89: folds 
+Chappolini: folds 
+jdapollo: raises $12 to $18
+barrao: folds 
+Azn1nvas1on: raises $39 to $57
+jdapollo: folds 
+Uncalled bet ($39) returned to Azn1nvas1on
+Azn1nvas1on collected $39 from pot
+*** SUMMARY ***
+Total pot $39 | Rake $0 
+Seat 1: LuckyMorkva folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: jdapollo (button) folded before Flop
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: Azn1nvas1on (big blind) collected ($39)
+
+
+PokerStars Game #102607565758:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:52:34 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: LuckyMorkva ($715.91 in chips) 
+Seat 2: elvn89 ($199.98 in chips) 
+Seat 3: Chappolini ($618 in chips) 
+Seat 4: jdapollo ($592.70 in chips) 
+Seat 5: barrao ($1001.24 in chips) 
+Seat 6: Azn1nvas1on ($844.90 in chips) 
+Azn1nvas1on: posts small blind $3
+LuckyMorkva: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+Chappolini: folds 
+jdapollo: folds 
+barrao: raises $6 to $12
+Azn1nvas1on: folds 
+LuckyMorkva: folds 
+Uncalled bet ($6) returned to barrao
+barrao collected $15 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyMorkva (big blind) folded before Flop
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: jdapollo folded before Flop (didn't bet)
+Seat 5: barrao (button) collected ($15)
+Seat 6: Azn1nvas1on (small blind) folded before Flop
+
+
+PokerStars Game #102607582788:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:52:55 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: LuckyMorkva ($709.91 in chips) 
+Seat 2: elvn89 ($199.98 in chips) 
+Seat 3: Chappolini ($618 in chips) 
+Seat 4: jdapollo ($592.70 in chips) 
+Seat 5: barrao ($1010.24 in chips) 
+Seat 6: Azn1nvas1on ($841.90 in chips) 
+LuckyMorkva: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+Chappolini: raises $12 to $18
+jdapollo: folds 
+barrao: folds 
+Azn1nvas1on: folds 
+LuckyMorkva: calls $15
+elvn89: folds 
+*** FLOP *** [Qd 9d 6c]
+LuckyMorkva: checks 
+Chappolini: bets $30
+LuckyMorkva: folds 
+Uncalled bet ($30) returned to Chappolini
+Chappolini collected $40.11 from pot
+Chappolini: doesn't show hand 
+*** SUMMARY ***
+Total pot $42 | Rake $1.89 
+Board [Qd 9d 6c]
+Seat 1: LuckyMorkva (small blind) folded on the Flop
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: Chappolini collected ($40.11)
+Seat 4: jdapollo folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102607639532:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:54:08 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: LuckyMorkva ($691.91 in chips) 
+Seat 2: elvn89 ($193.98 in chips) 
+Seat 3: Chappolini ($640.11 in chips) 
+Seat 4: jdapollo ($592.70 in chips) 
+Seat 5: barrao ($1010.24 in chips) 
+Seat 6: Azn1nvas1on ($841.90 in chips) 
+elvn89: posts small blind $3
+Chappolini: posts big blind $6
+*** HOLE CARDS ***
+jdapollo: folds 
+barrao: raises $9 to $15
+Azn1nvas1on: folds 
+LuckyMorkva: folds 
+elvn89: folds 
+Chappolini: folds 
+Uncalled bet ($9) returned to barrao
+barrao collected $15 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyMorkva (button) folded before Flop (didn't bet)
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: Chappolini (big blind) folded before Flop
+Seat 4: jdapollo folded before Flop (didn't bet)
+Seat 5: barrao collected ($15)
+Seat 6: Azn1nvas1on folded before Flop (didn't bet)
+
+
+PokerStars Game #102607673107:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:54:52 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: LuckyMorkva ($691.91 in chips) 
+Seat 2: elvn89 ($190.98 in chips) 
+Seat 3: Chappolini ($634.11 in chips) 
+Seat 4: jdapollo ($592.70 in chips) 
+Seat 5: barrao ($1019.24 in chips) 
+Seat 6: Azn1nvas1on ($841.90 in chips) 
+Chappolini: posts small blind $3
+jdapollo: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+Azn1nvas1on: folds 
+LuckyMorkva: raises $9 to $15
+elvn89: folds 
+Chappolini: folds 
+jdapollo: folds 
+Uncalled bet ($9) returned to LuckyMorkva
+LuckyMorkva collected $15 from pot
+LuckyMorkva: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyMorkva collected ($15)
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: Chappolini (small blind) folded before Flop
+Seat 4: jdapollo (big blind) folded before Flop
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on folded before Flop (didn't bet)
+
+
+PokerStars Game #102607285210:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:46:36 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: LuckyMorkva ($748.91 in chips) 
+Seat 2: elvn89 ($240 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($613.70 in chips) 
+Seat 5: barrao ($963.18 in chips) 
+Seat 6: Azn1nvas1on ($793.90 in chips) 
+Chappolini: posts small blind $3
+jdapollo: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+Azn1nvas1on: folds 
+LuckyMorkva: folds 
+elvn89: folds 
+Chappolini: raises $12 to $18
+jdapollo: raises $42 to $60
+Chappolini: folds 
+Uncalled bet ($42) returned to jdapollo
+jdapollo collected $36 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0 
+Seat 1: LuckyMorkva folded before Flop (didn't bet)
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: Chappolini (small blind) folded before Flop
+Seat 4: jdapollo (big blind) collected ($36)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on folded before Flop (didn't bet)
+
+
+PokerStars Game #102607317005:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:47:17 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: LuckyMorkva ($748.91 in chips) 
+Seat 2: elvn89 ($240 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: jdapollo ($631.70 in chips) 
+Seat 5: barrao ($963.18 in chips) 
+Seat 6: Azn1nvas1on ($793.90 in chips) 
+jdapollo: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Azn1nvas1on: folds 
+LuckyMorkva: raises $12 to $18
+elvn89: folds 
+Chappolini: raises $36 to $54
+jdapollo: folds 
+barrao: folds 
+LuckyMorkva: folds 
+Uncalled bet ($36) returned to Chappolini
+Chappolini collected $45 from pot
+Chappolini: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $0 
+Seat 1: LuckyMorkva folded before Flop
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini (button) collected ($45)
+Seat 4: jdapollo (small blind) folded before Flop
+Seat 5: barrao (big blind) folded before Flop
+Seat 6: Azn1nvas1on folded before Flop (didn't bet)
+
+
+PokerStars Game #102607357708:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:48:09 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: LuckyMorkva ($730.91 in chips) 
+Seat 2: elvn89 ($240 in chips) 
+Seat 3: Chappolini ($627 in chips) 
+Seat 4: jdapollo ($628.70 in chips) 
+Seat 5: barrao ($957.18 in chips) 
+Seat 6: Azn1nvas1on ($793.90 in chips) 
+barrao: posts small blind $3
+Azn1nvas1on: posts big blind $6
+*** HOLE CARDS ***
+LuckyMorkva has timed out
+LuckyMorkva: folds 
+elvn89: folds 
+Chappolini: folds 
+jdapollo: folds 
+barrao: folds 
+Uncalled bet ($3) returned to Azn1nvas1on
+Azn1nvas1on collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: LuckyMorkva folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: jdapollo (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: Azn1nvas1on (big blind) collected ($6)
+
+
+PokerStars Game #102607382913:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:48:41 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: LuckyMorkva ($730.91 in chips) 
+Seat 2: elvn89 ($240 in chips) 
+Seat 3: Chappolini ($627 in chips) 
+Seat 4: jdapollo ($628.70 in chips) 
+Seat 5: barrao ($954.18 in chips) 
+Seat 6: Azn1nvas1on ($796.90 in chips) 
+Azn1nvas1on: posts small blind $3
+LuckyMorkva: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+Chappolini: folds 
+jdapollo: folds 
+barrao: raises $6 to $12
+Azn1nvas1on: raises $36 to $48
+LuckyMorkva: folds 
+barrao: folds 
+Uncalled bet ($36) returned to Azn1nvas1on
+Azn1nvas1on collected $30 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: LuckyMorkva (big blind) folded before Flop
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: jdapollo folded before Flop (didn't bet)
+Seat 5: barrao (button) folded before Flop
+Seat 6: Azn1nvas1on (small blind) collected ($30)
+
+
+PokerStars Game #102607403442:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:49:07 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: LuckyMorkva ($724.91 in chips) 
+Seat 2: elvn89 ($240 in chips) 
+Seat 3: Chappolini ($627 in chips) 
+Seat 4: jdapollo ($628.70 in chips) 
+Seat 5: barrao ($942.18 in chips) 
+Seat 6: Azn1nvas1on ($814.90 in chips) 
+LuckyMorkva: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+Chappolini: folds 
+jdapollo: folds 
+barrao: folds 
+Azn1nvas1on: raises $6 to $12
+LuckyMorkva: folds 
+elvn89: folds 
+Uncalled bet ($6) returned to Azn1nvas1on
+Azn1nvas1on collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyMorkva (small blind) folded before Flop
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: jdapollo folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on (button) collected ($15)
+
+
+PokerStars Game #102607426362:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:49:36 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: LuckyMorkva ($721.91 in chips) 
+Seat 2: elvn89 ($234 in chips) 
+Seat 3: Chappolini ($627 in chips) 
+Seat 4: jdapollo ($628.70 in chips) 
+Seat 5: barrao ($942.18 in chips) 
+Seat 6: Azn1nvas1on ($823.90 in chips) 
+elvn89: posts small blind $3
+Chappolini: posts big blind $6
+*** HOLE CARDS ***
+jdapollo: folds 
+barrao: folds 
+Azn1nvas1on: folds 
+LuckyMorkva: raises $6 to $12
+elvn89: folds 
+Chappolini: folds 
+Uncalled bet ($6) returned to LuckyMorkva
+LuckyMorkva collected $15 from pot
+LuckyMorkva: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyMorkva (button) collected ($15)
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: Chappolini (big blind) folded before Flop
+Seat 4: jdapollo folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Azn1nvas1on folded before Flop (didn't bet)
+
+
+PokerStars Game #102608823796:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:21:49 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 3: stds st ($215.55 in chips) 
+Seat 5: shevliak ($240 in chips) 
+Seat 6: Nemo & co ($238.95 in chips) 
+stds st: posts small blind $3
+shevliak: posts big blind $6
+*** HOLE CARDS ***
+Nemo & co: folds 
+stds st: raises $6.17 to $12.17
+shevliak: calls $6.17
+*** FLOP *** [Ts 5d 6s]
+stds st: bets $13.47
+shevliak: folds 
+Uncalled bet ($13.47) returned to stds st
+stds st collected $23.24 from pot
+stds st: doesn't show hand 
+*** SUMMARY ***
+Total pot $24.34 | Rake $1.10 
+Board [Ts 5d 6s]
+Seat 3: stds st (small blind) collected ($23.24)
+Seat 5: shevliak (big blind) folded on the Flop
+Seat 6: Nemo & co (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102608857377:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:22:37 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 3: stds st ($226.62 in chips) 
+Seat 5: shevliak ($240 in chips) 
+Seat 6: Nemo & co ($238.95 in chips) 
+shevliak: posts small blind $3
+Nemo & co: posts big blind $6
+*** HOLE CARDS ***
+stds st: folds 
+shevliak: raises $7.08 to $13.08
+Nemo & co: raises $16.92 to $30
+shevliak: folds 
+Uncalled bet ($16.92) returned to Nemo & co
+Nemo & co collected $26.16 from pot
+*** SUMMARY ***
+Total pot $26.16 | Rake $0 
+Seat 3: stds st (button) folded before Flop (didn't bet)
+Seat 5: shevliak (small blind) folded before Flop
+Seat 6: Nemo & co (big blind) collected ($26.16)
+
+
+PokerStars Game #102608789355:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:21:00 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 3: stds st ($240 in chips) 
+Seat 6: Nemo & co ($215 in chips) 
+Nemo & co: posts small blind $3
+stds st: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider joins the table at seat #5 
+floriiiiider leaves the table
+Nemo & co: raises $6 to $12
+stds st: calls $6
+*** FLOP *** [6s Td 5d]
+shevliak joins the table at seat #5 
+LuckyBiitch leaves the table
+stds st: bets $12.45
+floriiiiider joins the table at seat #2 
+floriiiiider leaves the table
+Nemo & co: raises $23.55 to $36
+stds st: folds 
+Uncalled bet ($23.55) returned to Nemo & co
+Nemo & co collected $48.40 from pot
+*** SUMMARY ***
+Total pot $48.90 | Rake $0.50 
+Board [6s Td 5d]
+Seat 3: stds st (big blind) folded on the Flop
+Seat 6: Nemo & co (button) (small blind) collected ($48.40)
+
+
+PokerStars Game #102608586383:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:16:18 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: LuckyMorkva ($1660.72 in chips) 
+Seat 2: elvn89 ($240 in chips) 
+Seat 3: Chappolini ($636.20 in chips) 
+Seat 4: x_QUIXTAR_x ($309 in chips) 
+Seat 5: barrao ($1257.35 in chips) 
+Seat 6: Nemo & co ($208 in chips) 
+Chappolini: posts small blind $3
+x_QUIXTAR_x: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+Nemo & co: folds 
+LuckyMorkva: raises $9 to $15
+elvn89: folds 
+Chappolini: folds 
+x_QUIXTAR_x: folds 
+Uncalled bet ($9) returned to LuckyMorkva
+LuckyMorkva collected $15 from pot
+LuckyMorkva: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyMorkva collected ($15)
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: Chappolini (small blind) folded before Flop
+Seat 4: x_QUIXTAR_x (big blind) folded before Flop
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Nemo & co folded before Flop (didn't bet)
+
+
+PokerStars Game #102608611073:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:16:52 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: LuckyMorkva ($1669.72 in chips) 
+Seat 2: elvn89 ($240 in chips) 
+Seat 3: Chappolini ($633.20 in chips) 
+Seat 4: x_QUIXTAR_x ($303 in chips) 
+Seat 6: Nemo & co ($308 in chips) 
+x_QUIXTAR_x: posts small blind $3
+barrao: is sitting out 
+Nemo & co: posts big blind $6
+*** HOLE CARDS ***
+LuckyMorkva: raises $9 to $15
+elvn89: folds 
+Chappolini: folds 
+x_QUIXTAR_x: folds 
+Nemo & co: folds 
+Uncalled bet ($9) returned to LuckyMorkva
+LuckyMorkva collected $15 from pot
+LuckyMorkva: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyMorkva collected ($15)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini (button) folded before Flop (didn't bet)
+Seat 4: x_QUIXTAR_x (small blind) folded before Flop
+Seat 6: Nemo & co (big blind) folded before Flop
+
+
+PokerStars Game #102608630462:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:17:19 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 3: Chappolini ($633.20 in chips) 
+Seat 4: x_QUIXTAR_x ($300 in chips) 
+Seat 6: Nemo & co ($302 in chips) 
+Nemo & co: posts small blind $3
+LuckyMorkva: is sitting out 
+elvn89: is sitting out 
+elvn89 leaves the table
+Chappolini: posts big blind $6
+*** HOLE CARDS ***
+x_QUIXTAR_x: folds 
+Nemo & co: folds 
+Uncalled bet ($3) returned to Chappolini
+Chappolini collected $6 from pot
+Chappolini: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 3: Chappolini (big blind) collected ($6)
+Seat 4: x_QUIXTAR_x (button) folded before Flop (didn't bet)
+Seat 6: Nemo & co (small blind) folded before Flop
+
+
+PokerStars Game #102608637689:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:17:29 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 3: Chappolini ($636.20 in chips) 
+Seat 4: x_QUIXTAR_x ($300 in chips) 
+Seat 6: Nemo & co ($299 in chips) 
+Chappolini: posts small blind $3
+x_QUIXTAR_x: posts big blind $6
+*** HOLE CARDS ***
+Nemo & co: raises $12 to $18
+Chappolini: folds 
+x_QUIXTAR_x: calls $12
+*** FLOP *** [Ac Kc As]
+x_QUIXTAR_x: checks 
+Nemo & co: bets $24
+x_QUIXTAR_x: calls $24
+*** TURN *** [Ac Kc As] [Jc]
+x_QUIXTAR_x: checks 
+Nemo & co: checks 
+*** RIVER *** [Ac Kc As Jc] [4s]
+x_QUIXTAR_x: checks 
+Nemo & co: checks 
+*** SHOW DOWN ***
+x_QUIXTAR_x: shows [Kd Td] (two pair, Aces and Kings)
+Nemo & co: mucks hand 
+x_QUIXTAR_x collected $85.50 from pot
+*** SUMMARY ***
+Total pot $87 | Rake $1.50 
+Board [Ac Kc As Jc 4s]
+Seat 3: Chappolini (small blind) folded before Flop
+Seat 4: x_QUIXTAR_x (big blind) showed [Kd Td] and won ($85.50) with two pair, Aces and Kings
+Seat 6: Nemo & co (button) mucked
+
+
+PokerStars Game #102608720553:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:19:24 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 2: LuckyBiitch ($600 in chips) 
+Seat 3: Chappolini ($651.20 in chips) 
+Seat 6: Nemo & co ($239 in chips) 
+Nemo & co: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+Chappolini: raises $6 to $12
+Nemo & co: raises $24 to $36
+LuckyBiitch: folds 
+Chappolini: folds 
+Uncalled bet ($24) returned to Nemo & co
+Nemo & co collected $30 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 2: LuckyBiitch (big blind) folded before Flop
+Seat 3: Chappolini (button) folded before Flop
+Seat 6: Nemo & co (small blind) collected ($30)
+
+
+PokerStars Game #102608681216:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:18:29 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 3: Chappolini ($633.20 in chips) 
+Seat 6: Nemo & co ($257 in chips) 
+Chappolini: posts small blind $3
+Nemo & co: posts big blind $6
+*** HOLE CARDS ***
+Chappolini: raises $6 to $12
+Nemo & co: raises $6 to $18
+LuckyBiitch joins the table at seat #2 
+Chappolini: raises $30 to $48
+Nemo & co: folds 
+Uncalled bet ($30) returned to Chappolini
+Chappolini collected $36 from pot
+Chappolini: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $0 
+Seat 3: Chappolini (button) (small blind) collected ($36)
+Seat 6: Nemo & co (big blind) folded before Flop
+
+
+PokerStars Game #102608741025:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:19:53 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #2 is the button
+Seat 2: LuckyBiitch ($600 in chips) 
+Seat 6: Nemo & co ($257 in chips) 
+LuckyBiitch: posts small blind $3
+Chappolini: is sitting out 
+Chappolini leaves the table
+barrao leaves the table
+Nemo & co: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider joins the table at seat #3 
+LuckyBiitch: raises $12 to $18
+floriiiiider leaves the table
+Nemo & co: calls $12
+*** FLOP *** [Qs Jh 6s]
+Nemo & co: checks 
+LuckyBiitch: bets $24
+Nemo & co: calls $24
+*** TURN *** [Qs Jh 6s] [4d]
+Nemo & co: checks 
+LuckyBiitch: bets $60
+stds st joins the table at seat #3 
+Nemo & co: folds 
+Uncalled bet ($60) returned to LuckyBiitch
+LuckyBiitch collected $83.50 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $84 | Rake $0.50 
+Board [Qs Jh 6s 4d]
+Seat 2: LuckyBiitch (button) (small blind) collected ($83.50)
+Seat 6: Nemo & co (big blind) folded on the Turn
+
+
+PokerStars Game #102608327692:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:10:24 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: LuckyMorkva ($1669.72 in chips) 
+Seat 2: elvn89 ($258 in chips) 
+Seat 3: Chappolini ($601.11 in chips) 
+Seat 4: x_QUIXTAR_x ($300 in chips) 
+Seat 5: barrao ($1077.15 in chips) 
+x_QUIXTAR_x: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+LuckyMorkva: folds 
+elvn89: folds 
+Chappolini: raises $6 to $12
+x_QUIXTAR_x: calls $9
+barrao: folds 
+*** FLOP *** [7d 9s Qd]
+x_QUIXTAR_x: checks 
+Nemo & co joins the table at seat #6 
+Chappolini: bets $18
+x_QUIXTAR_x: folds 
+Uncalled bet ($18) returned to Chappolini
+Chappolini collected $28.65 from pot
+Chappolini: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [7d 9s Qd]
+Seat 1: LuckyMorkva folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Chappolini (button) collected ($28.65)
+Seat 4: x_QUIXTAR_x (small blind) folded on the Flop
+Seat 5: barrao (big blind) folded before Flop
+
+
+PokerStars Game #102608347928:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:10:52 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: LuckyMorkva ($1669.72 in chips) 
+Seat 2: elvn89 ($258 in chips) 
+Seat 3: Chappolini ($617.76 in chips) 
+Seat 4: x_QUIXTAR_x ($300 in chips) 
+Seat 5: barrao ($1071.15 in chips) 
+Seat 6: Nemo & co ($400 in chips) 
+barrao: posts small blind $3
+Nemo & co: posts big blind $6
+*** HOLE CARDS ***
+LuckyMorkva: folds 
+elvn89: raises $12 to $18
+Chappolini: folds 
+x_QUIXTAR_x: folds 
+barrao: folds 
+Nemo & co: folds 
+Uncalled bet ($12) returned to elvn89
+elvn89 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyMorkva folded before Flop (didn't bet)
+Seat 2: elvn89 collected ($15)
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: x_QUIXTAR_x (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: Nemo & co (big blind) folded before Flop
+
+
+PokerStars Game #102608369573:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:11:21 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: LuckyMorkva ($1669.72 in chips) 
+Seat 2: elvn89 ($267 in chips) 
+Seat 3: Chappolini ($617.76 in chips) 
+Seat 4: x_QUIXTAR_x ($300 in chips) 
+Seat 5: barrao ($1068.15 in chips) 
+Seat 6: Nemo & co ($394 in chips) 
+Nemo & co: posts small blind $3
+LuckyMorkva: posts big blind $6
+*** HOLE CARDS ***
+elvn89: raises $12 to $18
+Chappolini: calls $18
+x_QUIXTAR_x: folds 
+barrao: calls $18
+Nemo & co: raises $54 to $72
+LuckyMorkva: folds 
+elvn89: folds 
+Chappolini: folds 
+barrao: calls $54
+*** FLOP *** [9d Qs 3c]
+Nemo & co: bets $78
+barrao: calls $78
+*** TURN *** [9d Qs 3c] [2h]
+Nemo & co: checks 
+barrao: checks 
+*** RIVER *** [9d Qs 3c 2h] [Th]
+Nemo & co: checks 
+barrao: bets $918.15 and is all-in
+Nemo & co: folds 
+Uncalled bet ($918.15) returned to barrao
+barrao collected $339.20 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $342 | Rake $2.80 
+Board [9d Qs 3c 2h Th]
+Seat 1: LuckyMorkva (big blind) folded before Flop
+Seat 2: elvn89 folded before Flop
+Seat 3: Chappolini folded before Flop
+Seat 4: x_QUIXTAR_x folded before Flop (didn't bet)
+Seat 5: barrao (button) collected ($339.20)
+Seat 6: Nemo & co (small blind) folded on the River
+
+
+PokerStars Game #102608483194:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:13:57 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: LuckyMorkva ($1663.72 in chips) 
+Seat 2: elvn89 ($249 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: x_QUIXTAR_x ($300 in chips) 
+Seat 5: barrao ($1257.35 in chips) 
+Seat 6: Nemo & co ($244 in chips) 
+LuckyMorkva: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+Chappolini: folds 
+x_QUIXTAR_x: raises $7.50 to $13.50
+barrao: folds 
+Nemo & co: folds 
+LuckyMorkva: folds 
+elvn89: folds 
+Uncalled bet ($7.50) returned to x_QUIXTAR_x
+x_QUIXTAR_x collected $15 from pot
+x_QUIXTAR_x: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyMorkva (small blind) folded before Flop
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: Chappolini folded before Flop (didn't bet)
+Seat 4: x_QUIXTAR_x collected ($15)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Nemo & co (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102608510515:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:14:34 ET
+Table 'Aneas IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: LuckyMorkva ($1660.72 in chips) 
+Seat 2: elvn89 ($243 in chips) 
+Seat 3: Chappolini ($600 in chips) 
+Seat 4: x_QUIXTAR_x ($309 in chips) 
+Seat 5: barrao ($1257.35 in chips) 
+Seat 6: Nemo & co ($244 in chips) 
+elvn89: posts small blind $3
+Chappolini: posts big blind $6
+*** HOLE CARDS ***
+x_QUIXTAR_x: folds 
+barrao: folds 
+Nemo & co: raises $12 to $18
+LuckyMorkva: folds 
+elvn89: folds 
+Chappolini: calls $12
+*** FLOP *** [5c 3h 2d]
+Chappolini: checks 
+Nemo & co: bets $18
+Chappolini: calls $18
+*** TURN *** [5c 3h 2d] [5s]
+Chappolini: checks 
+Nemo & co: checks 
+*** RIVER *** [5c 3h 2d 5s] [Ac]
+Chappolini: checks 
+Nemo & co: checks 
+*** SHOW DOWN ***
+Chappolini: shows [As Jd] (two pair, Aces and Fives)
+Nemo & co: mucks hand 
+Chappolini collected $72.20 from pot
+*** SUMMARY ***
+Total pot $75 | Rake $2.80 
+Board [5c 3h 2d 5s Ac]
+Seat 1: LuckyMorkva (button) folded before Flop (didn't bet)
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: Chappolini (big blind) showed [As Jd] and won ($72.20) with two pair, Aces and Fives
+Seat 4: x_QUIXTAR_x folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Nemo & co mucked

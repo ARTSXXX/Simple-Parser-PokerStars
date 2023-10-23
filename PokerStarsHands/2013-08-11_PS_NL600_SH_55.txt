@@ -1,0 +1,1147 @@
+
+
+PokerStars Game #102598256026:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:10:08 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Nemo & co ($394 in chips) 
+Seat 2: HoldenUte03 ($216.31 in chips) 
+Seat 3: maxxmeister ($639.51 in chips) 
+Seat 4: DuckinF0nk ($636.27 in chips) 
+Seat 5: khk24 ($600 in chips) 
+Seat 6: ZarubaNT ($624 in chips) 
+Nemo & co: posts small blind $3
+HoldenUte03: posts big blind $6
+*** HOLE CARDS ***
+maxxmeister: folds 
+DuckinF0nk: folds 
+khk24: folds 
+ZarubaNT: folds 
+Nemo & co: raises $6 to $12
+HoldenUte03: calls $6
+*** FLOP *** [7d 5s Kd]
+Nemo & co: checks 
+HoldenUte03: checks 
+*** TURN *** [7d 5s Kd] [Th]
+Nemo & co: bets $18
+HoldenUte03: folds [Ac]
+Uncalled bet ($18) returned to Nemo & co
+Nemo & co collected $22.92 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.08 
+Board [7d 5s Kd Th]
+Seat 1: Nemo & co (small blind) collected ($22.92)
+Seat 2: HoldenUte03 (big blind) folded on the Turn
+Seat 3: maxxmeister folded before Flop (didn't bet)
+Seat 4: DuckinF0nk folded before Flop (didn't bet)
+Seat 5: khk24 folded before Flop (didn't bet)
+Seat 6: ZarubaNT (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102598277016:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:10:57 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Nemo & co ($404.92 in chips) 
+Seat 2: HoldenUte03 ($204.31 in chips) 
+Seat 3: maxxmeister ($639.51 in chips) 
+Seat 4: DuckinF0nk ($636.27 in chips) 
+Seat 5: khk24 ($600 in chips) 
+Seat 6: ZarubaNT ($624 in chips) 
+HoldenUte03: posts small blind $3
+maxxmeister: posts big blind $6
+*** HOLE CARDS ***
+DuckinF0nk: folds 
+khk24: raises $12 to $18
+ZarubaNT: folds 
+Nemo & co: folds 
+HoldenUte03: folds 
+maxxmeister: folds 
+Uncalled bet ($12) returned to khk24
+khk24 collected $15 from pot
+khk24: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Nemo & co (button) folded before Flop (didn't bet)
+Seat 2: HoldenUte03 (small blind) folded before Flop
+Seat 3: maxxmeister (big blind) folded before Flop
+Seat 4: DuckinF0nk folded before Flop (didn't bet)
+Seat 5: khk24 collected ($15)
+Seat 6: ZarubaNT folded before Flop (didn't bet)
+
+
+PokerStars Game #102598288580:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:11:24 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Nemo & co ($404.92 in chips) 
+Seat 2: HoldenUte03 ($201.31 in chips) 
+Seat 3: maxxmeister ($633.51 in chips) 
+Seat 4: DuckinF0nk ($636.27 in chips) 
+Seat 5: khk24 ($609 in chips) 
+Seat 6: ZarubaNT ($624 in chips) 
+maxxmeister: posts small blind $3
+DuckinF0nk: posts big blind $6
+*** HOLE CARDS ***
+khk24: folds 
+ZarubaNT has timed out
+ZarubaNT: folds 
+Nemo & co: folds 
+HoldenUte03: folds 
+maxxmeister: folds 
+Uncalled bet ($3) returned to DuckinF0nk
+DuckinF0nk collected $6 from pot
+DuckinF0nk: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Nemo & co folded before Flop (didn't bet)
+Seat 2: HoldenUte03 (button) folded before Flop (didn't bet)
+Seat 3: maxxmeister (small blind) folded before Flop
+Seat 4: DuckinF0nk (big blind) collected ($6)
+Seat 5: khk24 folded before Flop (didn't bet)
+Seat 6: ZarubaNT folded before Flop (didn't bet)
+
+
+PokerStars Game #102598302472:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:11:57 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Nemo & co ($404.92 in chips) 
+Seat 2: HoldenUte03 ($201.31 in chips) 
+Seat 3: maxxmeister ($630.51 in chips) 
+Seat 4: DuckinF0nk ($639.27 in chips) 
+Seat 5: khk24 ($609 in chips) 
+Seat 6: ZarubaNT ($624 in chips) 
+DuckinF0nk: posts small blind $3
+khk24: posts big blind $6
+*** HOLE CARDS ***
+ZarubaNT: folds 
+Nemo & co: folds 
+HoldenUte03: raises $6 to $12
+maxxmeister: folds 
+DuckinF0nk: raises $27 to $39
+khk24: folds 
+HoldenUte03: calls $27
+*** FLOP *** [2h Qd 4c]
+DuckinF0nk: bets $51
+HoldenUte03: folds 
+Uncalled bet ($51) returned to DuckinF0nk
+DuckinF0nk collected $81.20 from pot
+DuckinF0nk: doesn't show hand 
+*** SUMMARY ***
+Total pot $84 | Rake $2.80 
+Board [2h Qd 4c]
+Seat 1: Nemo & co folded before Flop (didn't bet)
+Seat 2: HoldenUte03 folded on the Flop
+Seat 3: maxxmeister (button) folded before Flop (didn't bet)
+Seat 4: DuckinF0nk (small blind) collected ($81.20)
+Seat 5: khk24 (big blind) folded before Flop
+Seat 6: ZarubaNT folded before Flop (didn't bet)
+
+
+PokerStars Game #102598328537:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:12:58 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Nemo & co ($404.92 in chips) 
+Seat 2: HoldenUte03 ($162.31 in chips) 
+Seat 3: maxxmeister ($630.51 in chips) 
+Seat 4: DuckinF0nk ($681.47 in chips) 
+Seat 5: khk24 ($603 in chips) 
+Seat 6: ZarubaNT ($624 in chips) 
+khk24: posts small blind $3
+ZarubaNT: posts big blind $6
+*** HOLE CARDS ***
+Nemo & co: folds 
+HoldenUte03: folds 
+maxxmeister: folds 
+DuckinF0nk: raises $6 to $12
+khk24: raises $36 to $48
+ZarubaNT: folds 
+DuckinF0nk: folds 
+Uncalled bet ($36) returned to khk24
+khk24 collected $30 from pot
+khk24: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: Nemo & co folded before Flop (didn't bet)
+Seat 2: HoldenUte03 folded before Flop (didn't bet)
+Seat 3: maxxmeister folded before Flop (didn't bet)
+Seat 4: DuckinF0nk (button) folded before Flop
+Seat 5: khk24 (small blind) collected ($30)
+Seat 6: ZarubaNT (big blind) folded before Flop
+
+
+PokerStars Game #102598342708:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:13:32 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Nemo & co ($404.92 in chips) 
+Seat 2: HoldenUte03 ($162.31 in chips) 
+Seat 3: maxxmeister ($630.51 in chips) 
+Seat 4: DuckinF0nk ($669.47 in chips) 
+Seat 5: khk24 ($621 in chips) 
+Seat 6: ZarubaNT ($618 in chips) 
+ZarubaNT: posts small blind $3
+Nemo & co: posts big blind $6
+*** HOLE CARDS ***
+HoldenUte03: raises $6 to $12
+maxxmeister: folds 
+DuckinF0nk: folds 
+khk24: folds 
+ZarubaNT: folds 
+Nemo & co: calls $6
+*** FLOP *** [Ts 2h 6c]
+Nemo & co: checks 
+HoldenUte03: bets $18
+Nemo & co: folds 
+Uncalled bet ($18) returned to HoldenUte03
+HoldenUte03 collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Ts 2h 6c]
+Seat 1: Nemo & co (big blind) folded on the Flop
+Seat 2: HoldenUte03 collected ($25.78)
+Seat 3: maxxmeister folded before Flop (didn't bet)
+Seat 4: DuckinF0nk folded before Flop (didn't bet)
+Seat 5: khk24 (button) folded before Flop (didn't bet)
+Seat 6: ZarubaNT (small blind) folded before Flop
+
+
+PokerStars Game #102598359425:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:14:11 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Nemo & co ($392.92 in chips) 
+Seat 2: HoldenUte03 ($176.09 in chips) 
+Seat 3: maxxmeister ($630.51 in chips) 
+Seat 4: DuckinF0nk ($669.47 in chips) 
+Seat 5: khk24 ($621 in chips) 
+Seat 6: ZarubaNT ($615 in chips) 
+Nemo & co: posts small blind $3
+HoldenUte03: posts big blind $6
+*** HOLE CARDS ***
+maxxmeister: folds 
+maxxmeister leaves the table
+DuckinF0nk: folds 
+khk24: folds 
+ZarubaNT: folds 
+Nemo & co: folds 
+Uncalled bet ($3) returned to HoldenUte03
+HoldenUte03 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Nemo & co (small blind) folded before Flop
+Seat 2: HoldenUte03 (big blind) collected ($6)
+Seat 3: maxxmeister folded before Flop (didn't bet)
+Seat 4: DuckinF0nk folded before Flop (didn't bet)
+Seat 5: khk24 folded before Flop (didn't bet)
+Seat 6: ZarubaNT (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102598367922:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:14:31 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Nemo & co ($389.92 in chips) 
+Seat 2: HoldenUte03 ($179.09 in chips) 
+Seat 4: DuckinF0nk ($669.47 in chips) 
+Seat 5: khk24 ($621 in chips) 
+Seat 6: ZarubaNT ($615 in chips) 
+HoldenUte03: posts small blind $3
+DuckinF0nk: posts big blind $6
+*** HOLE CARDS ***
+khk24: folds 
+ZarubaNT: folds 
+stds st joins the table at seat #3 
+Nemo & co: folds 
+HoldenUte03: folds 
+Uncalled bet ($3) returned to DuckinF0nk
+DuckinF0nk collected $6 from pot
+DuckinF0nk: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Nemo & co (button) folded before Flop (didn't bet)
+Seat 2: HoldenUte03 (small blind) folded before Flop
+Seat 4: DuckinF0nk (big blind) collected ($6)
+Seat 5: khk24 folded before Flop (didn't bet)
+Seat 6: ZarubaNT folded before Flop (didn't bet)
+
+
+PokerStars Game #102598376243:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:14:51 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Nemo & co ($389.92 in chips) 
+Seat 2: HoldenUte03 ($176.09 in chips) 
+Seat 4: DuckinF0nk ($672.47 in chips) 
+Seat 5: khk24 ($621 in chips) 
+Seat 6: ZarubaNT ($615 in chips) 
+stds st will be allowed to play after the button
+DuckinF0nk: posts small blind $3
+khk24: posts big blind $6
+*** HOLE CARDS ***
+ZarubaNT: folds 
+Nemo & co: folds 
+HoldenUte03: raises $6 to $12
+DuckinF0nk: folds 
+khk24: raises $30 to $42
+HoldenUte03: folds 
+Uncalled bet ($30) returned to khk24
+khk24 collected $27 from pot
+khk24: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 1: Nemo & co folded before Flop (didn't bet)
+Seat 2: HoldenUte03 (button) folded before Flop
+Seat 4: DuckinF0nk (small blind) folded before Flop
+Seat 5: khk24 (big blind) collected ($27)
+Seat 6: ZarubaNT folded before Flop (didn't bet)
+
+
+PokerStars Game #102598135768:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:05:26 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #3 is the button
+Seat 2: HoldenUte03 ($240 in chips) 
+Seat 3: maxxmeister ($600 in chips) 
+Seat 4: DuckinF0nk ($639.27 in chips) 
+DuckinF0nk: posts small blind $3
+HoldenUte03: posts big blind $6
+*** HOLE CARDS ***
+maxxmeister: raises $6 to $12
+DuckinF0nk: folds 
+HoldenUte03: calls $6
+*** FLOP *** [4d 5s 3c]
+HoldenUte03: checks 
+maxxmeister: bets $17.01
+ZarubaNT joins the table at seat #6 
+HoldenUte03: calls $17.01
+*** TURN *** [4d 5s 3c] [7d]
+HoldenUte03: checks 
+maxxmeister: bets $54
+HoldenUte03: folds [5h]
+Uncalled bet ($54) returned to maxxmeister
+maxxmeister collected $59.52 from pot
+maxxmeister: doesn't show hand 
+*** SUMMARY ***
+Total pot $61.02 | Rake $1.50 
+Board [4d 5s 3c 7d]
+Seat 2: HoldenUte03 (big blind) folded on the Turn
+Seat 3: maxxmeister (button) collected ($59.52)
+Seat 4: DuckinF0nk (small blind) folded before Flop
+
+
+PokerStars Game #102598153135:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:06:06 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #4 is the button
+Seat 2: HoldenUte03 ($210.99 in chips) 
+Seat 3: maxxmeister ($630.51 in chips) 
+Seat 4: DuckinF0nk ($636.27 in chips) 
+ZarubaNT will be allowed to play after the button
+HoldenUte03: posts small blind $3
+maxxmeister: posts big blind $6
+*** HOLE CARDS ***
+DuckinF0nk: raises $12 to $18
+HoldenUte03: folds 
+maxxmeister: folds 
+Uncalled bet ($12) returned to DuckinF0nk
+DuckinF0nk collected $15 from pot
+DuckinF0nk: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: HoldenUte03 (small blind) folded before Flop
+Seat 3: maxxmeister (big blind) folded before Flop
+Seat 4: DuckinF0nk (button) collected ($15)
+
+
+PokerStars Game #102598157822:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:06:17 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: HoldenUte03 ($207.99 in chips) 
+Seat 3: maxxmeister ($624.51 in chips) 
+Seat 4: DuckinF0nk ($645.27 in chips) 
+maxxmeister: posts small blind $3
+DuckinF0nk: posts big blind $6
+ZarubaNT: sits out 
+*** HOLE CARDS ***
+HoldenUte03: folds 
+maxxmeister: raises $12 to $18
+DuckinF0nk: folds 
+Uncalled bet ($12) returned to maxxmeister
+maxxmeister collected $12 from pot
+maxxmeister: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: HoldenUte03 (button) folded before Flop (didn't bet)
+Seat 3: maxxmeister (small blind) collected ($12)
+Seat 4: DuckinF0nk (big blind) folded before Flop
+
+
+PokerStars Game #102598163330:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:06:30 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #3 is the button
+Seat 2: HoldenUte03 ($207.99 in chips) 
+Seat 3: maxxmeister ($630.51 in chips) 
+Seat 4: DuckinF0nk ($639.27 in chips) 
+Seat 6: ZarubaNT ($600 in chips) 
+DuckinF0nk: posts small blind $3
+ZarubaNT: posts big blind $6
+*** HOLE CARDS ***
+HoldenUte03: calls $6
+maxxmeister: folds 
+DuckinF0nk: folds 
+ZarubaNT: checks 
+*** FLOP *** [9c As 6c]
+Nemo & co joins the table at seat #1 
+khk24 joins the table at seat #5 
+ZarubaNT: checks 
+HoldenUte03: checks 
+*** TURN *** [9c As 6c] [Tc]
+ZarubaNT: checks 
+HoldenUte03: bets $12
+ZarubaNT: folds 
+Uncalled bet ($12) returned to HoldenUte03
+HoldenUte03 collected $14.32 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0.68 
+Board [9c As 6c Tc]
+Seat 2: HoldenUte03 collected ($14.32)
+Seat 3: maxxmeister (button) folded before Flop (didn't bet)
+Seat 4: DuckinF0nk (small blind) folded before Flop
+Seat 6: ZarubaNT (big blind) folded on the Turn
+
+
+PokerStars Game #102598177799:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:07:04 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Nemo & co ($400 in chips) 
+Seat 2: HoldenUte03 ($216.31 in chips) 
+Seat 3: maxxmeister ($630.51 in chips) 
+Seat 4: DuckinF0nk ($636.27 in chips) 
+Seat 6: ZarubaNT ($600 in chips) 
+khk24 will be allowed to play after the button
+ZarubaNT: posts small blind $3
+Nemo & co: posts big blind $6
+*** HOLE CARDS ***
+HoldenUte03: folds 
+maxxmeister: raises $10.20 to $16.20
+DuckinF0nk: folds 
+ZarubaNT: folds 
+Nemo & co: folds 
+Uncalled bet ($10.20) returned to maxxmeister
+maxxmeister collected $15 from pot
+maxxmeister: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Nemo & co (big blind) folded before Flop
+Seat 2: HoldenUte03 folded before Flop (didn't bet)
+Seat 3: maxxmeister collected ($15)
+Seat 4: DuckinF0nk (button) folded before Flop (didn't bet)
+Seat 6: ZarubaNT (small blind) folded before Flop
+
+
+PokerStars Game #102598190276:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:07:33 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Nemo & co ($394 in chips) 
+Seat 2: HoldenUte03 ($216.31 in chips) 
+Seat 3: maxxmeister ($639.51 in chips) 
+Seat 4: DuckinF0nk ($636.27 in chips) 
+Seat 6: ZarubaNT ($600 in chips) 
+Nemo & co: posts small blind $3
+HoldenUte03: posts big blind $6
+khk24: sits out 
+*** HOLE CARDS ***
+maxxmeister: raises $10.20 to $16.20
+DuckinF0nk: folds 
+ZarubaNT: folds 
+Nemo & co: folds 
+HoldenUte03: folds 
+Uncalled bet ($10.20) returned to maxxmeister
+maxxmeister collected $15 from pot
+maxxmeister: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Nemo & co (small blind) folded before Flop
+Seat 2: HoldenUte03 (big blind) folded before Flop
+Seat 3: maxxmeister collected ($15)
+Seat 4: DuckinF0nk folded before Flop (didn't bet)
+Seat 6: ZarubaNT (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102598205212:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:08:08 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Nemo & co ($391 in chips) 
+Seat 2: HoldenUte03 ($210.31 in chips) 
+Seat 3: maxxmeister ($648.51 in chips) 
+Seat 4: DuckinF0nk ($636.27 in chips) 
+Seat 6: ZarubaNT ($600 in chips) 
+HoldenUte03: posts small blind $3
+maxxmeister: posts big blind $6
+khk24: sits out 
+*** HOLE CARDS ***
+DuckinF0nk: folds 
+ZarubaNT: raises $9 to $15
+Nemo & co: folds 
+HoldenUte03: folds 
+maxxmeister: folds 
+Uncalled bet ($9) returned to ZarubaNT
+ZarubaNT collected $15 from pot
+ZarubaNT: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Nemo & co (button) folded before Flop (didn't bet)
+Seat 2: HoldenUte03 (small blind) folded before Flop
+Seat 3: maxxmeister (big blind) folded before Flop
+Seat 4: DuckinF0nk folded before Flop (didn't bet)
+Seat 6: ZarubaNT collected ($15)
+
+
+PokerStars Game #102598212613:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:08:26 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Nemo & co ($391 in chips) 
+Seat 2: HoldenUte03 ($207.31 in chips) 
+Seat 3: maxxmeister ($642.51 in chips) 
+Seat 4: DuckinF0nk ($636.27 in chips) 
+Seat 6: ZarubaNT ($609 in chips) 
+maxxmeister: posts small blind $3
+DuckinF0nk: posts big blind $6
+khk24: sits out 
+*** HOLE CARDS ***
+ZarubaNT: folds 
+Nemo & co: folds 
+HoldenUte03: folds 
+maxxmeister: folds 
+Uncalled bet ($3) returned to DuckinF0nk
+DuckinF0nk collected $6 from pot
+DuckinF0nk: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Nemo & co folded before Flop (didn't bet)
+Seat 2: HoldenUte03 (button) folded before Flop (didn't bet)
+Seat 3: maxxmeister (small blind) folded before Flop
+Seat 4: DuckinF0nk (big blind) collected ($6)
+Seat 6: ZarubaNT folded before Flop (didn't bet)
+
+
+PokerStars Game #102598219459:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:08:42 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Nemo & co ($391 in chips) 
+Seat 2: HoldenUte03 ($207.31 in chips) 
+Seat 3: maxxmeister ($639.51 in chips) 
+Seat 4: DuckinF0nk ($639.27 in chips) 
+Seat 5: khk24 ($600 in chips) 
+Seat 6: ZarubaNT ($609 in chips) 
+DuckinF0nk: posts small blind $3
+khk24: posts big blind $6
+*** HOLE CARDS ***
+ZarubaNT: folds 
+Nemo & co: folds 
+HoldenUte03: raises $12 to $18
+maxxmeister: folds 
+DuckinF0nk: folds 
+khk24: folds 
+Uncalled bet ($12) returned to HoldenUte03
+HoldenUte03 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Nemo & co folded before Flop (didn't bet)
+Seat 2: HoldenUte03 collected ($15)
+Seat 3: maxxmeister (button) folded before Flop (didn't bet)
+Seat 4: DuckinF0nk (small blind) folded before Flop
+Seat 5: khk24 (big blind) folded before Flop
+Seat 6: ZarubaNT folded before Flop (didn't bet)
+
+
+PokerStars Game #102598230073:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:09:07 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Nemo & co ($391 in chips) 
+Seat 2: HoldenUte03 ($216.31 in chips) 
+Seat 3: maxxmeister ($639.51 in chips) 
+Seat 4: DuckinF0nk ($636.27 in chips) 
+Seat 5: khk24 ($600 in chips) 
+Seat 6: ZarubaNT ($609 in chips) 
+khk24: posts small blind $3
+ZarubaNT: posts big blind $6
+*** HOLE CARDS ***
+Nemo & co: folds 
+HoldenUte03: folds 
+maxxmeister: folds 
+DuckinF0nk: folds 
+khk24: raises $12 to $18
+ZarubaNT: raises $30 to $48
+khk24: folds 
+Uncalled bet ($30) returned to ZarubaNT
+ZarubaNT collected $36 from pot
+ZarubaNT: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $0 
+Seat 1: Nemo & co folded before Flop (didn't bet)
+Seat 2: HoldenUte03 folded before Flop (didn't bet)
+Seat 3: maxxmeister folded before Flop (didn't bet)
+Seat 4: DuckinF0nk (button) folded before Flop (didn't bet)
+Seat 5: khk24 (small blind) folded before Flop
+Seat 6: ZarubaNT (big blind) collected ($36)
+
+
+PokerStars Game #102598248949:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:09:51 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Nemo & co ($391 in chips) 
+Seat 2: HoldenUte03 ($216.31 in chips) 
+Seat 3: maxxmeister ($639.51 in chips) 
+Seat 4: DuckinF0nk ($636.27 in chips) 
+Seat 5: khk24 ($600 in chips) 
+Seat 6: ZarubaNT ($627 in chips) 
+ZarubaNT: posts small blind $3
+Nemo & co: posts big blind $6
+*** HOLE CARDS ***
+HoldenUte03: folds 
+maxxmeister: folds 
+DuckinF0nk: folds 
+khk24: folds 
+ZarubaNT: folds 
+Uncalled bet ($3) returned to Nemo & co
+Nemo & co collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Nemo & co (big blind) collected ($6)
+Seat 2: HoldenUte03 folded before Flop (didn't bet)
+Seat 3: maxxmeister folded before Flop (didn't bet)
+Seat 4: DuckinF0nk folded before Flop (didn't bet)
+Seat 5: khk24 (button) folded before Flop (didn't bet)
+Seat 6: ZarubaNT (small blind) folded before Flop
+
+
+PokerStars Game #102598114158:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:04:36 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: HoldenUte03 ($240 in chips) 
+Seat 3: maxxmeister ($569 in chips) 
+Seat 4: DuckinF0nk ($600 in chips) 
+maxxmeister: posts small blind $3
+DuckinF0nk: posts big blind $6
+*** HOLE CARDS ***
+HoldenUte03: folds 
+maxxmeister: raises $12 to $18
+DuckinF0nk: calls $12
+*** FLOP *** [4d 5s 5h]
+maxxmeister: bets $22.77
+DuckinF0nk: calls $22.77
+*** TURN *** [4d 5s 5h] [3d]
+maxxmeister: checks 
+DuckinF0nk: bets $52.03
+maxxmeister: folds 
+Uncalled bet ($52.03) returned to DuckinF0nk
+DuckinF0nk collected $80.04 from pot
+DuckinF0nk: doesn't show hand 
+*** SUMMARY ***
+Total pot $81.54 | Rake $1.50 
+Board [4d 5s 5h 3d]
+Seat 2: HoldenUte03 (button) folded before Flop (didn't bet)
+Seat 3: maxxmeister (small blind) folded on the Turn
+Seat 4: DuckinF0nk (big blind) collected ($80.04)
+
+
+PokerStars Game #102598662071:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:25:56 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Nemo & co ($332.92 in chips) 
+Seat 2: HoldenUte03 ($223.61 in chips) 
+Seat 3: stds st ($264.48 in chips) 
+Seat 4: DuckinF0nk ($745.07 in chips) 
+Seat 5: khk24 ($616.78 in chips) 
+Seat 6: ZarubaNT ($600 in chips) 
+stds st: posts small blind $3
+DuckinF0nk: posts big blind $6
+*** HOLE CARDS ***
+khk24: folds 
+ZarubaNT: folds 
+Nemo & co: raises $12 to $18
+HoldenUte03: folds 
+stds st: folds 
+DuckinF0nk: raises $42 to $60
+Nemo & co: folds 
+Uncalled bet ($42) returned to DuckinF0nk
+DuckinF0nk collected $39 from pot
+DuckinF0nk: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $0 
+Seat 1: Nemo & co folded before Flop
+Seat 2: HoldenUte03 (button) folded before Flop (didn't bet)
+Seat 3: stds st (small blind) folded before Flop
+Seat 4: DuckinF0nk (big blind) collected ($39)
+Seat 5: khk24 folded before Flop (didn't bet)
+Seat 6: ZarubaNT folded before Flop (didn't bet)
+
+
+PokerStars Game #102598681641:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:26:42 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Nemo & co ($314.92 in chips) 
+Seat 2: HoldenUte03 ($223.61 in chips) 
+Seat 3: stds st ($261.48 in chips) 
+Seat 4: DuckinF0nk ($766.07 in chips) 
+Seat 6: ZarubaNT ($600 in chips) 
+DuckinF0nk: posts small blind $3
+khk24: is sitting out 
+ZarubaNT: posts big blind $6
+*** HOLE CARDS ***
+Nemo & co: raises $12 to $18
+HoldenUte03: folds 
+stds st: folds 
+DuckinF0nk: folds 
+ZarubaNT: folds 
+Uncalled bet ($12) returned to Nemo & co
+Nemo & co collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Nemo & co collected ($15)
+Seat 2: HoldenUte03 folded before Flop (didn't bet)
+Seat 3: stds st (button) folded before Flop (didn't bet)
+Seat 4: DuckinF0nk (small blind) folded before Flop
+Seat 6: ZarubaNT (big blind) folded before Flop
+
+
+PokerStars Game #102598693063:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:27:08 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Nemo & co ($323.92 in chips) 
+Seat 2: HoldenUte03 ($223.61 in chips) 
+Seat 3: stds st ($261.48 in chips) 
+Seat 4: DuckinF0nk ($763.07 in chips) 
+Seat 6: ZarubaNT ($600 in chips) 
+ZarubaNT: posts small blind $3
+Nemo & co: posts big blind $6
+*** HOLE CARDS ***
+HoldenUte03: folds 
+stds st: raises $6 to $12
+DuckinF0nk: folds 
+ZarubaNT: folds 
+Nemo & co: folds 
+Uncalled bet ($6) returned to stds st
+stds st collected $15 from pot
+stds st: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Nemo & co (big blind) folded before Flop
+Seat 2: HoldenUte03 folded before Flop (didn't bet)
+Seat 3: stds st collected ($15)
+Seat 4: DuckinF0nk (button) folded before Flop (didn't bet)
+Seat 6: ZarubaNT (small blind) folded before Flop
+
+
+PokerStars Game #102598700032:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:27:25 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Nemo & co ($317.92 in chips) 
+Seat 2: HoldenUte03 ($223.61 in chips) 
+Seat 3: stds st ($270.48 in chips) 
+Seat 4: DuckinF0nk ($763.07 in chips) 
+Seat 6: ZarubaNT ($600 in chips) 
+Nemo & co: posts small blind $3
+HoldenUte03: posts big blind $6
+*** HOLE CARDS ***
+stds st: folds 
+DuckinF0nk: folds 
+ZarubaNT: folds 
+Nemo & co: folds 
+Uncalled bet ($3) returned to HoldenUte03
+HoldenUte03 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Nemo & co (small blind) folded before Flop
+Seat 2: HoldenUte03 (big blind) collected ($6)
+Seat 3: stds st folded before Flop (didn't bet)
+Seat 4: DuckinF0nk folded before Flop (didn't bet)
+Seat 6: ZarubaNT (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102598707937:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:27:43 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Nemo & co ($314.92 in chips) 
+Seat 2: HoldenUte03 ($226.61 in chips) 
+Seat 3: stds st ($270.48 in chips) 
+Seat 4: DuckinF0nk ($763.07 in chips) 
+Seat 6: ZarubaNT ($600 in chips) 
+HoldenUte03: posts small blind $3
+stds st: posts big blind $6
+*** HOLE CARDS ***
+DuckinF0nk: folds 
+ZarubaNT: folds 
+Nemo & co: raises $9 to $15
+HoldenUte03: calls $12
+stds st: folds 
+*** FLOP *** [3s 9s 3c]
+HoldenUte03: checks 
+Nemo & co: bets $24
+HoldenUte03: calls $24
+*** TURN *** [3s 9s 3c] [Td]
+HoldenUte03: checks 
+Nemo & co: checks 
+*** RIVER *** [3s 9s 3c Td] [Ah]
+HoldenUte03: checks 
+Nemo & co: checks 
+*** SHOW DOWN ***
+HoldenUte03: shows [Kh 9c] (two pair, Nines and Threes)
+Nemo & co: mucks hand 
+HoldenUte03 collected $81.20 from pot
+*** SUMMARY ***
+Total pot $84 | Rake $2.80 
+Board [3s 9s 3c Td Ah]
+Seat 1: Nemo & co (button) mucked
+Seat 2: HoldenUte03 (small blind) showed [Kh 9c] and won ($81.20) with two pair, Nines and Threes
+Seat 3: stds st (big blind) folded before Flop
+Seat 4: DuckinF0nk folded before Flop (didn't bet)
+Seat 6: ZarubaNT folded before Flop (didn't bet)
+
+
+PokerStars Game #102598740881:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:28:59 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Nemo & co ($275.92 in chips) 
+Seat 3: stds st ($264.48 in chips) 
+Seat 6: ZarubaNT ($600 in chips) 
+ZarubaNT: posts small blind $3
+Nemo & co: posts big blind $6
+*** HOLE CARDS ***
+HoldenUte03 leaves the table
+vjxbkf joins the table at seat #2 
+stds st: folds 
+vjxbkf leaves the table
+ZarubaNT: folds 
+Uncalled bet ($3) returned to Nemo & co
+Nemo & co collected $6 from pot
+Nemo & co leaves the table
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Nemo & co (big blind) collected ($6)
+Seat 3: stds st (button) folded before Flop (didn't bet)
+Seat 6: ZarubaNT (small blind) folded before Flop
+
+
+PokerStars Game #102598756503:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:29:36 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: JulyShort ($240 in chips) 
+Seat 3: stds st ($264.48 in chips) 
+Seat 6: ZarubaNT ($603 in chips) 
+ZarubaNT: posts small blind $3
+JulyShort: posts big blind $6
+*** HOLE CARDS ***
+stds st: raises $6 to $12
+ZarubaNT: folds 
+JulyShort: folds 
+Uncalled bet ($6) returned to stds st
+stds st collected $15 from pot
+stds st: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: JulyShort (big blind) folded before Flop
+Seat 3: stds st (button) collected ($15)
+Seat 6: ZarubaNT (small blind) folded before Flop
+
+
+PokerStars Game #102598748235:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:29:16 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #6 is the button
+Seat 3: stds st ($264.48 in chips) 
+Seat 6: ZarubaNT ($600 in chips) 
+ZarubaNT: posts small blind $3
+stds st: posts big blind $6
+*** HOLE CARDS ***
+JulyShort joins the table at seat #1 
+ZarubaNT: folds 
+Uncalled bet ($3) returned to stds st
+stds st collected $6 from pot
+stds st: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 3: stds st (big blind) collected ($6)
+Seat 6: ZarubaNT (button) (small blind) folded before Flop
+
+
+PokerStars Game #102598752096:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:29:26 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #3 is the button
+Seat 3: stds st ($267.48 in chips) 
+Seat 6: ZarubaNT ($600 in chips) 
+stds st: posts small blind $3
+ZarubaNT: posts big blind $6
+*** HOLE CARDS ***
+stds st: folds 
+Uncalled bet ($3) returned to ZarubaNT
+ZarubaNT collected $6 from pot
+ZarubaNT: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 3: stds st (button) (small blind) folded before Flop
+Seat 6: ZarubaNT (big blind) collected ($6)
+
+
+PokerStars Game #102598766629:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:29:59 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: JulyShort ($234 in chips) 
+Seat 6: ZarubaNT ($600 in chips) 
+JulyShort: posts small blind $3
+stds st: is sitting out 
+ZarubaNT: posts big blind $6
+*** HOLE CARDS ***
+JulyShort: folds 
+Uncalled bet ($3) returned to ZarubaNT
+ZarubaNT collected $6 from pot
+ZarubaNT: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: JulyShort (button) (small blind) folded before Flop
+Seat 6: ZarubaNT (big blind) collected ($6)
+
+
+PokerStars Game #102598387246:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:15:16 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Nemo & co ($389.92 in chips) 
+Seat 2: HoldenUte03 ($164.09 in chips) 
+Seat 4: DuckinF0nk ($669.47 in chips) 
+Seat 5: khk24 ($636 in chips) 
+Seat 6: ZarubaNT ($615 in chips) 
+khk24: posts small blind $3
+ZarubaNT: posts big blind $6
+stds st: sits out 
+*** HOLE CARDS ***
+Nemo & co: folds 
+HoldenUte03: folds 
+DuckinF0nk: raises $6 to $12
+khk24: folds 
+ZarubaNT: calls $6
+*** FLOP *** [5c Ks 5h]
+ZarubaNT: checks 
+DuckinF0nk: bets $18
+ZarubaNT: calls $18
+*** TURN *** [5c Ks 5h] [8h]
+ZarubaNT: checks 
+DuckinF0nk: checks 
+*** RIVER *** [5c Ks 5h 8h] [4c]
+ZarubaNT: checks 
+DuckinF0nk: checks 
+*** SHOW DOWN ***
+ZarubaNT: shows [As 9s] (a pair of Fives)
+DuckinF0nk: shows [7d 7c] (two pair, Sevens and Fives)
+DuckinF0nk collected $60.20 from pot
+*** SUMMARY ***
+Total pot $63 | Rake $2.80 
+Board [5c Ks 5h 8h 4c]
+Seat 1: Nemo & co folded before Flop (didn't bet)
+Seat 2: HoldenUte03 folded before Flop (didn't bet)
+Seat 4: DuckinF0nk (button) showed [7d 7c] and won ($60.20) with two pair, Sevens and Fives
+Seat 5: khk24 (small blind) folded before Flop
+Seat 6: ZarubaNT (big blind) showed [As 9s] and lost with a pair of Fives
+
+
+PokerStars Game #102598413150:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:16:16 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Nemo & co ($389.92 in chips) 
+Seat 2: HoldenUte03 ($164.09 in chips) 
+Seat 4: DuckinF0nk ($699.67 in chips) 
+Seat 5: khk24 ($633 in chips) 
+Seat 6: ZarubaNT ($600 in chips) 
+ZarubaNT: posts small blind $3
+Nemo & co: posts big blind $6
+stds st: sits out 
+*** HOLE CARDS ***
+HoldenUte03: folds 
+DuckinF0nk: folds 
+khk24: folds 
+ZarubaNT: folds 
+Uncalled bet ($3) returned to Nemo & co
+Nemo & co collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Nemo & co (big blind) collected ($6)
+Seat 2: HoldenUte03 folded before Flop (didn't bet)
+Seat 4: DuckinF0nk folded before Flop (didn't bet)
+Seat 5: khk24 (button) folded before Flop (didn't bet)
+Seat 6: ZarubaNT (small blind) folded before Flop
+
+
+PokerStars Game #102598423953:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:16:41 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Nemo & co ($392.92 in chips) 
+Seat 2: HoldenUte03 ($164.09 in chips) 
+Seat 4: DuckinF0nk ($699.67 in chips) 
+Seat 5: khk24 ($633 in chips) 
+Seat 6: ZarubaNT ($600 in chips) 
+Nemo & co: posts small blind $3
+HoldenUte03: posts big blind $6
+stds st: sits out 
+*** HOLE CARDS ***
+DuckinF0nk: folds 
+khk24: folds 
+ZarubaNT: folds 
+Nemo & co: raises $6 to $12
+HoldenUte03: raises $152.09 to $164.09 and is all-in
+Nemo & co: folds 
+Uncalled bet ($152.09) returned to HoldenUte03
+HoldenUte03 collected $24 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: Nemo & co (small blind) folded before Flop
+Seat 2: HoldenUte03 (big blind) collected ($24)
+Seat 4: DuckinF0nk folded before Flop (didn't bet)
+Seat 5: khk24 folded before Flop (didn't bet)
+Seat 6: ZarubaNT (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102598435587:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:17:08 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Nemo & co ($380.92 in chips) 
+Seat 2: HoldenUte03 ($176.09 in chips) 
+Seat 3: stds st ($240 in chips) 
+Seat 4: DuckinF0nk ($699.67 in chips) 
+Seat 5: khk24 ($633 in chips) 
+Seat 6: ZarubaNT ($600 in chips) 
+HoldenUte03: posts small blind $3
+stds st: posts big blind $6
+*** HOLE CARDS ***
+DuckinF0nk: folds 
+khk24: folds 
+ZarubaNT: raises $9 to $15
+Nemo & co: folds 
+HoldenUte03: folds 
+stds st: folds 
+Uncalled bet ($9) returned to ZarubaNT
+ZarubaNT collected $15 from pot
+ZarubaNT: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Nemo & co (button) folded before Flop (didn't bet)
+Seat 2: HoldenUte03 (small blind) folded before Flop
+Seat 3: stds st (big blind) folded before Flop
+Seat 4: DuckinF0nk folded before Flop (didn't bet)
+Seat 5: khk24 folded before Flop (didn't bet)
+Seat 6: ZarubaNT collected ($15)
+
+
+PokerStars Game #102598447356:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:17:35 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Nemo & co ($380.92 in chips) 
+Seat 2: HoldenUte03 ($173.09 in chips) 
+Seat 3: stds st ($234 in chips) 
+Seat 4: DuckinF0nk ($699.67 in chips) 
+Seat 5: khk24 ($633 in chips) 
+Seat 6: ZarubaNT ($609 in chips) 
+stds st: posts small blind $3
+DuckinF0nk: posts big blind $6
+*** HOLE CARDS ***
+khk24: folds 
+ZarubaNT: folds 
+Nemo & co: folds 
+HoldenUte03: folds 
+stds st: folds 
+Uncalled bet ($3) returned to DuckinF0nk
+DuckinF0nk collected $6 from pot
+DuckinF0nk: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Nemo & co folded before Flop (didn't bet)
+Seat 2: HoldenUte03 (button) folded before Flop (didn't bet)
+Seat 3: stds st (small blind) folded before Flop
+Seat 4: DuckinF0nk (big blind) collected ($6)
+Seat 5: khk24 folded before Flop (didn't bet)
+Seat 6: ZarubaNT folded before Flop (didn't bet)
+
+
+PokerStars Game #102598459234:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:18:03 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Nemo & co ($380.92 in chips) 
+Seat 2: HoldenUte03 ($173.09 in chips) 
+Seat 3: stds st ($231 in chips) 
+Seat 4: DuckinF0nk ($702.67 in chips) 
+Seat 5: khk24 ($633 in chips) 
+Seat 6: ZarubaNT ($609 in chips) 
+DuckinF0nk: posts small blind $3
+khk24: posts big blind $6
+*** HOLE CARDS ***
+ZarubaNT: folds 
+Nemo & co: folds 
+HoldenUte03: raises $6 to $12
+stds st: folds 
+DuckinF0nk: folds 
+khk24: calls $6
+*** FLOP *** [2d Qs 5c]
+khk24: checks 
+HoldenUte03: checks 
+*** TURN *** [2d Qs 5c] [6h]
+khk24: bets $18
+HoldenUte03: folds 
+Uncalled bet ($18) returned to khk24
+khk24 collected $25.78 from pot
+khk24: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [2d Qs 5c 6h]
+Seat 1: Nemo & co folded before Flop (didn't bet)
+Seat 2: HoldenUte03 folded on the Turn
+Seat 3: stds st (button) folded before Flop (didn't bet)
+Seat 4: DuckinF0nk (small blind) folded before Flop
+Seat 5: khk24 (big blind) collected ($25.78)
+Seat 6: ZarubaNT folded before Flop (didn't bet)
+
+
+PokerStars Game #102598479961:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:18:51 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Nemo & co ($380.92 in chips) 
+Seat 2: HoldenUte03 ($161.09 in chips) 
+Seat 3: stds st ($231 in chips) 
+Seat 4: DuckinF0nk ($699.67 in chips) 
+Seat 5: khk24 ($646.78 in chips) 
+Seat 6: ZarubaNT ($609 in chips) 
+khk24: posts small blind $3
+ZarubaNT: posts big blind $6
+*** HOLE CARDS ***
+Nemo & co: folds 
+HoldenUte03: folds 
+stds st: raises $6 to $12
+DuckinF0nk: folds 
+khk24: folds 
+ZarubaNT: folds 
+Uncalled bet ($6) returned to stds st
+stds st collected $15 from pot
+stds st: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Nemo & co folded before Flop (didn't bet)
+Seat 2: HoldenUte03 folded before Flop (didn't bet)
+Seat 3: stds st collected ($15)
+Seat 4: DuckinF0nk (button) folded before Flop (didn't bet)
+Seat 5: khk24 (small blind) folded before Flop
+Seat 6: ZarubaNT (big blind) folded before Flop
+
+
+PokerStars Game #102598489216:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:19:12 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Nemo & co ($380.92 in chips) 
+Seat 2: HoldenUte03 ($161.09 in chips) 
+Seat 3: stds st ($240 in chips) 
+Seat 4: DuckinF0nk ($699.67 in chips) 
+Seat 5: khk24 ($643.78 in chips) 
+Seat 6: ZarubaNT ($603 in chips) 
+ZarubaNT: posts small blind $3
+Nemo & co: posts big blind $6
+*** HOLE CARDS ***
+HoldenUte03: calls $6
+stds st: folds 
+DuckinF0nk: folds 
+khk24: folds 
+ZarubaNT: folds 
+Nemo & co: checks 
+*** FLOP *** [Kd 9h 3s]
+Nemo & co: checks 
+HoldenUte03: bets $6
+Nemo & co: folds 
+Uncalled bet ($6) returned to HoldenUte03
+HoldenUte03 collected $14.32 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0.68 
+Board [Kd 9h 3s]
+Seat 1: Nemo & co (big blind) folded on the Flop
+Seat 2: HoldenUte03 collected ($14.32)
+Seat 3: stds st folded before Flop (didn't bet)
+Seat 4: DuckinF0nk folded before Flop (didn't bet)
+Seat 5: khk24 (button) folded before Flop (didn't bet)
+Seat 6: ZarubaNT (small blind) folded before Flop
+
+
+PokerStars Game #102598507128:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 6:19:54 ET
+Table 'Tirela V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Nemo & co ($374.92 in chips) 
+Seat 2: HoldenUte03 ($169.41 in chips) 
+Seat 3: stds st ($240 in chips) 
+Seat 4: DuckinF0nk ($699.67 in chips) 
+Seat 5: khk24 ($643.78 in chips) 
+Seat 6: ZarubaNT ($600 in chips) 
+Nemo & co: posts small blind $3
+HoldenUte03: posts big blind $6
+*** HOLE CARDS ***
+stds st: folds 
+DuckinF0nk: folds 
+khk24 has timed out
+khk24: folds 
+ZarubaNT: folds 
+Nemo & co: raises $6 to $12
+HoldenUte03: folds 
+Uncalled bet ($6) returned to Nemo & co
+Nemo & co collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Nemo & co (small blind) collected ($12)
+Seat 2: HoldenUte03 (big blind) folded before Flop
+Seat 3: stds st folded before Flop (didn't bet)
+Seat 4: DuckinF0nk folded before Flop (didn't bet)
+Seat 5: khk24 folded before Flop (didn't bet)
+Seat 6: ZarubaNT (button) folded before Flop (didn't bet)

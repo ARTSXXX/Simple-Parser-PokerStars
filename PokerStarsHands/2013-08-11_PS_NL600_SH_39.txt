@@ -1,0 +1,666 @@
+
+
+PokerStars Game #102616009207:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:05:07 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($635 in chips) 
+Seat 5: madsquared ($600 in chips) 
+madsquared: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+madsquared: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to madsquared
+madsquared collected $12 from pot
+madsquared: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (big blind) folded before Flop
+Seat 5: madsquared (button) (small blind) collected ($12)
+
+
+PokerStars Game #102616032231:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:05:34 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($629 in chips) 
+Seat 5: madsquared ($606 in chips) 
+teunuss: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+madsquared: folds 
+Uncalled bet ($6) returned to teunuss
+teunuss collected $12 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (button) (small blind) collected ($12)
+Seat 5: madsquared (big blind) folded before Flop
+
+
+PokerStars Game #102616042226:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:05:45 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($635 in chips) 
+Seat 5: madsquared ($600 in chips) 
+madsquared: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+madsquared: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to madsquared
+madsquared collected $12 from pot
+madsquared: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (big blind) folded before Flop
+Seat 5: madsquared (button) (small blind) collected ($12)
+
+
+PokerStars Game #102616052371:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:05:57 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($629 in chips) 
+Seat 5: madsquared ($606 in chips) 
+teunuss: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+madsquared: calls $6
+*** FLOP *** [Js Jd 9s]
+madsquared: checks 
+teunuss: checks 
+*** TURN *** [Js Jd 9s] [5c]
+madsquared: checks 
+teunuss: checks 
+*** RIVER *** [Js Jd 9s 5c] [4c]
+madsquared: checks 
+teunuss: checks 
+*** SHOW DOWN ***
+madsquared: shows [Kh 7c] (a pair of Jacks)
+teunuss: shows [Qs Ac] (a pair of Jacks - Ace kicker)
+teunuss collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Js Jd 9s 5c 4c]
+Seat 2: teunuss (button) (small blind) showed [Qs Ac] and won ($23.50) with a pair of Jacks
+Seat 5: madsquared (big blind) showed [Kh 7c] and lost with a pair of Jacks
+
+
+PokerStars Game #102616090655:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:06:41 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($640.50 in chips) 
+Seat 5: madsquared ($600 in chips) 
+madsquared: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+madsquared: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [Kc 5h 4c]
+teunuss: checks 
+madsquared: checks 
+*** TURN *** [Kc 5h 4c] [9c]
+teunuss: checks 
+madsquared: checks 
+*** RIVER *** [Kc 5h 4c 9c] [8d]
+teunuss: checks 
+madsquared: bets $17.62
+teunuss: folds 
+Uncalled bet ($17.62) returned to madsquared
+madsquared collected $23.50 from pot
+madsquared: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Kc 5h 4c 9c 8d]
+Seat 2: teunuss (big blind) folded on the River
+Seat 5: madsquared (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102616129226:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:07:26 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($628.50 in chips) 
+Seat 5: madsquared ($611.50 in chips) 
+teunuss: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+madsquared: calls $6
+*** FLOP *** [4d As 7s]
+madsquared: checks 
+teunuss: checks 
+*** TURN *** [4d As 7s] [3d]
+madsquared: bets $17.62
+teunuss: calls $17.62
+*** RIVER *** [4d As 7s 3d] [3h]
+madsquared: checks 
+teunuss: checks 
+*** SHOW DOWN ***
+madsquared: shows [8s 6c] (a pair of Threes)
+teunuss: shows [5c Kd] (a pair of Threes - Ace+King kicker)
+teunuss collected $58.74 from pot
+*** SUMMARY ***
+Total pot $59.24 | Rake $0.50 
+Board [4d As 7s 3d 3h]
+Seat 2: teunuss (button) (small blind) showed [5c Kd] and won ($58.74) with a pair of Threes
+Seat 5: madsquared (big blind) showed [8s 6c] and lost with a pair of Threes
+
+
+PokerStars Game #102616154055:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:07:55 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($657.62 in chips) 
+Seat 5: madsquared ($600 in chips) 
+madsquared: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+madsquared: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [3s Kc 4h]
+teunuss: checks 
+madsquared: checks 
+*** TURN *** [3s Kc 4h] [5d]
+teunuss: checks 
+madsquared: checks 
+*** RIVER *** [3s Kc 4h 5d] [Js]
+teunuss: checks 
+madsquared: checks 
+*** SHOW DOWN ***
+teunuss: shows [8d Ac] (high card Ace)
+madsquared: shows [7c 3h] (a pair of Threes)
+madsquared collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [3s Kc 4h 5d Js]
+Seat 2: teunuss (big blind) showed [8d Ac] and lost with high card Ace
+Seat 5: madsquared (button) (small blind) showed [7c 3h] and won ($23.50) with a pair of Threes
+
+
+PokerStars Game #102616168796:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:08:12 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($645.62 in chips) 
+Seat 5: madsquared ($611.50 in chips) 
+teunuss: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+madsquared: folds 
+Uncalled bet ($6) returned to teunuss
+teunuss collected $12 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (button) (small blind) collected ($12)
+Seat 5: madsquared (big blind) folded before Flop
+
+
+PokerStars Game #102616182415:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:08:27 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($651.62 in chips) 
+Seat 5: madsquared ($605.50 in chips) 
+madsquared: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+madsquared: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [Jh 4c 3h]
+teunuss: checks 
+madsquared: bets $15.74
+teunuss: folds 
+Uncalled bet ($15.74) returned to madsquared
+madsquared collected $23.50 from pot
+madsquared: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Jh 4c 3h]
+Seat 2: teunuss (big blind) folded on the Flop
+Seat 5: madsquared (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102616203206:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:08:51 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($639.62 in chips) 
+Seat 5: madsquared ($617 in chips) 
+teunuss: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+madsquared: raises $30 to $42
+teunuss: folds 
+Uncalled bet ($30) returned to madsquared
+madsquared collected $24 from pot
+madsquared: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: teunuss (button) (small blind) folded before Flop
+Seat 5: madsquared (big blind) collected ($24)
+
+
+PokerStars Game #102616210923:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:09:00 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($627.62 in chips) 
+Seat 5: madsquared ($629 in chips) 
+madsquared: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+madsquared: raises $6 to $12
+teunuss: raises $33 to $45
+madsquared: calls $33
+*** FLOP *** [Qd As 7c]
+teunuss: bets $48
+madsquared: calls $48
+*** TURN *** [Qd As 7c] [5s]
+teunuss: checks 
+madsquared: bets $102
+teunuss: folds 
+Uncalled bet ($102) returned to madsquared
+madsquared collected $185.50 from pot
+madsquared: doesn't show hand 
+*** SUMMARY ***
+Total pot $186 | Rake $0.50 
+Board [Qd As 7c 5s]
+Seat 2: teunuss (big blind) folded on the Turn
+Seat 5: madsquared (button) (small blind) collected ($185.50)
+
+
+PokerStars Game #102615934298:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:03:39 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($600 in chips) 
+Seat 5: madsquared ($600 in chips) 
+teunuss: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+madsquared: calls $6
+*** FLOP *** [4d 8d 2d]
+madsquared: checks 
+teunuss: bets $15
+madsquared: calls $15
+*** TURN *** [4d 8d 2d] [7d]
+madsquared: checks 
+teunuss: bets $39
+madsquared: folds 
+Uncalled bet ($39) returned to teunuss
+teunuss collected $53.50 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $54 | Rake $0.50 
+Board [4d 8d 2d 7d]
+Seat 2: teunuss (button) (small blind) collected ($53.50)
+Seat 5: madsquared (big blind) folded on the Turn
+
+
+PokerStars Game #102615963252:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:04:13 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($626.50 in chips) 
+Seat 5: madsquared ($600 in chips) 
+madsquared: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+madsquared: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to madsquared
+madsquared collected $12 from pot
+madsquared: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (big blind) folded before Flop
+Seat 5: madsquared (button) (small blind) collected ($12)
+
+
+PokerStars Game #102615973692:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:04:25 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($620.50 in chips) 
+Seat 5: madsquared ($606 in chips) 
+teunuss: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Uncalled bet ($3) returned to madsquared
+madsquared collected $6 from pot
+madsquared: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: teunuss (button) (small blind) folded before Flop
+Seat 5: madsquared (big blind) collected ($6)
+
+
+PokerStars Game #102615978856:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:04:31 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($617.50 in chips) 
+Seat 5: madsquared ($609 in chips) 
+madsquared: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+madsquared: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [Qs 5c Qh]
+teunuss: checks 
+madsquared: checks 
+*** TURN *** [Qs 5c Qh] [8d]
+teunuss: bets $18
+madsquared: folds 
+Uncalled bet ($18) returned to teunuss
+teunuss collected $23.50 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Qs 5c Qh 8d]
+Seat 2: teunuss (big blind) collected ($23.50)
+Seat 5: madsquared (button) (small blind) folded on the Turn
+
+
+PokerStars Game #102615992497:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:04:47 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($629 in chips) 
+Seat 5: madsquared ($600 in chips) 
+teunuss: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+madsquared: folds 
+Uncalled bet ($6) returned to teunuss
+teunuss collected $12 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (button) (small blind) collected ($12)
+Seat 5: madsquared (big blind) folded before Flop
+
+
+PokerStars Game #102616549519:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:15:33 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($795.84 in chips) 
+Seat 5: madsquared ($600 in chips) 
+madsquared: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+madsquared: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [Jh 6d 2d]
+teunuss: checks 
+madsquared: checks 
+*** TURN *** [Jh 6d 2d] [6h]
+teunuss: checks 
+madsquared: bets $17.62
+teunuss: folds 
+Uncalled bet ($17.62) returned to madsquared
+madsquared collected $23.50 from pot
+madsquared: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Jh 6d 2d 6h]
+Seat 2: teunuss (big blind) folded on the Turn
+Seat 5: madsquared (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102616569425:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:15:56 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($783.84 in chips) 
+Seat 5: madsquared ($611.50 in chips) 
+teunuss: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+madsquared: calls $6
+*** FLOP *** [Kh Ts 4s]
+madsquared: checks 
+teunuss: checks 
+*** TURN *** [Kh Ts 4s] [7s]
+madsquared: bets $15.74
+teunuss: raises $38.26 to $54
+madsquared: calls $38.26
+*** RIVER *** [Kh Ts 4s 7s] [7h]
+madsquared: checks 
+teunuss: bets $102
+madsquared: raises $443.50 to $545.50 and is all-in
+teunuss: calls $443.50
+*** SHOW DOWN ***
+madsquared: shows [Kd Td] (two pair, Kings and Tens)
+teunuss: shows [7d 7c] (four of a kind, Sevens)
+teunuss collected $1222.50 from pot
+*** SUMMARY ***
+Total pot $1223 | Rake $0.50 
+Board [Kh Ts 4s 7s 7h]
+Seat 2: teunuss (button) (small blind) showed [7d 7c] and won ($1222.50) with four of a kind, Sevens
+Seat 5: madsquared (big blind) showed [Kd Td] and lost with two pair, Kings and Tens
+
+
+PokerStars Game #102616606230:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:16:38 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($1394.84 in chips) 
+Seat 5: madsquared ($600 in chips) 
+madsquared: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+madsquared: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [6h 4d Qs]
+teunuss: checks 
+madsquared: bets $15.74
+teunuss: folds 
+Uncalled bet ($15.74) returned to madsquared
+madsquared collected $23.50 from pot
+madsquared: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [6h 4d Qs]
+Seat 2: teunuss (big blind) folded on the Flop
+Seat 5: madsquared (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102616268767:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:10:06 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($600 in chips) 
+Seat 5: madsquared ($721.50 in chips) 
+teunuss: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Uncalled bet ($3) returned to madsquared
+madsquared collected $6 from pot
+madsquared: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: teunuss (button) (small blind) folded before Flop
+Seat 5: madsquared (big blind) collected ($6)
+
+
+PokerStars Game #102616272945:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:10:11 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($600 in chips) 
+Seat 5: madsquared ($724.50 in chips) 
+madsquared: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+madsquared: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [5s Ts 7h]
+teunuss: checks 
+madsquared: bets $15.74
+teunuss: calls $15.74
+*** TURN *** [5s Ts 7h] [2s]
+teunuss: checks 
+madsquared: checks 
+*** RIVER *** [5s Ts 7h 2s] [Kh]
+teunuss: checks 
+madsquared: checks 
+*** SHOW DOWN ***
+teunuss: shows [Ah 7s] (a pair of Sevens)
+madsquared: shows [Th Jc] (a pair of Tens)
+madsquared collected $54.98 from pot
+*** SUMMARY ***
+Total pot $55.48 | Rake $0.50 
+Board [5s Ts 7h 2s Kh]
+Seat 2: teunuss (big blind) showed [Ah 7s] and lost with a pair of Sevens
+Seat 5: madsquared (button) (small blind) showed [Th Jc] and won ($54.98) with a pair of Tens
+
+
+PokerStars Game #102616327575:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:11:15 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($600 in chips) 
+Seat 5: madsquared ($751.74 in chips) 
+teunuss: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+madsquared: calls $6
+*** FLOP *** [5c 6s 2h]
+madsquared: checks 
+teunuss: checks 
+*** TURN *** [5c 6s 2h] [Qc]
+madsquared: checks 
+teunuss: checks 
+*** RIVER *** [5c 6s 2h Qc] [Jd]
+madsquared: checks 
+teunuss: checks 
+*** SHOW DOWN ***
+madsquared: shows [5d Td] (a pair of Fives)
+teunuss: mucks hand 
+madsquared collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [5c 6s 2h Qc Jd]
+Seat 2: teunuss (button) (small blind) mucked
+Seat 5: madsquared (big blind) showed [5d Td] and won ($23.50) with a pair of Fives
+
+
+PokerStars Game #102616396765:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:12:35 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($600 in chips) 
+Seat 5: madsquared ($763.24 in chips) 
+madsquared: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+madsquared: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [2c 8h 4c]
+teunuss: checks 
+madsquared: bets $15.74
+teunuss: raises $38.26 to $54
+madsquared: folds 
+Uncalled bet ($38.26) returned to teunuss
+teunuss collected $54.98 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $55.48 | Rake $0.50 
+Board [2c 8h 4c]
+Seat 2: teunuss (big blind) collected ($54.98)
+Seat 5: madsquared (button) (small blind) folded on the Flop
+
+
+PokerStars Game #102616417559:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:13:00 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($627.24 in chips) 
+Seat 5: madsquared ($735.50 in chips) 
+teunuss: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+madsquared: calls $6
+*** FLOP *** [Qd Ad 7s]
+madsquared: checks 
+teunuss: bets $15
+madsquared: calls $15
+*** TURN *** [Qd Ad 7s] [6d]
+madsquared: checks 
+teunuss: bets $39
+madsquared: calls $39
+*** RIVER *** [Qd Ad 7s 6d] [As]
+madsquared: checks 
+teunuss: checks 
+*** SHOW DOWN ***
+madsquared: shows [6s Kd] (two pair, Aces and Sixes)
+teunuss: shows [8d Qh] (two pair, Aces and Queens)
+teunuss collected $131.50 from pot
+*** SUMMARY ***
+Total pot $132 | Rake $0.50 
+Board [Qd Ad 7s 6d As]
+Seat 2: teunuss (button) (small blind) showed [8d Qh] and won ($131.50) with two pair, Aces and Queens
+Seat 5: madsquared (big blind) showed [6s Kd] and lost with two pair, Aces and Sixes
+
+
+PokerStars Game #102616461099:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:13:51 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($692.74 in chips) 
+Seat 5: madsquared ($669.50 in chips) 
+madsquared: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+madsquared: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [4h Jc 4c]
+teunuss: checks 
+madsquared: bets $15.74
+teunuss: folds 
+Uncalled bet ($15.74) returned to madsquared
+madsquared collected $23.50 from pot
+madsquared: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [4h Jc 4c]
+Seat 2: teunuss (big blind) folded on the Flop
+Seat 5: madsquared (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102616474336:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:14:06 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($680.74 in chips) 
+Seat 5: madsquared ($681 in chips) 
+teunuss: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+madsquared: calls $6
+*** FLOP *** [Ac Td 5h]
+madsquared: checks 
+teunuss: bets $15
+madsquared: folds 
+Uncalled bet ($15) returned to teunuss
+teunuss collected $23.50 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Ac Td 5h]
+Seat 2: teunuss (button) (small blind) collected ($23.50)
+Seat 5: madsquared (big blind) folded on the Flop
+
+
+PokerStars Game #102616486570:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:14:21 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($692.24 in chips) 
+Seat 5: madsquared ($669 in chips) 
+madsquared: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+madsquared: raises $6 to $12
+teunuss: raises $33 to $45
+madsquared: folds 
+Uncalled bet ($33) returned to teunuss
+teunuss collected $24 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: teunuss (big blind) collected ($24)
+Seat 5: madsquared (button) (small blind) folded before Flop
+
+
+PokerStars Game #102616495009:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:14:31 ET
+Table 'Ndola VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($704.24 in chips) 
+Seat 5: madsquared ($657 in chips) 
+teunuss: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+madsquared: raises $30 to $42
+teunuss: calls $30
+*** FLOP *** [Ks 5d 6d]
+madsquared: bets $50.10
+teunuss: calls $50.10
+*** TURN *** [Ks 5d 6d] [2h]
+madsquared: checks 
+teunuss: bets $120
+madsquared: folds 
+Uncalled bet ($120) returned to teunuss
+teunuss collected $183.70 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $184.20 | Rake $0.50 
+Board [Ks 5d 6d 2h]
+Seat 2: teunuss (button) (small blind) collected ($183.70)
+Seat 5: madsquared (big blind) folded on the Turn

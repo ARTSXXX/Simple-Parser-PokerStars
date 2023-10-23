@@ -1,0 +1,1365 @@
+
+
+PokerStars Game #102607260686:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:46:05 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 6: Zero 1100101 ($1516.05 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: folds 
+Uncalled bet ($6) returned to Zero 1100101
+Zero 1100101 collected $14.40 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.40 | Rake $0 
+Seat 3: Azn1nvas1on (big blind) folded before Flop
+Seat 6: Zero 1100101 (button) (small blind) collected ($14.40)
+
+
+PokerStars Game #102607268661:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:46:15 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 6: Zero 1100101 ($1523.25 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: calls $6
+*** FLOP *** [Kc Qd 5d]
+Zero 1100101: checks 
+Azn1nvas1on: checks 
+*** TURN *** [Kc Qd 5d] [2c]
+Zero 1100101: checks 
+Azn1nvas1on: bets $18
+Zero 1100101: folds 
+Uncalled bet ($18) returned to Azn1nvas1on
+Azn1nvas1on collected $25.90 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [Kc Qd 5d 2c]
+Seat 3: Azn1nvas1on (button) (small blind) collected ($25.90)
+Seat 6: Zero 1100101 (big blind) folded on the Turn
+
+
+PokerStars Game #102607300849:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:46:56 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($612.70 in chips) 
+Seat 6: Zero 1100101 ($1510.05 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [2d Jd 2s]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** TURN *** [2d Jd 2s] [3c]
+Azn1nvas1on: checks 
+Zero 1100101: bets $15
+Azn1nvas1on: calls $15
+*** RIVER *** [2d Jd 2s 3c] [Kc]
+Azn1nvas1on: checks 
+Zero 1100101: bets $42
+Azn1nvas1on: calls $42
+*** SHOW DOWN ***
+Zero 1100101: shows [Jh 2h] (a full house, Deuces full of Jacks)
+Azn1nvas1on: mucks hand 
+Zero 1100101 collected $139.90 from pot
+*** SUMMARY ***
+Total pot $140.40 | Rake $0.50 
+Board [2d Jd 2s 3c Kc]
+Seat 3: Azn1nvas1on (big blind) mucked
+Seat 6: Zero 1100101 (button) (small blind) showed [Jh 2h] and won ($139.90) with a full house, Deuces full of Jacks
+
+
+PokerStars Game #102607344590:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:47:52 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 6: Zero 1100101 ($1579.75 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: calls $6
+*** FLOP *** [5c 7d Th]
+Zero 1100101: checks 
+Azn1nvas1on: bets $18
+Zero 1100101: folds 
+Uncalled bet ($18) returned to Azn1nvas1on
+Azn1nvas1on collected $25.90 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [5c 7d Th]
+Seat 3: Azn1nvas1on (button) (small blind) collected ($25.90)
+Seat 6: Zero 1100101 (big blind) folded on the Flop
+
+
+PokerStars Game #102607371015:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:48:25 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($612.70 in chips) 
+Seat 6: Zero 1100101 ($1566.55 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: raises $36 to $48
+Zero 1100101: folds 
+Uncalled bet ($36) returned to Azn1nvas1on
+Azn1nvas1on collected $26.40 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0 
+Seat 3: Azn1nvas1on (big blind) collected ($26.40)
+Seat 6: Zero 1100101 (button) (small blind) folded before Flop
+
+
+PokerStars Game #102607390708:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:48:51 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($625.90 in chips) 
+Seat 6: Zero 1100101 ($1553.35 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: calls $6
+*** FLOP *** [5s 5d 9s]
+Zero 1100101: checks 
+Azn1nvas1on: bets $18
+Zero 1100101: folds 
+Uncalled bet ($18) returned to Azn1nvas1on
+Azn1nvas1on collected $25.90 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [5s 5d 9s]
+Seat 3: Azn1nvas1on (button) (small blind) collected ($25.90)
+Seat 6: Zero 1100101 (big blind) folded on the Flop
+
+
+PokerStars Game #102607426262:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:49:36 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($638.60 in chips) 
+Seat 6: Zero 1100101 ($1540.15 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: folds 
+Uncalled bet ($6) returned to Zero 1100101
+Zero 1100101 collected $14.40 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.40 | Rake $0 
+Seat 3: Azn1nvas1on (big blind) folded before Flop
+Seat 6: Zero 1100101 (button) (small blind) collected ($14.40)
+
+
+PokerStars Game #102607432178:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:49:43 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($631.40 in chips) 
+Seat 6: Zero 1100101 ($1547.35 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: calls $6
+*** FLOP *** [3h 7s Kh]
+Zero 1100101: checks 
+Azn1nvas1on: bets $18
+Zero 1100101: calls $18
+*** TURN *** [3h 7s Kh] [6c]
+Zero 1100101: checks 
+Azn1nvas1on: bets $51
+Zero 1100101: folds 
+Uncalled bet ($51) returned to Azn1nvas1on
+Azn1nvas1on collected $61.90 from pot
+*** SUMMARY ***
+Total pot $62.40 | Rake $0.50 
+Board [3h 7s Kh 6c]
+Seat 3: Azn1nvas1on (button) (small blind) collected ($61.90)
+Seat 6: Zero 1100101 (big blind) folded on the Turn
+
+
+PokerStars Game #102606991110:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:40:21 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 6: Zero 1100101 ($1329.35 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: folds 
+Uncalled bet ($6) returned to Azn1nvas1on
+Azn1nvas1on collected $14.40 from pot
+*** SUMMARY ***
+Total pot $14.40 | Rake $0 
+Seat 3: Azn1nvas1on (button) (small blind) collected ($14.40)
+Seat 6: Zero 1100101 (big blind) folded before Flop
+
+
+PokerStars Game #102606997850:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:40:30 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($607.20 in chips) 
+Seat 6: Zero 1100101 ($1322.15 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: folds 
+Uncalled bet ($6) returned to Zero 1100101
+Zero 1100101 collected $14.40 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.40 | Rake $0 
+Seat 3: Azn1nvas1on (big blind) folded before Flop
+Seat 6: Zero 1100101 (button) (small blind) collected ($14.40)
+
+
+PokerStars Game #102607003928:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:40:38 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 6: Zero 1100101 ($1329.35 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: folds 
+Uncalled bet ($3) returned to Zero 1100101
+Zero 1100101 collected $8.40 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.40 | Rake $0 
+Seat 3: Azn1nvas1on (button) (small blind) folded before Flop
+Seat 6: Zero 1100101 (big blind) collected ($8.40)
+
+
+PokerStars Game #102607008883:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:40:44 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 6: Zero 1100101 ($1333.55 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [Js 5c Th]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** TURN *** [Js 5c Th] [3c]
+Azn1nvas1on: bets $18
+Zero 1100101: calls $18
+*** RIVER *** [Js 5c Th 3c] [9c]
+WhatA298 joins the table at seat #1 
+Azn1nvas1on: bets $48
+WhatA298 leaves the table
+Zero 1100101: folds 
+Uncalled bet ($48) returned to Azn1nvas1on
+Azn1nvas1on collected $61.90 from pot
+*** SUMMARY ***
+Total pot $62.40 | Rake $0.50 
+Board [Js 5c Th 3c 9c]
+Seat 3: Azn1nvas1on (big blind) collected ($61.90)
+Seat 6: Zero 1100101 (button) (small blind) folded on the River
+
+
+PokerStars Game #102607056834:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:41:45 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($630.70 in chips) 
+Seat 6: Zero 1100101 ($1302.35 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: calls $6
+*** FLOP *** [7h Jh 5s]
+Zero 1100101: checks 
+Azn1nvas1on: bets $18
+Zero 1100101: raises $39 to $57
+Azn1nvas1on: folds 
+Uncalled bet ($39) returned to Zero 1100101
+Zero 1100101 collected $61.90 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $62.40 | Rake $0.50 
+Board [7h Jh 5s]
+Seat 3: Azn1nvas1on (button) (small blind) folded on the Flop
+Seat 6: Zero 1100101 (big blind) collected ($61.90)
+
+
+PokerStars Game #102607084166:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:42:20 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 6: Zero 1100101 ($1333.05 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [4c 6c Ts]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** TURN *** [4c 6c Ts] [5h]
+Azn1nvas1on: bets $18
+Zero 1100101: folds 
+Uncalled bet ($18) returned to Azn1nvas1on
+Azn1nvas1on collected $25.90 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [4c 6c Ts 5h]
+Seat 3: Azn1nvas1on (big blind) collected ($25.90)
+Seat 6: Zero 1100101 (button) (small blind) folded on the Turn
+
+
+PokerStars Game #102607124866:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:43:12 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($612.70 in chips) 
+Seat 6: Zero 1100101 ($1319.85 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: calls $6
+*** FLOP *** [8h Jd 5h]
+Zero 1100101: checks 
+Azn1nvas1on: bets $18
+Zero 1100101: folds 
+Uncalled bet ($18) returned to Azn1nvas1on
+Azn1nvas1on collected $25.90 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [8h Jd 5h]
+Seat 3: Azn1nvas1on (button) (small blind) collected ($25.90)
+Seat 6: Zero 1100101 (big blind) folded on the Flop
+
+
+PokerStars Game #102607147905:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:43:42 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($625.40 in chips) 
+Seat 6: Zero 1100101 ($1306.65 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: folds 
+Uncalled bet ($6) returned to Zero 1100101
+Zero 1100101 collected $14.40 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.40 | Rake $0 
+Seat 3: Azn1nvas1on (big blind) folded before Flop
+Seat 6: Zero 1100101 (button) (small blind) collected ($14.40)
+
+
+PokerStars Game #102607153594:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:43:49 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($618.20 in chips) 
+Seat 6: Zero 1100101 ($1313.85 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: folds 
+Uncalled bet ($6) returned to Azn1nvas1on
+Azn1nvas1on collected $14.40 from pot
+*** SUMMARY ***
+Total pot $14.40 | Rake $0 
+Seat 3: Azn1nvas1on (button) (small blind) collected ($14.40)
+Seat 6: Zero 1100101 (big blind) folded before Flop
+
+
+PokerStars Game #102607165333:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:44:04 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($625.40 in chips) 
+Seat 6: Zero 1100101 ($1306.65 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [3d Td 6d]
+Azn1nvas1on: checks 
+Zero 1100101: bets $18
+Azn1nvas1on: folds 
+Uncalled bet ($18) returned to Zero 1100101
+Zero 1100101 collected $25.90 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [3d Td 6d]
+Seat 3: Azn1nvas1on (big blind) folded on the Flop
+Seat 6: Zero 1100101 (button) (small blind) collected ($25.90)
+
+
+PokerStars Game #102607181587:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:44:24 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($612.20 in chips) 
+Seat 6: Zero 1100101 ($1319.35 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: calls $6
+*** FLOP *** [2d 8h Ks]
+Zero 1100101: checks 
+Azn1nvas1on: bets $18
+Zero 1100101: calls $18
+*** TURN *** [2d 8h Ks] [Qd]
+Zero 1100101: checks 
+Azn1nvas1on: bets $51
+Zero 1100101: raises $115 to $166
+Azn1nvas1on: calls $115
+*** RIVER *** [2d 8h Ks Qd] [4d]
+Zero 1100101: bets $390
+Azn1nvas1on: folds 
+Uncalled bet ($390) returned to Zero 1100101
+Zero 1100101 collected $393.90 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $394.40 | Rake $0.50 
+Board [2d 8h Ks Qd 4d]
+Seat 3: Azn1nvas1on (button) (small blind) folded on the River
+Seat 6: Zero 1100101 (big blind) collected ($393.90)
+
+
+PokerStars Game #102606796622:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:36:12 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 6: Zero 1100101 ($1249.85 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: calls $6
+*** FLOP *** [4h 4c 8c]
+Zero 1100101: checks 
+Azn1nvas1on said, "just spewing around"
+Azn1nvas1on: bets $18
+Zero 1100101 said, "(^^^)"
+Zero 1100101: calls $18
+*** TURN *** [4h 4c 8c] [8d]
+Azn1nvas1on said, "it is shark week"
+Zero 1100101 said, "bigmick was watching on my laptop"
+Zero 1100101 said, "i said "he might be heroing me with AT...""
+Zero 1100101 said, "lol"
+Zero 1100101: checks 
+Azn1nvas1on said, "its awesome"
+Azn1nvas1on: bets $51
+Zero 1100101 said, "shark week?"
+Zero 1100101: folds 
+Uncalled bet ($51) returned to Azn1nvas1on
+Azn1nvas1on collected $61.90 from pot
+*** SUMMARY ***
+Total pot $62.40 | Rake $0.50 
+Board [4h 4c 8c 8d]
+Seat 3: Azn1nvas1on (button) (small blind) collected ($61.90)
+Seat 6: Zero 1100101 (big blind) folded on the Turn
+
+
+PokerStars Game #102606848223:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:37:19 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($630.70 in chips) 
+Seat 6: Zero 1100101 ($1218.65 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: raises $36 to $48
+Zero 1100101: folds 
+Uncalled bet ($36) returned to Azn1nvas1on
+Azn1nvas1on collected $26.40 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0 
+Seat 3: Azn1nvas1on (big blind) collected ($26.40)
+Seat 6: Zero 1100101 (button) (small blind) folded before Flop
+
+
+PokerStars Game #102606862389:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:37:36 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($643.90 in chips) 
+Seat 6: Zero 1100101 ($1205.45 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: calls $6
+*** FLOP *** [9d 3h 7d]
+Zero 1100101: checks 
+Azn1nvas1on: bets $18
+Zero 1100101: calls $18
+*** TURN *** [9d 3h 7d] [8s]
+Zero 1100101: checks 
+Azn1nvas1on: checks 
+*** RIVER *** [9d 3h 7d 8s] [Td]
+Zero 1100101: bets $40
+Azn1nvas1on: folds 
+Uncalled bet ($40) returned to Zero 1100101
+Zero 1100101 collected $61.90 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $62.40 | Rake $0.50 
+Board [9d 3h 7d 8s Td]
+Seat 3: Azn1nvas1on (button) (small blind) folded on the River
+Seat 6: Zero 1100101 (big blind) collected ($61.90)
+
+
+PokerStars Game #102606899528:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:38:24 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($612.70 in chips) 
+Seat 6: Zero 1100101 ($1236.15 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: raises $36 to $48
+Zero 1100101: folds 
+Uncalled bet ($36) returned to Azn1nvas1on
+Azn1nvas1on collected $26.40 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0 
+Seat 3: Azn1nvas1on (big blind) collected ($26.40)
+Seat 6: Zero 1100101 (button) (small blind) folded before Flop
+
+
+PokerStars Game #102606911090:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:38:39 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($625.90 in chips) 
+Seat 6: Zero 1100101 ($1222.95 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: calls $6
+*** FLOP *** [Ad Ah 6h]
+Zero 1100101: checks 
+Azn1nvas1on: bets $18
+Zero 1100101: calls $18
+*** TURN *** [Ad Ah 6h] [Ts]
+Zero 1100101: checks 
+Azn1nvas1on: checks 
+*** RIVER *** [Ad Ah 6h Ts] [3d]
+Zero 1100101: checks 
+Azn1nvas1on: checks 
+*** SHOW DOWN ***
+Zero 1100101: shows [Ac 9h] (three of a kind, Aces)
+Azn1nvas1on: mucks hand 
+Zero 1100101 collected $61.90 from pot
+*** SUMMARY ***
+Total pot $62.40 | Rake $0.50 
+Board [Ad Ah 6h Ts 3d]
+Seat 3: Azn1nvas1on (button) (small blind) mucked
+Seat 6: Zero 1100101 (big blind) showed [Ac 9h] and won ($61.90) with three of a kind, Aces
+
+
+PokerStars Game #102606958270:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:39:39 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 6: Zero 1100101 ($1253.65 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [7d 5c 3c]
+Azn1nvas1on: checks 
+Zero 1100101: bets $18
+Azn1nvas1on: calls $18
+*** TURN *** [7d 5c 3c] [9c]
+Azn1nvas1on: checks 
+Zero 1100101: bets $45
+Azn1nvas1on: calls $45
+*** RIVER *** [7d 5c 3c 9c] [Qd]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** SHOW DOWN ***
+Azn1nvas1on: shows [8d 5s] (a pair of Fives)
+Zero 1100101: shows [7s 4s] (a pair of Sevens)
+Zero 1100101 collected $151.90 from pot
+*** SUMMARY ***
+Total pot $152.40 | Rake $0.50 
+Board [7d 5c 3c 9c Qd]
+Seat 3: Azn1nvas1on (big blind) showed [8d 5s] and lost with a pair of Fives
+Seat 6: Zero 1100101 (button) (small blind) showed [7s 4s] and won ($151.90) with a pair of Sevens
+
+
+PokerStars Game #102606517567:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:30:17 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 6: Zero 1100101 ($600 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [Kh 5d 5c]
+Azn1nvas1on: checks 
+Zero 1100101: bets $12
+Azn1nvas1on: calls $12
+*** TURN *** [Kh 5d 5c] [Tc]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** RIVER *** [Kh 5d 5c Tc] [8d]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** SHOW DOWN ***
+Azn1nvas1on: shows [Jd Qh] (a pair of Fives)
+Zero 1100101: shows [Ah 9c] (a pair of Fives - Ace kicker)
+Zero 1100101 collected $49.90 from pot
+*** SUMMARY ***
+Total pot $50.40 | Rake $0.50 
+Board [Kh 5d 5c Tc 8d]
+Seat 3: Azn1nvas1on (big blind) showed [Jd Qh] and lost with a pair of Fives
+Seat 6: Zero 1100101 (button) (small blind) showed [Ah 9c] and won ($49.90) with a pair of Fives
+
+
+PokerStars Game #102606558846:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:31:10 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 6: Zero 1100101 ($624.70 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: raises $30 to $42
+Azn1nvas1on: folds 
+Uncalled bet ($30) returned to Zero 1100101
+Zero 1100101 collected $26.40 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $26.40 | Rake $0 
+Seat 3: Azn1nvas1on (button) (small blind) folded before Flop
+Seat 6: Zero 1100101 (big blind) collected ($26.40)
+
+
+PokerStars Game #102606572323:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:31:27 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 6: Zero 1100101 ($637.90 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [4s 4h 6c]
+Azn1nvas1on: checks 
+Zero 1100101: bets $12
+Azn1nvas1on: folds 
+Uncalled bet ($12) returned to Zero 1100101
+Zero 1100101 collected $25.90 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [4s 4h 6c]
+Seat 3: Azn1nvas1on (big blind) folded on the Flop
+Seat 6: Zero 1100101 (button) (small blind) collected ($25.90)
+
+
+PokerStars Game #102606593441:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:31:54 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 6: Zero 1100101 ($650.60 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: raises $30 to $42
+Azn1nvas1on: raises $66 to $108
+Zero 1100101: raises $66 to $174
+Azn1nvas1on: raises $424.80 to $598.80 and is all-in
+Zero 1100101: calls $424.80
+*** FIRST FLOP *** [5c 9d 5s]
+*** FIRST TURN *** [5c 9d 5s] [Ts]
+*** FIRST RIVER *** [5c 9d 5s Ts] [3c]
+*** SECOND FLOP *** [Qh Tc 6s]
+*** SECOND TURN *** [Qh Tc 6s] [Td]
+*** SECOND RIVER *** [Qh Tc 6s Td] [Jc]
+*** FIRST SHOW DOWN ***
+Zero 1100101: shows [Ac Ad] (two pair, Aces and Fives)
+Azn1nvas1on: shows [Qc Qd] (two pair, Queens and Fives)
+Zero 1100101 collected $599.75 from pot
+*** SECOND SHOW DOWN ***
+Zero 1100101: shows [Ac Ad] (two pair, Aces and Tens)
+Azn1nvas1on: shows [Qc Qd] (a full house, Queens full of Tens)
+Azn1nvas1on collected $599.75 from pot
+*** SUMMARY ***
+Total pot $1200 | Rake $0.50 
+Hand was run twice
+FIRST Board [5c 9d 5s Ts 3c]
+SECOND Board [Qh Tc 6s Td Jc]
+Seat 3: Azn1nvas1on (button) (small blind) showed [Qc Qd] and lost with two pair, Queens and Fives, and won ($599.75) with a full house, Queens full of Tens
+Seat 6: Zero 1100101 (big blind) showed [Ac Ad] and won ($599.75) with two pair, Aces and Fives, and lost with two pair, Aces and Tens
+
+
+PokerStars Game #102606650339:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:33:06 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 6: Zero 1100101 ($650.35 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101 said, "fish"
+Zero 1100101: raises $6 to $12
+Zero 1100101 said, "(^^^)"
+Azn1nvas1on said, "oops"
+Azn1nvas1on: raises $36 to $48
+Zero 1100101 said, "how you doing mate?"
+Azn1nvas1on said, "ahhh doing alright"
+Azn1nvas1on said, "swongy month"
+Zero 1100101: calls $36
+*** FLOP *** [Qc Kd 6c]
+Azn1nvas1on: bets $57
+Azn1nvas1on said, "yoiu?"
+Zero 1100101 said, "bad ish hah"
+Zero 1100101 said, "didn't bink a ME either =["
+Zero 1100101: calls $57
+*** TURN *** [Qc Kd 6c] [4h]
+Azn1nvas1on said, "shiii"
+Azn1nvas1on said, "galway didnt go well"
+Azn1nvas1on said, "?"
+Azn1nvas1on: bets $120
+Zero 1100101: calls $120
+*** RIVER *** [Qc Kd 6c 4h] [3h]
+Azn1nvas1on: checks 
+Zero 1100101: bets $424.15 and is all-in
+Azn1nvas1on: calls $373.80 and is all-in
+Uncalled bet ($50.35) returned to Zero 1100101
+*** SHOW DOWN ***
+Zero 1100101: shows [Jd Kc] (a pair of Kings)
+Azn1nvas1on: mucks hand 
+Zero 1100101 collected $1199.50 from pot
+*** SUMMARY ***
+Total pot $1200 | Rake $0.50 
+Board [Qc Kd 6c 4h 3h]
+Seat 3: Azn1nvas1on (big blind) mucked
+Seat 6: Zero 1100101 (button) (small blind) showed [Jd Kc] and won ($1199.50) with a pair of Kings
+
+
+PokerStars Game #102607884845:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:00:40 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($733.35 in chips) 
+Seat 6: Zero 1100101 ($1439.40 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [8h 5h 4d]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** TURN *** [8h 5h 4d] [Ac]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** RIVER *** [8h 5h 4d Ac] [8d]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** SHOW DOWN ***
+Azn1nvas1on: shows [4s Js] (two pair, Eights and Fours)
+Zero 1100101: mucks hand 
+Azn1nvas1on collected $25.90 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [8h 5h 4d Ac 8d]
+Seat 3: Azn1nvas1on (big blind) showed [4s Js] and won ($25.90) with two pair, Eights and Fours
+Seat 6: Zero 1100101 (button) (small blind) mucked
+
+
+PokerStars Game #102607932645:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:01:46 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($746.05 in chips) 
+Seat 6: Zero 1100101 ($1426.20 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: calls $6
+*** FLOP *** [Ad 7c Qh]
+Zero 1100101: checks 
+Azn1nvas1on: checks 
+*** TURN *** [Ad 7c Qh] [Qd]
+Zero 1100101: checks 
+Azn1nvas1on: bets $18
+Zero 1100101: folds 
+Uncalled bet ($18) returned to Azn1nvas1on
+Azn1nvas1on collected $25.90 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [Ad 7c Qh Qd]
+Seat 3: Azn1nvas1on (button) (small blind) collected ($25.90)
+Seat 6: Zero 1100101 (big blind) folded on the Turn
+
+
+PokerStars Game #102607950716:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:02:10 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($758.75 in chips) 
+Seat 6: Zero 1100101 ($1413 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [7d 6s Ac]
+Azn1nvas1on: checks 
+Zero 1100101: bets $15
+Azn1nvas1on: calls $15
+*** TURN *** [7d 6s Ac] [4d]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** RIVER *** [7d 6s Ac 4d] [8d]
+Zero 1100101 said, "hey jo, i have to go for a bit"
+Azn1nvas1on: checks 
+Zero 1100101 said, "play later?"
+Zero 1100101 said, "that ok?"
+Azn1nvas1on said, "sure"
+Zero 1100101: checks 
+*** SHOW DOWN ***
+Azn1nvas1on: shows [9s 8h] (a pair of Eights)
+Zero 1100101: mucks hand 
+Azn1nvas1on collected $55.90 from pot
+*** SUMMARY ***
+Total pot $56.40 | Rake $0.50 
+Board [7d 6s Ac 4d 8d]
+Seat 3: Azn1nvas1on (big blind) showed [9s 8h] and won ($55.90) with a pair of Eights
+Seat 6: Zero 1100101 (button) (small blind) mucked
+
+
+PokerStars Game #102607992642:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:03:05 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($786.45 in chips) 
+Seat 6: Zero 1100101 ($1384.80 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: calls $6
+*** FLOP *** [Jd 3h 9c]
+Zero 1100101 said, "ty"
+Zero 1100101: checks 
+Azn1nvas1on: bets $18
+Azn1nvas1on said, "np"
+Zero 1100101: folds 
+Uncalled bet ($18) returned to Azn1nvas1on
+Azn1nvas1on collected $25.90 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [Jd 3h 9c]
+Seat 3: Azn1nvas1on (button) (small blind) collected ($25.90)
+Seat 6: Zero 1100101 (big blind) folded on the Flop
+
+
+PokerStars Game #102608012576:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:03:31 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($799.15 in chips) 
+Seat 6: Zero 1100101 ($1371.60 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [Jd Qh 5d]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** TURN *** [Jd Qh 5d] [3d]
+Azn1nvas1on: bets $18
+Zero 1100101: folds 
+Uncalled bet ($18) returned to Azn1nvas1on
+Azn1nvas1on collected $25.90 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [Jd Qh 5d 3d]
+Seat 3: Azn1nvas1on (big blind) collected ($25.90)
+Seat 6: Zero 1100101 (button) (small blind) folded on the Turn
+
+
+PokerStars Game #102607682439:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:55:04 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($686.05 in chips) 
+Seat 6: Zero 1100101 ($1490.20 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [2d 5c Th]
+Azn1nvas1on: checks 
+Zero 1100101: bets $15
+Azn1nvas1on: calls $15
+*** TURN *** [2d 5c Th] [4s]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** RIVER *** [2d 5c Th 4s] [As]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** SHOW DOWN ***
+Azn1nvas1on: shows [Tc 6h] (a pair of Tens)
+Zero 1100101: mucks hand 
+Azn1nvas1on collected $55.90 from pot
+*** SUMMARY ***
+Total pot $56.40 | Rake $0.50 
+Board [2d 5c Th 4s As]
+Seat 3: Azn1nvas1on (big blind) showed [Tc 6h] and won ($55.90) with a pair of Tens
+Seat 6: Zero 1100101 (button) (small blind) mucked
+
+
+PokerStars Game #102607703080:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:55:38 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($713.75 in chips) 
+Seat 6: Zero 1100101 ($1462 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: calls $6
+*** FLOP *** [Jd Kd 5s]
+Zero 1100101: checks 
+Azn1nvas1on: bets $18
+Zero 1100101: calls $18
+*** TURN *** [Jd Kd 5s] [9s]
+Zero 1100101: checks 
+Azn1nvas1on: checks 
+*** RIVER *** [Jd Kd 5s 9s] [3h]
+Zero 1100101: checks 
+Azn1nvas1on: checks 
+*** SHOW DOWN ***
+Zero 1100101: shows [5c 8c] (a pair of Fives)
+Azn1nvas1on: shows [Tc 9d] (a pair of Nines)
+Azn1nvas1on collected $61.90 from pot
+*** SUMMARY ***
+Total pot $62.40 | Rake $0.50 
+Board [Jd Kd 5s 9s 3h]
+Seat 3: Azn1nvas1on (button) (small blind) showed [Tc 9d] and won ($61.90) with a pair of Nines
+Seat 6: Zero 1100101 (big blind) showed [5c 8c] and lost with a pair of Fives
+
+
+PokerStars Game #102607725981:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:56:17 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($744.45 in chips) 
+Seat 6: Zero 1100101 ($1430.80 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [Kh 7c 7s]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** TURN *** [Kh 7c 7s] [Jh]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** RIVER *** [Kh 7c 7s Jh] [Qh]
+Azn1nvas1on: bets $18
+Zero 1100101: folds 
+Uncalled bet ($18) returned to Azn1nvas1on
+Azn1nvas1on collected $25.90 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [Kh 7c 7s Jh Qh]
+Seat 3: Azn1nvas1on (big blind) collected ($25.90)
+Seat 6: Zero 1100101 (button) (small blind) folded on the River
+
+
+PokerStars Game #102607751185:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:57:00 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($757.15 in chips) 
+Seat 6: Zero 1100101 ($1417.60 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: folds 
+Uncalled bet ($6) returned to Azn1nvas1on
+Azn1nvas1on collected $14.40 from pot
+*** SUMMARY ***
+Total pot $14.40 | Rake $0 
+Seat 3: Azn1nvas1on (button) (small blind) collected ($14.40)
+Seat 6: Zero 1100101 (big blind) folded before Flop
+
+
+PokerStars Game #102607768248:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:57:28 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($764.35 in chips) 
+Seat 6: Zero 1100101 ($1410.40 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [5h Qc 9h]
+Azn1nvas1on: checks 
+Zero 1100101: bets $18
+Azn1nvas1on: calls $18
+*** TURN *** [5h Qc 9h] [Kd]
+Azn1nvas1on: checks 
+Zero 1100101: bets $45
+Azn1nvas1on: folds 
+Uncalled bet ($45) returned to Zero 1100101
+Zero 1100101 collected $61.90 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $62.40 | Rake $0.50 
+Board [5h Qc 9h Kd]
+Seat 3: Azn1nvas1on (big blind) folded on the Turn
+Seat 6: Zero 1100101 (button) (small blind) collected ($61.90)
+
+
+PokerStars Game #102607798875:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:58:20 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($733.15 in chips) 
+Seat 6: Zero 1100101 ($1441.10 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: calls $6
+*** FLOP *** [3s Th 6h]
+Zero 1100101: checks 
+Azn1nvas1on: bets $6
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** TURN *** [3s Th 6h] [5d]
+Zero 1100101: bets $26
+Azn1nvas1on: folds 
+Uncalled bet ($26) returned to Zero 1100101
+Zero 1100101 collected $49.90 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $50.40 | Rake $0.50 
+Board [3s Th 6h 5d]
+Seat 3: Azn1nvas1on (button) (small blind) folded on the Turn
+Seat 6: Zero 1100101 (big blind) collected ($49.90)
+
+
+PokerStars Game #102607821911:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:58:59 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($707.95 in chips) 
+Seat 6: Zero 1100101 ($1465.80 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [2s 8h Qs]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** TURN *** [2s 8h Qs] [8c]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** RIVER *** [2s 8h Qs 8c] [9s]
+Azn1nvas1on: bets $63
+Zero 1100101: folds 
+Uncalled bet ($63) returned to Azn1nvas1on
+Azn1nvas1on collected $25.90 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [2s 8h Qs 8c 9s]
+Seat 3: Azn1nvas1on (big blind) collected ($25.90)
+Seat 6: Zero 1100101 (button) (small blind) folded on the River
+
+
+PokerStars Game #102607856049:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:59:56 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($720.65 in chips) 
+Seat 6: Zero 1100101 ($1452.60 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: calls $6
+*** FLOP *** [7c 2s Jd]
+Zero 1100101: checks 
+Azn1nvas1on: bets $18
+Zero 1100101: folds 
+Uncalled bet ($18) returned to Azn1nvas1on
+Azn1nvas1on collected $25.90 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [7c 2s Jd]
+Seat 3: Azn1nvas1on (button) (small blind) collected ($25.90)
+Seat 6: Zero 1100101 (big blind) folded on the Flop
+
+
+PokerStars Game #102607469003:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:50:30 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($662.10 in chips) 
+Seat 6: Zero 1100101 ($1516.15 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [7s Qd 9c]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** TURN *** [7s Qd 9c] [4c]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** RIVER *** [7s Qd 9c 4c] [2s]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** SHOW DOWN ***
+Azn1nvas1on: shows [Ad 6s] (high card Ace)
+Zero 1100101: shows [Jh Ah] (high card Ace - Queen+Jack kicker)
+Zero 1100101 collected $25.90 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [7s Qd 9c 4c 2s]
+Seat 3: Azn1nvas1on (big blind) showed [Ad 6s] and lost with high card Ace
+Seat 6: Zero 1100101 (button) (small blind) showed [Jh Ah] and won ($25.90) with high card Ace
+
+
+PokerStars Game #102607497550:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:51:07 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($648.90 in chips) 
+Seat 6: Zero 1100101 ($1528.85 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: folds 
+Uncalled bet ($6) returned to Azn1nvas1on
+Azn1nvas1on collected $14.40 from pot
+*** SUMMARY ***
+Total pot $14.40 | Rake $0 
+Seat 3: Azn1nvas1on (button) (small blind) collected ($14.40)
+Seat 6: Zero 1100101 (big blind) folded before Flop
+
+
+PokerStars Game #102607507884:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:51:20 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($656.10 in chips) 
+Seat 6: Zero 1100101 ($1521.65 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: folds 
+Uncalled bet ($6) returned to Zero 1100101
+Zero 1100101 collected $14.40 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.40 | Rake $0 
+Seat 3: Azn1nvas1on (big blind) folded before Flop
+Seat 6: Zero 1100101 (button) (small blind) collected ($14.40)
+
+
+PokerStars Game #102607515714:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:51:30 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($648.90 in chips) 
+Seat 6: Zero 1100101 ($1528.85 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: raises $30 to $42
+Azn1nvas1on: folds 
+Uncalled bet ($30) returned to Zero 1100101
+Zero 1100101 collected $26.40 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $26.40 | Rake $0 
+Seat 3: Azn1nvas1on (button) (small blind) folded before Flop
+Seat 6: Zero 1100101 (big blind) collected ($26.40)
+
+
+PokerStars Game #102607545742:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:52:08 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($635.70 in chips) 
+Seat 6: Zero 1100101 ($1542.05 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [9s 7s 2h]
+Azn1nvas1on: checks 
+Zero 1100101: bets $15
+Azn1nvas1on: calls $15
+*** TURN *** [9s 7s 2h] [Jh]
+Azn1nvas1on: checks 
+Zero 1100101: bets $42
+Azn1nvas1on: calls $42
+*** RIVER *** [9s 7s 2h Jh] [8h]
+Azn1nvas1on: checks 
+Zero 1100101: bets $84
+Azn1nvas1on: calls $84
+*** SHOW DOWN ***
+Zero 1100101: shows [Ts 3d] (a straight, Seven to Jack)
+Azn1nvas1on: shows [Tc Js] (a straight, Seven to Jack)
+Azn1nvas1on collected $153.95 from pot
+Zero 1100101 collected $153.95 from pot
+*** SUMMARY ***
+Total pot $308.40 | Rake $0.50 
+Board [9s 7s 2h Jh 8h]
+Seat 3: Azn1nvas1on (big blind) showed [Tc Js] and won ($153.95) with a straight, Seven to Jack
+Seat 6: Zero 1100101 (button) (small blind) showed [Ts 3d] and won ($153.95) with a straight, Seven to Jack
+
+
+PokerStars Game #102607602997:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:53:21 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($635.45 in chips) 
+Seat 6: Zero 1100101 ($1541.80 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: calls $6
+*** FLOP *** [Ts 4d Qs]
+Zero 1100101: checks 
+Azn1nvas1on: checks 
+*** TURN *** [Ts 4d Qs] [2c]
+Zero 1100101: checks 
+Azn1nvas1on: bets $18
+Zero 1100101: folds 
+Uncalled bet ($18) returned to Azn1nvas1on
+Azn1nvas1on collected $25.90 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [Ts 4d Qs 2c]
+Seat 3: Azn1nvas1on (button) (small blind) collected ($25.90)
+Seat 6: Zero 1100101 (big blind) folded on the Turn
+
+
+PokerStars Game #102607634222:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:54:01 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($648.15 in chips) 
+Seat 6: Zero 1100101 ($1528.60 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [8c 6s 3c]
+Azn1nvas1on: checks 
+Zero 1100101: bets $18
+Azn1nvas1on: calls $18
+*** TURN *** [8c 6s 3c] [Ks]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** RIVER *** [8c 6s 3c Ks] [5h]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** SHOW DOWN ***
+Azn1nvas1on: shows [Tc Ah] (high card Ace)
+Zero 1100101: mucks hand 
+Azn1nvas1on collected $61.90 from pot
+*** SUMMARY ***
+Total pot $62.40 | Rake $0.50 
+Board [8c 6s 3c Ks 5h]
+Seat 3: Azn1nvas1on (big blind) showed [Tc Ah] and won ($61.90) with high card Ace
+Seat 6: Zero 1100101 (button) (small blind) mucked
+
+
+PokerStars Game #102607675786:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:54:55 ET
+Table 'Muscida IX 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($678.85 in chips) 
+Seat 6: Zero 1100101 ($1497.40 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: folds 
+Uncalled bet ($6) returned to Azn1nvas1on
+Azn1nvas1on collected $14.40 from pot
+*** SUMMARY ***
+Total pot $14.40 | Rake $0 
+Seat 3: Azn1nvas1on (button) (small blind) collected ($14.40)
+Seat 6: Zero 1100101 (big blind) folded before Flop

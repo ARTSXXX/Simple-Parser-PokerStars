@@ -1,0 +1,510 @@
+
+
+PokerStars Game #102609302820:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:33:06 ET
+Table 'Hypsipyle VIII 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Sir_Fuj1 ($240 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: yvolosatov ($300 in chips) 
+Seat 4: patapong ($634.95 in chips) 
+Seat 5: shevliak ($240 in chips) 
+Sir_Fuj1: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+Bukharin joins the table at seat #6 
+yvolosatov: calls $6
+patapong: folds 
+shevliak: raises $13.50 to $19.50
+Sir_Fuj1: folds 
+ilir3: folds 
+yvolosatov: calls $13.50
+*** FLOP *** [Ad 8d Qd]
+yvolosatov: checks 
+shevliak: bets $24.75
+yvolosatov: calls $24.75
+*** TURN *** [Ad 8d Qd] [5c]
+yvolosatov: checks 
+shevliak: bets $60.60
+yvolosatov: folds 
+Uncalled bet ($60.60) returned to shevliak
+shevliak collected $94.70 from pot
+shevliak: doesn't show hand 
+*** SUMMARY ***
+Total pot $97.50 | Rake $2.80 
+Board [Ad 8d Qd 5c]
+Seat 1: Sir_Fuj1 (small blind) folded before Flop
+Seat 2: ilir3 (big blind) folded before Flop
+Seat 3: yvolosatov folded on the Turn
+Seat 4: patapong folded before Flop (didn't bet)
+Seat 5: shevliak (button) collected ($94.70)
+
+
+PokerStars Game #102609335833:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:33:52 ET
+Table 'Hypsipyle VIII 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Sir_Fuj1 ($237 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: yvolosatov ($255.75 in chips) 
+Seat 4: patapong ($634.95 in chips) 
+Seat 5: shevliak ($290.45 in chips) 
+ilir3: posts small blind $3
+yvolosatov: posts big blind $6
+Bukharin: sits out 
+*** HOLE CARDS ***
+patapong: raises $9 to $15
+shevliak: folds 
+Sir_Fuj1: folds 
+ilir3: folds 
+yvolosatov: raises $240.75 to $255.75 and is all-in
+patapong: folds 
+Uncalled bet ($240.75) returned to yvolosatov
+yvolosatov collected $33 from pot
+*** SUMMARY ***
+Total pot $33 | Rake $0 
+Seat 1: Sir_Fuj1 (button) folded before Flop (didn't bet)
+Seat 2: ilir3 (small blind) folded before Flop
+Seat 3: yvolosatov (big blind) collected ($33)
+Seat 4: patapong folded before Flop
+Seat 5: shevliak folded before Flop (didn't bet)
+
+
+PokerStars Game #102609367820:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:34:37 ET
+Table 'Hypsipyle VIII 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Sir_Fuj1 ($237 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: yvolosatov ($273.75 in chips) 
+Seat 4: patapong ($619.95 in chips) 
+Seat 5: shevliak ($290.45 in chips) 
+yvolosatov: posts small blind $3
+patapong: posts big blind $6
+Bukharin: sits out 
+*** HOLE CARDS ***
+shevliak: folds 
+Sir_Fuj1: folds 
+ilir3: raises $6 to $12
+yvolosatov: calls $9
+patapong: calls $6
+*** FLOP *** [6s 4c 4s]
+yvolosatov: checks 
+patapong: checks 
+ilir3: bets $24
+yvolosatov: folds 
+patapong: folds 
+Uncalled bet ($24) returned to ilir3
+ilir3 collected $34.38 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.62 
+Board [6s 4c 4s]
+Seat 1: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 2: ilir3 (button) collected ($34.38)
+Seat 3: yvolosatov (small blind) folded on the Flop
+Seat 4: patapong (big blind) folded on the Flop
+Seat 5: shevliak folded before Flop (didn't bet)
+
+
+PokerStars Game #102609082071:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:27:56 ET
+Table 'Hypsipyle VIII 40-100 bb' 6-max Seat #1 is the button
+Seat 1: x_QUIXTAR_x ($300 in chips) 
+Seat 4: patapong ($600 in chips) 
+x_QUIXTAR_x: posts small blind $3
+patapong: posts big blind $6
+*** HOLE CARDS ***
+x_QUIXTAR_x: raises $7.50 to $13.50
+patapong: folds 
+Uncalled bet ($7.50) returned to x_QUIXTAR_x
+x_QUIXTAR_x collected $12 from pot
+x_QUIXTAR_x: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: x_QUIXTAR_x (button) (small blind) collected ($12)
+Seat 4: patapong (big blind) folded before Flop
+
+
+PokerStars Game #102609095093:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:28:15 ET
+Table 'Hypsipyle VIII 40-100 bb' 6-max Seat #4 is the button
+Seat 1: x_QUIXTAR_x ($306 in chips) 
+Seat 4: patapong ($600 in chips) 
+patapong: posts small blind $3
+x_QUIXTAR_x: posts big blind $6
+*** HOLE CARDS ***
+patapong: raises $6 to $12
+x_QUIXTAR_x: raises $18 to $30
+patapong: calls $18
+*** FLOP *** [2d 6d Jd]
+x_QUIXTAR_x: bets $24
+patapong: calls $24
+*** TURN *** [2d 6d Jd] [9d]
+x_QUIXTAR_x: checks 
+patapong: bets $9
+x_QUIXTAR_x: calls $9
+*** RIVER *** [2d 6d Jd 9d] [Th]
+x_QUIXTAR_x: checks 
+patapong: checks 
+*** SHOW DOWN ***
+x_QUIXTAR_x: shows [As Qh] (high card Ace)
+patapong: shows [3s 3d] (a flush, Jack high)
+patapong collected $125.50 from pot
+*** SUMMARY ***
+Total pot $126 | Rake $0.50 
+Board [2d 6d Jd 9d Th]
+Seat 1: x_QUIXTAR_x (big blind) showed [As Qh] and lost with high card Ace
+Seat 4: patapong (button) (small blind) showed [3s 3d] and won ($125.50) with a flush, Jack high
+
+
+PokerStars Game #102609142650:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:29:23 ET
+Table 'Hypsipyle VIII 40-100 bb' 6-max Seat #1 is the button
+Seat 1: x_QUIXTAR_x ($300 in chips) 
+Seat 4: patapong ($662.50 in chips) 
+x_QUIXTAR_x: posts small blind $3
+patapong: posts big blind $6
+*** HOLE CARDS ***
+x_QUIXTAR_x: raises $7.50 to $13.50
+patapong: calls $7.50
+*** FLOP *** [9h Kd Ad]
+patapong: checks 
+x_QUIXTAR_x: bets $12
+patapong: folds 
+Uncalled bet ($12) returned to x_QUIXTAR_x
+x_QUIXTAR_x collected $26.50 from pot
+x_QUIXTAR_x: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $0.50 
+Board [9h Kd Ad]
+Seat 1: x_QUIXTAR_x (button) (small blind) collected ($26.50)
+Seat 4: patapong (big blind) folded on the Flop
+
+
+PokerStars Game #102609167001:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:29:57 ET
+Table 'Hypsipyle VIII 40-100 bb' 6-max Seat #4 is the button
+Seat 1: x_QUIXTAR_x ($313 in chips) 
+Seat 4: patapong ($649 in chips) 
+patapong: posts small blind $3
+x_QUIXTAR_x: posts big blind $6
+*** HOLE CARDS ***
+patapong: calls $3
+x_QUIXTAR_x: checks 
+*** FLOP *** [Th 4h 4s]
+x_QUIXTAR_x: checks 
+patapong: bets $8.05
+x_QUIXTAR_x: calls $8.05
+*** TURN *** [Th 4h 4s] [Jd]
+x_QUIXTAR_x: checks 
+patapong: checks 
+*** RIVER *** [Th 4h 4s Jd] [7c]
+x_QUIXTAR_x: checks 
+patapong: checks 
+*** SHOW DOWN ***
+x_QUIXTAR_x: shows [Ac 3c] (a pair of Fours)
+patapong: mucks hand 
+x_QUIXTAR_x collected $27.60 from pot
+*** SUMMARY ***
+Total pot $28.10 | Rake $0.50 
+Board [Th 4h 4s Jd 7c]
+Seat 1: x_QUIXTAR_x (big blind) showed [Ac 3c] and won ($27.60) with a pair of Fours
+Seat 4: patapong (button) (small blind) mucked
+
+
+PokerStars Game #102609402036:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:35:25 ET
+Table 'Hypsipyle VIII 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Sir_Fuj1 ($237 in chips) 
+Seat 2: ilir3 ($622.38 in chips) 
+Seat 3: yvolosatov ($261.75 in chips) 
+Seat 4: patapong ($607.95 in chips) 
+Seat 5: shevliak ($290.45 in chips) 
+patapong: posts small blind $3
+shevliak: posts big blind $6
+Bukharin: sits out 
+*** HOLE CARDS ***
+Sir_Fuj1: folds 
+ilir3: raises $6 to $12
+yvolosatov: folds 
+patapong: folds 
+shevliak: folds 
+Uncalled bet ($6) returned to ilir3
+ilir3 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 2: ilir3 collected ($15)
+Seat 3: yvolosatov (button) folded before Flop (didn't bet)
+Seat 4: patapong (small blind) folded before Flop
+Seat 5: shevliak (big blind) folded before Flop
+
+
+PokerStars Game #102609416070:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:35:44 ET
+Table 'Hypsipyle VIII 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Sir_Fuj1 ($237 in chips) 
+Seat 2: ilir3 ($631.38 in chips) 
+Seat 3: yvolosatov ($261.75 in chips) 
+Seat 4: patapong ($604.95 in chips) 
+Seat 5: shevliak ($284.45 in chips) 
+Seat 6: Bukharin ($600 in chips) 
+shevliak: posts small blind $3
+Bukharin: posts big blind $6
+*** HOLE CARDS ***
+Sir_Fuj1: folds 
+ilir3: raises $9 to $15
+yvolosatov: folds 
+patapong: folds 
+shevliak: folds 
+Bukharin: folds 
+Uncalled bet ($9) returned to ilir3
+ilir3 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 2: ilir3 collected ($15)
+Seat 3: yvolosatov folded before Flop (didn't bet)
+Seat 4: patapong (button) folded before Flop (didn't bet)
+Seat 5: shevliak (small blind) folded before Flop
+Seat 6: Bukharin (big blind) folded before Flop
+
+
+PokerStars Game #102609431485:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:36:06 ET
+Table 'Hypsipyle VIII 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Sir_Fuj1 ($237 in chips) 
+Seat 2: ilir3 ($640.38 in chips) 
+Seat 3: yvolosatov ($261.75 in chips) 
+Seat 4: patapong ($604.95 in chips) 
+Seat 5: shevliak ($281.45 in chips) 
+Seat 6: Bukharin ($600 in chips) 
+Bukharin: posts small blind $3
+Sir_Fuj1: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+yvolosatov: folds 
+patapong: folds 
+shevliak: folds 
+Bukharin: raises $9 to $15
+Sir_Fuj1: folds 
+Uncalled bet ($9) returned to Bukharin
+Bukharin collected $12 from pot
+Bukharin: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Sir_Fuj1 (big blind) folded before Flop
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: yvolosatov folded before Flop (didn't bet)
+Seat 4: patapong folded before Flop (didn't bet)
+Seat 5: shevliak (button) folded before Flop (didn't bet)
+Seat 6: Bukharin (small blind) collected ($12)
+
+
+PokerStars Game #102609446837:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:36:27 ET
+Table 'Hypsipyle VIII 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Sir_Fuj1 ($231 in chips) 
+Seat 2: ilir3 ($640.38 in chips) 
+Seat 3: yvolosatov ($261.75 in chips) 
+Seat 4: patapong ($604.95 in chips) 
+Seat 5: shevliak ($281.45 in chips) 
+Seat 6: Bukharin ($606 in chips) 
+Sir_Fuj1: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+yvolosatov: folds 
+patapong: folds 
+shevliak: folds 
+Bukharin: raises $9 to $15
+Sir_Fuj1: folds 
+ilir3: calls $9
+*** FLOP *** [Qc Qh 6c]
+ilir3: checks 
+Bukharin: checks 
+*** TURN *** [Qc Qh 6c] [3d]
+ilir3: bets $24
+Bukharin: calls $24
+*** RIVER *** [Qc Qh 6c 3d] [9c]
+ilir3: bets $60
+Bukharin: folds 
+Uncalled bet ($60) returned to ilir3
+ilir3 collected $78.20 from pot
+*** SUMMARY ***
+Total pot $81 | Rake $2.80 
+Board [Qc Qh 6c 3d 9c]
+Seat 1: Sir_Fuj1 (small blind) folded before Flop
+Seat 2: ilir3 (big blind) collected ($78.20)
+Seat 3: yvolosatov folded before Flop (didn't bet)
+Seat 4: patapong folded before Flop (didn't bet)
+Seat 5: shevliak folded before Flop (didn't bet)
+Seat 6: Bukharin (button) folded on the River
+
+
+PokerStars Game #102609483868:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:37:19 ET
+Table 'Hypsipyle VIII 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Sir_Fuj1 ($228 in chips) 
+Seat 2: ilir3 ($679.58 in chips) 
+Seat 3: yvolosatov ($261.75 in chips) 
+Seat 4: patapong ($604.95 in chips) 
+Seat 5: shevliak ($281.45 in chips) 
+Seat 6: Bukharin ($600 in chips) 
+ilir3: posts small blind $3
+yvolosatov: posts big blind $6
+*** HOLE CARDS ***
+patapong: folds 
+shevliak: folds 
+Bukharin: folds 
+Sir_Fuj1: folds 
+ilir3: calls $3
+yvolosatov: checks 
+*** FLOP *** [7c 8d 3d]
+ilir3: bets $12
+yvolosatov: calls $12
+*** TURN *** [7c 8d 3d] [Ac]
+ilir3: bets $32
+yvolosatov: raises $211.75 to $243.75 and is all-in
+ilir3: calls $211.75
+*** RIVER *** [7c 8d 3d Ac] [9d]
+*** SHOW DOWN ***
+ilir3: shows [8s 7s] (two pair, Eights and Sevens)
+yvolosatov: shows [2d As] (a pair of Aces)
+ilir3 collected $520.70 from pot
+*** SUMMARY ***
+Total pot $523.50 | Rake $2.80 
+Board [7c 8d 3d Ac 9d]
+Seat 1: Sir_Fuj1 (button) folded before Flop (didn't bet)
+Seat 2: ilir3 (small blind) showed [8s 7s] and won ($520.70) with two pair, Eights and Sevens
+Seat 3: yvolosatov (big blind) showed [2d As] and lost with a pair of Aces
+Seat 4: patapong folded before Flop (didn't bet)
+Seat 5: shevliak folded before Flop (didn't bet)
+Seat 6: Bukharin folded before Flop (didn't bet)
+
+
+PokerStars Game #102609512378:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:37:58 ET
+Table 'Hypsipyle VIII 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Sir_Fuj1 ($228 in chips) 
+Seat 2: ilir3 ($938.53 in chips) 
+Seat 4: patapong ($604.95 in chips) 
+Seat 5: shevliak ($281.45 in chips) 
+Seat 6: Bukharin ($600 in chips) 
+patapong: posts small blind $3
+shevliak: posts big blind $6
+*** HOLE CARDS ***
+Bukharin: folds 
+Sir_Fuj1: raises $9 to $15
+yvolosatov leaves the table
+ilir3: raises $27 to $42
+patapong: folds 
+shevliak: folds 
+Sir_Fuj1: folds 
+Uncalled bet ($27) returned to ilir3
+ilir3 collected $39 from pot
+*** SUMMARY ***
+Total pot $39 | Rake $0 
+Seat 1: Sir_Fuj1 folded before Flop
+Seat 2: ilir3 (button) collected ($39)
+Seat 4: patapong (small blind) folded before Flop
+Seat 5: shevliak (big blind) folded before Flop
+Seat 6: Bukharin folded before Flop (didn't bet)
+
+
+PokerStars Game #102609535037:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:38:30 ET
+Table 'Hypsipyle VIII 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Sir_Fuj1 ($213 in chips) 
+Seat 2: ilir3 ($962.53 in chips) 
+Seat 4: patapong ($601.95 in chips) 
+Seat 5: shevliak ($275.45 in chips) 
+shevliak: posts small blind $3
+Bukharin: is sitting out 
+Sir_Fuj1: posts big blind $6
+*** HOLE CARDS ***
+Bukharin leaves the table
+floriiiiider joins the table at seat #3 
+Nahar joins the table at seat #6 
+ilir3: raises $6 to $12
+patapong: calls $12
+shevliak: folds 
+Sir_Fuj1: folds 
+*** FLOP *** [4s 6d 8s]
+ilir3: checks 
+patapong: bets $22.06
+ilir3: folds 
+Uncalled bet ($22.06) returned to patapong
+patapong collected $31.52 from pot
+*** SUMMARY ***
+Total pot $33 | Rake $1.48 
+Board [4s 6d 8s]
+Seat 1: Sir_Fuj1 (big blind) folded before Flop
+Seat 2: ilir3 folded on the Flop
+Seat 4: patapong (button) collected ($31.52)
+Seat 5: shevliak (small blind) folded before Flop
+
+
+PokerStars Game #102609569845:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:39:19 ET
+Table 'Hypsipyle VIII 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Sir_Fuj1 ($240 in chips) 
+Seat 3: floriiiiider ($600 in chips) 
+Seat 4: patapong ($621.47 in chips) 
+Seat 5: shevliak ($272.45 in chips) 
+Nahar will be allowed to play after the button
+Sir_Fuj1: posts small blind $3
+ilir3: is sitting out 
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+patapong: folds 
+patapong leaves the table
+shevliak: raises $6 to $12
+Sir_Fuj1: folds 
+floriiiiider: folds 
+Uncalled bet ($6) returned to shevliak
+shevliak collected $15 from pot
+shevliak: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Sir_Fuj1 (small blind) folded before Flop
+Seat 3: floriiiiider (big blind) folded before Flop
+Seat 4: patapong folded before Flop (didn't bet)
+Seat 5: shevliak (button) collected ($15)
+
+
+PokerStars Game #102609576510:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:39:28 ET
+Table 'Hypsipyle VIII 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Sir_Fuj1 ($237 in chips) 
+Seat 3: floriiiiider ($600 in chips) 
+Seat 5: shevliak ($281.45 in chips) 
+floriiiiider: posts small blind $3
+shevliak: posts big blind $6
+Nahar: sits out 
+*** HOLE CARDS ***
+ilir3 leaves the table
+Sir_Fuj1: folds 
+Nahar leaves the table
+floriiiiider: raises $12 to $18
+LuckyMorkva joins the table at seat #6 
+LuckyMorkva leaves the table
+shevliak: folds 
+Uncalled bet ($12) returned to floriiiiider
+floriiiiider collected $12 from pot
+floriiiiider: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Sir_Fuj1 (button) folded before Flop (didn't bet)
+Seat 3: floriiiiider (small blind) collected ($12)
+Seat 5: shevliak (big blind) folded before Flop
+
+
+PokerStars Game #102609585625:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:39:41 ET
+Table 'Hypsipyle VIII 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Sir_Fuj1 ($237 in chips) 
+Seat 3: floriiiiider ($606 in chips) 
+Seat 5: shevliak ($275.45 in chips) 
+shevliak: posts small blind $3
+Sir_Fuj1: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch joins the table at seat #2 
+floriiiiider: raises $6 to $12
+LuckyBiitch leaves the table
+shevliak: folds 
+Sir_Fuj1: calls $6
+*** FLOP *** [Jh 9c Qs]
+Sir_Fuj1: checks 
+floriiiiider: checks 
+*** TURN *** [Jh 9c Qs] [4d]
+Sir_Fuj1: bets $18
+floriiiiider: folds 
+Uncalled bet ($18) returned to Sir_Fuj1
+Sir_Fuj1 collected $25.78 from pot
+Sir_Fuj1: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Jh 9c Qs 4d]
+Seat 1: Sir_Fuj1 (big blind) collected ($25.78)
+Seat 3: floriiiiider (button) folded on the Turn
+Seat 5: shevliak (small blind) folded before Flop

@@ -1,0 +1,2477 @@
+
+
+PokerStars Game #102630306508:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:07:01 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: rocks50 ($671.08 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 5: nijae ($240 in chips) 
+imactually12: posts small blind $3
+nijae: posts big blind $6
+iznak: sits out 
+*** HOLE CARDS ***
+JMBigJoe joins the table at seat #2 
+rocks50: raises $6 to $12
+imactually12: folds 
+nijae: calls $6
+*** FLOP *** [8h Jd Kd]
+TTSIP joins the table at seat #3 
+nijae: checks 
+rocks50: checks 
+*** TURN *** [8h Jd Kd] [2d]
+nijae: bets $12
+rocks50: folds 
+Uncalled bet ($12) returned to nijae
+nijae collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [8h Jd Kd 2d]
+Seat 1: rocks50 (button) folded on the Turn
+Seat 4: imactually12 (small blind) folded before Flop
+Seat 5: nijae (big blind) collected ($25.78)
+
+
+PokerStars Game #102630333050:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:07:43 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: rocks50 ($659.08 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 5: nijae ($253.78 in chips) 
+Seat 6: iznak ($240 in chips) 
+nijae: posts small blind $3
+iznak: posts big blind $6
+JMBigJoe: sits out 
+TTSIP: sits out 
+*** HOLE CARDS ***
+rocks50: raises $12 to $18
+imactually12: folds 
+nijae: folds 
+iznak: folds 
+Uncalled bet ($12) returned to rocks50
+rocks50 collected $15 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: rocks50 collected ($15)
+Seat 4: imactually12 (button) folded before Flop (didn't bet)
+Seat 5: nijae (small blind) folded before Flop
+Seat 6: iznak (big blind) folded before Flop
+
+
+PokerStars Game #102630345088:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:08:02 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: rocks50 ($668.08 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 5: nijae ($250.78 in chips) 
+Seat 6: iznak ($240 in chips) 
+iznak: posts small blind $3
+rocks50: posts big blind $6
+JMBigJoe: sits out 
+TTSIP: sits out 
+*** HOLE CARDS ***
+imactually12: folds 
+nijae: folds 
+iznak: raises $6.87 to $12.87
+rocks50: folds 
+Uncalled bet ($6.87) returned to iznak
+iznak collected $12 from pot
+iznak: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: rocks50 (big blind) folded before Flop
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: nijae (button) folded before Flop (didn't bet)
+Seat 6: iznak (small blind) collected ($12)
+
+
+PokerStars Game #102630353724:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:08:15 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #6 is the button
+Seat 1: rocks50 ($662.08 in chips) 
+Seat 2: JMBigJoe ($600 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 5: nijae ($250.78 in chips) 
+Seat 6: iznak ($246 in chips) 
+rocks50: posts small blind $3
+JMBigJoe: posts big blind $6
+TTSIP: sits out 
+*** HOLE CARDS ***
+imactually12: folds 
+nijae: raises $6 to $12
+iznak: folds 
+rocks50: folds 
+JMBigJoe: calls $6
+*** FLOP *** [7s Qc 5c]
+JMBigJoe: checks 
+nijae: checks 
+*** TURN *** [7s Qc 5c] [Tc]
+JMBigJoe: checks 
+nijae: checks 
+*** RIVER *** [7s Qc 5c Tc] [Js]
+JMBigJoe: checks 
+nijae: checks 
+*** SHOW DOWN ***
+JMBigJoe: shows [2h 2d] (a pair of Deuces)
+nijae: shows [Ad 5d] (a pair of Fives)
+nijae collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [7s Qc 5c Tc Js]
+Seat 1: rocks50 (small blind) folded before Flop
+Seat 2: JMBigJoe (big blind) showed [2h 2d] and lost with a pair of Deuces
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: nijae showed [Ad 5d] and won ($25.78) with a pair of Fives
+Seat 6: iznak (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102630405738:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:09:37 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: rocks50 ($659.08 in chips) 
+Seat 2: JMBigJoe ($600 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 5: nijae ($264.56 in chips) 
+Seat 6: iznak ($246 in chips) 
+JMBigJoe: posts small blind $3
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+nijae: folds 
+iznak: folds 
+rocks50: raises $6 to $12
+JMBigJoe: raises $36 to $48
+TTSIP: folds 
+rocks50: folds 
+Uncalled bet ($36) returned to JMBigJoe
+JMBigJoe collected $30 from pot
+JMBigJoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: rocks50 (button) folded before Flop
+Seat 2: JMBigJoe (small blind) collected ($30)
+Seat 3: TTSIP (big blind) folded before Flop
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: nijae folded before Flop (didn't bet)
+Seat 6: iznak folded before Flop (didn't bet)
+
+
+PokerStars Game #102630268377:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:06:01 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: rocks50 ($600 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+imactually12: calls $6
+*** FLOP *** [2h Jc 4s]
+imactually12: checks 
+rocks50: bets $17.20
+imactually12: calls $17.20
+*** TURN *** [2h Jc 4s] [9s]
+imactually12: checks 
+rocks50: bets $42.38
+imactually12: calls $42.38
+*** RIVER *** [2h Jc 4s 9s] [8h]
+imactually12: checks 
+nijae joins the table at seat #5 
+iznak joins the table at seat #6 
+rocks50: bets $128.39
+imactually12: folds 
+Uncalled bet ($128.39) returned to rocks50
+rocks50 collected $142.66 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $143.16 | Rake $0.50 
+Board [2h Jc 4s 9s 8h]
+Seat 1: rocks50 (button) (small blind) collected ($142.66)
+Seat 4: imactually12 (big blind) folded on the River
+
+
+PokerStars Game #102630985170:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:25:01 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: rocks50 ($964.88 in chips) 
+Seat 3: whollyflush ($621 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+whollyflush: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+whollyflush: folds 
+imactually12: raises $36 to $48
+Subv joins the table at seat #5 
+kangta5556 joins the table at seat #2 
+Subv leaves the table
+rocks50: calls $36
+*** FLOP *** [Td 3h 9c]
+laurenman joins the table at seat #5 
+DeluxeSamy joins the table at seat #6 
+imactually12: bets $54
+rocks50: calls $54
+*** TURN *** [Td 3h 9c] [6d]
+imactually12: bets $123
+rocks50: calls $123
+*** RIVER *** [Td 3h 9c 6d] [Th]
+imactually12: bets $375 and is all-in
+rocks50: folds 
+Uncalled bet ($375) returned to imactually12
+imactually12 collected $451.50 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $453 | Rake $1.50 
+Board [Td 3h 9c 6d Th]
+Seat 1: rocks50 (button) folded on the River
+Seat 3: whollyflush (small blind) folded before Flop
+Seat 4: imactually12 (big blind) collected ($451.50)
+
+
+PokerStars Game #102631041988:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:26:34 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: rocks50 ($739.88 in chips) 
+Seat 3: whollyflush ($618 in chips) 
+Seat 4: imactually12 ($826.50 in chips) 
+Seat 5: laurenman ($240 in chips) 
+imactually12: posts small blind $3
+laurenman: posts big blind $6
+DeluxeSamy: sits out 
+kangta5556: sits out 
+*** HOLE CARDS ***
+rocks50: folds 
+whollyflush: raises $6 to $12
+imactually12: raises $36 to $48
+laurenman: folds 
+whollyflush: folds 
+Uncalled bet ($36) returned to imactually12
+imactually12 collected $30 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: rocks50 folded before Flop (didn't bet)
+Seat 3: whollyflush (button) folded before Flop
+Seat 4: imactually12 (small blind) collected ($30)
+Seat 5: laurenman (big blind) folded before Flop
+
+
+PokerStars Game #102631065036:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:27:12 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: rocks50 ($739.88 in chips) 
+Seat 3: whollyflush ($606 in chips) 
+Seat 4: imactually12 ($844.50 in chips) 
+Seat 5: laurenman ($240 in chips) 
+Seat 6: DeluxeSamy ($480 in chips) 
+laurenman: posts small blind $3
+DeluxeSamy: posts big blind $6
+kangta5556: sits out 
+*** HOLE CARDS ***
+rocks50: raises $12 to $18
+whollyflush: folds 
+imactually12: raises $36 to $54
+laurenman: folds 
+DeluxeSamy: folds 
+rocks50: folds 
+Uncalled bet ($36) returned to imactually12
+imactually12 collected $45 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $0 
+Seat 1: rocks50 folded before Flop
+Seat 3: whollyflush folded before Flop (didn't bet)
+Seat 4: imactually12 (button) collected ($45)
+Seat 5: laurenman (small blind) folded before Flop
+Seat 6: DeluxeSamy (big blind) folded before Flop
+
+
+PokerStars Game #102631080941:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:27:38 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: rocks50 ($721.88 in chips) 
+Seat 3: whollyflush ($606 in chips) 
+Seat 4: imactually12 ($871.50 in chips) 
+Seat 5: laurenman ($240 in chips) 
+Seat 6: DeluxeSamy ($474 in chips) 
+DeluxeSamy: posts small blind $3
+rocks50: posts big blind $6
+kangta5556: sits out 
+*** HOLE CARDS ***
+whollyflush: folds 
+imactually12: folds 
+laurenman: folds 
+DeluxeSamy: raises $9 to $15
+rocks50: raises $33 to $48
+DeluxeSamy: raises $51 to $99
+rocks50: folds 
+Uncalled bet ($51) returned to DeluxeSamy
+DeluxeSamy collected $96 from pot
+DeluxeSamy: doesn't show hand 
+*** SUMMARY ***
+Total pot $96 | Rake $0 
+Seat 1: rocks50 (big blind) folded before Flop
+Seat 3: whollyflush folded before Flop (didn't bet)
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: laurenman (button) folded before Flop (didn't bet)
+Seat 6: DeluxeSamy (small blind) collected ($96)
+
+
+PokerStars Game #102631099930:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:28:09 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #6 is the button
+Seat 1: rocks50 ($673.88 in chips) 
+Seat 2: kangta5556 ($403.58 in chips) 
+Seat 3: whollyflush ($606 in chips) 
+Seat 4: imactually12 ($871.50 in chips) 
+Seat 5: laurenman ($240 in chips) 
+Seat 6: DeluxeSamy ($522 in chips) 
+rocks50: posts small blind $3
+kangta5556: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: folds 
+imactually12: raises $9 to $15
+laurenman: folds 
+DeluxeSamy: folds 
+rocks50: folds 
+kangta5556: folds 
+Uncalled bet ($9) returned to imactually12
+imactually12 collected $15 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: rocks50 (small blind) folded before Flop
+Seat 2: kangta5556 (big blind) folded before Flop
+Seat 3: whollyflush folded before Flop (didn't bet)
+Seat 4: imactually12 collected ($15)
+Seat 5: laurenman folded before Flop (didn't bet)
+Seat 6: DeluxeSamy (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102631110726:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:28:27 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: rocks50 ($670.88 in chips) 
+Seat 2: kangta5556 ($397.58 in chips) 
+Seat 3: whollyflush ($606 in chips) 
+Seat 4: imactually12 ($880.50 in chips) 
+Seat 5: laurenman ($240 in chips) 
+Seat 6: DeluxeSamy ($522 in chips) 
+kangta5556: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+laurenman: raises $9 to $15
+DeluxeSamy: folds 
+rocks50: calls $15
+kangta5556: folds 
+whollyflush: folds 
+*** FLOP *** [7c Js Qs]
+laurenman: bets $24.62
+rocks50: calls $24.62
+*** TURN *** [7c Js Qs] [6d]
+laurenman: bets $59.90
+rocks50: folds 
+Uncalled bet ($59.90) returned to laurenman
+laurenman collected $85.44 from pot
+laurenman: doesn't show hand 
+*** SUMMARY ***
+Total pot $88.24 | Rake $2.80 
+Board [7c Js Qs 6d]
+Seat 1: rocks50 (button) folded on the Turn
+Seat 2: kangta5556 (small blind) folded before Flop
+Seat 3: whollyflush (big blind) folded before Flop
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: laurenman collected ($85.44)
+Seat 6: DeluxeSamy folded before Flop (didn't bet)
+
+
+PokerStars Game #102631149424:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:29:30 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: rocks50 ($631.26 in chips) 
+Seat 2: kangta5556 ($394.58 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($880.50 in chips) 
+Seat 5: laurenman ($285.82 in chips) 
+Seat 6: DeluxeSamy ($522 in chips) 
+whollyflush: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+kangta5556 said, "speed"
+laurenman: folds 
+DeluxeSamy: folds 
+rocks50: folds 
+kangta5556: calls $6
+whollyflush: folds 
+imactually12: checks 
+*** FLOP *** [Kd 6h 4s]
+imactually12: bets $12
+kangta5556: calls $12
+*** TURN *** [Kd 6h 4s] [Kh]
+imactually12: checks 
+kangta5556: checks 
+*** RIVER *** [Kd 6h 4s Kh] [Js]
+imactually12: checks 
+kangta5556: bets $24
+imactually12: folds 
+Uncalled bet ($24) returned to kangta5556
+kangta5556 collected $37.24 from pot
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [Kd 6h 4s Kh Js]
+Seat 1: rocks50 folded before Flop (didn't bet)
+Seat 2: kangta5556 (button) collected ($37.24)
+Seat 3: whollyflush (small blind) folded before Flop
+Seat 4: imactually12 (big blind) folded on the River
+Seat 5: laurenman folded before Flop (didn't bet)
+Seat 6: DeluxeSamy folded before Flop (didn't bet)
+
+
+PokerStars Game #102630813959:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:20:26 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: rocks50 ($951.64 in chips) 
+Seat 2: JMBigJoe ($603 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 5: nijae ($233.28 in chips) 
+Seat 6: iznak ($320.81 in chips) 
+iznak: posts small blind $3
+rocks50: posts big blind $6
+whollyflush: sits out 
+*** HOLE CARDS ***
+JMBigJoe: folds 
+imactually12: folds 
+nijae: raises $6 to $12
+iznak: folds 
+rocks50: calls $6
+*** FLOP *** [9c Qs 7s]
+rocks50: checks 
+nijae: bets $6
+rocks50: calls $6
+*** TURN *** [9c Qs 7s] [Jc]
+rocks50: checks 
+nijae: checks 
+*** RIVER *** [9c Qs 7s Jc] [4s]
+rocks50: checks 
+nijae: checks 
+*** SHOW DOWN ***
+rocks50: shows [8c 8d] (a pair of Eights)
+nijae: mucks hand 
+rocks50 collected $37.24 from pot
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [9c Qs 7s Jc 4s]
+Seat 1: rocks50 (big blind) showed [8c 8d] and won ($37.24) with a pair of Eights
+Seat 2: JMBigJoe folded before Flop (didn't bet)
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: nijae (button) mucked
+Seat 6: iznak (small blind) folded before Flop
+
+
+PokerStars Game #102630847373:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:21:20 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #6 is the button
+Seat 1: rocks50 ($970.88 in chips) 
+Seat 2: JMBigJoe ($603 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 5: nijae ($215.28 in chips) 
+Seat 6: iznak ($317.81 in chips) 
+rocks50: posts small blind $3
+JMBigJoe: posts big blind $6
+whollyflush: sits out 
+*** HOLE CARDS ***
+imactually12: folds 
+nijae: raises $6 to $12
+iznak: folds 
+rocks50: folds 
+JMBigJoe: calls $6
+*** FLOP *** [3h Ad 7d]
+JMBigJoe: checks 
+nijae: bets $12
+JMBigJoe: folds 
+Uncalled bet ($12) returned to nijae
+nijae collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [3h Ad 7d]
+Seat 1: rocks50 (small blind) folded before Flop
+Seat 2: JMBigJoe (big blind) folded on the Flop
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: nijae collected ($25.78)
+Seat 6: iznak (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102630898696:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:22:42 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: rocks50 ($967.88 in chips) 
+Seat 2: JMBigJoe ($600 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 5: nijae ($229.06 in chips) 
+Seat 6: iznak ($317.81 in chips) 
+JMBigJoe: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+nijae: folds 
+nijae leaves the table
+iznak: folds 
+rocks50: folds 
+JMBigJoe: raises $12 to $18
+whollyflush: folds 
+Uncalled bet ($12) returned to JMBigJoe
+JMBigJoe collected $12 from pot
+JMBigJoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: rocks50 (button) folded before Flop (didn't bet)
+Seat 2: JMBigJoe (small blind) collected ($12)
+Seat 3: whollyflush (big blind) folded before Flop
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: nijae folded before Flop (didn't bet)
+Seat 6: iznak folded before Flop (didn't bet)
+
+
+PokerStars Game #102630913310:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:23:06 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: rocks50 ($967.88 in chips) 
+Seat 2: JMBigJoe ($606 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 6: iznak ($317.81 in chips) 
+whollyflush: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+iznak: raises $6.87 to $12.87
+rocks50: folds 
+JMBigJoe: folds 
+whollyflush: folds 
+imactually12: folds 
+Uncalled bet ($6.87) returned to iznak
+iznak collected $15 from pot
+iznak: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: rocks50 folded before Flop (didn't bet)
+Seat 2: JMBigJoe (button) folded before Flop (didn't bet)
+Seat 3: whollyflush (small blind) folded before Flop
+Seat 4: imactually12 (big blind) folded before Flop
+Seat 6: iznak collected ($15)
+
+
+PokerStars Game #102630929079:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:23:31 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: rocks50 ($967.88 in chips) 
+Seat 2: JMBigJoe ($606 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+imactually12: posts small blind $3
+iznak: is sitting out 
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+JMBigJoe: folds 
+whollyflush: folds 
+imactually12: folds 
+Uncalled bet ($3) returned to rocks50
+iznak leaves the table
+rocks50 collected $6 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: rocks50 (big blind) collected ($6)
+Seat 2: JMBigJoe folded before Flop (didn't bet)
+Seat 3: whollyflush (button) folded before Flop (didn't bet)
+Seat 4: imactually12 (small blind) folded before Flop
+
+
+PokerStars Game #102630935831:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:23:42 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: rocks50 ($970.88 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+rocks50: posts small blind $3
+JMBigJoe: is sitting out 
+JMBigJoe leaves the table
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+EtniX111 joins the table at seat #5 
+imactually12: folds 
+EtniX111 leaves the table
+rocks50: raises $12 to $18
+whollyflush: folds 
+Uncalled bet ($12) returned to rocks50
+rocks50 collected $12 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: rocks50 (small blind) collected ($12)
+Seat 3: whollyflush (big blind) folded before Flop
+Seat 4: imactually12 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102630955054:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:24:13 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: rocks50 ($976.88 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+whollyflush: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+whollyflush: raises $36 to $48
+imactually12: folds 
+rocks50: folds 
+Uncalled bet ($36) returned to whollyflush
+whollyflush collected $30 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: rocks50 (button) folded before Flop
+Seat 3: whollyflush (small blind) collected ($30)
+Seat 4: imactually12 (big blind) folded before Flop
+
+
+PokerStars Game #102630967798:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:24:33 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: rocks50 ($964.88 in chips) 
+Seat 3: whollyflush ($618 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: raises $6 to $12
+imactually12: folds 
+rocks50: folds 
+Uncalled bet ($6) returned to whollyflush
+whollyflush collected $15 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: rocks50 (big blind) folded before Flop
+Seat 3: whollyflush (button) collected ($15)
+Seat 4: imactually12 (small blind) folded before Flop
+
+
+PokerStars Game #102630978943:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:24:51 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: rocks50 ($958.88 in chips) 
+Seat 3: whollyflush ($627 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+rocks50: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+rocks50: raises $12 to $18
+whollyflush: folds 
+Uncalled bet ($12) returned to rocks50
+rocks50 collected $12 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: rocks50 (small blind) collected ($12)
+Seat 3: whollyflush (big blind) folded before Flop
+Seat 4: imactually12 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102630641054:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:15:52 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: rocks50 ($943.99 in chips) 
+Seat 2: JMBigJoe ($621 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 5: nijae ($237.56 in chips) 
+Seat 6: iznak ($240 in chips) 
+nijae: posts small blind $3
+iznak: posts big blind $6
+*** HOLE CARDS ***
+rocks50: folds 
+JMBigJoe: folds 
+TTSIP: folds 
+imactually12: raises $6 to $12
+nijae: raises $30 to $42
+iznak: folds 
+imactually12: folds 
+Uncalled bet ($30) returned to nijae
+nijae collected $30 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: rocks50 folded before Flop (didn't bet)
+Seat 2: JMBigJoe folded before Flop (didn't bet)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: imactually12 (button) folded before Flop
+Seat 5: nijae (small blind) collected ($30)
+Seat 6: iznak (big blind) folded before Flop
+
+
+PokerStars Game #102630663432:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:16:27 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: rocks50 ($943.99 in chips) 
+Seat 2: JMBigJoe ($621 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 5: nijae ($255.56 in chips) 
+Seat 6: iznak ($240 in chips) 
+iznak: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+JMBigJoe: folds 
+TTSIP: folds 
+imactually12: raises $9 to $15
+nijae: folds 
+iznak: raises $24 to $39
+rocks50: folds 
+imactually12: folds 
+Uncalled bet ($24) returned to iznak
+iznak collected $36 from pot
+iznak: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $0 
+Seat 1: rocks50 (big blind) folded before Flop
+Seat 2: JMBigJoe folded before Flop (didn't bet)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: imactually12 folded before Flop
+Seat 5: nijae (button) folded before Flop (didn't bet)
+Seat 6: iznak (small blind) collected ($36)
+
+
+PokerStars Game #102630682908:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:16:58 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #6 is the button
+Seat 1: rocks50 ($937.99 in chips) 
+Seat 2: JMBigJoe ($621 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 5: nijae ($255.56 in chips) 
+Seat 6: iznak ($261 in chips) 
+rocks50: posts small blind $3
+JMBigJoe: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: raises $15 to $21
+imactually12: folds 
+nijae: calls $21
+iznak: folds 
+rocks50: folds 
+JMBigJoe: folds 
+*** FLOP *** [Th 8d 7d]
+TTSIP: checks 
+nijae: bets $48
+TTSIP: folds 
+Uncalled bet ($48) returned to nijae
+nijae collected $48.70 from pot
+TTSIP leaves the table
+*** SUMMARY ***
+Total pot $51 | Rake $2.30 
+Board [Th 8d 7d]
+Seat 1: rocks50 (small blind) folded before Flop
+Seat 2: JMBigJoe (big blind) folded before Flop
+Seat 3: TTSIP folded on the Flop
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: nijae collected ($48.70)
+Seat 6: iznak (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102630717967:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:17:53 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: rocks50 ($934.99 in chips) 
+Seat 2: JMBigJoe ($615 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 5: nijae ($283.26 in chips) 
+Seat 6: iznak ($261 in chips) 
+JMBigJoe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+nijae: folds 
+iznak: folds 
+rocks50: raises $6 to $12
+JMBigJoe: calls $9
+imactually12: folds 
+*** FLOP *** [Jd 7s 4d]
+JMBigJoe: checks 
+whollyflush joins the table at seat #3 
+rocks50: bets $20.97
+JMBigJoe: folds 
+Uncalled bet ($20.97) returned to rocks50
+rocks50 collected $28.65 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [Jd 7s 4d]
+Seat 1: rocks50 (button) collected ($28.65)
+Seat 2: JMBigJoe (small blind) folded on the Flop
+Seat 4: imactually12 (big blind) folded before Flop
+Seat 5: nijae folded before Flop (didn't bet)
+Seat 6: iznak folded before Flop (didn't bet)
+
+
+PokerStars Game #102630751360:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:18:46 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: rocks50 ($951.64 in chips) 
+Seat 2: JMBigJoe ($603 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 5: nijae ($283.26 in chips) 
+Seat 6: iznak ($261 in chips) 
+whollyflush will be allowed to play after the button
+imactually12: posts small blind $3
+nijae: posts big blind $6
+*** HOLE CARDS ***
+iznak: raises $6.87 to $12.87
+rocks50: folds 
+JMBigJoe: folds 
+imactually12: folds 
+nijae: calls $6.87
+*** FLOP *** [2h 8h 6s]
+nijae: checks 
+iznak: bets $13.11
+nijae: calls $13.11
+*** TURN *** [2h 8h 6s] [3c]
+nijae: checks 
+iznak: bets $33.88
+nijae: folds 
+Uncalled bet ($33.88) returned to iznak
+iznak collected $52.49 from pot
+iznak: doesn't show hand 
+*** SUMMARY ***
+Total pot $54.96 | Rake $2.47 
+Board [2h 8h 6s 3c]
+Seat 1: rocks50 folded before Flop (didn't bet)
+Seat 2: JMBigJoe (button) folded before Flop (didn't bet)
+Seat 4: imactually12 (small blind) folded before Flop
+Seat 5: nijae (big blind) folded on the Turn
+Seat 6: iznak collected ($52.49)
+
+
+PokerStars Game #102630776378:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:19:26 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: rocks50 ($951.64 in chips) 
+Seat 2: JMBigJoe ($603 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 5: nijae ($257.28 in chips) 
+Seat 6: iznak ($287.51 in chips) 
+nijae: posts small blind $3
+iznak: posts big blind $6
+whollyflush: sits out 
+*** HOLE CARDS ***
+rocks50: folds 
+JMBigJoe: folds 
+imactually12: raises $6 to $12
+nijae: calls $9
+iznak: calls $6
+*** FLOP *** [Qd 2s 9c]
+nijae: checks 
+iznak: checks 
+imactually12: checks 
+*** TURN *** [Qd 2s 9c] [Qh]
+nijae: bets $12
+iznak: raises $12 to $24
+imactually12: folds 
+nijae: folds 
+Uncalled bet ($12) returned to iznak
+iznak collected $57.30 from pot
+iznak: doesn't show hand 
+*** SUMMARY ***
+Total pot $60 | Rake $2.70 
+Board [Qd 2s 9c Qh]
+Seat 1: rocks50 folded before Flop (didn't bet)
+Seat 2: JMBigJoe folded before Flop (didn't bet)
+Seat 4: imactually12 (button) folded on the Turn
+Seat 5: nijae (small blind) folded on the Turn
+Seat 6: iznak (big blind) collected ($57.30)
+
+
+PokerStars Game #102630431736:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:10:19 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: rocks50 ($647.08 in chips) 
+Seat 2: JMBigJoe ($618 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 5: nijae ($264.56 in chips) 
+Seat 6: iznak ($246 in chips) 
+TTSIP: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+nijae: folds 
+iznak: raises $6.87 to $12.87
+rocks50: folds 
+JMBigJoe: folds 
+TTSIP: folds 
+imactually12: folds 
+Uncalled bet ($6.87) returned to iznak
+iznak collected $15 from pot
+iznak: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: rocks50 folded before Flop (didn't bet)
+Seat 2: JMBigJoe (button) folded before Flop (didn't bet)
+Seat 3: TTSIP (small blind) folded before Flop
+Seat 4: imactually12 (big blind) folded before Flop
+Seat 5: nijae folded before Flop (didn't bet)
+Seat 6: iznak collected ($15)
+
+
+PokerStars Game #102630445070:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:10:40 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: rocks50 ($647.08 in chips) 
+Seat 2: JMBigJoe ($618 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 5: nijae ($264.56 in chips) 
+Seat 6: iznak ($255 in chips) 
+imactually12: posts small blind $3
+nijae: posts big blind $6
+*** HOLE CARDS ***
+iznak: folds 
+rocks50: raises $12 to $18
+JMBigJoe: folds 
+TTSIP: folds 
+imactually12: folds 
+nijae: folds 
+Uncalled bet ($12) returned to rocks50
+rocks50 collected $15 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: rocks50 collected ($15)
+Seat 2: JMBigJoe folded before Flop (didn't bet)
+Seat 3: TTSIP (button) folded before Flop (didn't bet)
+Seat 4: imactually12 (small blind) folded before Flop
+Seat 5: nijae (big blind) folded before Flop
+Seat 6: iznak folded before Flop (didn't bet)
+
+
+PokerStars Game #102630462483:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:11:08 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: rocks50 ($656.08 in chips) 
+Seat 2: JMBigJoe ($618 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 5: nijae ($258.56 in chips) 
+Seat 6: iznak ($255 in chips) 
+nijae: posts small blind $3
+iznak: posts big blind $6
+*** HOLE CARDS ***
+rocks50: folds 
+JMBigJoe: folds 
+TTSIP: raises $9 to $15
+imactually12: folds 
+nijae: folds 
+iznak: folds 
+Uncalled bet ($9) returned to TTSIP
+TTSIP collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: rocks50 folded before Flop (didn't bet)
+Seat 2: JMBigJoe folded before Flop (didn't bet)
+Seat 3: TTSIP collected ($15)
+Seat 4: imactually12 (button) folded before Flop (didn't bet)
+Seat 5: nijae (small blind) folded before Flop
+Seat 6: iznak (big blind) folded before Flop
+
+
+PokerStars Game #102630473712:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:11:26 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: rocks50 ($656.08 in chips) 
+Seat 2: JMBigJoe ($618 in chips) 
+Seat 3: TTSIP ($609 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 5: nijae ($255.56 in chips) 
+Seat 6: iznak ($249 in chips) 
+iznak: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+JMBigJoe: folds 
+TTSIP: folds 
+imactually12: folds 
+nijae: folds 
+iznak: raises $6.87 to $12.87
+rocks50: calls $6.87
+*** FLOP *** [6h 8c 4s]
+iznak: bets $11.74
+rocks50: raises $23.26 to $35
+iznak: folds 
+Uncalled bet ($23.26) returned to rocks50
+rocks50 collected $47.01 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $49.22 | Rake $2.21 
+Board [6h 8c 4s]
+Seat 1: rocks50 (big blind) collected ($47.01)
+Seat 2: JMBigJoe folded before Flop (didn't bet)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: nijae (button) folded before Flop (didn't bet)
+Seat 6: iznak (small blind) folded on the Flop
+
+
+PokerStars Game #102630499836:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:12:08 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #6 is the button
+Seat 1: rocks50 ($678.48 in chips) 
+Seat 2: JMBigJoe ($618 in chips) 
+Seat 3: TTSIP ($609 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 5: nijae ($255.56 in chips) 
+Seat 6: iznak ($240 in chips) 
+rocks50: posts small blind $3
+JMBigJoe: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: raises $15 to $21
+imactually12: folds 
+nijae: folds 
+iznak: folds 
+rocks50: folds 
+JMBigJoe: raises $39 to $60
+TTSIP: folds 
+Uncalled bet ($39) returned to JMBigJoe
+JMBigJoe collected $45 from pot
+JMBigJoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $0 
+Seat 1: rocks50 (small blind) folded before Flop
+Seat 2: JMBigJoe (big blind) collected ($45)
+Seat 3: TTSIP folded before Flop
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: nijae folded before Flop (didn't bet)
+Seat 6: iznak (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102630517743:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:12:37 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: rocks50 ($675.48 in chips) 
+Seat 2: JMBigJoe ($642 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 5: nijae ($255.56 in chips) 
+Seat 6: iznak ($240 in chips) 
+JMBigJoe: posts small blind $3
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+nijae: folds 
+iznak: folds 
+rocks50: raises $6 to $12
+JMBigJoe: folds 
+TTSIP: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $15 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: rocks50 (button) collected ($15)
+Seat 2: JMBigJoe (small blind) folded before Flop
+Seat 3: TTSIP (big blind) folded before Flop
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: nijae folded before Flop (didn't bet)
+Seat 6: iznak folded before Flop (didn't bet)
+
+
+PokerStars Game #102630532913:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:13:01 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: rocks50 ($684.48 in chips) 
+Seat 2: JMBigJoe ($639 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 5: nijae ($255.56 in chips) 
+Seat 6: iznak ($240 in chips) 
+TTSIP: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+nijae: folds 
+iznak: raises $6.87 to $12.87
+rocks50: raises $23.13 to $36
+JMBigJoe: folds 
+TTSIP: folds 
+imactually12: calls $30
+iznak: folds 
+*** FLOP *** [Ts Qh 3d]
+imactually12: checks 
+rocks50: checks 
+*** TURN *** [Ts Qh 3d] [8c]
+imactually12: bets $45
+rocks50: calls $45
+*** RIVER *** [Ts Qh 3d 8c] [9d]
+imactually12: bets $129
+rocks50: raises $139 to $268
+imactually12: folds 
+Uncalled bet ($139) returned to rocks50
+rocks50 collected $433.07 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $435.87 | Rake $2.80 
+Board [Ts Qh 3d 8c 9d]
+Seat 1: rocks50 collected ($433.07)
+Seat 2: JMBigJoe (button) folded before Flop (didn't bet)
+Seat 3: TTSIP (small blind) folded before Flop
+Seat 4: imactually12 (big blind) folded on the River
+Seat 5: nijae folded before Flop (didn't bet)
+Seat 6: iznak folded before Flop
+
+
+PokerStars Game #102630593550:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:14:37 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: rocks50 ($907.55 in chips) 
+Seat 2: JMBigJoe ($639 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Seat 5: nijae ($255.56 in chips) 
+Seat 6: iznak ($240 in chips) 
+imactually12: posts small blind $3
+nijae: posts big blind $6
+*** HOLE CARDS ***
+iznak: folds 
+rocks50: raises $12 to $18
+JMBigJoe: calls $18
+TTSIP: folds 
+imactually12: folds 
+nijae: calls $12
+*** FLOP *** [Qc 5s Kh]
+nijae: checks 
+rocks50: bets $36
+JMBigJoe: folds 
+nijae: folds 
+Uncalled bet ($36) returned to rocks50
+rocks50 collected $54.44 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $57 | Rake $2.56 
+Board [Qc 5s Kh]
+Seat 1: rocks50 collected ($54.44)
+Seat 2: JMBigJoe folded on the Flop
+Seat 3: TTSIP (button) folded before Flop (didn't bet)
+Seat 4: imactually12 (small blind) folded before Flop
+Seat 5: nijae (big blind) folded on the Flop
+Seat 6: iznak folded before Flop (didn't bet)
+
+
+PokerStars Game #102631885850:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:50:02 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: rocks50 ($999.19 in chips) 
+Seat 3: whollyflush ($644.45 in chips) 
+Seat 4: imactually12 ($921.93 in chips) 
+whollyflush: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: folds 
+whollyflush: folds 
+Uncalled bet ($3) returned to imactually12
+imactually12 collected $6 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: rocks50 (button) folded before Flop (didn't bet)
+Seat 3: whollyflush (small blind) folded before Flop
+Seat 4: imactually12 (big blind) collected ($6)
+
+
+PokerStars Game #102631891255:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:50:12 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: rocks50 ($999.19 in chips) 
+Seat 3: whollyflush ($641.45 in chips) 
+Seat 4: imactually12 ($924.93 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: raises $6 to $12
+imactually12: folds 
+rocks50: folds 
+Uncalled bet ($6) returned to whollyflush
+whollyflush collected $15 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: rocks50 (big blind) folded before Flop
+Seat 3: whollyflush (button) collected ($15)
+Seat 4: imactually12 (small blind) folded before Flop
+
+
+PokerStars Game #102631965289:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:52:19 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: rocks50 ($1172.69 in chips) 
+Seat 4: imactually12 ($741.43 in chips) 
+Seat 5: Subv ($600 in chips) 
+emmasun will be allowed to play after the button
+imactually12: posts small blind $3
+Subv: posts big blind $6
+*** HOLE CARDS ***
+rocks50: folds 
+imactually12: folds 
+Uncalled bet ($3) returned to Subv
+Subv collected $6 from pot
+Subv: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: rocks50 (button) folded before Flop (didn't bet)
+Seat 4: imactually12 (small blind) folded before Flop
+Seat 5: Subv (big blind) collected ($6)
+
+
+PokerStars Game #102631969165:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:52:26 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: rocks50 ($1172.69 in chips) 
+Seat 3: emmasun ($352.23 in chips) 
+Seat 4: imactually12 ($738.43 in chips) 
+Seat 5: Subv ($603 in chips) 
+Subv: posts small blind $3
+rocks50: posts big blind $6
+emmasun: posts big blind $6
+*** HOLE CARDS ***
+emmasun: checks 
+imactually12: folds 
+Subv: folds 
+rocks50: checks 
+*** FLOP *** [5s 3c Js]
+rocks50: checks 
+emmasun: checks 
+*** TURN *** [5s 3c Js] [Kh]
+rocks50: checks 
+emmasun: bets $7
+rocks50: folds 
+Uncalled bet ($7) returned to emmasun
+emmasun collected $14.32 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0.68 
+Board [5s 3c Js Kh]
+Seat 1: rocks50 (big blind) folded on the Turn
+Seat 3: emmasun collected ($14.32)
+Seat 4: imactually12 (button) folded before Flop (didn't bet)
+Seat 5: Subv (small blind) folded before Flop
+
+
+PokerStars Game #102632001381:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:53:22 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: rocks50 ($1166.69 in chips) 
+Seat 3: emmasun ($360.55 in chips) 
+Seat 4: imactually12 ($738.43 in chips) 
+Seat 5: Subv ($600 in chips) 
+rocks50: posts small blind $3
+emmasun: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $9 to $15
+Subv: folds 
+whollyflush joins the table at seat #6 
+rocks50: folds 
+roooomi joins the table at seat #2 
+emmasun: calls $9
+*** FLOP *** [5s 8s 7s]
+emmasun: checks 
+imactually12: checks 
+*** TURN *** [5s 8s 7s] [8d]
+emmasun: bets $24
+imactually12: calls $24
+*** RIVER *** [5s 8s 7s 8d] [4h]
+emmasun: bets $52
+imactually12: calls $52
+*** SHOW DOWN ***
+emmasun: shows [Js Qd] (a pair of Eights)
+imactually12: shows [Jd 7d] (two pair, Eights and Sevens)
+imactually12 collected $183.50 from pot
+*** SUMMARY ***
+Total pot $185 | Rake $1.50 
+Board [5s 8s 7s 8d 4h]
+Seat 1: rocks50 (small blind) folded before Flop
+Seat 3: emmasun (big blind) showed [Js Qd] and lost with a pair of Eights
+Seat 4: imactually12 showed [Jd 7d] and won ($183.50) with two pair, Eights and Sevens
+Seat 5: Subv (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102632042305:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:54:33 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: rocks50 ($1163.69 in chips) 
+Seat 3: emmasun ($269.55 in chips) 
+Seat 4: imactually12 ($830.93 in chips) 
+Seat 5: Subv ($600 in chips) 
+roooomi will be allowed to play after the button
+emmasun: posts small blind $3
+imactually12: posts big blind $6
+whollyflush: sits out 
+*** HOLE CARDS ***
+rocks50 is disconnected 
+Subv: folds 
+rocks50 has timed out while disconnected
+rocks50: folds 
+emmasun: folds 
+Uncalled bet ($3) returned to imactually12
+imactually12 collected $6 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: rocks50 (button) folded before Flop (didn't bet)
+Seat 3: emmasun (small blind) folded before Flop
+Seat 4: imactually12 (big blind) collected ($6)
+Seat 5: Subv folded before Flop (didn't bet)
+
+
+PokerStars Game #102631896794:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:50:21 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: rocks50 ($993.19 in chips) 
+Seat 4: imactually12 ($921.93 in chips) 
+rocks50: posts small blind $3
+whollyflush: is sitting out 
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+whollyflush leaves the table
+rocks50: folds 
+Uncalled bet ($3) returned to imactually12
+imactually12 collected $6 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: rocks50 (button) (small blind) folded before Flop
+Seat 4: imactually12 (big blind) collected ($6)
+
+
+PokerStars Game #102631912822:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:50:49 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: rocks50 ($990.19 in chips) 
+Seat 4: imactually12 ($924.93 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: calls $6
+*** FLOP *** [2s 8h 2c]
+rocks50: checks 
+imactually12: bets $18
+rocks50: folds 
+Uncalled bet ($18) returned to imactually12
+imactually12 collected $23.50 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [2s 8h 2c]
+Seat 1: rocks50 (big blind) folded on the Flop
+Seat 4: imactually12 (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102631944740:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:51:44 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: rocks50 ($978.19 in chips) 
+Seat 4: imactually12 ($936.43 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+imactually12: calls $6
+*** FLOP *** [4c 2c As]
+imactually12: checks 
+rocks50: bets $18
+imactually12: calls $18
+*** TURN *** [4c 2c As] [7c]
+imactually12: checks 
+Subv joins the table at seat #5 
+rocks50: bets $45
+emmasun joins the table at seat #3 
+imactually12: calls $45
+*** RIVER *** [4c 2c As 7c] [5h]
+imactually12: checks 
+rocks50: bets $120
+imactually12: calls $120
+*** SHOW DOWN ***
+rocks50: shows [Tc 6c] (a flush, Ten high)
+imactually12: mucks hand 
+rocks50 collected $389.50 from pot
+*** SUMMARY ***
+Total pot $390 | Rake $0.50 
+Board [4c 2c As 7c 5h]
+Seat 1: rocks50 (button) (small blind) showed [Tc 6c] and won ($389.50) with a flush, Ten high
+Seat 4: imactually12 (big blind) mucked
+
+
+PokerStars Game #102631714083:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:45:12 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: rocks50 ($901.26 in chips) 
+Seat 2: kangta5556 ($115.73 in chips) 
+Seat 3: whollyflush ($671.45 in chips) 
+Seat 4: imactually12 ($900.93 in chips) 
+Seat 5: laurenman ($275.73 in chips) 
+Seat 6: DeluxeSamy ($485.69 in chips) 
+kangta5556: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+laurenman: raises $9 to $15
+DeluxeSamy: folds 
+rocks50 has timed out
+rocks50: folds 
+kangta5556: calls $12
+whollyflush: folds 
+*** FLOP *** [7d Kh Jc]
+kangta5556: checks 
+laurenman: bets $17.19
+kangta5556: folds 
+Uncalled bet ($17.19) returned to laurenman
+laurenman collected $34.38 from pot
+laurenman: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $1.62 
+Board [7d Kh Jc]
+Seat 1: rocks50 (button) folded before Flop (didn't bet)
+Seat 2: kangta5556 (small blind) folded on the Flop
+Seat 3: whollyflush (big blind) folded before Flop
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: laurenman collected ($34.38)
+Seat 6: DeluxeSamy folded before Flop (didn't bet)
+
+
+PokerStars Game #102631753469:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:46:18 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: rocks50 ($901.26 in chips) 
+Seat 2: kangta5556 ($100.73 in chips) 
+Seat 3: whollyflush ($665.45 in chips) 
+Seat 4: imactually12 ($900.93 in chips) 
+Seat 5: laurenman ($295.11 in chips) 
+Seat 6: DeluxeSamy ($485.69 in chips) 
+whollyflush: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+laurenman: folds 
+DeluxeSamy: folds 
+rocks50: folds 
+kangta5556: folds 
+whollyflush: raises $12 to $18
+imactually12: folds 
+Uncalled bet ($12) returned to whollyflush
+whollyflush collected $12 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: rocks50 folded before Flop (didn't bet)
+Seat 2: kangta5556 (button) folded before Flop (didn't bet)
+Seat 3: whollyflush (small blind) collected ($12)
+Seat 4: imactually12 (big blind) folded before Flop
+Seat 5: laurenman folded before Flop (didn't bet)
+Seat 6: DeluxeSamy folded before Flop (didn't bet)
+
+
+PokerStars Game #102631765336:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:46:38 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: rocks50 ($901.26 in chips) 
+Seat 2: kangta5556 ($100.73 in chips) 
+Seat 3: whollyflush ($671.45 in chips) 
+Seat 4: imactually12 ($894.93 in chips) 
+Seat 5: laurenman ($295.11 in chips) 
+Seat 6: DeluxeSamy ($485.69 in chips) 
+imactually12: posts small blind $3
+laurenman: posts big blind $6
+*** HOLE CARDS ***
+DeluxeSamy: folds 
+rocks50: folds 
+kangta5556: folds 
+whollyflush: folds 
+imactually12: raises $6 to $12
+laurenman: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: rocks50 folded before Flop (didn't bet)
+Seat 2: kangta5556 folded before Flop (didn't bet)
+Seat 3: whollyflush (button) folded before Flop (didn't bet)
+Seat 4: imactually12 (small blind) collected ($12)
+Seat 5: laurenman (big blind) folded before Flop
+Seat 6: DeluxeSamy folded before Flop (didn't bet)
+
+
+PokerStars Game #102631789661:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:47:19 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: rocks50 ($901.26 in chips) 
+Seat 2: kangta5556 ($100.73 in chips) 
+Seat 3: whollyflush ($671.45 in chips) 
+Seat 4: imactually12 ($900.93 in chips) 
+Seat 5: laurenman ($289.11 in chips) 
+Seat 6: DeluxeSamy ($485.69 in chips) 
+laurenman: posts small blind $3
+DeluxeSamy: posts big blind $6
+*** HOLE CARDS ***
+rocks50: folds 
+kangta5556: folds 
+whollyflush: folds 
+imactually12: folds 
+laurenman: folds 
+Uncalled bet ($3) returned to DeluxeSamy
+DeluxeSamy collected $6 from pot
+DeluxeSamy: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: rocks50 folded before Flop (didn't bet)
+Seat 2: kangta5556 folded before Flop (didn't bet)
+Seat 3: whollyflush folded before Flop (didn't bet)
+Seat 4: imactually12 (button) folded before Flop (didn't bet)
+Seat 5: laurenman (small blind) folded before Flop
+Seat 6: DeluxeSamy (big blind) collected ($6)
+
+
+PokerStars Game #102631808082:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:47:50 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: rocks50 ($901.26 in chips) 
+Seat 2: kangta5556 ($100.73 in chips) 
+Seat 3: whollyflush ($671.45 in chips) 
+Seat 4: imactually12 ($900.93 in chips) 
+Seat 5: laurenman ($286.11 in chips) 
+Seat 6: DeluxeSamy ($488.69 in chips) 
+DeluxeSamy: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+kangta5556: calls $6
+whollyflush: folds 
+imactually12: folds 
+laurenman: folds 
+DeluxeSamy: folds 
+rocks50: checks 
+*** FLOP *** [Th 3c 8d]
+rocks50: checks 
+kangta5556: bets $30
+rocks50: raises $90 to $120
+kangta5556: calls $64.73 and is all-in
+Uncalled bet ($25.27) returned to rocks50
+*** TURN *** [Th 3c 8d] [9h]
+*** RIVER *** [Th 3c 8d 9h] [Jd]
+*** SHOW DOWN ***
+rocks50: shows [9s Td] (two pair, Tens and Nines)
+kangta5556: shows [9d 8h] (two pair, Nines and Eights)
+rocks50 collected $201.66 from pot
+*** SUMMARY ***
+Total pot $204.46 | Rake $2.80 
+Board [Th 3c 8d 9h Jd]
+Seat 1: rocks50 (big blind) showed [9s Td] and won ($201.66) with two pair, Tens and Nines
+Seat 2: kangta5556 showed [9d 8h] and lost with two pair, Nines and Eights
+Seat 3: whollyflush folded before Flop (didn't bet)
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: laurenman (button) folded before Flop (didn't bet)
+Seat 6: DeluxeSamy (small blind) folded before Flop
+
+
+PokerStars Game #102631832172:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:48:31 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #6 is the button
+Seat 1: rocks50 ($1002.19 in chips) 
+Seat 3: whollyflush ($671.45 in chips) 
+Seat 4: imactually12 ($900.93 in chips) 
+Seat 5: laurenman ($286.11 in chips) 
+Seat 6: DeluxeSamy ($485.69 in chips) 
+rocks50: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+kangta5556 leaves the table
+laurenman: folds 
+DeluxeSamy: raises $6 to $12
+rocks50: folds 
+whollyflush: folds 
+Uncalled bet ($6) returned to DeluxeSamy
+DeluxeSamy collected $15 from pot
+DeluxeSamy: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: rocks50 (small blind) folded before Flop
+Seat 3: whollyflush (big blind) folded before Flop
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: laurenman folded before Flop (didn't bet)
+Seat 6: DeluxeSamy (button) collected ($15)
+
+
+PokerStars Game #102631851682:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:49:04 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: rocks50 ($999.19 in chips) 
+Seat 3: whollyflush ($665.45 in chips) 
+Seat 4: imactually12 ($900.93 in chips) 
+Seat 5: laurenman ($286.11 in chips) 
+Seat 6: DeluxeSamy ($494.69 in chips) 
+whollyflush: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+laurenman: folds 
+DeluxeSamy: folds 
+DeluxeSamy leaves the table
+rocks50: raises $6 to $12
+whollyflush: folds 
+imactually12: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $15 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: rocks50 (button) collected ($15)
+Seat 3: whollyflush (small blind) folded before Flop
+Seat 4: imactually12 (big blind) folded before Flop
+Seat 5: laurenman folded before Flop (didn't bet)
+Seat 6: DeluxeSamy folded before Flop (didn't bet)
+
+
+PokerStars Game #102631861203:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:49:20 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: rocks50 ($1008.19 in chips) 
+Seat 3: whollyflush ($662.45 in chips) 
+Seat 4: imactually12 ($894.93 in chips) 
+imactually12: posts small blind $3
+laurenman: is sitting out 
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+laurenman leaves the table
+whollyflush: raises $6 to $12
+imactually12: raises $36 to $48
+rocks50: folds 
+whollyflush: folds 
+Uncalled bet ($36) returned to imactually12
+imactually12 collected $30 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: rocks50 (big blind) folded before Flop
+Seat 3: whollyflush (button) folded before Flop
+Seat 4: imactually12 (small blind) collected ($30)
+
+
+PokerStars Game #102631874158:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:49:42 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: rocks50 ($1002.19 in chips) 
+Seat 3: whollyflush ($650.45 in chips) 
+Seat 4: imactually12 ($912.93 in chips) 
+rocks50: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: folds 
+whollyflush: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $15 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: rocks50 (small blind) folded before Flop
+Seat 3: whollyflush (big blind) folded before Flop
+Seat 4: imactually12 (button) collected ($15)
+
+
+PokerStars Game #102631555733:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:40:44 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: rocks50 ($841.06 in chips) 
+Seat 2: kangta5556 ($163.73 in chips) 
+Seat 3: whollyflush ($666.67 in chips) 
+Seat 4: imactually12 ($891.93 in chips) 
+Seat 5: laurenman ($272.73 in chips) 
+Seat 6: DeluxeSamy ($518.69 in chips) 
+DeluxeSamy: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+kangta5556: folds 
+whollyflush: folds 
+imactually12: folds 
+laurenman: folds 
+DeluxeSamy: raises $6 to $12
+rocks50: raises $30 to $42
+DeluxeSamy: folds 
+Uncalled bet ($30) returned to rocks50
+rocks50 collected $24 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: rocks50 (big blind) collected ($24)
+Seat 2: kangta5556 folded before Flop (didn't bet)
+Seat 3: whollyflush folded before Flop (didn't bet)
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: laurenman (button) folded before Flop (didn't bet)
+Seat 6: DeluxeSamy (small blind) folded before Flop
+
+
+PokerStars Game #102631575880:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:41:18 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #6 is the button
+Seat 1: rocks50 ($853.06 in chips) 
+Seat 3: whollyflush ($666.67 in chips) 
+Seat 4: imactually12 ($891.93 in chips) 
+Seat 5: laurenman ($272.73 in chips) 
+Seat 6: DeluxeSamy ($506.69 in chips) 
+rocks50: posts small blind $3
+kangta5556 is disconnected 
+kangta5556 has timed out while disconnected
+kangta5556: is sitting out 
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $9 to $15
+laurenman: folds 
+DeluxeSamy: folds 
+rocks50: folds 
+whollyflush: folds 
+Uncalled bet ($9) returned to imactually12
+imactually12 collected $15 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: rocks50 (small blind) folded before Flop
+Seat 3: whollyflush (big blind) folded before Flop
+Seat 4: imactually12 collected ($15)
+Seat 5: laurenman folded before Flop (didn't bet)
+Seat 6: DeluxeSamy (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102631602208:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:42:03 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: rocks50 ($850.06 in chips) 
+Seat 3: whollyflush ($660.67 in chips) 
+Seat 4: imactually12 ($900.93 in chips) 
+Seat 5: laurenman ($272.73 in chips) 
+Seat 6: DeluxeSamy ($506.69 in chips) 
+kangta5556 will be allowed to play after the button
+whollyflush: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+laurenman: raises $9 to $15
+DeluxeSamy: folds 
+rocks50: folds 
+whollyflush: folds 
+imactually12: folds 
+Uncalled bet ($9) returned to laurenman
+laurenman collected $15 from pot
+laurenman: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: rocks50 (button) folded before Flop (didn't bet)
+Seat 3: whollyflush (small blind) folded before Flop
+Seat 4: imactually12 (big blind) folded before Flop
+Seat 5: laurenman collected ($15)
+Seat 6: DeluxeSamy folded before Flop (didn't bet)
+
+
+PokerStars Game #102631620269:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:42:33 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: rocks50 ($850.06 in chips) 
+Seat 3: whollyflush ($657.67 in chips) 
+Seat 4: imactually12 ($894.93 in chips) 
+Seat 5: laurenman ($281.73 in chips) 
+Seat 6: DeluxeSamy ($506.69 in chips) 
+imactually12: posts small blind $3
+laurenman: posts big blind $6
+laurenman said, "speed"
+kangta5556 is disconnected 
+kangta5556 has timed out while disconnected
+kangta5556: is sitting out 
+*** HOLE CARDS ***
+DeluxeSamy: folds 
+rocks50: folds 
+whollyflush: raises $6 to $12
+imactually12: folds 
+laurenman: calls $6
+*** FLOP *** [7s Ac 5h]
+laurenman: checks 
+whollyflush: bets $17.27
+laurenman: folds 
+Uncalled bet ($17.27) returned to whollyflush
+whollyflush collected $25.78 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [7s Ac 5h]
+Seat 1: rocks50 folded before Flop (didn't bet)
+Seat 3: whollyflush (button) collected ($25.78)
+Seat 4: imactually12 (small blind) folded before Flop
+Seat 5: laurenman (big blind) folded on the Flop
+Seat 6: DeluxeSamy folded before Flop (didn't bet)
+
+
+PokerStars Game #102631656317:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:43:34 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: rocks50 ($850.06 in chips) 
+Seat 3: whollyflush ($671.45 in chips) 
+Seat 4: imactually12 ($891.93 in chips) 
+Seat 5: laurenman ($269.73 in chips) 
+Seat 6: DeluxeSamy ($506.69 in chips) 
+laurenman: posts small blind $3
+DeluxeSamy: posts big blind $6
+kangta5556: sits out 
+*** HOLE CARDS ***
+rocks50: folds 
+whollyflush: folds 
+imactually12: folds 
+laurenman: raises $9 to $15
+DeluxeSamy: folds 
+Uncalled bet ($9) returned to laurenman
+laurenman collected $12 from pot
+laurenman: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: rocks50 folded before Flop (didn't bet)
+Seat 3: whollyflush folded before Flop (didn't bet)
+Seat 4: imactually12 (button) folded before Flop (didn't bet)
+Seat 5: laurenman (small blind) collected ($12)
+Seat 6: DeluxeSamy (big blind) folded before Flop
+
+
+PokerStars Game #102631674161:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:44:05 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: rocks50 ($850.06 in chips) 
+Seat 3: whollyflush ($671.45 in chips) 
+Seat 4: imactually12 ($891.93 in chips) 
+Seat 5: laurenman ($275.73 in chips) 
+Seat 6: DeluxeSamy ($500.69 in chips) 
+DeluxeSamy: posts small blind $3
+rocks50: posts big blind $6
+kangta5556: sits out 
+*** HOLE CARDS ***
+whollyflush: folds 
+imactually12: raises $9 to $15
+laurenman: folds 
+DeluxeSamy: folds 
+laurenman said, ":)"
+rocks50: folds 
+Uncalled bet ($9) returned to imactually12
+imactually12 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: rocks50 (big blind) folded before Flop
+Seat 3: whollyflush folded before Flop (didn't bet)
+Seat 4: imactually12 collected ($15)
+Seat 5: laurenman (button) folded before Flop (didn't bet)
+Seat 6: DeluxeSamy (small blind) folded before Flop
+
+
+PokerStars Game #102631692059:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:44:35 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #6 is the button
+Seat 1: rocks50 ($844.06 in chips) 
+Seat 2: kangta5556 ($163.73 in chips) 
+Seat 3: whollyflush ($671.45 in chips) 
+Seat 4: imactually12 ($900.93 in chips) 
+Seat 5: laurenman ($275.73 in chips) 
+Seat 6: DeluxeSamy ($497.69 in chips) 
+rocks50: posts small blind $3
+kangta5556: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: folds 
+imactually12: folds 
+laurenman: folds 
+DeluxeSamy: raises $6 to $12
+rocks50: raises $36 to $48
+kangta5556: calls $42
+DeluxeSamy: folds 
+*** FLOP *** [7s 2s 3s]
+rocks50: bets $116
+kangta5556: folds 
+Uncalled bet ($116) returned to rocks50
+rocks50 collected $105.20 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $108 | Rake $2.80 
+Board [7s 2s 3s]
+Seat 1: rocks50 (small blind) collected ($105.20)
+Seat 2: kangta5556 (big blind) folded on the Flop
+Seat 3: whollyflush folded before Flop (didn't bet)
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: laurenman folded before Flop (didn't bet)
+Seat 6: DeluxeSamy (button) folded before Flop
+
+
+PokerStars Game #102631359273:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:35:15 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: rocks50 ($830.54 in chips) 
+Seat 2: kangta5556 ($194.31 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($927.93 in chips) 
+Seat 5: laurenman ($299.06 in chips) 
+Seat 6: DeluxeSamy ($513 in chips) 
+imactually12: posts small blind $3
+laurenman: posts big blind $6
+*** HOLE CARDS ***
+DeluxeSamy: raises $6 to $12
+rocks50: calls $12
+kangta5556: folds 
+whollyflush: folds 
+imactually12: folds 
+laurenman: folds 
+*** FLOP *** [Jc Ac Qs]
+DeluxeSamy: checks 
+rocks50: bets $23.07
+DeluxeSamy: folds 
+Uncalled bet ($23.07) returned to rocks50
+rocks50 collected $31.52 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $1.48 
+Board [Jc Ac Qs]
+Seat 1: rocks50 collected ($31.52)
+Seat 2: kangta5556 folded before Flop (didn't bet)
+Seat 3: whollyflush (button) folded before Flop (didn't bet)
+Seat 4: imactually12 (small blind) folded before Flop
+Seat 5: laurenman (big blind) folded before Flop
+Seat 6: DeluxeSamy folded on the Flop
+
+
+PokerStars Game #102631382744:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:35:54 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: rocks50 ($850.06 in chips) 
+Seat 2: kangta5556 ($194.31 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($924.93 in chips) 
+Seat 5: laurenman ($293.06 in chips) 
+Seat 6: DeluxeSamy ($501 in chips) 
+laurenman: posts small blind $3
+DeluxeSamy: posts big blind $6
+*** HOLE CARDS ***
+rocks50: folds 
+kangta5556 is disconnected 
+kangta5556 has timed out while disconnected
+kangta5556: folds 
+whollyflush: folds 
+imactually12: folds 
+laurenman: raises $9 to $15
+DeluxeSamy: calls $9
+*** FLOP *** [Jc 7d Ts]
+laurenman: bets $14.33
+DeluxeSamy: raises $24.67 to $39
+laurenman: folds 
+Uncalled bet ($24.67) returned to DeluxeSamy
+DeluxeSamy collected $56.02 from pot
+DeluxeSamy: doesn't show hand 
+*** SUMMARY ***
+Total pot $58.66 | Rake $2.64 
+Board [Jc 7d Ts]
+Seat 1: rocks50 folded before Flop (didn't bet)
+Seat 2: kangta5556 folded before Flop (didn't bet)
+Seat 3: whollyflush folded before Flop (didn't bet)
+Seat 4: imactually12 (button) folded before Flop (didn't bet)
+Seat 5: laurenman (small blind) folded on the Flop
+Seat 6: DeluxeSamy (big blind) collected ($56.02)
+
+
+PokerStars Game #102631427260:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:37:09 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: rocks50 ($850.06 in chips) 
+Seat 2: kangta5556 ($194.31 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($924.93 in chips) 
+Seat 5: laurenman ($263.73 in chips) 
+Seat 6: DeluxeSamy ($527.69 in chips) 
+DeluxeSamy: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+kangta5556: calls $6
+whollyflush: raises $18 to $24
+imactually12: folds 
+laurenman: folds 
+DeluxeSamy: folds 
+rocks50: folds 
+kangta5556: calls $18
+*** FLOP *** [Tc 4d 8c]
+kangta5556: checks 
+whollyflush: bets $36.47
+kangta5556: calls $36.47
+*** TURN *** [Tc 4d 8c] [2s]
+kangta5556: checks 
+whollyflush: bets $539.53 and is all-in
+kangta5556: folds 
+Uncalled bet ($539.53) returned to whollyflush
+whollyflush collected $127.14 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $129.94 | Rake $2.80 
+Board [Tc 4d 8c 2s]
+Seat 1: rocks50 (big blind) folded before Flop
+Seat 2: kangta5556 folded on the Turn
+Seat 3: whollyflush collected ($127.14)
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: laurenman (button) folded before Flop (didn't bet)
+Seat 6: DeluxeSamy (small blind) folded before Flop
+
+
+PokerStars Game #102631468896:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:38:18 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #6 is the button
+Seat 1: rocks50 ($844.06 in chips) 
+Seat 2: kangta5556 ($133.84 in chips) 
+Seat 3: whollyflush ($666.67 in chips) 
+Seat 4: imactually12 ($924.93 in chips) 
+Seat 5: laurenman ($263.73 in chips) 
+Seat 6: DeluxeSamy ($524.69 in chips) 
+rocks50: posts small blind $3
+kangta5556: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: folds 
+imactually12: folds 
+laurenman: raises $9 to $15
+DeluxeSamy: folds 
+rocks50: folds 
+kangta5556: folds 
+Uncalled bet ($9) returned to laurenman
+laurenman collected $15 from pot
+laurenman: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: rocks50 (small blind) folded before Flop
+Seat 2: kangta5556 (big blind) folded before Flop
+Seat 3: whollyflush folded before Flop (didn't bet)
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: laurenman collected ($15)
+Seat 6: DeluxeSamy (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102631483262:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:38:42 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: rocks50 ($841.06 in chips) 
+Seat 2: kangta5556 ($127.84 in chips) 
+Seat 3: whollyflush ($666.67 in chips) 
+Seat 4: imactually12 ($924.93 in chips) 
+Seat 5: laurenman ($272.73 in chips) 
+Seat 6: DeluxeSamy ($524.69 in chips) 
+kangta5556: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $9 to $15
+laurenman: folds 
+DeluxeSamy: folds 
+rocks50: folds 
+kangta5556: raises $9 to $24
+whollyflush: folds 
+imactually12: calls $9
+*** FLOP *** [Qc 9d Kd]
+kangta5556: bets $6
+imactually12: folds 
+Uncalled bet ($6) returned to kangta5556
+kangta5556 collected $51.57 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $2.43 
+Board [Qc 9d Kd]
+Seat 1: rocks50 (button) folded before Flop (didn't bet)
+Seat 2: kangta5556 (small blind) collected ($51.57)
+Seat 3: whollyflush (big blind) folded before Flop
+Seat 4: imactually12 folded on the Flop
+Seat 5: laurenman folded before Flop (didn't bet)
+Seat 6: DeluxeSamy folded before Flop (didn't bet)
+
+
+PokerStars Game #102631501184:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:39:12 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: rocks50 ($841.06 in chips) 
+Seat 2: kangta5556 ($155.41 in chips) 
+Seat 3: whollyflush ($660.67 in chips) 
+Seat 4: imactually12 ($900.93 in chips) 
+Seat 5: laurenman ($272.73 in chips) 
+Seat 6: DeluxeSamy ($524.69 in chips) 
+whollyflush: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+laurenman: folds 
+DeluxeSamy: folds 
+rocks50: folds 
+kangta5556: folds 
+whollyflush: raises $12 to $18
+imactually12: folds 
+Uncalled bet ($12) returned to whollyflush
+whollyflush collected $12 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: rocks50 folded before Flop (didn't bet)
+Seat 2: kangta5556 (button) folded before Flop (didn't bet)
+Seat 3: whollyflush (small blind) collected ($12)
+Seat 4: imactually12 (big blind) folded before Flop
+Seat 5: laurenman folded before Flop (didn't bet)
+Seat 6: DeluxeSamy folded before Flop (didn't bet)
+
+
+PokerStars Game #102631514051:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:39:34 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: rocks50 ($841.06 in chips) 
+Seat 2: kangta5556 ($155.41 in chips) 
+Seat 3: whollyflush ($666.67 in chips) 
+Seat 4: imactually12 ($894.93 in chips) 
+Seat 5: laurenman ($272.73 in chips) 
+Seat 6: DeluxeSamy ($524.69 in chips) 
+imactually12: posts small blind $3
+laurenman: posts big blind $6
+*** HOLE CARDS ***
+DeluxeSamy: folds 
+rocks50: folds 
+kangta5556: folds 
+whollyflush: folds 
+imactually12: folds 
+Uncalled bet ($3) returned to laurenman
+laurenman collected $6 from pot
+laurenman: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: rocks50 folded before Flop (didn't bet)
+Seat 2: kangta5556 folded before Flop (didn't bet)
+Seat 3: whollyflush (button) folded before Flop (didn't bet)
+Seat 4: imactually12 (small blind) folded before Flop
+Seat 5: laurenman (big blind) collected ($6)
+Seat 6: DeluxeSamy folded before Flop (didn't bet)
+
+
+PokerStars Game #102631522218:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:39:48 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: rocks50 ($841.06 in chips) 
+Seat 2: kangta5556 ($155.41 in chips) 
+Seat 3: whollyflush ($666.67 in chips) 
+Seat 4: imactually12 ($891.93 in chips) 
+Seat 5: laurenman ($275.73 in chips) 
+Seat 6: DeluxeSamy ($524.69 in chips) 
+laurenman: posts small blind $3
+DeluxeSamy: posts big blind $6
+*** HOLE CARDS ***
+rocks50: folds 
+kangta5556: calls $6
+whollyflush: folds 
+imactually12: folds 
+laurenman: folds 
+DeluxeSamy: checks 
+*** FLOP *** [2h 8h 2d]
+DeluxeSamy: checks 
+kangta5556: bets $36
+DeluxeSamy: folds 
+Uncalled bet ($36) returned to kangta5556
+kangta5556 collected $14.32 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0.68 
+Board [2h 8h 2d]
+Seat 1: rocks50 folded before Flop (didn't bet)
+Seat 2: kangta5556 collected ($14.32)
+Seat 3: whollyflush folded before Flop (didn't bet)
+Seat 4: imactually12 (button) folded before Flop (didn't bet)
+Seat 5: laurenman (small blind) folded before Flop
+Seat 6: DeluxeSamy (big blind) folded on the Flop
+
+
+PokerStars Game #102631190710:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:30:38 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #3 is the button
+Seat 1: rocks50 ($631.26 in chips) 
+Seat 2: kangta5556 ($413.82 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($862.50 in chips) 
+Seat 5: laurenman ($285.82 in chips) 
+Seat 6: DeluxeSamy ($522 in chips) 
+imactually12: posts small blind $3
+laurenman: posts big blind $6
+*** HOLE CARDS ***
+DeluxeSamy: folds 
+rocks50: raises $12 to $18
+kangta5556: calls $18
+whollyflush: folds 
+imactually12: folds 
+laurenman: folds 
+*** FLOP *** [5h 5c Ah]
+rocks50: checks 
+kangta5556: bets $24
+rocks50: calls $24
+*** TURN *** [5h 5c Ah] [6h]
+rocks50: checks 
+kangta5556: bets $24
+rocks50: calls $24
+*** RIVER *** [5h 5c Ah 6h] [2d]
+rocks50: checks 
+kangta5556: bets $30
+rocks50: raises $145.08 to $175.08
+kangta5556: calls $145.08
+*** SHOW DOWN ***
+rocks50: shows [6s As] (two pair, Aces and Sixes)
+kangta5556: mucks hand 
+rocks50 collected $488.36 from pot
+*** SUMMARY ***
+Total pot $491.16 | Rake $2.80 
+Board [5h 5c Ah 6h 2d]
+Seat 1: rocks50 showed [6s As] and won ($488.36) with two pair, Aces and Sixes
+Seat 2: kangta5556 mucked
+Seat 3: whollyflush (button) folded before Flop (didn't bet)
+Seat 4: imactually12 (small blind) folded before Flop
+Seat 5: laurenman (big blind) folded before Flop
+Seat 6: DeluxeSamy folded before Flop (didn't bet)
+
+
+PokerStars Game #102631219282:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:31:24 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: rocks50 ($878.54 in chips) 
+Seat 2: kangta5556 ($172.74 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($859.50 in chips) 
+Seat 5: laurenman ($279.82 in chips) 
+Seat 6: DeluxeSamy ($522 in chips) 
+laurenman: posts small blind $3
+DeluxeSamy: posts big blind $6
+*** HOLE CARDS ***
+rocks50: folds 
+kangta5556: folds 
+whollyflush: folds 
+imactually12: raises $6 to $12
+laurenman: folds 
+DeluxeSamy: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $15 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: rocks50 folded before Flop (didn't bet)
+Seat 2: kangta5556 folded before Flop (didn't bet)
+Seat 3: whollyflush folded before Flop (didn't bet)
+Seat 4: imactually12 (button) collected ($15)
+Seat 5: laurenman (small blind) folded before Flop
+Seat 6: DeluxeSamy (big blind) folded before Flop
+
+
+PokerStars Game #102631235260:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:31:51 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: rocks50 ($878.54 in chips) 
+Seat 2: kangta5556 ($172.74 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($868.50 in chips) 
+Seat 5: laurenman ($276.82 in chips) 
+Seat 6: DeluxeSamy ($516 in chips) 
+DeluxeSamy: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+kangta5556: folds 
+whollyflush: raises $12 to $18
+imactually12: calls $18
+laurenman: folds 
+DeluxeSamy: folds 
+rocks50: folds 
+*** FLOP *** [Kc 2s Jh]
+whollyflush: bets $32.23
+imactually12: calls $32.23
+*** TURN *** [Kc 2s Jh] [5s]
+whollyflush: checks 
+imactually12: bets $72
+whollyflush: folds 
+Uncalled bet ($72) returned to imactually12
+imactually12 collected $106.66 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $109.46 | Rake $2.80 
+Board [Kc 2s Jh 5s]
+Seat 1: rocks50 (big blind) folded before Flop
+Seat 2: kangta5556 folded before Flop (didn't bet)
+Seat 3: whollyflush folded on the Turn
+Seat 4: imactually12 collected ($106.66)
+Seat 5: laurenman (button) folded before Flop (didn't bet)
+Seat 6: DeluxeSamy (small blind) folded before Flop
+
+
+PokerStars Game #102631286868:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:33:16 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #6 is the button
+Seat 1: rocks50 ($872.54 in chips) 
+Seat 2: kangta5556 ($172.74 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($924.93 in chips) 
+Seat 5: laurenman ($276.82 in chips) 
+Seat 6: DeluxeSamy ($513 in chips) 
+rocks50: posts small blind $3
+kangta5556: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: folds 
+imactually12: raises $9 to $15
+laurenman: folds 
+DeluxeSamy: folds 
+rocks50: folds 
+kangta5556: folds 
+Uncalled bet ($9) returned to imactually12
+imactually12 collected $15 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: rocks50 (small blind) folded before Flop
+Seat 2: kangta5556 (big blind) folded before Flop
+Seat 3: whollyflush folded before Flop (didn't bet)
+Seat 4: imactually12 collected ($15)
+Seat 5: laurenman folded before Flop (didn't bet)
+Seat 6: DeluxeSamy (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102631295245:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:33:30 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: rocks50 ($869.54 in chips) 
+Seat 2: kangta5556 ($166.74 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($933.93 in chips) 
+Seat 5: laurenman ($276.82 in chips) 
+Seat 6: DeluxeSamy ($513 in chips) 
+kangta5556: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+laurenman: folds 
+DeluxeSamy: folds 
+rocks50: raises $6 to $12
+kangta5556: raises $6 to $18
+whollyflush: folds 
+rocks50: calls $6
+*** FLOP *** [9s Kc 6s]
+kangta5556: bets $6
+rocks50: calls $6
+*** TURN *** [9s Kc 6s] [4h]
+kangta5556: bets $42
+rocks50: folds 
+Uncalled bet ($42) returned to kangta5556
+kangta5556 collected $51.57 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $2.43 
+Board [9s Kc 6s 4h]
+Seat 1: rocks50 (button) folded on the Turn
+Seat 2: kangta5556 (small blind) collected ($51.57)
+Seat 3: whollyflush (big blind) folded before Flop
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: laurenman folded before Flop (didn't bet)
+Seat 6: DeluxeSamy folded before Flop (didn't bet)
+
+
+PokerStars Game #102631345318:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:34:52 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #2 is the button
+Seat 1: rocks50 ($845.54 in chips) 
+Seat 2: kangta5556 ($194.31 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($933.93 in chips) 
+Seat 5: laurenman ($276.82 in chips) 
+Seat 6: DeluxeSamy ($513 in chips) 
+whollyflush: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+laurenman: raises $9 to $15
+DeluxeSamy: folds 
+rocks50: calls $15
+kangta5556: folds 
+whollyflush: folds 
+imactually12: folds 
+*** FLOP *** [4h 3c Kd]
+laurenman: bets $18.62
+rocks50: folds 
+Uncalled bet ($18.62) returned to laurenman
+laurenman collected $37.24 from pot
+laurenman: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [4h 3c Kd]
+Seat 1: rocks50 folded on the Flop
+Seat 2: kangta5556 (button) folded before Flop (didn't bet)
+Seat 3: whollyflush (small blind) folded before Flop
+Seat 4: imactually12 (big blind) folded before Flop
+Seat 5: laurenman collected ($37.24)
+Seat 6: DeluxeSamy folded before Flop (didn't bet)
+
+
+PokerStars Game #102632061527:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:55:06 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #3 is the button
+Seat 3: emmasun ($266.55 in chips) 
+Seat 4: imactually12 ($833.93 in chips) 
+Seat 5: Subv ($600 in chips) 
+imactually12: posts small blind $3
+Subv: posts big blind $6
+whollyflush: sits out 
+roooomi: sits out 
+*** HOLE CARDS ***
+emmasun: folds 
+imactually12: raises $12 to $18
+Subv: calls $12
+*** FLOP *** [3c Qc 2c]
+imactually12: checks 
+Subv: bets $22.50
+imactually12: folds 
+Uncalled bet ($22.50) returned to Subv
+Subv collected $34.50 from pot
+Subv: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $1.50 
+Board [3c Qc 2c]
+Seat 3: emmasun (button) folded before Flop (didn't bet)
+Seat 4: imactually12 (small blind) folded on the Flop
+Seat 5: Subv (big blind) collected ($34.50)
+
+
+PokerStars Game #102632090008:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:56:11 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #4 is the button
+Seat 1: rocks50 ($1163.69 in chips) 
+Seat 3: emmasun ($266.55 in chips) 
+Seat 4: imactually12 ($815.93 in chips) 
+Seat 5: Subv ($616.50 in chips) 
+Seat 6: whollyflush ($650.45 in chips) 
+Subv: posts small blind $3
+whollyflush: posts big blind $6
+roooomi: sits out 
+*** HOLE CARDS ***
+rocks50: folds 
+emmasun: folds 
+imactually12: folds 
+Subv: folds 
+Uncalled bet ($3) returned to whollyflush
+whollyflush collected $6 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: rocks50 folded before Flop (didn't bet)
+Seat 3: emmasun folded before Flop (didn't bet)
+Seat 4: imactually12 (button) folded before Flop (didn't bet)
+Seat 5: Subv (small blind) folded before Flop
+Seat 6: whollyflush (big blind) collected ($6)
+
+
+PokerStars Game #102632103212:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:56:41 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #5 is the button
+Seat 1: rocks50 ($1163.69 in chips) 
+Seat 3: emmasun ($266.55 in chips) 
+Seat 4: imactually12 ($815.93 in chips) 
+Seat 5: Subv ($613.50 in chips) 
+Seat 6: whollyflush ($653.45 in chips) 
+whollyflush: posts small blind $3
+rocks50: posts big blind $6
+roooomi: sits out 
+*** HOLE CARDS ***
+emmasun: raises $12 to $18
+imactually12: folds 
+Subv: folds 
+whollyflush: folds 
+rocks50: folds 
+Uncalled bet ($12) returned to emmasun
+emmasun collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: rocks50 (big blind) folded before Flop
+Seat 3: emmasun collected ($15)
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: Subv (button) folded before Flop (didn't bet)
+Seat 6: whollyflush (small blind) folded before Flop
+
+
+PokerStars Game #102632116755:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:57:12 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #6 is the button
+Seat 1: rocks50 ($1157.69 in chips) 
+Seat 2: roooomi ($600 in chips) 
+Seat 3: emmasun ($275.55 in chips) 
+Seat 4: imactually12 ($815.93 in chips) 
+Seat 5: Subv ($613.50 in chips) 
+Seat 6: whollyflush ($650.45 in chips) 
+rocks50: posts small blind $3
+roooomi: posts big blind $6
+*** HOLE CARDS ***
+emmasun: folds 
+imactually12: folds 
+Subv: folds 
+whollyflush: folds 
+rocks50: folds 
+Uncalled bet ($3) returned to roooomi
+roooomi collected $6 from pot
+roooomi: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: rocks50 (small blind) folded before Flop
+Seat 2: roooomi (big blind) collected ($6)
+Seat 3: emmasun folded before Flop (didn't bet)
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: whollyflush (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102632127475:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:57:36 ET
+Table 'Byblis III 40-100 bb' 6-max Seat #1 is the button
+Seat 1: rocks50 ($1154.69 in chips) 
+Seat 2: roooomi ($603 in chips) 
+Seat 3: emmasun ($275.55 in chips) 
+Seat 4: imactually12 ($815.93 in chips) 
+Seat 5: Subv ($613.50 in chips) 
+Seat 6: whollyflush ($650.45 in chips) 
+roooomi: posts small blind $3
+emmasun: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+Subv: folds 
+whollyflush: raises $6 to $12
+rocks50: folds 
+roooomi: folds 
+emmasun: calls $6
+*** FLOP *** [6s 4c Ac]
+emmasun: checks 
+whollyflush: bets $17.27
+emmasun: calls $17.27
+*** TURN *** [6s 4c Ac] [3s]
+emmasun: checks 
+whollyflush: bets $44.07
+emmasun: calls $44.07
+*** RIVER *** [6s 4c Ac 3s] [3h]
+emmasun: bets $108
+whollyflush: folds 
+Uncalled bet ($108) returned to emmasun
+emmasun collected $146.88 from pot
+*** SUMMARY ***
+Total pot $149.68 | Rake $2.80 
+Board [6s 4c Ac 3s 3h]
+Seat 1: rocks50 (button) folded before Flop (didn't bet)
+Seat 2: roooomi (small blind) folded before Flop
+Seat 3: emmasun (big blind) collected ($146.88)
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: whollyflush folded on the River

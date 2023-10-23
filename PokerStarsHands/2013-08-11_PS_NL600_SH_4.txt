@@ -1,0 +1,872 @@
+
+
+PokerStars Game #102625186324:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:05:44 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #5 is the button
+Seat 1: king10clubs ($609 in chips) 
+Seat 2: whollyflush ($712.98 in chips) 
+Seat 3: Scarface.VLT ($600 in chips) 
+Seat 4: robirobin ($192 in chips) 
+Seat 5: Flying Smile ($605.46 in chips) 
+Seat 6: elvn89 ($234 in chips) 
+elvn89: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: folds 
+Scarface.VLT: folds 
+robirobin: raises $12 to $18
+Flying Smile: folds 
+elvn89: folds 
+king10clubs: folds 
+Uncalled bet ($12) returned to robirobin
+robirobin collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: king10clubs (big blind) folded before Flop
+Seat 2: whollyflush folded before Flop (didn't bet)
+Seat 3: Scarface.VLT folded before Flop (didn't bet)
+Seat 4: robirobin collected ($15)
+Seat 5: Flying Smile (button) folded before Flop (didn't bet)
+Seat 6: elvn89 (small blind) folded before Flop
+
+
+PokerStars Game #102625205461:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:06:06 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #6 is the button
+Seat 1: king10clubs ($603 in chips) 
+Seat 2: whollyflush ($712.98 in chips) 
+Seat 3: Scarface.VLT ($600 in chips) 
+Seat 4: robirobin ($201 in chips) 
+Seat 5: Flying Smile ($605.46 in chips) 
+Seat 6: elvn89 ($231 in chips) 
+king10clubs: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: folds 
+robirobin: calls $6
+Flying Smile: calls $6
+elvn89: folds 
+king10clubs: calls $3
+whollyflush: raises $18 to $24
+robirobin: calls $18
+Flying Smile: calls $18
+king10clubs: calls $18
+*** FLOP *** [Jc Ah 4s]
+king10clubs: checks 
+whollyflush: bets $30
+robirobin: calls $30
+Flying Smile: folds 
+king10clubs: folds 
+*** TURN *** [Jc Ah 4s] [Kd]
+whollyflush: bets $54
+robirobin: calls $54
+*** RIVER *** [Jc Ah 4s Kd] [4c]
+whollyflush: bets $195.90
+robirobin: folds 
+Uncalled bet ($195.90) returned to whollyflush
+whollyflush collected $261.20 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $264 | Rake $2.80 
+Board [Jc Ah 4s Kd 4c]
+Seat 1: king10clubs (small blind) folded on the Flop
+Seat 2: whollyflush (big blind) collected ($261.20)
+Seat 3: Scarface.VLT folded before Flop (didn't bet)
+Seat 4: robirobin folded on the River
+Seat 5: Flying Smile folded on the Flop
+Seat 6: elvn89 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102625296438:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:07:54 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #1 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: whollyflush ($866.18 in chips) 
+Seat 3: Scarface.VLT ($600 in chips) 
+Seat 4: robirobin ($93 in chips) 
+Seat 5: Flying Smile ($600 in chips) 
+Seat 6: elvn89 ($231 in chips) 
+whollyflush: posts small blind $3
+Scarface.VLT: posts big blind $6
+*** HOLE CARDS ***
+robirobin: folds 
+Flying Smile: folds 
+elvn89: folds 
+king10clubs: folds 
+whollyflush: folds 
+Uncalled bet ($3) returned to Scarface.VLT
+Scarface.VLT collected $6 from pot
+Scarface.VLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: king10clubs (button) folded before Flop (didn't bet)
+Seat 2: whollyflush (small blind) folded before Flop
+Seat 3: Scarface.VLT (big blind) collected ($6)
+Seat 4: robirobin folded before Flop (didn't bet)
+Seat 5: Flying Smile folded before Flop (didn't bet)
+Seat 6: elvn89 folded before Flop (didn't bet)
+
+
+PokerStars Game #102625313938:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:08:14 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #2 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: whollyflush ($863.18 in chips) 
+Seat 3: Scarface.VLT ($603 in chips) 
+Seat 4: robirobin ($93 in chips) 
+Seat 5: Flying Smile ($600 in chips) 
+Seat 6: elvn89 ($231 in chips) 
+Scarface.VLT: posts small blind $3
+robirobin: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: raises $12 to $18
+elvn89: folds 
+king10clubs: folds 
+whollyflush: folds 
+Scarface.VLT: folds 
+robirobin: calls $12
+*** FLOP *** [Td 8d 3d]
+robirobin: bets $75 and is all-in
+Flying Smile: folds 
+Uncalled bet ($75) returned to robirobin
+robirobin collected $37.24 from pot
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [Td 8d 3d]
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: whollyflush (button) folded before Flop (didn't bet)
+Seat 3: Scarface.VLT (small blind) folded before Flop
+Seat 4: robirobin (big blind) collected ($37.24)
+Seat 5: Flying Smile folded on the Flop
+Seat 6: elvn89 folded before Flop (didn't bet)
+
+
+PokerStars Game #102625338660:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:08:44 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #3 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: whollyflush ($863.18 in chips) 
+Seat 3: Scarface.VLT ($600 in chips) 
+Seat 4: robirobin ($112.24 in chips) 
+Seat 5: Flying Smile ($600 in chips) 
+Seat 6: elvn89 ($231 in chips) 
+robirobin: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+king10clubs: folds 
+whollyflush: folds 
+Scarface.VLT: raises $6 to $12
+robirobin: calls $9
+Flying Smile: calls $6
+*** FLOP *** [9c As Jc]
+robirobin: checks 
+Flying Smile: checks 
+Scarface.VLT: bets $24.06
+robirobin: raises $76.18 to $100.24 and is all-in
+Flying Smile: folds 
+Scarface.VLT: calls $76.18
+*** FIRST TURN *** [9c As Jc] [Ts]
+*** FIRST RIVER *** [9c As Jc Ts] [Js]
+*** SECOND TURN *** [9c As Jc] [7s]
+*** SECOND RIVER *** [9c As Jc 7s] [Qh]
+*** FIRST SHOW DOWN ***
+robirobin: shows [Ad 6h] (two pair, Aces and Jacks)
+Scarface.VLT: shows [8d Ah] (two pair, Aces and Jacks)
+robirobin collected $58.42 from pot
+Scarface.VLT collected $58.42 from pot
+*** SECOND SHOW DOWN ***
+robirobin: shows [Ad 6h] (a pair of Aces)
+Scarface.VLT: shows [8d Ah] (a pair of Aces)
+robirobin collected $58.42 from pot
+Scarface.VLT collected $58.42 from pot
+*** SUMMARY ***
+Total pot $236.48 | Rake $2.80 
+Hand was run twice
+FIRST Board [9c As Jc Ts Js]
+SECOND Board [9c As Jc 7s Qh]
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: whollyflush folded before Flop (didn't bet)
+Seat 3: Scarface.VLT (button) showed [8d Ah] and won ($58.42) with two pair, Aces and Jacks, and won ($58.42) with a pair of Aces
+Seat 4: robirobin (small blind) showed [Ad 6h] and won ($58.42) with two pair, Aces and Jacks, and won ($58.42) with a pair of Aces
+Seat 5: Flying Smile (big blind) folded on the Flop
+Seat 6: elvn89 folded before Flop (didn't bet)
+
+
+PokerStars Game #102625376740:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:09:29 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #4 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: whollyflush ($863.18 in chips) 
+Seat 3: Scarface.VLT ($604.60 in chips) 
+Seat 4: robirobin ($116.84 in chips) 
+Seat 5: Flying Smile ($600 in chips) 
+Seat 6: elvn89 ($231 in chips) 
+Flying Smile: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+whollyflush: raises $12 to $18
+Scarface.VLT: folds 
+robirobin: folds 
+Flying Smile: calls $15
+elvn89: folds 
+*** FLOP *** [7s 4c 2s]
+Flying Smile: checks 
+whollyflush: checks 
+*** TURN *** [7s 4c 2s] [6d]
+Flying Smile: bets $39
+whollyflush: folds 
+Uncalled bet ($39) returned to Flying Smile
+Flying Smile collected $40.11 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $1.89 
+Board [7s 4c 2s 6d]
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: whollyflush folded on the Turn
+Seat 3: Scarface.VLT folded before Flop (didn't bet)
+Seat 4: robirobin (button) folded before Flop (didn't bet)
+Seat 5: Flying Smile (small blind) collected ($40.11)
+Seat 6: elvn89 (big blind) folded before Flop
+
+
+PokerStars Game #102624956031:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:00:56 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #1 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: whollyflush ($600 in chips) 
+Seat 3: Scarface.VLT ($600 in chips) 
+Seat 4: robirobin ($300 in chips) 
+Seat 6: elvn89 ($240 in chips) 
+whollyflush: posts small blind $3
+Scarface.VLT: posts big blind $6
+Flying Smile joins the table at seat #5 
+*** HOLE CARDS ***
+robirobin: folds 
+elvn89: folds 
+king10clubs: raises $6 to $12
+whollyflush: folds 
+Scarface.VLT: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $15 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: king10clubs (button) collected ($15)
+Seat 2: whollyflush (small blind) folded before Flop
+Seat 3: Scarface.VLT (big blind) folded before Flop
+Seat 4: robirobin folded before Flop (didn't bet)
+Seat 6: elvn89 folded before Flop (didn't bet)
+
+
+PokerStars Game #102625026712:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:02:31 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #2 is the button
+Seat 1: king10clubs ($609 in chips) 
+Seat 2: whollyflush ($600 in chips) 
+Seat 3: Scarface.VLT ($600 in chips) 
+Seat 4: robirobin ($300 in chips) 
+Seat 6: elvn89 ($240 in chips) 
+Scarface.VLT: posts small blind $3
+robirobin: posts big blind $6
+Flying Smile: sits out 
+*** HOLE CARDS ***
+elvn89: folds 
+king10clubs: folds 
+whollyflush: raises $6 to $12
+Scarface.VLT: folds 
+robirobin: calls $6
+*** FLOP *** [Ad 4c Qh]
+robirobin: checks 
+whollyflush: bets $17.27
+robirobin: folds 
+Uncalled bet ($17.27) returned to whollyflush
+whollyflush collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Ad 4c Qh]
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: whollyflush (button) collected ($25.78)
+Seat 3: Scarface.VLT (small blind) folded before Flop
+Seat 4: robirobin (big blind) folded on the Flop
+Seat 6: elvn89 folded before Flop (didn't bet)
+
+
+PokerStars Game #102625053217:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:03:05 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #3 is the button
+Seat 1: king10clubs ($609 in chips) 
+Seat 2: whollyflush ($613.78 in chips) 
+Seat 3: Scarface.VLT ($600 in chips) 
+Seat 4: robirobin ($288 in chips) 
+Seat 5: Flying Smile ($600 in chips) 
+Seat 6: elvn89 ($240 in chips) 
+robirobin: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+king10clubs: folds 
+whollyflush: raises $6 to $12
+Scarface.VLT: folds 
+robirobin: calls $9
+Flying Smile: folds 
+*** FLOP *** [2h 3h Kh]
+robirobin: bets $18
+whollyflush: calls $18
+*** TURN *** [2h 3h Kh] [4d]
+robirobin: bets $24
+whollyflush: calls $24
+*** RIVER *** [2h 3h Kh 4d] [Jc]
+robirobin: bets $42
+whollyflush: calls $42
+*** SHOW DOWN ***
+robirobin: shows [Ts 9h] (high card King)
+whollyflush: shows [6c 6s] (a pair of Sixes)
+whollyflush collected $195.20 from pot
+*** SUMMARY ***
+Total pot $198 | Rake $2.80 
+Board [2h 3h Kh 4d Jc]
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: whollyflush showed [6c 6s] and won ($195.20) with a pair of Sixes
+Seat 3: Scarface.VLT (button) folded before Flop (didn't bet)
+Seat 4: robirobin (small blind) showed [Ts 9h] and lost with high card King
+Seat 5: Flying Smile (big blind) folded before Flop
+Seat 6: elvn89 folded before Flop (didn't bet)
+
+
+PokerStars Game #102625122009:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:04:27 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #4 is the button
+Seat 1: king10clubs ($609 in chips) 
+Seat 2: whollyflush ($712.98 in chips) 
+Seat 3: Scarface.VLT ($600 in chips) 
+Seat 4: robirobin ($192 in chips) 
+Seat 5: Flying Smile ($600 in chips) 
+Seat 6: elvn89 ($240 in chips) 
+Flying Smile: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+whollyflush: folds 
+Scarface.VLT: folds 
+robirobin: folds 
+Flying Smile: calls $3
+elvn89: checks 
+*** FLOP *** [2s Ac 3c]
+Flying Smile: bets $9
+elvn89: folds 
+Uncalled bet ($9) returned to Flying Smile
+Flying Smile collected $11.46 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.54 
+Board [2s Ac 3c]
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: whollyflush folded before Flop (didn't bet)
+Seat 3: Scarface.VLT folded before Flop (didn't bet)
+Seat 4: robirobin (button) folded before Flop (didn't bet)
+Seat 5: Flying Smile (small blind) collected ($11.46)
+Seat 6: elvn89 (big blind) folded on the Flop
+
+
+PokerStars Game #102625905461:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:20:13 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #5 is the button
+Seat 1: king10clubs ($803.98 in chips) 
+Seat 2: whollyflush ($815.18 in chips) 
+Seat 3: Scarface.VLT ($600 in chips) 
+Seat 5: Flying Smile ($673.31 in chips) 
+Seat 6: elvn89 ($218.08 in chips) 
+elvn89: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: folds 
+Scarface.VLT: folds 
+Flying Smile: raises $6 to $12
+elvn89: raises $6 to $18
+king10clubs: folds 
+Flying Smile: calls $6
+*** FLOP *** [9h Jd Td]
+elvn89: checks 
+Flying Smile: checks 
+*** TURN *** [9h Jd Td] [3d]
+LuckyBiitch joins the table at seat #4 
+LuckyBiitch leaves the table
+elvn89: bets $16.44
+Flying Smile: folds 
+Uncalled bet ($16.44) returned to elvn89
+elvn89 collected $40.11 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $1.89 
+Board [9h Jd Td 3d]
+Seat 1: king10clubs (big blind) folded before Flop
+Seat 2: whollyflush folded before Flop (didn't bet)
+Seat 3: Scarface.VLT folded before Flop (didn't bet)
+Seat 5: Flying Smile (button) folded on the Turn
+Seat 6: elvn89 (small blind) collected ($40.11)
+
+
+PokerStars Game #102625959879:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:21:20 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #6 is the button
+Seat 1: king10clubs ($797.98 in chips) 
+Seat 2: whollyflush ($815.18 in chips) 
+Seat 3: Scarface.VLT ($600 in chips) 
+Seat 5: Flying Smile ($655.31 in chips) 
+Seat 6: elvn89 ($240.19 in chips) 
+king10clubs: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: folds 
+Scarface.VLT leaves the table
+Flying Smile: folds 
+elvn89: folds 
+king10clubs: folds 
+Uncalled bet ($3) returned to whollyflush
+whollyflush collected $6 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: king10clubs (small blind) folded before Flop
+Seat 2: whollyflush (big blind) collected ($6)
+Seat 3: Scarface.VLT folded before Flop (didn't bet)
+Seat 5: Flying Smile folded before Flop (didn't bet)
+Seat 6: elvn89 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102625977748:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:21:42 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #2 is the button
+Seat 1: king10clubs ($794.98 in chips) 
+Seat 2: whollyflush ($818.18 in chips) 
+whollyflush: posts small blind $3
+Flying Smile: is sitting out 
+elvn89: is sitting out 
+elvn89 leaves the table
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri joins the table at seat #3 
+Flying Smile leaves the table
+Ner4zzurri leaves the table
+whollyflush: raises $6 to $12
+dRobespierre joins the table at seat #3 
+king10clubs: calls $6
+*** FLOP *** [5d 3d 4c]
+king10clubs: checks 
+dRobespierre leaves the table
+mandelbr joins the table at seat #3 
+whollyflush: checks 
+*** TURN *** [5d 3d 4c] [Ks]
+king10clubs: checks 
+mandelbr leaves the table
+WhatA298 joins the table at seat #5 
+WhatA298 leaves the table
+whollyflush: checks 
+*** RIVER *** [5d 3d 4c Ks] [5c]
+king10clubs: checks 
+WhatA298 joins the table at seat #5 
+whollyflush: bets $15.74
+king10clubs: calls $15.74
+*** SHOW DOWN ***
+whollyflush: shows [Ad 3h] (two pair, Fives and Threes)
+king10clubs: shows [3s As] (two pair, Fives and Threes)
+king10clubs collected $27.49 from pot
+whollyflush collected $27.49 from pot
+*** SUMMARY ***
+Total pot $55.48 | Rake $0.50 
+Board [5d 3d 4c Ks 5c]
+Seat 1: king10clubs (big blind) showed [3s As] and won ($27.49) with two pair, Fives and Threes
+Seat 2: whollyflush (button) (small blind) showed [Ad 3h] and won ($27.49) with two pair, Fives and Threes
+
+
+PokerStars Game #102625684318:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:15:43 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #6 is the button
+Seat 1: king10clubs ($628.12 in chips) 
+Seat 2: whollyflush ($836.18 in chips) 
+Seat 3: Scarface.VLT ($600 in chips) 
+Seat 4: robirobin ($128.55 in chips) 
+Seat 5: Flying Smile ($676.31 in chips) 
+Seat 6: elvn89 ($199.98 in chips) 
+king10clubs: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: folds 
+robirobin: calls $6
+Flying Smile: folds 
+elvn89: folds 
+king10clubs: calls $3
+whollyflush: raises $12 to $18
+robirobin: calls $12
+king10clubs: folds 
+*** FLOP *** [6d 8c 4d]
+whollyflush: checks 
+robirobin: bets $18
+whollyflush: folds 
+Uncalled bet ($18) returned to robirobin
+robirobin collected $40.11 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $1.89 
+Board [6d 8c 4d]
+Seat 1: king10clubs (small blind) folded before Flop
+Seat 2: whollyflush (big blind) folded on the Flop
+Seat 3: Scarface.VLT folded before Flop (didn't bet)
+Seat 4: robirobin collected ($40.11)
+Seat 5: Flying Smile folded before Flop (didn't bet)
+Seat 6: elvn89 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102625734140:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:16:43 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #1 is the button
+Seat 1: king10clubs ($622.12 in chips) 
+Seat 2: whollyflush ($818.18 in chips) 
+Seat 3: Scarface.VLT ($600 in chips) 
+Seat 4: robirobin ($150.66 in chips) 
+Seat 5: Flying Smile ($676.31 in chips) 
+Seat 6: elvn89 ($199.98 in chips) 
+whollyflush: posts small blind $3
+Scarface.VLT: posts big blind $6
+*** HOLE CARDS ***
+robirobin: calls $6
+Flying Smile has timed out
+Flying Smile: folds 
+elvn89: raises $12 to $18
+king10clubs: folds 
+whollyflush: folds 
+Scarface.VLT: raises $512 to $530
+robirobin: folds 
+elvn89: calls $181.98 and is all-in
+Uncalled bet ($330.02) returned to Scarface.VLT
+*** FIRST FLOP *** [7h Th Ks]
+*** FIRST TURN *** [7h Th Ks] [Qd]
+*** FIRST RIVER *** [7h Th Ks Qd] [4c]
+*** SECOND FLOP *** [5h Kd 8d]
+*** SECOND TURN *** [5h Kd 8d] [7s]
+*** SECOND RIVER *** [5h Kd 8d 7s] [3d]
+*** FIRST SHOW DOWN ***
+Scarface.VLT: shows [Td Ts] (three of a kind, Tens)
+elvn89: shows [Jc Js] (a pair of Jacks)
+Scarface.VLT collected $203.08 from pot
+*** SECOND SHOW DOWN ***
+Scarface.VLT: shows [Td Ts] (a pair of Tens)
+elvn89: shows [Jc Js] (a pair of Jacks)
+elvn89 collected $203.08 from pot
+*** SUMMARY ***
+Total pot $408.96 | Rake $2.80 
+Hand was run twice
+FIRST Board [7h Th Ks Qd 4c]
+SECOND Board [5h Kd 8d 7s 3d]
+Seat 1: king10clubs (button) folded before Flop (didn't bet)
+Seat 2: whollyflush (small blind) folded before Flop
+Seat 3: Scarface.VLT (big blind) showed [Td Ts] and won ($203.08) with three of a kind, Tens, and lost with a pair of Tens
+Seat 4: robirobin folded before Flop
+Seat 5: Flying Smile folded before Flop (didn't bet)
+Seat 6: elvn89 showed [Jc Js] and lost with a pair of Jacks, and won ($203.08) with a pair of Jacks
+
+
+PokerStars Game #102625788381:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:17:49 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #2 is the button
+Seat 1: king10clubs ($622.12 in chips) 
+Seat 2: whollyflush ($815.18 in chips) 
+Seat 3: Scarface.VLT ($603.10 in chips) 
+Seat 4: robirobin ($144.66 in chips) 
+Seat 5: Flying Smile ($676.31 in chips) 
+Seat 6: elvn89 ($203.08 in chips) 
+Scarface.VLT: posts small blind $3
+robirobin: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+elvn89: folds 
+king10clubs: raises $9 to $15
+whollyflush: folds 
+Scarface.VLT: calls $12
+robirobin: calls $9
+*** FLOP *** [Ah As 2h]
+Scarface.VLT: checks 
+robirobin: checks 
+king10clubs: bets $25
+Scarface.VLT: calls $25
+robirobin: calls $25
+*** TURN *** [Ah As 2h] [Kd]
+Scarface.VLT: checks 
+robirobin: checks 
+king10clubs: bets $72
+Scarface.VLT: folds 
+robirobin: calls $72
+*** RIVER *** [Ah As 2h Kd] [6c]
+robirobin: checks 
+king10clubs: bets $66
+robirobin: calls $32.66 and is all-in
+Uncalled bet ($33.34) returned to king10clubs
+*** SHOW DOWN ***
+king10clubs: shows [Qd Ad] (three of a kind, Aces)
+robirobin: shows [6h 8h] (two pair, Aces and Sixes)
+king10clubs collected $326.52 from pot
+*** SUMMARY ***
+Total pot $329.32 | Rake $2.80 
+Board [Ah As 2h Kd 6c]
+Seat 1: king10clubs showed [Qd Ad] and won ($326.52) with three of a kind, Aces
+Seat 2: whollyflush (button) folded before Flop (didn't bet)
+Seat 3: Scarface.VLT (small blind) folded on the Turn
+Seat 4: robirobin (big blind) showed [6h 8h] and lost with two pair, Aces and Sixes
+Seat 5: Flying Smile folded before Flop (didn't bet)
+Seat 6: elvn89 folded before Flop (didn't bet)
+
+
+PokerStars Game #102625879962:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:19:41 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #3 is the button
+Seat 1: king10clubs ($803.98 in chips) 
+Seat 2: whollyflush ($815.18 in chips) 
+Seat 3: Scarface.VLT ($600 in chips) 
+Seat 5: Flying Smile ($676.31 in chips) 
+Seat 6: elvn89 ($203.08 in chips) 
+Flying Smile: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+whollyflush: folds 
+Scarface.VLT: raises $6 to $12
+robirobin leaves the table
+Flying Smile: folds 
+elvn89: raises $24.24 to $36.24
+Scarface.VLT: folds 
+Uncalled bet ($24.24) returned to elvn89
+elvn89 collected $27 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: whollyflush folded before Flop (didn't bet)
+Seat 3: Scarface.VLT (button) folded before Flop
+Seat 5: Flying Smile (small blind) folded before Flop
+Seat 6: elvn89 (big blind) collected ($27)
+
+
+PokerStars Game #102625445642:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:10:53 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #5 is the button
+Seat 1: king10clubs ($600 in chips) 
+Seat 2: whollyflush ($845.18 in chips) 
+Seat 3: Scarface.VLT ($604.60 in chips) 
+Seat 4: robirobin ($116.84 in chips) 
+Seat 5: Flying Smile ($622.11 in chips) 
+Seat 6: elvn89 ($225 in chips) 
+elvn89: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: folds 
+Scarface.VLT: raises $12 to $18
+robirobin: raises $98.84 to $116.84 and is all-in
+Flying Smile: folds 
+elvn89: folds 
+king10clubs: calls $110.84
+Scarface.VLT: folds 
+*** FIRST FLOP *** [Qs 6d 4h]
+*** FIRST TURN *** [Qs 6d 4h] [Js]
+*** FIRST RIVER *** [Qs 6d 4h Js] [Ad]
+*** SECOND FLOP *** [Ac Kh 5h]
+*** SECOND TURN *** [Ac Kh 5h] [Ts]
+*** SECOND RIVER *** [Ac Kh 5h Ts] [3h]
+*** FIRST SHOW DOWN ***
+king10clubs: shows [Qc Qd] (three of a kind, Queens)
+robirobin: shows [Kc 8h] (high card Ace)
+king10clubs collected $125.94 from pot
+*** SECOND SHOW DOWN ***
+king10clubs: shows [Qc Qd] (a pair of Queens)
+robirobin: shows [Kc 8h] (a pair of Kings)
+robirobin collected $125.94 from pot
+*** SUMMARY ***
+Total pot $254.68 | Rake $2.80 
+Hand was run twice
+FIRST Board [Qs 6d 4h Js Ad]
+SECOND Board [Ac Kh 5h Ts 3h]
+Seat 1: king10clubs (big blind) showed [Qc Qd] and won ($125.94) with three of a kind, Queens, and lost with a pair of Queens
+Seat 2: whollyflush folded before Flop (didn't bet)
+Seat 3: Scarface.VLT folded before Flop
+Seat 4: robirobin showed [Kc 8h] and lost with high card Ace, and won ($125.94) with a pair of Kings
+Seat 5: Flying Smile (button) folded before Flop (didn't bet)
+Seat 6: elvn89 (small blind) folded before Flop
+
+
+PokerStars Game #102625483415:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:11:38 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #6 is the button
+Seat 1: king10clubs ($609.10 in chips) 
+Seat 2: whollyflush ($845.18 in chips) 
+Seat 3: Scarface.VLT ($600 in chips) 
+Seat 4: robirobin ($125.94 in chips) 
+Seat 5: Flying Smile ($622.11 in chips) 
+Seat 6: elvn89 ($222 in chips) 
+king10clubs: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: folds 
+robirobin: calls $6
+Flying Smile: folds 
+elvn89: raises $7.02 to $13.02
+king10clubs: raises $31.98 to $45
+whollyflush: folds 
+robirobin: folds 
+elvn89: folds 
+Uncalled bet ($31.98) returned to king10clubs
+king10clubs collected $38.04 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $38.04 | Rake $0 
+Seat 1: king10clubs (small blind) collected ($38.04)
+Seat 2: whollyflush (big blind) folded before Flop
+Seat 3: Scarface.VLT folded before Flop (didn't bet)
+Seat 4: robirobin folded before Flop
+Seat 5: Flying Smile folded before Flop (didn't bet)
+Seat 6: elvn89 (button) folded before Flop
+
+
+PokerStars Game #102625514827:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:12:17 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #1 is the button
+Seat 1: king10clubs ($634.12 in chips) 
+Seat 2: whollyflush ($839.18 in chips) 
+Seat 3: Scarface.VLT ($600 in chips) 
+Seat 4: robirobin ($119.94 in chips) 
+Seat 5: Flying Smile ($622.11 in chips) 
+Seat 6: elvn89 ($208.98 in chips) 
+whollyflush: posts small blind $3
+Scarface.VLT: posts big blind $6
+*** HOLE CARDS ***
+robirobin: raises $6 to $12
+Flying Smile: folds 
+elvn89: folds 
+king10clubs: folds 
+whollyflush: folds 
+Scarface.VLT: calls $6
+*** FLOP *** [Jd 7d 2d]
+Scarface.VLT: checks 
+robirobin: bets $18
+Scarface.VLT: folds 
+Uncalled bet ($18) returned to robirobin
+robirobin collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Jd 7d 2d]
+Seat 1: king10clubs (button) folded before Flop (didn't bet)
+Seat 2: whollyflush (small blind) folded before Flop
+Seat 3: Scarface.VLT (big blind) folded on the Flop
+Seat 4: robirobin collected ($25.78)
+Seat 5: Flying Smile folded before Flop (didn't bet)
+Seat 6: elvn89 folded before Flop (didn't bet)
+
+
+PokerStars Game #102625539021:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:12:46 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #2 is the button
+Seat 1: king10clubs ($634.12 in chips) 
+Seat 2: whollyflush ($836.18 in chips) 
+Seat 3: Scarface.VLT ($600 in chips) 
+Seat 4: robirobin ($133.72 in chips) 
+Seat 5: Flying Smile ($622.11 in chips) 
+Seat 6: elvn89 ($208.98 in chips) 
+Scarface.VLT: posts small blind $3
+robirobin: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+elvn89: folds 
+king10clubs: folds 
+whollyflush: folds 
+Scarface.VLT: calls $3
+robirobin: checks 
+*** FLOP *** [3c Ah Qh]
+Scarface.VLT: bets $12
+robirobin: folds 
+Uncalled bet ($12) returned to Scarface.VLT
+Scarface.VLT collected $11.46 from pot
+Scarface.VLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0.54 
+Board [3c Ah Qh]
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: whollyflush (button) folded before Flop (didn't bet)
+Seat 3: Scarface.VLT (small blind) collected ($11.46)
+Seat 4: robirobin (big blind) folded on the Flop
+Seat 5: Flying Smile folded before Flop (didn't bet)
+Seat 6: elvn89 folded before Flop (didn't bet)
+
+
+PokerStars Game #102625566981:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:13:20 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #3 is the button
+Seat 1: king10clubs ($634.12 in chips) 
+Seat 2: whollyflush ($836.18 in chips) 
+Seat 3: Scarface.VLT ($605.46 in chips) 
+Seat 4: robirobin ($127.72 in chips) 
+Seat 5: Flying Smile ($622.11 in chips) 
+Seat 6: elvn89 ($208.98 in chips) 
+robirobin: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+king10clubs: folds 
+whollyflush: folds 
+Scarface.VLT: raises $6 to $12
+robirobin: calls $9
+Flying Smile: calls $6
+*** FLOP *** [8s 5c Qc]
+robirobin: bets $12
+Flying Smile: calls $12
+Scarface.VLT: folds 
+*** TURN *** [8s 5c Qc] [9s]
+robirobin: bets $24
+Flying Smile: raises $105 to $129
+robirobin: folds 
+Uncalled bet ($105) returned to Flying Smile
+Flying Smile collected $105.20 from pot
+*** SUMMARY ***
+Total pot $108 | Rake $2.80 
+Board [8s 5c Qc 9s]
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: whollyflush folded before Flop (didn't bet)
+Seat 3: Scarface.VLT (button) folded on the Flop
+Seat 4: robirobin (small blind) folded on the Turn
+Seat 5: Flying Smile (big blind) collected ($105.20)
+Seat 6: elvn89 folded before Flop (didn't bet)
+
+
+PokerStars Game #102625602629:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:14:04 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #4 is the button
+Seat 1: king10clubs ($634.12 in chips) 
+Seat 2: whollyflush ($836.18 in chips) 
+Seat 3: Scarface.VLT ($600 in chips) 
+Seat 4: robirobin ($79.72 in chips) 
+Seat 5: Flying Smile ($679.31 in chips) 
+Seat 6: elvn89 ($208.98 in chips) 
+Flying Smile: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+whollyflush: folds 
+Scarface.VLT: folds 
+robirobin: raises $73.72 to $79.72 and is all-in
+Flying Smile: folds 
+elvn89: folds 
+Uncalled bet ($73.72) returned to robirobin
+robirobin collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: king10clubs folded before Flop (didn't bet)
+Seat 2: whollyflush folded before Flop (didn't bet)
+Seat 3: Scarface.VLT folded before Flop (didn't bet)
+Seat 4: robirobin (button) collected ($15)
+Seat 5: Flying Smile (small blind) folded before Flop
+Seat 6: elvn89 (big blind) folded before Flop
+
+
+PokerStars Game #102625628846:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:14:36 ET
+Table 'Coubertin 40-100 bb' 6-max Seat #5 is the button
+Seat 1: king10clubs ($634.12 in chips) 
+Seat 2: whollyflush ($836.18 in chips) 
+Seat 3: Scarface.VLT ($600 in chips) 
+Seat 4: robirobin ($88.72 in chips) 
+Seat 5: Flying Smile ($676.31 in chips) 
+Seat 6: elvn89 ($202.98 in chips) 
+elvn89: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: folds 
+Scarface.VLT: raises $12 to $18
+robirobin: calls $18
+Flying Smile: folds 
+elvn89: folds 
+king10clubs: folds 
+*** FLOP *** [8c Ad 5s]
+Scarface.VLT: bets $15.63
+robirobin: raises $55.09 to $70.72 and is all-in
+Scarface.VLT: folds 
+Uncalled bet ($55.09) returned to robirobin
+robirobin collected $73.46 from pot
+*** SUMMARY ***
+Total pot $76.26 | Rake $2.80 
+Board [8c Ad 5s]
+Seat 1: king10clubs (big blind) folded before Flop
+Seat 2: whollyflush folded before Flop (didn't bet)
+Seat 3: Scarface.VLT folded on the Flop
+Seat 4: robirobin collected ($73.46)
+Seat 5: Flying Smile (button) folded before Flop (didn't bet)
+Seat 6: elvn89 (small blind) folded before Flop

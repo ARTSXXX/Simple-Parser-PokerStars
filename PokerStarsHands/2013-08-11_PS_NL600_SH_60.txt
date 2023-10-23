@@ -1,0 +1,30 @@
+
+
+PokerStars Game #102611634704:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:28:58 ET
+Table 'Berenike V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: leo 32824 ($480 in chips) 
+Seat 4: kriket28 ($600 in chips) 
+leo 32824: posts small blind $3
+kriket28: posts big blind $6
+*** HOLE CARDS ***
+leo 32824: raises $12 to $18
+kriket28: raises $39 to $57
+leo 32824: calls $39
+*** FLOP *** [8c Jh 3s]
+kriket28: bets $63
+leo 32824: calls $63
+*** TURN *** [8c Jh 3s] [Js]
+kriket28: checks 
+leo 32824: checks 
+*** RIVER *** [8c Jh 3s Js] [Qc]
+kriket28: checks 
+leo 32824: checks 
+*** SHOW DOWN ***
+kriket28: shows [2h 2d] (two pair, Jacks and Deuces)
+leo 32824: shows [6h 6s] (two pair, Jacks and Sixes)
+leo 32824 collected $239.50 from pot
+*** SUMMARY ***
+Total pot $240 | Rake $0.50 
+Board [8c Jh 3s Js Qc]
+Seat 2: leo 32824 (button) (small blind) showed [6h 6s] and won ($239.50) with two pair, Jacks and Sixes
+Seat 4: kriket28 (big blind) showed [2h 2d] and lost with two pair, Jacks and Deuces

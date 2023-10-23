@@ -1,0 +1,1489 @@
+
+
+PokerStars Game #102586709702:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:05:01 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #6 is the button
+Seat 1: LuckyBiitch ($756.08 in chips) 
+Seat 2: king10clubs ($842.17 in chips) 
+Seat 3: hellby 00 ($88.52 in chips) 
+Seat 4: rusdronenv ($609 in chips) 
+Seat 6: madsquared ($962.09 in chips) 
+LuckyBiitch: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+Alpha 5.20 joins the table at seat #5 
+hellby 00: folds 
+rusdronenv: raises $12 to $18
+madsquared: folds 
+LuckyBiitch: folds 
+king10clubs: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $15 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyBiitch (small blind) folded before Flop
+Seat 2: king10clubs (big blind) folded before Flop
+Seat 3: hellby 00 folded before Flop (didn't bet)
+Seat 4: rusdronenv collected ($15)
+Seat 6: madsquared (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102586723551:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:05:28 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #1 is the button
+Seat 1: LuckyBiitch ($753.08 in chips) 
+Seat 2: king10clubs ($836.17 in chips) 
+Seat 3: hellby 00 ($88.52 in chips) 
+Seat 4: rusdronenv ($618 in chips) 
+Seat 6: madsquared ($962.09 in chips) 
+king10clubs: posts small blind $3
+hellby 00: posts big blind $6
+Alpha 5.20: sits out 
+*** HOLE CARDS ***
+rusdronenv: folds 
+madsquared: folds 
+LuckyBiitch: folds 
+king10clubs: raises $9 to $15
+hellby 00: folds 
+Uncalled bet ($9) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: LuckyBiitch (button) folded before Flop (didn't bet)
+Seat 2: king10clubs (small blind) collected ($12)
+Seat 3: hellby 00 (big blind) folded before Flop
+Seat 4: rusdronenv folded before Flop (didn't bet)
+Seat 6: madsquared folded before Flop (didn't bet)
+
+
+PokerStars Game #102586740405:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:06:00 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #2 is the button
+Seat 1: LuckyBiitch ($753.08 in chips) 
+Seat 2: king10clubs ($842.17 in chips) 
+Seat 3: hellby 00 ($82.52 in chips) 
+Seat 4: rusdronenv ($618 in chips) 
+Seat 6: madsquared ($962.09 in chips) 
+hellby 00: posts small blind $3
+rusdronenv: posts big blind $6
+Alpha 5.20: sits out 
+*** HOLE CARDS ***
+madsquared: folds 
+LuckyBiitch: raises $12 to $18
+king10clubs: folds 
+hellby 00: folds 
+rusdronenv: folds 
+Uncalled bet ($12) returned to LuckyBiitch
+LuckyBiitch collected $15 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyBiitch collected ($15)
+Seat 2: king10clubs (button) folded before Flop (didn't bet)
+Seat 3: hellby 00 (small blind) folded before Flop
+Seat 4: rusdronenv (big blind) folded before Flop
+Seat 6: madsquared folded before Flop (didn't bet)
+
+
+PokerStars Game #102586750842:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:06:20 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #3 is the button
+Seat 1: LuckyBiitch ($762.08 in chips) 
+Seat 2: king10clubs ($842.17 in chips) 
+Seat 3: hellby 00 ($79.52 in chips) 
+Seat 4: rusdronenv ($612 in chips) 
+Seat 5: Alpha 5.20 ($600 in chips) 
+Seat 6: madsquared ($962.09 in chips) 
+rusdronenv: posts small blind $3
+Alpha 5.20: posts big blind $6
+*** HOLE CARDS ***
+madsquared: folds 
+LuckyBiitch: folds 
+king10clubs: raises $9 to $15
+hellby 00: folds 
+rusdronenv: folds 
+Alpha 5.20: raises $39 to $54
+king10clubs: folds 
+Uncalled bet ($39) returned to Alpha 5.20
+Alpha 5.20 collected $33 from pot
+Alpha 5.20: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $0 
+Seat 1: LuckyBiitch folded before Flop (didn't bet)
+Seat 2: king10clubs folded before Flop
+Seat 3: hellby 00 (button) folded before Flop (didn't bet)
+Seat 4: rusdronenv (small blind) folded before Flop
+Seat 5: Alpha 5.20 (big blind) collected ($33)
+Seat 6: madsquared folded before Flop (didn't bet)
+
+
+PokerStars Game #102586776364:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:07:09 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #4 is the button
+Seat 1: LuckyBiitch ($762.08 in chips) 
+Seat 2: king10clubs ($827.17 in chips) 
+Seat 3: hellby 00 ($79.52 in chips) 
+Seat 4: rusdronenv ($609 in chips) 
+Seat 5: Alpha 5.20 ($618 in chips) 
+Seat 6: madsquared ($962.09 in chips) 
+Alpha 5.20: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: raises $12 to $18
+king10clubs: folds 
+hellby 00: folds 
+rusdronenv: folds 
+Alpha 5.20: folds 
+madsquared: folds 
+Uncalled bet ($12) returned to LuckyBiitch
+LuckyBiitch collected $15 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyBiitch collected ($15)
+Seat 2: king10clubs folded before Flop (didn't bet)
+Seat 3: hellby 00 folded before Flop (didn't bet)
+Seat 4: rusdronenv (button) folded before Flop (didn't bet)
+Seat 5: Alpha 5.20 (small blind) folded before Flop
+Seat 6: madsquared (big blind) folded before Flop
+
+
+PokerStars Game #102586786947:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:07:29 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #5 is the button
+Seat 1: LuckyBiitch ($771.08 in chips) 
+Seat 2: king10clubs ($827.17 in chips) 
+Seat 3: hellby 00 ($79.52 in chips) 
+Seat 4: rusdronenv ($609 in chips) 
+Seat 5: Alpha 5.20 ($615 in chips) 
+Seat 6: madsquared ($956.09 in chips) 
+madsquared: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+hellby 00: calls $6
+rusdronenv: folds 
+Alpha 5.20: raises $12 to $18
+madsquared: folds 
+LuckyBiitch: folds 
+hellby 00: calls $12
+*** FLOP *** [5c 6s Kd]
+hellby 00: checks 
+Alpha 5.20: bets $18
+hellby 00: folds 
+Uncalled bet ($18) returned to Alpha 5.20
+Alpha 5.20 collected $42.98 from pot
+Alpha 5.20: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $2.02 
+Board [5c 6s Kd]
+Seat 1: LuckyBiitch (big blind) folded before Flop
+Seat 2: king10clubs folded before Flop (didn't bet)
+Seat 3: hellby 00 folded on the Flop
+Seat 4: rusdronenv folded before Flop (didn't bet)
+Seat 5: Alpha 5.20 (button) collected ($42.98)
+Seat 6: madsquared (small blind) folded before Flop
+
+
+PokerStars Game #102586821525:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:08:37 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #6 is the button
+Seat 1: LuckyBiitch ($765.08 in chips) 
+Seat 2: king10clubs ($827.17 in chips) 
+Seat 3: hellby 00 ($61.52 in chips) 
+Seat 4: rusdronenv ($609 in chips) 
+Seat 5: Alpha 5.20 ($639.98 in chips) 
+Seat 6: madsquared ($953.09 in chips) 
+LuckyBiitch: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+hellby 00: folds 
+rusdronenv: folds 
+Alpha 5.20: raises $12 to $18
+madsquared: folds 
+LuckyBiitch: folds 
+king10clubs: raises $42 to $60
+Alpha 5.20: folds 
+Uncalled bet ($42) returned to king10clubs
+king10clubs collected $39 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $0 
+Seat 1: LuckyBiitch (small blind) folded before Flop
+Seat 2: king10clubs (big blind) collected ($39)
+Seat 3: hellby 00 folded before Flop (didn't bet)
+Seat 4: rusdronenv folded before Flop (didn't bet)
+Seat 5: Alpha 5.20 folded before Flop
+Seat 6: madsquared (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102586842364:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:09:17 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #1 is the button
+Seat 1: LuckyBiitch ($762.08 in chips) 
+Seat 2: king10clubs ($848.17 in chips) 
+Seat 3: hellby 00 ($61.52 in chips) 
+Seat 4: rusdronenv ($609 in chips) 
+Seat 5: Alpha 5.20 ($621.98 in chips) 
+Seat 6: madsquared ($953.09 in chips) 
+king10clubs: posts small blind $3
+hellby 00: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+Alpha 5.20: raises $12 to $18
+madsquared: folds 
+LuckyBiitch: calls $18
+king10clubs: folds 
+hellby 00: folds 
+*** FLOP *** [5d Js 2h]
+Alpha 5.20: bets $30
+LuckyBiitch: calls $30
+*** TURN *** [5d Js 2h] [9d]
+Alpha 5.20: checks 
+LuckyBiitch: bets $70
+Alpha 5.20: folds 
+Uncalled bet ($70) returned to LuckyBiitch
+LuckyBiitch collected $102.20 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $105 | Rake $2.80 
+Board [5d Js 2h 9d]
+Seat 1: LuckyBiitch (button) collected ($102.20)
+Seat 2: king10clubs (small blind) folded before Flop
+Seat 3: hellby 00 (big blind) folded before Flop
+Seat 4: rusdronenv folded before Flop (didn't bet)
+Seat 5: Alpha 5.20 folded on the Turn
+Seat 6: madsquared folded before Flop (didn't bet)
+
+
+PokerStars Game #102586560182:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:00:09 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #3 is the button
+Seat 1: LuckyBiitch ($759.08 in chips) 
+Seat 2: king10clubs ($831.39 in chips) 
+Seat 3: hellby 00 ($115.52 in chips) 
+Seat 4: rocks50 ($860.41 in chips) 
+Seat 5: Hurloon ($609 in chips) 
+Seat 6: visjeatwater ($607.95 in chips) 
+rocks50: posts small blind $3
+Hurloon: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: raises $12 to $18
+LuckyBiitch: folds 
+king10clubs: folds 
+hellby 00: folds 
+rocks50: folds 
+Hurloon: folds 
+Uncalled bet ($12) returned to visjeatwater
+visjeatwater collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyBiitch folded before Flop (didn't bet)
+Seat 2: king10clubs folded before Flop (didn't bet)
+Seat 3: hellby 00 (button) folded before Flop (didn't bet)
+Seat 4: rocks50 (small blind) folded before Flop
+Seat 5: Hurloon (big blind) folded before Flop
+Seat 6: visjeatwater collected ($15)
+
+
+PokerStars Game #102586578353:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:00:49 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #4 is the button
+Seat 1: LuckyBiitch ($759.08 in chips) 
+Seat 2: king10clubs ($831.39 in chips) 
+Seat 3: hellby 00 ($115.52 in chips) 
+Seat 4: rocks50 ($857.41 in chips) 
+Seat 5: Hurloon ($603 in chips) 
+Seat 6: visjeatwater ($616.95 in chips) 
+Hurloon: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+king10clubs: folds 
+hellby 00: folds 
+rocks50: folds 
+Hurloon: folds 
+Uncalled bet ($3) returned to visjeatwater
+visjeatwater collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: LuckyBiitch folded before Flop (didn't bet)
+Seat 2: king10clubs folded before Flop (didn't bet)
+Seat 3: hellby 00 folded before Flop (didn't bet)
+Seat 4: rocks50 (button) folded before Flop (didn't bet)
+Seat 5: Hurloon (small blind) folded before Flop
+Seat 6: visjeatwater (big blind) collected ($6)
+
+
+PokerStars Game #102586587126:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:01:07 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #5 is the button
+Seat 1: LuckyBiitch ($759.08 in chips) 
+Seat 2: king10clubs ($831.39 in chips) 
+Seat 3: hellby 00 ($115.52 in chips) 
+Seat 4: rocks50 ($857.41 in chips) 
+Seat 5: Hurloon ($600 in chips) 
+Seat 6: visjeatwater ($619.95 in chips) 
+visjeatwater: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+hellby 00: folds 
+rocks50: raises $12 to $18
+Hurloon: folds 
+visjeatwater: raises $42 to $60
+LuckyBiitch: folds 
+rocks50: raises $54 to $114
+visjeatwater: raises $505.95 to $619.95 and is all-in
+rocks50: calls $505.95
+*** FLOP *** [Jd 2s Qs]
+*** TURN *** [Jd 2s Qs] [6h]
+*** RIVER *** [Jd 2s Qs 6h] [Js]
+*** SHOW DOWN ***
+visjeatwater: shows [4s 4c] (two pair, Jacks and Fours)
+rocks50: shows [Ks As] (a flush, Ace high)
+rocks50 collected $1243.10 from pot
+*** SUMMARY ***
+Total pot $1245.90 | Rake $2.80 
+Board [Jd 2s Qs 6h Js]
+Seat 1: LuckyBiitch (big blind) folded before Flop
+Seat 2: king10clubs folded before Flop (didn't bet)
+Seat 3: hellby 00 folded before Flop (didn't bet)
+Seat 4: rocks50 showed [Ks As] and won ($1243.10) with a flush, Ace high
+Seat 5: Hurloon (button) folded before Flop (didn't bet)
+Seat 6: visjeatwater (small blind) showed [4s 4c] and lost with two pair, Jacks and Fours
+
+
+PokerStars Game #102586617724:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:02:07 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #1 is the button
+Seat 1: LuckyBiitch ($753.08 in chips) 
+Seat 2: king10clubs ($831.39 in chips) 
+Seat 3: hellby 00 ($115.52 in chips) 
+Seat 4: rocks50 ($1480.56 in chips) 
+Seat 5: Hurloon ($600 in chips) 
+king10clubs: posts small blind $3
+hellby 00: posts big blind $6
+*** HOLE CARDS ***
+rocks50: folds 
+visjeatwater leaves the table
+Hurloon: folds 
+rocks50 leaves the table
+LuckyBiitch: raises $6 to $12
+king10clubs: folds 
+hellby 00: folds 
+Uncalled bet ($6) returned to LuckyBiitch
+rusdronenv joins the table at seat #4 
+LuckyBiitch collected $15 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyBiitch (button) collected ($15)
+Seat 2: king10clubs (small blind) folded before Flop
+Seat 3: hellby 00 (big blind) folded before Flop
+Seat 4: rocks50 folded before Flop (didn't bet)
+Seat 5: Hurloon folded before Flop (didn't bet)
+
+
+PokerStars Game #102586629689:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:02:29 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #2 is the button
+Seat 1: LuckyBiitch ($762.08 in chips) 
+Seat 2: king10clubs ($828.39 in chips) 
+Seat 3: hellby 00 ($109.52 in chips) 
+Seat 4: rusdronenv ($600 in chips) 
+Seat 5: Hurloon ($600 in chips) 
+hellby 00: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+Hurloon: folds 
+LuckyBiitch: folds 
+king10clubs: raises $6 to $12
+hellby 00: folds 
+madsquared joins the table at seat #6 
+rusdronenv: calls $6
+*** FLOP *** [8h 9c Kc]
+rusdronenv: checks 
+king10clubs: checks 
+*** TURN *** [8h 9c Kc] [2d]
+rusdronenv: checks 
+king10clubs: checks 
+*** RIVER *** [8h 9c Kc 2d] [Ks]
+rusdronenv: checks 
+king10clubs: bets $18
+rusdronenv: folds 
+Uncalled bet ($18) returned to king10clubs
+king10clubs collected $25.78 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [8h 9c Kc 2d Ks]
+Seat 1: LuckyBiitch folded before Flop (didn't bet)
+Seat 2: king10clubs (button) collected ($25.78)
+Seat 3: hellby 00 (small blind) folded before Flop
+Seat 4: rusdronenv (big blind) folded on the River
+Seat 5: Hurloon folded before Flop (didn't bet)
+
+
+PokerStars Game #102586657847:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:03:23 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #3 is the button
+Seat 1: LuckyBiitch ($762.08 in chips) 
+Seat 2: king10clubs ($842.17 in chips) 
+Seat 3: hellby 00 ($106.52 in chips) 
+Seat 4: rusdronenv ($600 in chips) 
+Seat 6: madsquared ($945.85 in chips) 
+rusdronenv: posts small blind $3
+Hurloon: is sitting out 
+Hurloon leaves the table
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri joins the table at seat #5 
+LuckyBiitch: folds 
+king10clubs: folds 
+hellby 00: raises $6 to $12
+rusdronenv: folds 
+Ner4zzurri leaves the table
+madsquared: calls $6
+*** FLOP *** [Th Td 6h]
+madsquared: checks 
+hellby 00: bets $6
+madsquared: raises $18 to $24
+hellby 00: folds 
+Uncalled bet ($18) returned to madsquared
+madsquared collected $37.24 from pot
+madsquared: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [Th Td 6h]
+Seat 1: LuckyBiitch folded before Flop (didn't bet)
+Seat 2: king10clubs folded before Flop (didn't bet)
+Seat 3: hellby 00 (button) folded on the Flop
+Seat 4: rusdronenv (small blind) folded before Flop
+Seat 6: madsquared (big blind) collected ($37.24)
+
+
+PokerStars Game #102586694651:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:04:33 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #4 is the button
+Seat 1: LuckyBiitch ($762.08 in chips) 
+Seat 2: king10clubs ($842.17 in chips) 
+Seat 3: hellby 00 ($88.52 in chips) 
+Seat 4: rusdronenv ($600 in chips) 
+Seat 6: madsquared ($965.09 in chips) 
+madsquared: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+hellby 00: folds 
+rusdronenv: raises $12 to $18
+madsquared: folds 
+LuckyBiitch: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $15 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyBiitch (big blind) folded before Flop
+Seat 2: king10clubs folded before Flop (didn't bet)
+Seat 3: hellby 00 folded before Flop (didn't bet)
+Seat 4: rusdronenv (button) collected ($15)
+Seat 6: madsquared (small blind) folded before Flop
+
+
+PokerStars Game #102587161226:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:20:12 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #5 is the button
+Seat 1: LuckyBiitch ($780.28 in chips) 
+Seat 3: hellby 00 ($228.44 in chips) 
+Seat 4: rusdronenv ($600 in chips) 
+Seat 5: Alpha 5.20 ($600 in chips) 
+Seat 6: madsquared ($840.47 in chips) 
+madsquared: posts small blind $3
+LuckyBiitch: posts big blind $6
+Ner4zzurri: sits out 
+*** HOLE CARDS ***
+hellby 00: folds 
+rusdronenv: folds 
+Alpha 5.20: raises $6 to $12
+madsquared: folds 
+LuckyBiitch: calls $6
+*** FLOP *** [Ts Qc Th]
+LuckyBiitch: checks 
+Alpha 5.20: bets $18
+LuckyBiitch: calls $18
+*** TURN *** [Ts Qc Th] [Qh]
+LuckyBiitch: checks 
+Alpha 5.20: checks 
+*** RIVER *** [Ts Qc Th Qh] [2d]
+LuckyBiitch: checks 
+Alpha 5.20: checks 
+*** SHOW DOWN ***
+LuckyBiitch: shows [Kh Js] (two pair, Queens and Tens)
+Alpha 5.20: shows [As 3c] (two pair, Queens and Tens - Ace kicker)
+Alpha 5.20 collected $60.20 from pot
+*** SUMMARY ***
+Total pot $63 | Rake $2.80 
+Board [Ts Qc Th Qh 2d]
+Seat 1: LuckyBiitch (big blind) showed [Kh Js] and lost with two pair, Queens and Tens
+Seat 3: hellby 00 folded before Flop (didn't bet)
+Seat 4: rusdronenv folded before Flop (didn't bet)
+Seat 5: Alpha 5.20 (button) showed [As 3c] and won ($60.20) with two pair, Queens and Tens
+Seat 6: madsquared (small blind) folded before Flop
+
+
+PokerStars Game #102587188911:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:21:10 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #6 is the button
+Seat 1: LuckyBiitch ($750.28 in chips) 
+Seat 2: Ner4zzurri ($600 in chips) 
+Seat 3: hellby 00 ($228.44 in chips) 
+Seat 4: rusdronenv ($600 in chips) 
+Seat 5: Alpha 5.20 ($630.20 in chips) 
+Seat 6: madsquared ($837.47 in chips) 
+LuckyBiitch: posts small blind $3
+Ner4zzurri: posts big blind $6
+*** HOLE CARDS ***
+hellby 00: folds 
+rusdronenv: folds 
+Alpha 5.20: raises $12 to $18
+madsquared: folds 
+LuckyBiitch: folds 
+Ner4zzurri: folds 
+Uncalled bet ($12) returned to Alpha 5.20
+Alpha 5.20 collected $15 from pot
+Alpha 5.20: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyBiitch (small blind) folded before Flop
+Seat 2: Ner4zzurri (big blind) folded before Flop
+Seat 3: hellby 00 folded before Flop (didn't bet)
+Seat 4: rusdronenv folded before Flop (didn't bet)
+Seat 5: Alpha 5.20 collected ($15)
+Seat 6: madsquared (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102587207530:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:21:50 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #1 is the button
+Seat 1: LuckyBiitch ($747.28 in chips) 
+Seat 2: Ner4zzurri ($600 in chips) 
+Seat 3: hellby 00 ($228.44 in chips) 
+Seat 4: rusdronenv ($600 in chips) 
+Seat 5: Alpha 5.20 ($639.20 in chips) 
+Seat 6: madsquared ($837.47 in chips) 
+Ner4zzurri: posts small blind $3
+hellby 00: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv has timed out while being disconnected
+rusdronenv: folds 
+Alpha 5.20: folds 
+madsquared: folds 
+LuckyBiitch: raises $6 to $12
+Ner4zzurri: folds 
+hellby 00: folds 
+Uncalled bet ($6) returned to LuckyBiitch
+LuckyBiitch collected $15 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyBiitch (button) collected ($15)
+Seat 2: Ner4zzurri (small blind) folded before Flop
+Seat 3: hellby 00 (big blind) folded before Flop
+Seat 4: rusdronenv folded before Flop (didn't bet)
+Seat 5: Alpha 5.20 folded before Flop (didn't bet)
+Seat 6: madsquared folded before Flop (didn't bet)
+
+
+PokerStars Game #102587227864:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:22:33 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #2 is the button
+Seat 1: LuckyBiitch ($756.28 in chips) 
+Seat 2: Ner4zzurri ($600 in chips) 
+Seat 3: hellby 00 ($222.44 in chips) 
+Seat 5: Alpha 5.20 ($639.20 in chips) 
+Seat 6: madsquared ($837.47 in chips) 
+hellby 00: posts small blind $3
+Alpha 5.20: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv is disconnected 
+madsquared: folds 
+LuckyBiitch: folds 
+Ner4zzurri: folds 
+hellby 00: calls $3
+Alpha 5.20: raises $18 to $24
+hellby 00: folds 
+Uncalled bet ($18) returned to Alpha 5.20
+Alpha 5.20 collected $12 from pot
+Alpha 5.20: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: LuckyBiitch folded before Flop (didn't bet)
+Seat 2: Ner4zzurri (button) folded before Flop (didn't bet)
+Seat 3: hellby 00 (small blind) folded before Flop
+Seat 5: Alpha 5.20 (big blind) collected ($12)
+Seat 6: madsquared folded before Flop (didn't bet)
+
+
+PokerStars Game #102587250176:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:23:21 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #3 is the button
+Seat 1: LuckyBiitch ($756.28 in chips) 
+Seat 2: Ner4zzurri ($600 in chips) 
+Seat 3: hellby 00 ($216.44 in chips) 
+Seat 5: Alpha 5.20 ($645.20 in chips) 
+Seat 6: madsquared ($837.47 in chips) 
+rusdronenv will be allowed to play after the button
+Alpha 5.20: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+Ner4zzurri: folds 
+hellby 00: calls $6
+Alpha 5.20: raises $18 to $24
+madsquared: folds 
+hellby 00: calls $18
+*** FLOP *** [Qd 2s As]
+Alpha 5.20: bets $30
+hellby 00: calls $30
+*** TURN *** [Qd 2s As] [Td]
+Alpha 5.20: checks 
+hellby 00: bets $162.44 and is all-in
+Alpha 5.20: folds 
+Uncalled bet ($162.44) returned to hellby 00
+hellby 00 collected $111.20 from pot
+*** SUMMARY ***
+Total pot $114 | Rake $2.80 
+Board [Qd 2s As Td]
+Seat 1: LuckyBiitch folded before Flop (didn't bet)
+Seat 2: Ner4zzurri folded before Flop (didn't bet)
+Seat 3: hellby 00 (button) collected ($111.20)
+Seat 5: Alpha 5.20 (small blind) folded on the Turn
+Seat 6: madsquared (big blind) folded before Flop
+
+
+PokerStars Game #102587293379:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:24:54 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #5 is the button
+Seat 1: LuckyBiitch ($756.28 in chips) 
+Seat 2: Ner4zzurri ($600 in chips) 
+Seat 3: hellby 00 ($273.64 in chips) 
+Seat 5: Alpha 5.20 ($600 in chips) 
+Seat 6: madsquared ($831.47 in chips) 
+madsquared: posts small blind $3
+LuckyBiitch: posts big blind $6
+rusdronenv: sits out 
+*** HOLE CARDS ***
+Ner4zzurri: folds 
+hellby 00: calls $6
+Alpha 5.20: folds 
+madsquared: folds 
+LuckyBiitch: checks 
+*** FLOP *** [7s Tc Jd]
+LuckyBiitch: checks 
+hellby 00: bets $24
+LuckyBiitch: folds 
+Uncalled bet ($24) returned to hellby 00
+hellby 00 collected $14.32 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0.68 
+Board [7s Tc Jd]
+Seat 1: LuckyBiitch (big blind) folded on the Flop
+Seat 2: Ner4zzurri folded before Flop (didn't bet)
+Seat 3: hellby 00 collected ($14.32)
+Seat 5: Alpha 5.20 (button) folded before Flop (didn't bet)
+Seat 6: madsquared (small blind) folded before Flop
+
+
+PokerStars Game #102587042717:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:16:04 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #6 is the button
+Seat 1: LuckyBiitch ($774.28 in chips) 
+Seat 3: hellby 00 ($63.71 in chips) 
+Seat 4: rusdronenv ($642.20 in chips) 
+Seat 5: Alpha 5.20 ($600 in chips) 
+Seat 6: madsquared ($944.09 in chips) 
+LuckyBiitch: posts small blind $3
+king10clubs: is sitting out 
+hellby 00: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+Alpha 5.20: folds 
+madsquared: folds 
+LuckyBiitch: raises $132 to $138
+hellby 00: folds 
+Uncalled bet ($132) returned to LuckyBiitch
+LuckyBiitch collected $12 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: LuckyBiitch (small blind) collected ($12)
+Seat 3: hellby 00 (big blind) folded before Flop
+Seat 4: rusdronenv folded before Flop (didn't bet)
+Seat 5: Alpha 5.20 folded before Flop (didn't bet)
+Seat 6: madsquared (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102587054395:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:16:29 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #1 is the button
+Seat 1: LuckyBiitch ($780.28 in chips) 
+Seat 3: hellby 00 ($57.71 in chips) 
+Seat 4: rusdronenv ($642.20 in chips) 
+Seat 5: Alpha 5.20 ($600 in chips) 
+Seat 6: madsquared ($944.09 in chips) 
+hellby 00: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+Alpha 5.20: folds 
+madsquared: raises $9 to $15
+king10clubs leaves the table
+LuckyBiitch: folds 
+hellby 00: folds 
+rusdronenv: folds 
+Uncalled bet ($9) returned to madsquared
+madsquared collected $15 from pot
+madsquared: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyBiitch (button) folded before Flop (didn't bet)
+Seat 3: hellby 00 (small blind) folded before Flop
+Seat 4: rusdronenv (big blind) folded before Flop
+Seat 5: Alpha 5.20 folded before Flop (didn't bet)
+Seat 6: madsquared collected ($15)
+
+
+PokerStars Game #102587064756:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:16:50 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #3 is the button
+Seat 1: LuckyBiitch ($780.28 in chips) 
+Seat 3: hellby 00 ($54.71 in chips) 
+Seat 4: rusdronenv ($636.20 in chips) 
+Seat 5: Alpha 5.20 ($600 in chips) 
+Seat 6: madsquared ($953.09 in chips) 
+rusdronenv: posts small blind $3
+Alpha 5.20: posts big blind $6
+*** HOLE CARDS ***
+madsquared: folds 
+LuckyBiitch: folds 
+hellby 00: calls $6
+rusdronenv: calls $3
+Alpha 5.20: checks 
+*** FLOP *** [2d 4h 6c]
+rusdronenv: checks 
+Alpha 5.20: checks 
+hellby 00: bets $48.71 and is all-in
+rusdronenv: calls $48.71
+Alpha 5.20: folds 
+*** TURN *** [2d 4h 6c] [Qc]
+*** RIVER *** [2d 4h 6c Qc] [9d]
+*** SHOW DOWN ***
+rusdronenv: shows [5s 4s] (a pair of Fours)
+hellby 00: shows [Js Jd] (a pair of Jacks)
+hellby 00 collected $112.62 from pot
+*** SUMMARY ***
+Total pot $115.42 | Rake $2.80 
+Board [2d 4h 6c Qc 9d]
+Seat 1: LuckyBiitch folded before Flop (didn't bet)
+Seat 3: hellby 00 (button) showed [Js Jd] and won ($112.62) with a pair of Jacks
+Seat 4: rusdronenv (small blind) showed [5s 4s] and lost with a pair of Fours
+Seat 5: Alpha 5.20 (big blind) folded on the Flop
+Seat 6: madsquared folded before Flop (didn't bet)
+
+
+PokerStars Game #102587099983:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:18:03 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #4 is the button
+Seat 1: LuckyBiitch ($780.28 in chips) 
+Seat 3: hellby 00 ($112.62 in chips) 
+Seat 4: rusdronenv ($600 in chips) 
+Seat 5: Alpha 5.20 ($600 in chips) 
+Seat 6: madsquared ($953.09 in chips) 
+Alpha 5.20: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+hellby 00: calls $6
+rusdronenv: folds 
+Alpha 5.20: calls $3
+madsquared: checks 
+*** FLOP *** [2h Jh Qd]
+Alpha 5.20: checks 
+Aurum85 joins the table at seat #2 
+Aurum85 leaves the table
+madsquared: checks 
+hellby 00: checks 
+*** TURN *** [2h Jh Qd] [Td]
+Alpha 5.20: checks 
+Ner4zzurri joins the table at seat #2 
+madsquared: bets $24
+hellby 00: raises $24 to $48
+Alpha 5.20: folds 
+madsquared: raises $113.19 to $161.19
+hellby 00: calls $58.62 and is all-in
+Uncalled bet ($54.57) returned to madsquared
+*** RIVER *** [2h Jh Qd Td] [Kh]
+*** SHOW DOWN ***
+madsquared: shows [2s Qs] (two pair, Queens and Deuces)
+hellby 00: shows [Ks 9c] (a straight, Nine to King)
+hellby 00 collected $228.44 from pot
+*** SUMMARY ***
+Total pot $231.24 | Rake $2.80 
+Board [2h Jh Qd Td Kh]
+Seat 1: LuckyBiitch folded before Flop (didn't bet)
+Seat 3: hellby 00 showed [Ks 9c] and won ($228.44) with a straight, Nine to King
+Seat 4: rusdronenv (button) folded before Flop (didn't bet)
+Seat 5: Alpha 5.20 (small blind) folded on the Turn
+Seat 6: madsquared (big blind) showed [2s Qs] and lost with two pair, Queens and Deuces
+
+
+PokerStars Game #102586877510:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:10:27 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #2 is the button
+Seat 1: LuckyBiitch ($816.28 in chips) 
+Seat 2: king10clubs ($845.17 in chips) 
+Seat 3: hellby 00 ($55.52 in chips) 
+Seat 4: rusdronenv ($609 in chips) 
+Seat 5: Alpha 5.20 ($600 in chips) 
+Seat 6: madsquared ($953.09 in chips) 
+hellby 00: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+Alpha 5.20: raises $12 to $18
+madsquared: folds 
+LuckyBiitch: folds 
+king10clubs: folds 
+hellby 00: folds 
+rusdronenv: folds 
+Uncalled bet ($12) returned to Alpha 5.20
+Alpha 5.20 collected $15 from pot
+Alpha 5.20: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyBiitch folded before Flop (didn't bet)
+Seat 2: king10clubs (button) folded before Flop (didn't bet)
+Seat 3: hellby 00 (small blind) folded before Flop
+Seat 4: rusdronenv (big blind) folded before Flop
+Seat 5: Alpha 5.20 collected ($15)
+Seat 6: madsquared folded before Flop (didn't bet)
+
+
+PokerStars Game #102586903598:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:11:20 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #3 is the button
+Seat 1: LuckyBiitch ($816.28 in chips) 
+Seat 2: king10clubs ($845.17 in chips) 
+Seat 3: hellby 00 ($52.52 in chips) 
+Seat 4: rusdronenv ($603 in chips) 
+Seat 5: Alpha 5.20 ($609 in chips) 
+Seat 6: madsquared ($953.09 in chips) 
+rusdronenv: posts small blind $3
+Alpha 5.20: posts big blind $6
+*** HOLE CARDS ***
+madsquared: folds 
+LuckyBiitch: folds 
+king10clubs: folds 
+hellby 00: calls $6
+rusdronenv: calls $3
+Alpha 5.20: checks 
+*** FLOP *** [4c Ad Jh]
+rusdronenv: checks 
+Alpha 5.20: checks 
+hellby 00: checks 
+*** TURN *** [4c Ad Jh] [8s]
+rusdronenv: checks 
+Alpha 5.20: checks 
+hellby 00: checks 
+*** RIVER *** [4c Ad Jh 8s] [8h]
+rusdronenv: checks 
+Alpha 5.20: checks 
+hellby 00: bets $46.52 and is all-in
+rusdronenv: folds 
+Alpha 5.20: folds 
+Uncalled bet ($46.52) returned to hellby 00
+hellby 00 collected $17.19 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.81 
+Board [4c Ad Jh 8s 8h]
+Seat 1: LuckyBiitch folded before Flop (didn't bet)
+Seat 2: king10clubs folded before Flop (didn't bet)
+Seat 3: hellby 00 (button) collected ($17.19)
+Seat 4: rusdronenv (small blind) folded on the River
+Seat 5: Alpha 5.20 (big blind) folded on the River
+Seat 6: madsquared folded before Flop (didn't bet)
+
+
+PokerStars Game #102586961573:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:13:18 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #4 is the button
+Seat 1: LuckyBiitch ($816.28 in chips) 
+Seat 2: king10clubs ($845.17 in chips) 
+Seat 3: hellby 00 ($63.71 in chips) 
+Seat 4: rusdronenv ($600 in chips) 
+Seat 5: Alpha 5.20 ($603 in chips) 
+Seat 6: madsquared ($953.09 in chips) 
+Alpha 5.20: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+king10clubs: raises $9 to $15
+hellby 00: folds 
+rusdronenv: calls $15
+Alpha 5.20: folds 
+madsquared: folds 
+*** FLOP *** [3s 4c 4h]
+king10clubs: bets $24
+rusdronenv: calls $24
+*** TURN *** [3s 4c 4h] [Jc]
+king10clubs: bets $60
+rusdronenv: calls $60
+*** RIVER *** [3s 4c 4h Jc] [4s]
+king10clubs: bets $156
+rusdronenv: folds 
+Uncalled bet ($156) returned to king10clubs
+king10clubs collected $204.20 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $207 | Rake $2.80 
+Board [3s 4c 4h Jc 4s]
+Seat 1: LuckyBiitch folded before Flop (didn't bet)
+Seat 2: king10clubs collected ($204.20)
+Seat 3: hellby 00 folded before Flop (didn't bet)
+Seat 4: rusdronenv (button) folded on the River
+Seat 5: Alpha 5.20 (small blind) folded before Flop
+Seat 6: madsquared (big blind) folded before Flop
+
+
+PokerStars Game #102587003464:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:14:44 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #5 is the button
+Seat 1: LuckyBiitch ($816.28 in chips) 
+Seat 2: king10clubs ($950.37 in chips) 
+Seat 3: hellby 00 ($63.71 in chips) 
+Seat 4: rusdronenv ($600 in chips) 
+Seat 5: Alpha 5.20 ($600 in chips) 
+Seat 6: madsquared ($947.09 in chips) 
+madsquared: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+hellby 00: folds 
+rusdronenv: raises $12 to $18
+Alpha 5.20: folds 
+madsquared: folds 
+LuckyBiitch: calls $12
+*** FLOP *** [7s 6d 2s]
+LuckyBiitch: checks 
+rusdronenv: bets $24
+LuckyBiitch: calls $24
+*** TURN *** [7s 6d 2s] [Td]
+LuckyBiitch: checks 
+rusdronenv: bets $138
+LuckyBiitch: folds 
+Uncalled bet ($138) returned to rusdronenv
+rusdronenv collected $84.20 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $87 | Rake $2.80 
+Board [7s 6d 2s Td]
+Seat 1: LuckyBiitch (big blind) folded on the Turn
+Seat 2: king10clubs folded before Flop (didn't bet)
+Seat 3: hellby 00 folded before Flop (didn't bet)
+Seat 4: rusdronenv collected ($84.20)
+Seat 5: Alpha 5.20 (button) folded before Flop (didn't bet)
+Seat 6: madsquared (small blind) folded before Flop
+
+
+PokerStars Game #102587570806:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:35:14 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #5 is the button
+Seat 1: LuckyBiitch ($789.28 in chips) 
+Seat 2: Ner4zzurri ($600 in chips) 
+Seat 3: hellby 00 ($178.74 in chips) 
+Seat 5: Alpha 5.20 ($645.44 in chips) 
+Seat 6: madsquared ($804.47 in chips) 
+madsquared: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri: folds 
+hellby 00: calls $6
+Alpha 5.20: folds 
+madsquared: calls $3
+LuckyBiitch: checks 
+*** FLOP *** [Ad 9c 6c]
+madsquared: checks 
+LuckyBiitch: checks 
+hellby 00: checks 
+*** TURN *** [Ad 9c 6c] [8h]
+madsquared: checks 
+LuckyBiitch: checks 
+hellby 00: checks 
+*** RIVER *** [Ad 9c 6c 8h] [2s]
+madsquared: bets $12.89
+LuckyBiitch: folds 
+hellby 00: calls $12.89
+*** SHOW DOWN ***
+madsquared: shows [2d 2h] (three of a kind, Deuces)
+hellby 00: mucks hand 
+madsquared collected $41.81 from pot
+*** SUMMARY ***
+Total pot $43.78 | Rake $1.97 
+Board [Ad 9c 6c 8h 2s]
+Seat 1: LuckyBiitch (big blind) folded on the River
+Seat 2: Ner4zzurri folded before Flop (didn't bet)
+Seat 3: hellby 00 mucked
+Seat 5: Alpha 5.20 (button) folded before Flop (didn't bet)
+Seat 6: madsquared (small blind) showed [2d 2h] and won ($41.81) with three of a kind, Deuces
+
+
+PokerStars Game #102587622013:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:37:11 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #6 is the button
+Seat 1: LuckyBiitch ($783.28 in chips) 
+Seat 2: Ner4zzurri ($600 in chips) 
+Seat 3: hellby 00 ($159.85 in chips) 
+Seat 5: Alpha 5.20 ($645.44 in chips) 
+Seat 6: madsquared ($827.39 in chips) 
+LuckyBiitch: posts small blind $3
+Ner4zzurri: posts big blind $6
+rusdronenv: sits out 
+*** HOLE CARDS ***
+hellby 00: calls $6
+Alpha 5.20: folds 
+madsquared: calls $6
+LuckyBiitch: calls $3
+Ner4zzurri: checks 
+*** FLOP *** [Js Td Ks]
+LuckyBiitch: checks 
+Ner4zzurri: bets $18
+hellby 00: calls $18
+madsquared: folds 
+LuckyBiitch: folds 
+*** TURN *** [Js Td Ks] [7s]
+Ner4zzurri: checks 
+hellby 00: bets $135.85 and is all-in
+Ner4zzurri: calls $135.85
+*** RIVER *** [Js Td Ks 7s] [8h]
+*** SHOW DOWN ***
+Ner4zzurri: shows [Th Kc] (two pair, Kings and Tens)
+hellby 00: shows [6h 6d] (a pair of Sixes)
+Ner4zzurri collected $328.90 from pot
+*** SUMMARY ***
+Total pot $331.70 | Rake $2.80 
+Board [Js Td Ks 7s 8h]
+Seat 1: LuckyBiitch (small blind) folded on the Flop
+Seat 2: Ner4zzurri (big blind) showed [Th Kc] and won ($328.90) with two pair, Kings and Tens
+Seat 3: hellby 00 showed [6h 6d] and lost with a pair of Sixes
+Seat 5: Alpha 5.20 folded before Flop (didn't bet)
+Seat 6: madsquared (button) folded on the Flop
+
+
+PokerStars Game #102587663251:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:38:47 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #1 is the button
+Seat 1: LuckyBiitch ($777.28 in chips) 
+Seat 2: Ner4zzurri ($769.05 in chips) 
+Seat 4: rusdronenv ($663.20 in chips) 
+Seat 5: Alpha 5.20 ($645.44 in chips) 
+Seat 6: madsquared ($821.39 in chips) 
+Ner4zzurri: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+Alpha 5.20: folds 
+madsquared: folds 
+LuckyBiitch: folds 
+Ner4zzurri: folds 
+Uncalled bet ($3) returned to rusdronenv
+rusdronenv collected $6 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: LuckyBiitch (button) folded before Flop (didn't bet)
+Seat 2: Ner4zzurri (small blind) folded before Flop
+Seat 4: rusdronenv (big blind) collected ($6)
+Seat 5: Alpha 5.20 folded before Flop (didn't bet)
+Seat 6: madsquared folded before Flop (didn't bet)
+
+
+PokerStars Game #102587669313:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:39:02 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #2 is the button
+Seat 1: LuckyBiitch ($777.28 in chips) 
+Seat 2: Ner4zzurri ($766.05 in chips) 
+Seat 4: rusdronenv ($666.20 in chips) 
+Seat 5: Alpha 5.20 ($645.44 in chips) 
+Seat 6: madsquared ($821.39 in chips) 
+rusdronenv: posts small blind $3
+Alpha 5.20: posts big blind $6
+*** HOLE CARDS ***
+madsquared: folds 
+LuckyBiitch: folds 
+Ner4zzurri: raises $6 to $12
+rusdronenv: calls $9
+Alpha 5.20: calls $6
+*** FLOP *** [9c Ts 6s]
+rusdronenv: checks 
+hellby 00 leaves the table
+Alpha 5.20: checks 
+kriket28 joins the table at seat #3 
+Ner4zzurri: bets $27
+rusdronenv: calls $27
+kriket28 leaves the table
+Alpha 5.20: folds 
+*** TURN *** [9c Ts 6s] [Th]
+rusdronenv: checks 
+Ner4zzurri: checks 
+*** RIVER *** [9c Ts 6s Th] [Qd]
+rusdronenv: checks 
+Ner4zzurri: checks 
+*** SHOW DOWN ***
+rusdronenv: shows [9h Kh] (two pair, Tens and Nines)
+Ner4zzurri: mucks hand 
+rusdronenv collected $87.20 from pot
+*** SUMMARY ***
+Total pot $90 | Rake $2.80 
+Board [9c Ts 6s Th Qd]
+Seat 1: LuckyBiitch folded before Flop (didn't bet)
+Seat 2: Ner4zzurri (button) mucked
+Seat 4: rusdronenv (small blind) showed [9h Kh] and won ($87.20) with two pair, Tens and Nines
+Seat 5: Alpha 5.20 (big blind) folded on the Flop
+Seat 6: madsquared folded before Flop (didn't bet)
+
+
+PokerStars Game #102587693210:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:39:58 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #4 is the button
+Seat 1: LuckyBiitch ($777.28 in chips) 
+Seat 2: Ner4zzurri ($727.05 in chips) 
+Seat 4: rusdronenv ($714.40 in chips) 
+Seat 5: Alpha 5.20 ($633.44 in chips) 
+Alpha 5.20: posts small blind $3
+madsquared: is sitting out 
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+Aurum85 joins the table at seat #3 
+Ner4zzurri: folds 
+Ner4zzurri leaves the table
+madsquared leaves the table
+rusdronenv: raises $6 to $12
+Alpha 5.20: folds 
+LuckyBiitch: folds 
+Uncalled bet ($6) returned to rusdronenv
+Aurum85 leaves the table
+rusdronenv collected $15 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyBiitch (big blind) folded before Flop
+Seat 2: Ner4zzurri folded before Flop (didn't bet)
+Seat 4: rusdronenv (button) collected ($15)
+Seat 5: Alpha 5.20 (small blind) folded before Flop
+
+
+PokerStars Game #102587444357:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:30:28 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #5 is the button
+Seat 1: LuckyBiitch ($798.28 in chips) 
+Seat 2: Ner4zzurri ($600 in chips) 
+Seat 3: hellby 00 ($194.28 in chips) 
+Seat 4: rusdronenv ($669.20 in chips) 
+Seat 5: Alpha 5.20 ($600 in chips) 
+Seat 6: madsquared ($813.47 in chips) 
+madsquared: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+Ner4zzurri: folds 
+hellby 00: calls $6
+rusdronenv: folds 
+Alpha 5.20: raises $18 to $24
+madsquared: folds 
+LuckyBiitch: folds 
+hellby 00: calls $18
+*** FLOP *** [2c Qc 7c]
+hellby 00: checks 
+Alpha 5.20: bets $30
+hellby 00: folds 
+Uncalled bet ($30) returned to Alpha 5.20
+Alpha 5.20 collected $54.44 from pot
+Alpha 5.20: doesn't show hand 
+*** SUMMARY ***
+Total pot $57 | Rake $2.56 
+Board [2c Qc 7c]
+Seat 1: LuckyBiitch (big blind) folded before Flop
+Seat 2: Ner4zzurri folded before Flop (didn't bet)
+Seat 3: hellby 00 folded on the Flop
+Seat 4: rusdronenv folded before Flop (didn't bet)
+Seat 5: Alpha 5.20 (button) collected ($54.44)
+Seat 6: madsquared (small blind) folded before Flop
+
+
+PokerStars Game #102587480447:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:31:49 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #6 is the button
+Seat 1: LuckyBiitch ($792.28 in chips) 
+Seat 2: Ner4zzurri ($600 in chips) 
+Seat 3: hellby 00 ($170.28 in chips) 
+Seat 4: rusdronenv ($669.20 in chips) 
+Seat 5: Alpha 5.20 ($630.44 in chips) 
+Seat 6: madsquared ($810.47 in chips) 
+LuckyBiitch: posts small blind $3
+Ner4zzurri: posts big blind $6
+*** HOLE CARDS ***
+hellby 00: folds 
+rusdronenv: folds 
+Alpha 5.20: raises $12 to $18
+madsquared: folds 
+LuckyBiitch: folds 
+Ner4zzurri: folds 
+Uncalled bet ($12) returned to Alpha 5.20
+Alpha 5.20 collected $15 from pot
+Alpha 5.20: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyBiitch (small blind) folded before Flop
+Seat 2: Ner4zzurri (big blind) folded before Flop
+Seat 3: hellby 00 folded before Flop (didn't bet)
+Seat 4: rusdronenv folded before Flop (didn't bet)
+Seat 5: Alpha 5.20 collected ($15)
+Seat 6: madsquared (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102587491730:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:32:15 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #1 is the button
+Seat 1: LuckyBiitch ($789.28 in chips) 
+Seat 2: Ner4zzurri ($600 in chips) 
+Seat 3: hellby 00 ($170.28 in chips) 
+Seat 4: rusdronenv ($669.20 in chips) 
+Seat 5: Alpha 5.20 ($639.44 in chips) 
+Seat 6: madsquared ($810.47 in chips) 
+Ner4zzurri: posts small blind $3
+hellby 00: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+Alpha 5.20: folds 
+madsquared: folds 
+LuckyBiitch: folds 
+Ner4zzurri: folds 
+Uncalled bet ($3) returned to hellby 00
+hellby 00 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: LuckyBiitch (button) folded before Flop (didn't bet)
+Seat 2: Ner4zzurri (small blind) folded before Flop
+Seat 3: hellby 00 (big blind) collected ($6)
+Seat 4: rusdronenv folded before Flop (didn't bet)
+Seat 5: Alpha 5.20 folded before Flop (didn't bet)
+Seat 6: madsquared folded before Flop (didn't bet)
+
+
+PokerStars Game #102587501020:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:32:36 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #2 is the button
+Seat 1: LuckyBiitch ($789.28 in chips) 
+Seat 2: Ner4zzurri ($600 in chips) 
+Seat 3: hellby 00 ($173.28 in chips) 
+Seat 4: rusdronenv ($669.20 in chips) 
+Seat 5: Alpha 5.20 ($639.44 in chips) 
+Seat 6: madsquared ($810.47 in chips) 
+hellby 00: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+Alpha 5.20: folds 
+madsquared: folds 
+LuckyBiitch: folds 
+Ner4zzurri: folds 
+hellby 00: calls $3
+rusdronenv: checks 
+*** FLOP *** [6d Kh 7h]
+hellby 00: checks 
+rusdronenv is disconnected 
+rusdronenv has timed out while disconnected
+rusdronenv: checks 
+*** TURN *** [6d Kh 7h] [Js]
+hellby 00: bets $6
+rusdronenv has timed out while disconnected
+rusdronenv: folds 
+Uncalled bet ($6) returned to hellby 00
+hellby 00 collected $11.46 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.54 
+Board [6d Kh 7h Js]
+Seat 1: LuckyBiitch folded before Flop (didn't bet)
+Seat 2: Ner4zzurri (button) folded before Flop (didn't bet)
+Seat 3: hellby 00 (small blind) collected ($11.46)
+Seat 4: rusdronenv (big blind) folded on the Turn
+Seat 5: Alpha 5.20 folded before Flop (didn't bet)
+Seat 6: madsquared folded before Flop (didn't bet)
+
+
+PokerStars Game #102587563163:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:34:56 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #3 is the button
+Seat 1: LuckyBiitch ($789.28 in chips) 
+Seat 2: Ner4zzurri ($600 in chips) 
+Seat 3: hellby 00 ($178.74 in chips) 
+Seat 5: Alpha 5.20 ($639.44 in chips) 
+Seat 6: madsquared ($810.47 in chips) 
+Alpha 5.20: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+Ner4zzurri: folds 
+hellby 00: folds 
+Alpha 5.20: raises $12 to $18
+madsquared: folds 
+Uncalled bet ($12) returned to Alpha 5.20
+Alpha 5.20 collected $12 from pot
+Alpha 5.20: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: LuckyBiitch folded before Flop (didn't bet)
+Seat 2: Ner4zzurri folded before Flop (didn't bet)
+Seat 3: hellby 00 (button) folded before Flop (didn't bet)
+Seat 5: Alpha 5.20 (small blind) collected ($12)
+Seat 6: madsquared (big blind) folded before Flop
+
+
+PokerStars Game #102587316345:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:25:44 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #6 is the button
+Seat 1: LuckyBiitch ($750.28 in chips) 
+Seat 2: Ner4zzurri ($600 in chips) 
+Seat 3: hellby 00 ($281.96 in chips) 
+Seat 5: Alpha 5.20 ($600 in chips) 
+Seat 6: madsquared ($828.47 in chips) 
+LuckyBiitch: posts small blind $3
+Ner4zzurri: posts big blind $6
+rusdronenv: sits out 
+*** HOLE CARDS ***
+hellby 00: calls $6
+Alpha 5.20: folds 
+madsquared: folds 
+LuckyBiitch: raises $18 to $24
+Ner4zzurri: folds 
+hellby 00: raises $18 to $42
+LuckyBiitch: raises $708.28 to $750.28 and is all-in
+hellby 00: folds 
+Uncalled bet ($708.28) returned to LuckyBiitch
+LuckyBiitch collected $90 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $90 | Rake $0 
+Seat 1: LuckyBiitch (small blind) collected ($90)
+Seat 2: Ner4zzurri (big blind) folded before Flop
+Seat 3: hellby 00 folded before Flop
+Seat 5: Alpha 5.20 folded before Flop (didn't bet)
+Seat 6: madsquared (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102587353540:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:27:06 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #1 is the button
+Seat 1: LuckyBiitch ($798.28 in chips) 
+Seat 2: Ner4zzurri ($600 in chips) 
+Seat 3: hellby 00 ($239.96 in chips) 
+Seat 5: Alpha 5.20 ($600 in chips) 
+Seat 6: madsquared ($828.47 in chips) 
+Ner4zzurri: posts small blind $3
+hellby 00: posts big blind $6
+rusdronenv: sits out 
+*** HOLE CARDS ***
+Alpha 5.20: folds 
+madsquared: raises $12 to $18
+LuckyBiitch: folds 
+Ner4zzurri: folds 
+hellby 00: folds 
+Uncalled bet ($12) returned to madsquared
+madsquared collected $15 from pot
+madsquared: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LuckyBiitch (button) folded before Flop (didn't bet)
+Seat 2: Ner4zzurri (small blind) folded before Flop
+Seat 3: hellby 00 (big blind) folded before Flop
+Seat 5: Alpha 5.20 folded before Flop (didn't bet)
+Seat 6: madsquared collected ($15)
+
+
+PokerStars Game #102587368577:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:27:39 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #2 is the button
+Seat 1: LuckyBiitch ($798.28 in chips) 
+Seat 2: Ner4zzurri ($600 in chips) 
+Seat 3: hellby 00 ($233.96 in chips) 
+Seat 4: rusdronenv ($600 in chips) 
+Seat 5: Alpha 5.20 ($600 in chips) 
+Seat 6: madsquared ($837.47 in chips) 
+hellby 00: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+Alpha 5.20: folds 
+madsquared: raises $12 to $18
+LuckyBiitch: folds 
+Ner4zzurri: folds 
+hellby 00: calls $15
+rusdronenv: raises $54 to $72
+madsquared: folds 
+hellby 00: folds 
+Uncalled bet ($54) returned to rusdronenv
+rusdronenv collected $54 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $54 | Rake $0 
+Seat 1: LuckyBiitch folded before Flop (didn't bet)
+Seat 2: Ner4zzurri (button) folded before Flop (didn't bet)
+Seat 3: hellby 00 (small blind) folded before Flop
+Seat 4: rusdronenv (big blind) collected ($54)
+Seat 5: Alpha 5.20 folded before Flop (didn't bet)
+Seat 6: madsquared folded before Flop
+
+
+PokerStars Game #102587392297:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:28:31 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #3 is the button
+Seat 1: LuckyBiitch ($798.28 in chips) 
+Seat 2: Ner4zzurri ($600 in chips) 
+Seat 3: hellby 00 ($215.96 in chips) 
+Seat 4: rusdronenv ($636 in chips) 
+Seat 5: Alpha 5.20 ($600 in chips) 
+Seat 6: madsquared ($819.47 in chips) 
+rusdronenv: posts small blind $3
+Alpha 5.20: posts big blind $6
+*** HOLE CARDS ***
+madsquared: folds 
+LuckyBiitch: folds 
+Ner4zzurri: folds 
+hellby 00: calls $6
+rusdronenv: folds 
+Alpha 5.20: checks 
+*** FLOP *** [6d Qc 8c]
+Alpha 5.20: checks 
+hellby 00: bets $24
+Alpha 5.20: folds 
+Uncalled bet ($24) returned to hellby 00
+hellby 00 collected $14.32 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0.68 
+Board [6d Qc 8c]
+Seat 1: LuckyBiitch folded before Flop (didn't bet)
+Seat 2: Ner4zzurri folded before Flop (didn't bet)
+Seat 3: hellby 00 (button) collected ($14.32)
+Seat 4: rusdronenv (small blind) folded before Flop
+Seat 5: Alpha 5.20 (big blind) folded on the Flop
+Seat 6: madsquared folded before Flop (didn't bet)
+
+
+PokerStars Game #102587412672:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:29:17 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #4 is the button
+Seat 1: LuckyBiitch ($798.28 in chips) 
+Seat 2: Ner4zzurri ($600 in chips) 
+Seat 3: hellby 00 ($224.28 in chips) 
+Seat 4: rusdronenv ($633 in chips) 
+Seat 5: Alpha 5.20 ($600 in chips) 
+Seat 6: madsquared ($819.47 in chips) 
+Alpha 5.20: posts small blind $3
+madsquared: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+Ner4zzurri: folds 
+hellby 00: calls $6
+rusdronenv: raises $24 to $30
+Alpha 5.20: folds 
+madsquared: folds 
+hellby 00: calls $24
+*** FLOP *** [Th 7s Ts]
+hellby 00: checks 
+rusdronenv: bets $36
+hellby 00: folds 
+Uncalled bet ($36) returned to rusdronenv
+rusdronenv collected $66.20 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $69 | Rake $2.80 
+Board [Th 7s Ts]
+Seat 1: LuckyBiitch folded before Flop (didn't bet)
+Seat 2: Ner4zzurri folded before Flop (didn't bet)
+Seat 3: hellby 00 folded on the Flop
+Seat 4: rusdronenv (button) collected ($66.20)
+Seat 5: Alpha 5.20 (small blind) folded before Flop
+Seat 6: madsquared (big blind) folded before Flop
+
+
+PokerStars Game #102587700192:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:40:14 ET
+Table 'Sojourner 40-100 bb' 6-max Seat #5 is the button
+Seat 1: LuckyBiitch ($771.28 in chips) 
+Seat 4: rusdronenv ($723.40 in chips) 
+Seat 5: Alpha 5.20 ($630.44 in chips) 
+LuckyBiitch: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+Alpha 5.20: folds 
+LuckyBiitch: folds 
+Uncalled bet ($3) returned to rusdronenv
+rusdronenv collected $6 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: LuckyBiitch (small blind) folded before Flop
+Seat 4: rusdronenv (big blind) collected ($6)
+Seat 5: Alpha 5.20 (button) folded before Flop (didn't bet)

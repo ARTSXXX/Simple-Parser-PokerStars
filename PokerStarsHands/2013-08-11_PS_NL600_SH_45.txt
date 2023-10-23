@@ -1,0 +1,1064 @@
+
+
+PokerStars Game #102631886064:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:50:03 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: leftlake ($534.44 in chips) 
+Seat 2: zartrüssel ($600 in chips) 
+Seat 3: imactually12 ($612 in chips) 
+Seat 4: Dom92 ($233 in chips) 
+Seat 5: mikimiki88 ($615.02 in chips) 
+Seat 6: rocks50 ($970.03 in chips) 
+imactually12: posts small blind $3
+Dom92: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+rocks50: folds 
+leftlake: folds 
+zartrüssel: folds 
+imactually12: folds 
+Uncalled bet ($3) returned to Dom92
+Dom92 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: leftlake folded before Flop (didn't bet)
+Seat 2: zartrüssel (button) folded before Flop (didn't bet)
+Seat 3: imactually12 (small blind) folded before Flop
+Seat 4: Dom92 (big blind) collected ($6)
+Seat 5: mikimiki88 folded before Flop (didn't bet)
+Seat 6: rocks50 folded before Flop (didn't bet)
+
+
+PokerStars Game #102631892850:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:50:15 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: leftlake ($534.44 in chips) 
+Seat 2: zartrüssel ($600 in chips) 
+Seat 3: imactually12 ($609 in chips) 
+Seat 4: Dom92 ($236 in chips) 
+Seat 5: mikimiki88 ($615.02 in chips) 
+Seat 6: rocks50 ($970.03 in chips) 
+Dom92: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+rocks50: folds 
+leftlake: folds 
+zartrüssel: folds 
+imactually12: folds 
+Dom92: folds 
+Uncalled bet ($3) returned to mikimiki88
+mikimiki88 collected $6 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: leftlake folded before Flop (didn't bet)
+Seat 2: zartrüssel folded before Flop (didn't bet)
+Seat 3: imactually12 (button) folded before Flop (didn't bet)
+Seat 4: Dom92 (small blind) folded before Flop
+Seat 5: mikimiki88 (big blind) collected ($6)
+Seat 6: rocks50 folded before Flop (didn't bet)
+
+
+PokerStars Game #102631898364:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:50:24 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: leftlake ($534.44 in chips) 
+Seat 2: zartrüssel ($600 in chips) 
+Seat 3: imactually12 ($609 in chips) 
+Seat 4: Dom92 ($233 in chips) 
+Seat 5: mikimiki88 ($618.02 in chips) 
+Seat 6: rocks50 ($970.03 in chips) 
+mikimiki88: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+leftlake: raises $12 to $18
+zartrüssel: folds 
+imactually12: folds 
+Dom92: folds 
+mikimiki88: folds 
+rocks50: folds 
+Uncalled bet ($12) returned to leftlake
+leftlake collected $15 from pot
+leftlake: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: leftlake collected ($15)
+Seat 2: zartrüssel folded before Flop (didn't bet)
+Seat 3: imactually12 folded before Flop (didn't bet)
+Seat 4: Dom92 (button) folded before Flop (didn't bet)
+Seat 5: mikimiki88 (small blind) folded before Flop
+Seat 6: rocks50 (big blind) folded before Flop
+
+
+PokerStars Game #102631913661:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:50:50 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: leftlake ($543.44 in chips) 
+Seat 2: zartrüssel ($600 in chips) 
+Seat 3: imactually12 ($609 in chips) 
+Seat 4: Dom92 ($233 in chips) 
+Seat 5: mikimiki88 ($615.02 in chips) 
+Seat 6: rocks50 ($964.03 in chips) 
+rocks50: posts small blind $3
+leftlake: posts big blind $6
+*** HOLE CARDS ***
+zartrüssel: folds 
+imactually12: folds 
+Dom92: raises $6 to $12
+mikimiki88: folds 
+rocks50: calls $9
+leftlake: calls $6
+*** FLOP *** [As Kh Qc]
+rocks50: bets $27
+leftlake: folds 
+Dom92: calls $27
+*** TURN *** [As Kh Qc] [Th]
+rocks50: checks 
+Dom92: bets $36
+rocks50: calls $36
+*** RIVER *** [As Kh Qc Th] [8h]
+rocks50: checks 
+Dom92: bets $78
+rocks50: calls $78
+*** SHOW DOWN ***
+Dom92: shows [7c Jc] (a straight, Ten to Ace)
+rocks50: mucks hand 
+Dom92 collected $315.20 from pot
+*** SUMMARY ***
+Total pot $318 | Rake $2.80 
+Board [As Kh Qc Th 8h]
+Seat 1: leftlake (big blind) folded on the Flop
+Seat 2: zartrüssel folded before Flop (didn't bet)
+Seat 3: imactually12 folded before Flop (didn't bet)
+Seat 4: Dom92 showed [7c Jc] and won ($315.20) with a straight, Ten to Ace
+Seat 5: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 6: rocks50 (small blind) mucked
+
+
+PokerStars Game #102631982035:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:52:48 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: leftlake ($531.44 in chips) 
+Seat 2: zartrüssel ($600 in chips) 
+Seat 3: imactually12 ($609 in chips) 
+Seat 4: Dom92 ($395.20 in chips) 
+Seat 5: mikimiki88 ($615.02 in chips) 
+Seat 6: rocks50 ($811.03 in chips) 
+leftlake: posts small blind $3
+zartrüssel: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $9 to $15
+Dom92: raises $21 to $36
+mikimiki88: folds 
+rocks50: folds 
+leftlake: folds 
+zartrüssel: folds 
+imactually12: folds 
+Uncalled bet ($21) returned to Dom92
+Dom92 collected $39 from pot
+*** SUMMARY ***
+Total pot $39 | Rake $0 
+Seat 1: leftlake (small blind) folded before Flop
+Seat 2: zartrüssel (big blind) folded before Flop
+Seat 3: imactually12 folded before Flop
+Seat 4: Dom92 collected ($39)
+Seat 5: mikimiki88 folded before Flop (didn't bet)
+Seat 6: rocks50 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102631996503:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:53:13 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: leftlake ($528.44 in chips) 
+Seat 2: zartrüssel ($600 in chips) 
+Seat 3: imactually12 ($600 in chips) 
+Seat 4: Dom92 ($419.20 in chips) 
+Seat 5: mikimiki88 ($615.02 in chips) 
+Seat 6: rocks50 ($811.03 in chips) 
+zartrüssel: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+Dom92: folds 
+mikimiki88: folds 
+rocks50: folds 
+leftlake: raises $6 to $12
+zartrüssel: raises $33 to $45
+imactually12: calls $39
+leftlake: calls $33
+*** FLOP *** [6c 8s 5c]
+zartrüssel: bets $102
+imactually12: folds 
+leftlake: folds 
+Uncalled bet ($102) returned to zartrüssel
+zartrüssel collected $132.20 from pot
+zartrüssel: doesn't show hand 
+*** SUMMARY ***
+Total pot $135 | Rake $2.80 
+Board [6c 8s 5c]
+Seat 1: leftlake (button) folded on the Flop
+Seat 2: zartrüssel (small blind) collected ($132.20)
+Seat 3: imactually12 (big blind) folded on the Flop
+Seat 4: Dom92 folded before Flop (didn't bet)
+Seat 5: mikimiki88 folded before Flop (didn't bet)
+Seat 6: rocks50 folded before Flop (didn't bet)
+
+
+PokerStars Game #102632020248:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:53:54 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: leftlake ($483.44 in chips) 
+Seat 2: zartrüssel ($687.20 in chips) 
+Seat 3: imactually12 ($600 in chips) 
+Seat 4: Dom92 ($419.20 in chips) 
+Seat 5: mikimiki88 ($615.02 in chips) 
+Seat 6: rocks50 ($811.03 in chips) 
+imactually12: posts small blind $3
+Dom92: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+rocks50: folds 
+leftlake: folds 
+zartrüssel: raises $6 to $12
+imactually12: folds 
+Dom92: folds 
+Uncalled bet ($6) returned to zartrüssel
+zartrüssel collected $15 from pot
+zartrüssel: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: leftlake folded before Flop (didn't bet)
+Seat 2: zartrüssel (button) collected ($15)
+Seat 3: imactually12 (small blind) folded before Flop
+Seat 4: Dom92 (big blind) folded before Flop
+Seat 5: mikimiki88 folded before Flop (didn't bet)
+Seat 6: rocks50 folded before Flop (didn't bet)
+
+
+PokerStars Game #102632026863:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:54:06 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: leftlake ($483.44 in chips) 
+Seat 2: zartrüssel ($696.20 in chips) 
+Seat 3: imactually12 ($600 in chips) 
+Seat 4: Dom92 ($413.20 in chips) 
+Seat 5: mikimiki88 ($615.02 in chips) 
+Seat 6: rocks50 ($811.03 in chips) 
+Dom92: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+rocks50 has timed out while being disconnected
+rocks50: folds 
+leftlake: folds 
+rocks50 is disconnected 
+zartrüssel: folds 
+imactually12: folds 
+Dom92: folds 
+Uncalled bet ($3) returned to mikimiki88
+mikimiki88 collected $6 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: leftlake folded before Flop (didn't bet)
+Seat 2: zartrüssel folded before Flop (didn't bet)
+Seat 3: imactually12 (button) folded before Flop (didn't bet)
+Seat 4: Dom92 (small blind) folded before Flop
+Seat 5: mikimiki88 (big blind) collected ($6)
+Seat 6: rocks50 folded before Flop (didn't bet)
+
+
+PokerStars Game #102632050568:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:54:47 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: leftlake ($483.44 in chips) 
+Seat 2: zartrüssel ($696.20 in chips) 
+Seat 3: imactually12 ($600 in chips) 
+Seat 4: Dom92 ($410.20 in chips) 
+Seat 5: mikimiki88 ($618.02 in chips) 
+mikimiki88: posts small blind $3
+leftlake: posts big blind $6
+*** HOLE CARDS ***
+zartrüssel: folds 
+imactually12: folds 
+Dom92: folds 
+mikimiki88: folds 
+Uncalled bet ($3) returned to leftlake
+leftlake collected $6 from pot
+leftlake: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: leftlake (big blind) collected ($6)
+Seat 2: zartrüssel folded before Flop (didn't bet)
+Seat 3: imactually12 folded before Flop (didn't bet)
+Seat 4: Dom92 (button) folded before Flop (didn't bet)
+Seat 5: mikimiki88 (small blind) folded before Flop
+
+
+PokerStars Game #102632056082:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:54:57 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: leftlake ($486.44 in chips) 
+Seat 2: zartrüssel ($696.20 in chips) 
+Seat 3: imactually12 ($600 in chips) 
+Seat 4: Dom92 ($410.20 in chips) 
+Seat 5: mikimiki88 ($615.02 in chips) 
+leftlake: posts small blind $3
+zartrüssel: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+Dom92: folds 
+mikimiki88: folds 
+leftlake: folds 
+Uncalled bet ($3) returned to zartrüssel
+zartrüssel collected $6 from pot
+zartrüssel: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: leftlake (small blind) folded before Flop
+Seat 2: zartrüssel (big blind) collected ($6)
+Seat 3: imactually12 folded before Flop (didn't bet)
+Seat 4: Dom92 folded before Flop (didn't bet)
+Seat 5: mikimiki88 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102631711624:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:45:07 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: leftlake ($354.24 in chips) 
+Seat 3: imactually12 ($678.20 in chips) 
+Seat 4: Dom92 ($254 in chips) 
+Seat 5: mikimiki88 ($604.78 in chips) 
+Seat 6: rocks50 ($991.03 in chips) 
+leftlake: posts small blind $3
+zartrüssel: is sitting out 
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+Dom92: folds 
+mikimiki88: folds 
+rocks50: raises $6 to $12
+leftlake: raises $18 to $30
+imactually12: folds 
+rocks50: folds 
+Uncalled bet ($18) returned to leftlake
+leftlake collected $30 from pot
+leftlake: shows [Js Jd] (a pair of Jacks)
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: leftlake (small blind) collected ($30)
+Seat 3: imactually12 (big blind) folded before Flop
+Seat 4: Dom92 folded before Flop (didn't bet)
+Seat 5: mikimiki88 folded before Flop (didn't bet)
+Seat 6: rocks50 (button) folded before Flop
+
+
+PokerStars Game #102631733040:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:45:43 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: leftlake ($372.24 in chips) 
+Seat 3: imactually12 ($672.20 in chips) 
+Seat 4: Dom92 ($254 in chips) 
+Seat 5: mikimiki88 ($604.78 in chips) 
+Seat 6: rocks50 ($979.03 in chips) 
+imactually12: posts small blind $3
+Dom92: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: raises $12 to $18
+rocks50: folds 
+leftlake: folds 
+imactually12: folds 
+Dom92: calls $12
+*** FLOP *** [4d Ah Js]
+Dom92: checks 
+mikimiki88: bets $26.44
+Dom92: folds 
+Uncalled bet ($26.44) returned to mikimiki88
+mikimiki88 collected $37.24 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [4d Ah Js]
+Seat 1: leftlake (button) folded before Flop (didn't bet)
+Seat 3: imactually12 (small blind) folded before Flop
+Seat 4: Dom92 (big blind) folded on the Flop
+Seat 5: mikimiki88 collected ($37.24)
+Seat 6: rocks50 folded before Flop (didn't bet)
+
+
+PokerStars Game #102631767665:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:46:42 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: leftlake ($372.24 in chips) 
+Seat 3: imactually12 ($669.20 in chips) 
+Seat 4: Dom92 ($236 in chips) 
+Seat 5: mikimiki88 ($624.02 in chips) 
+Seat 6: rocks50 ($979.03 in chips) 
+Dom92: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+rocks50: folds 
+leftlake: folds 
+imactually12: raises $6 to $12
+Dom92: folds 
+mikimiki88: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $15 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: leftlake folded before Flop (didn't bet)
+Seat 3: imactually12 (button) collected ($15)
+Seat 4: Dom92 (small blind) folded before Flop
+Seat 5: mikimiki88 (big blind) folded before Flop
+Seat 6: rocks50 folded before Flop (didn't bet)
+
+
+PokerStars Game #102631777024:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:46:58 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: leftlake ($372.24 in chips) 
+Seat 3: imactually12 ($678.20 in chips) 
+Seat 4: Dom92 ($233 in chips) 
+Seat 5: mikimiki88 ($618.02 in chips) 
+Seat 6: rocks50 ($979.03 in chips) 
+mikimiki88: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+leftlake: raises $6 to $12
+imactually12: raises $30 to $42
+Dom92: folds 
+mikimiki88: folds 
+rocks50: folds 
+leftlake: calls $30
+*** FLOP *** [Th 7s 6h]
+leftlake: checks 
+imactually12: checks 
+*** TURN *** [Th 7s 6h] [Tc]
+leftlake: checks 
+imactually12: bets $51
+leftlake: raises $63 to $114
+imactually12: calls $63
+*** RIVER *** [Th 7s 6h Tc] [6d]
+leftlake: bets $216.24 and is all-in
+imactually12: folds 
+Uncalled bet ($216.24) returned to leftlake
+leftlake collected $318.20 from pot
+*** SUMMARY ***
+Total pot $321 | Rake $2.80 
+Board [Th 7s 6h Tc 6d]
+Seat 1: leftlake collected ($318.20)
+Seat 3: imactually12 folded on the River
+Seat 4: Dom92 (button) folded before Flop (didn't bet)
+Seat 5: mikimiki88 (small blind) folded before Flop
+Seat 6: rocks50 (big blind) folded before Flop
+
+
+PokerStars Game #102631845049:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:48:53 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: leftlake ($534.44 in chips) 
+Seat 3: imactually12 ($600 in chips) 
+Seat 4: Dom92 ($233 in chips) 
+Seat 5: mikimiki88 ($615.02 in chips) 
+Seat 6: rocks50 ($973.03 in chips) 
+rocks50: posts small blind $3
+leftlake: posts big blind $6
+zartrüssel: sits out 
+*** HOLE CARDS ***
+imactually12: folds 
+Dom92: folds 
+mikimiki88: folds 
+rocks50: folds 
+Uncalled bet ($3) returned to leftlake
+leftlake collected $6 from pot
+leftlake: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: leftlake (big blind) collected ($6)
+Seat 3: imactually12 folded before Flop (didn't bet)
+Seat 4: Dom92 folded before Flop (didn't bet)
+Seat 5: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 6: rocks50 (small blind) folded before Flop
+
+
+PokerStars Game #102631861107:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:49:20 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: leftlake ($537.44 in chips) 
+Seat 2: zartrüssel ($601.65 in chips) 
+Seat 3: imactually12 ($600 in chips) 
+Seat 4: Dom92 ($233 in chips) 
+Seat 5: mikimiki88 ($615.02 in chips) 
+Seat 6: rocks50 ($970.03 in chips) 
+leftlake: posts small blind $3
+zartrüssel: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $9 to $15
+Dom92: folds 
+mikimiki88: folds 
+rocks50: folds 
+leftlake: folds 
+zartrüssel: folds 
+Uncalled bet ($9) returned to imactually12
+imactually12 collected $15 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: leftlake (small blind) folded before Flop
+Seat 2: zartrüssel (big blind) folded before Flop
+Seat 3: imactually12 collected ($15)
+Seat 4: Dom92 folded before Flop (didn't bet)
+Seat 5: mikimiki88 folded before Flop (didn't bet)
+Seat 6: rocks50 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102631877127:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:49:48 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: leftlake ($534.44 in chips) 
+Seat 2: zartrüssel ($600 in chips) 
+Seat 3: imactually12 ($609 in chips) 
+Seat 4: Dom92 ($233 in chips) 
+Seat 5: mikimiki88 ($615.02 in chips) 
+Seat 6: rocks50 ($970.03 in chips) 
+zartrüssel: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+Dom92: folds 
+mikimiki88: folds 
+rocks50: folds 
+leftlake: folds 
+zartrüssel: folds 
+Uncalled bet ($3) returned to imactually12
+imactually12 collected $6 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: leftlake (button) folded before Flop (didn't bet)
+Seat 2: zartrüssel (small blind) folded before Flop
+Seat 3: imactually12 (big blind) collected ($6)
+Seat 4: Dom92 folded before Flop (didn't bet)
+Seat 5: mikimiki88 folded before Flop (didn't bet)
+Seat 6: rocks50 folded before Flop (didn't bet)
+
+
+PokerStars Game #102631539969:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:40:18 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #6 is the button
+Seat 2: zartrüssel ($600 in chips) 
+Seat 3: imactually12 ($600 in chips) 
+Seat 4: iznak ($249 in chips) 
+Seat 5: mikimiki88 ($600 in chips) 
+Seat 6: rocks50 ($1018.03 in chips) 
+zartrüssel: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+iznak: folds 
+iznak leaves the table
+mikimiki88: raises $6 to $12
+rocks50: folds 
+zartrüssel: folds 
+imactually12: calls $6
+*** FLOP *** [6d 7d Ks]
+imactually12: checks 
+Dom92 joins the table at seat #4 
+mikimiki88: bets $21.13
+imactually12: folds 
+Uncalled bet ($21.13) returned to mikimiki88
+mikimiki88 collected $25.78 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [6d 7d Ks]
+Seat 2: zartrüssel (small blind) folded before Flop
+Seat 3: imactually12 (big blind) folded on the Flop
+Seat 4: iznak folded before Flop (didn't bet)
+Seat 5: mikimiki88 collected ($25.78)
+Seat 6: rocks50 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102631566261:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:41:02 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: zartrüssel ($600 in chips) 
+Seat 3: imactually12 ($600 in chips) 
+Seat 4: Dom92 ($350 in chips) 
+Seat 5: mikimiki88 ($613.78 in chips) 
+Seat 6: rocks50 ($1018.03 in chips) 
+imactually12: posts small blind $3
+Dom92: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+rocks50: folds 
+zartrüssel: raises $6 to $12
+imactually12: calls $9
+Dom92: calls $6
+*** FLOP *** [6c 2c 5h]
+imactually12: bets $21
+Dom92: calls $21
+zartrüssel: folds 
+*** TURN *** [6c 2c 5h] [4s]
+imactually12: checks 
+Dom92: bets $36
+imactually12: calls $36
+*** RIVER *** [6c 2c 5h 4s] [2d]
+imactually12: checks 
+Dom92: checks 
+*** SHOW DOWN ***
+imactually12: shows [6d 6s] (a full house, Sixes full of Deuces)
+Dom92: mucks hand 
+imactually12 collected $147.20 from pot
+*** SUMMARY ***
+Total pot $150 | Rake $2.80 
+Board [6c 2c 5h 4s 2d]
+Seat 2: zartrüssel (button) folded on the Flop
+Seat 3: imactually12 (small blind) showed [6d 6s] and won ($147.20) with a full house, Sixes full of Deuces
+Seat 4: Dom92 (big blind) mucked
+Seat 5: mikimiki88 folded before Flop (didn't bet)
+Seat 6: rocks50 folded before Flop (didn't bet)
+
+
+PokerStars Game #102631615715:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:42:26 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #3 is the button
+Seat 2: zartrüssel ($600 in chips) 
+Seat 3: imactually12 ($678.20 in chips) 
+Seat 4: Dom92 ($281 in chips) 
+Seat 5: mikimiki88 ($613.78 in chips) 
+Seat 6: rocks50 ($1018.03 in chips) 
+Dom92: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+Dom92 said, "what a jk"
+rocks50: folds 
+zartrüssel: raises $6 to $12
+imactually12: folds 
+imactually12 said, "hmm?"
+leftlake joins the table at seat #1 
+Dom92: calls $9
+mikimiki88: folds 
+*** FLOP *** [Qd 5s Kh]
+Dom92: checks 
+zartrüssel: checks 
+*** TURN *** [Qd 5s Kh] [6s]
+Dom92: checks 
+imactually12 said, "where u from in canada dom?"
+zartrüssel: bets $21
+Dom92: folds 
+Uncalled bet ($21) returned to zartrüssel
+zartrüssel collected $28.65 from pot
+zartrüssel: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [Qd 5s Kh 6s]
+Seat 2: zartrüssel collected ($28.65)
+Seat 3: imactually12 (button) folded before Flop (didn't bet)
+Seat 4: Dom92 (small blind) folded on the Turn
+Seat 5: mikimiki88 (big blind) folded before Flop
+Seat 6: rocks50 folded before Flop (didn't bet)
+
+
+PokerStars Game #102631641864:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:43:10 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #4 is the button
+Seat 2: zartrüssel ($616.65 in chips) 
+Seat 3: imactually12 ($678.20 in chips) 
+Seat 4: Dom92 ($269 in chips) 
+Seat 5: mikimiki88 ($607.78 in chips) 
+Seat 6: rocks50 ($1018.03 in chips) 
+mikimiki88: posts small blind $3
+rocks50: posts big blind $6
+leftlake: sits out 
+*** HOLE CARDS ***
+zartrüssel: raises $9 to $15
+imactually12: folds 
+Dom92: calls $15
+mikimiki88: folds 
+Dom92 said, "maple"
+rocks50: raises $51 to $66
+zartrüssel: folds 
+imactually12 said, "wheres that?"
+Dom92: folds 
+Uncalled bet ($51) returned to rocks50
+rocks50 collected $48 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $48 | Rake $0 
+Seat 2: zartrüssel folded before Flop
+Seat 3: imactually12 folded before Flop (didn't bet)
+Seat 4: Dom92 (button) folded before Flop
+Seat 5: mikimiki88 (small blind) folded before Flop
+Seat 6: rocks50 (big blind) collected ($48)
+
+
+PokerStars Game #102631653940:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:43:30 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: leftlake ($297.04 in chips) 
+Seat 2: zartrüssel ($601.65 in chips) 
+Seat 3: imactually12 ($678.20 in chips) 
+Seat 4: Dom92 ($254 in chips) 
+Seat 5: mikimiki88 ($604.78 in chips) 
+Seat 6: rocks50 ($1051.03 in chips) 
+rocks50: posts small blind $3
+leftlake: posts big blind $6
+*** HOLE CARDS ***
+zartrüssel: folds 
+imactually12: folds 
+Dom92: folds 
+mikimiki88: folds 
+rocks50: raises $12 to $18
+Dom92 said, "little north of toronto"
+leftlake: raises $12 to $30
+rocks50: calls $12
+*** FLOP *** [Qh Jh 9h]
+imactually12 said, "nice im in peterborough"
+rocks50: checks 
+imactually12 said, "hr north of TO"
+leftlake: bets $30
+Dom92 said, "rice lake"
+imactually12 said, "yeah rice lake is here"
+Dom92 said, "i fish there"
+rocks50: calls $30
+*** TURN *** [Qh Jh 9h] [4c]
+Dom92 said, "nice"
+rocks50: checks 
+imactually12 said, "oh nice"
+leftlake: bets $54
+rocks50: folds 
+Uncalled bet ($54) returned to leftlake
+leftlake collected $117.20 from pot
+leftlake: doesn't show hand 
+*** SUMMARY ***
+Total pot $120 | Rake $2.80 
+Board [Qh Jh 9h 4c]
+Seat 1: leftlake (big blind) collected ($117.20)
+Seat 2: zartrüssel folded before Flop (didn't bet)
+Seat 3: imactually12 folded before Flop (didn't bet)
+Seat 4: Dom92 folded before Flop (didn't bet)
+Seat 5: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 6: rocks50 (small blind) folded on the Turn
+
+
+PokerStars Game #102631441372:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:37:32 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Dom92 ($420.83 in chips) 
+Seat 2: zartrüssel ($600 in chips) 
+Seat 3: imactually12 ($600 in chips) 
+Seat 4: iznak ($240 in chips) 
+Seat 5: mikimiki88 ($600 in chips) 
+Seat 6: rocks50 ($600 in chips) 
+mikimiki88: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+Dom92: raises $12 to $18
+zartrüssel: folds 
+imactually12: folds 
+iznak: folds 
+mikimiki88: folds 
+rocks50: raises $36 to $54
+Dom92: calls $36
+*** FLOP *** [2d 2c 5c]
+rocks50: bets $42
+Dom92: calls $42
+*** TURN *** [2d 2c 5c] [4d]
+rocks50: bets $86
+Dom92: calls $86
+*** RIVER *** [2d 2c 5c 4d] [8c]
+rocks50: bets $246
+Dom92: calls $238.83 and is all-in
+Uncalled bet ($7.17) returned to rocks50
+*** SHOW DOWN ***
+rocks50: shows [Ad As] (two pair, Aces and Deuces)
+Dom92: shows [Td Ts] (two pair, Tens and Deuces)
+rocks50 collected $841.86 from pot
+*** SUMMARY ***
+Total pot $844.66 | Rake $2.80 
+Board [2d 2c 5c 4d 8c]
+Seat 1: Dom92 showed [Td Ts] and lost with two pair, Tens and Deuces
+Seat 2: zartrüssel folded before Flop (didn't bet)
+Seat 3: imactually12 folded before Flop (didn't bet)
+Seat 4: iznak (button) folded before Flop (didn't bet)
+Seat 5: mikimiki88 (small blind) folded before Flop
+Seat 6: rocks50 (big blind) showed [Ad As] and won ($841.86) with two pair, Aces and Deuces
+
+
+PokerStars Game #102631525267:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:39:53 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: zartrüssel ($600 in chips) 
+Seat 3: imactually12 ($600 in chips) 
+Seat 4: iznak ($240 in chips) 
+Seat 5: mikimiki88 ($600 in chips) 
+Seat 6: rocks50 ($1021.03 in chips) 
+rocks50: posts small blind $3
+zartrüssel: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+Dom92 leaves the table
+iznak: raises $6.87 to $12.87
+mikimiki88: folds 
+rocks50: folds 
+zartrüssel: folds 
+Uncalled bet ($6.87) returned to iznak
+iznak collected $15 from pot
+iznak: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: zartrüssel (big blind) folded before Flop
+Seat 3: imactually12 folded before Flop (didn't bet)
+Seat 4: iznak collected ($15)
+Seat 5: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 6: rocks50 (small blind) folded before Flop
+
+
+PokerStars Game #102632060995:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:55:06 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: leftlake ($483.44 in chips) 
+Seat 2: zartrüssel ($699.20 in chips) 
+Seat 3: imactually12 ($600 in chips) 
+Seat 4: Dom92 ($410.20 in chips) 
+Seat 5: mikimiki88 ($615.02 in chips) 
+zartrüssel: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+Dom92: folds 
+mikimiki88: folds 
+leftlake: folds 
+zartrüssel: folds 
+Uncalled bet ($3) returned to imactually12
+imactually12 collected $6 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: leftlake (button) folded before Flop (didn't bet)
+Seat 2: zartrüssel (small blind) folded before Flop
+Seat 3: imactually12 (big blind) collected ($6)
+Seat 4: Dom92 folded before Flop (didn't bet)
+Seat 5: mikimiki88 folded before Flop (didn't bet)
+
+
+PokerStars Game #102632068953:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:55:23 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: leftlake ($483.44 in chips) 
+Seat 2: zartrüssel ($696.20 in chips) 
+Seat 3: imactually12 ($603 in chips) 
+Seat 4: Dom92 ($410.20 in chips) 
+Seat 5: mikimiki88 ($615.02 in chips) 
+imactually12: posts small blind $3
+Dom92: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+leftlake: raises $12 to $18
+zartrüssel: calls $18
+imactually12: folds 
+Dom92: folds 
+*** FLOP *** [3s Jh 7d]
+leftlake: checks 
+zartrüssel: bets $21
+leftlake: calls $21
+*** TURN *** [3s Jh 7d] [2d]
+leftlake: checks 
+zartrüssel: bets $45
+leftlake: calls $45
+*** RIVER *** [3s Jh 7d 2d] [8h]
+leftlake: checks 
+zartrüssel: checks 
+*** SHOW DOWN ***
+leftlake: shows [4c 4h] (a pair of Fours)
+zartrüssel: shows [9h 9c] (a pair of Nines)
+zartrüssel collected $174.20 from pot
+*** SUMMARY ***
+Total pot $177 | Rake $2.80 
+Board [3s Jh 7d 2d 8h]
+Seat 1: leftlake showed [4c 4h] and lost with a pair of Fours
+Seat 2: zartrüssel (button) showed [9h 9c] and won ($174.20) with a pair of Nines
+Seat 3: imactually12 (small blind) folded before Flop
+Seat 4: Dom92 (big blind) folded before Flop
+Seat 5: mikimiki88 folded before Flop (didn't bet)
+
+
+PokerStars Game #102632101214:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:56:37 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: leftlake ($399.44 in chips) 
+Seat 2: zartrüssel ($786.40 in chips) 
+Seat 3: imactually12 ($600 in chips) 
+Seat 4: Dom92 ($404.20 in chips) 
+Seat 6: rocks50 ($811.03 in chips) 
+Dom92: posts small blind $3
+mikimiki88: is sitting out 
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+leftlake: folds 
+zartrüssel: folds 
+imactually12: raises $6 to $12
+Dom92: folds 
+rocks50: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $15 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: leftlake folded before Flop (didn't bet)
+Seat 2: zartrüssel folded before Flop (didn't bet)
+Seat 3: imactually12 (button) collected ($15)
+Seat 4: Dom92 (small blind) folded before Flop
+Seat 6: rocks50 (big blind) folded before Flop
+
+
+PokerStars Game #102632107109:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:56:50 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: leftlake ($399.44 in chips) 
+Seat 2: zartrüssel ($786.40 in chips) 
+Seat 3: imactually12 ($609 in chips) 
+Seat 4: Dom92 ($401.20 in chips) 
+Seat 6: rocks50 ($805.03 in chips) 
+rocks50: posts small blind $3
+leftlake: posts big blind $6
+*** HOLE CARDS ***
+zartrüssel: folds 
+imactually12: folds 
+Dom92: folds 
+rocks50: folds 
+Uncalled bet ($3) returned to leftlake
+leftlake collected $6 from pot
+leftlake: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: leftlake (big blind) collected ($6)
+Seat 2: zartrüssel folded before Flop (didn't bet)
+Seat 3: imactually12 folded before Flop (didn't bet)
+Seat 4: Dom92 (button) folded before Flop (didn't bet)
+Seat 6: rocks50 (small blind) folded before Flop
+
+
+PokerStars Game #102632117866:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:57:14 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: leftlake ($402.44 in chips) 
+Seat 2: zartrüssel ($786.40 in chips) 
+Seat 3: imactually12 ($609 in chips) 
+Seat 4: Dom92 ($401.20 in chips) 
+Seat 6: rocks50 ($802.03 in chips) 
+leftlake: posts small blind $3
+zartrüssel: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+Dom92: raises $12 to $18
+rocks50: folds 
+leftlake: folds 
+zartrüssel: folds 
+Uncalled bet ($12) returned to Dom92
+Dom92 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: leftlake (small blind) folded before Flop
+Seat 2: zartrüssel (big blind) folded before Flop
+Seat 3: imactually12 folded before Flop (didn't bet)
+Seat 4: Dom92 collected ($15)
+Seat 6: rocks50 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102632123403:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:57:26 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: leftlake ($399.44 in chips) 
+Seat 2: zartrüssel ($780.40 in chips) 
+Seat 3: imactually12 ($609 in chips) 
+Seat 4: Dom92 ($410.20 in chips) 
+Seat 6: rocks50 ($802.03 in chips) 
+zartrüssel: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+Dom92: raises $12 to $18
+rocks50: calls $18
+leftlake: calls $18
+zartrüssel: raises $72 to $90
+imactually12: folds 
+Dom92: calls $72
+rocks50: folds 
+leftlake: calls $72
+*** FLOP *** [4h 4c Td]
+zartrüssel: checks 
+Dom92: bets $84
+leftlake: folds 
+zartrüssel: folds 
+Uncalled bet ($84) returned to Dom92
+Dom92 collected $291.20 from pot
+*** SUMMARY ***
+Total pot $294 | Rake $2.80 
+Board [4h 4c Td]
+Seat 1: leftlake (button) folded on the Flop
+Seat 2: zartrüssel (small blind) folded on the Flop
+Seat 3: imactually12 (big blind) folded before Flop
+Seat 4: Dom92 collected ($291.20)
+Seat 6: rocks50 folded before Flop
+
+
+PokerStars Game #102632156596:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:58:42 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: leftlake ($309.44 in chips) 
+Seat 2: zartrüssel ($690.40 in chips) 
+Seat 3: imactually12 ($603 in chips) 
+Seat 4: Dom92 ($611.40 in chips) 
+Seat 6: rocks50 ($784.03 in chips) 
+imactually12: posts small blind $3
+Dom92: posts big blind $6
+*** HOLE CARDS ***
+rocks50: folds 
+leftlake: raises $12 to $18
+zartrüssel: folds 
+imactually12: folds 
+Dom92: folds 
+Uncalled bet ($12) returned to leftlake
+leftlake collected $15 from pot
+leftlake: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: leftlake collected ($15)
+Seat 2: zartrüssel (button) folded before Flop (didn't bet)
+Seat 3: imactually12 (small blind) folded before Flop
+Seat 4: Dom92 (big blind) folded before Flop
+Seat 6: rocks50 folded before Flop (didn't bet)
+
+
+PokerStars Game #102632165425:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:59:02 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: leftlake ($318.44 in chips) 
+Seat 2: zartrüssel ($690.40 in chips) 
+Seat 3: imactually12 ($600 in chips) 
+Seat 4: Dom92 ($605.40 in chips) 
+Dom92: posts small blind $3
+rocks50: is sitting out 
+leftlake: posts big blind $6
+*** HOLE CARDS ***
+zartrüssel: folds 
+imactually12: folds 
+Dom92: calls $3
+leftlake: raises $12 to $18
+Dom92: calls $12
+*** FLOP *** [2c Kd 4s]
+Dom92: checks 
+leftlake: bets $18
+Dom92: calls $18
+*** TURN *** [2c Kd 4s] [Ah]
+Dom92: checks 
+leftlake: checks 
+*** RIVER *** [2c Kd 4s Ah] [7h]
+Dom92: bets $30
+leftlake: calls $30
+*** SHOW DOWN ***
+Dom92: shows [Ac 3h] (a pair of Aces)
+leftlake: mucks hand 
+Dom92 collected $130.50 from pot
+*** SUMMARY ***
+Total pot $132 | Rake $1.50 
+Board [2c Kd 4s Ah 7h]
+Seat 1: leftlake (big blind) mucked
+Seat 2: zartrüssel folded before Flop (didn't bet)
+Seat 3: imactually12 (button) folded before Flop (didn't bet)
+Seat 4: Dom92 (small blind) showed [Ac 3h] and won ($130.50) with a pair of Aces
+
+
+PokerStars Game #102632178700:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:59:32 ET
+Table 'Sagittarius VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: leftlake ($252.44 in chips) 
+Seat 2: zartrüssel ($690.40 in chips) 
+Seat 3: imactually12 ($600 in chips) 
+Seat 4: Dom92 ($669.90 in chips) 
+leftlake: posts small blind $3
+zartrüssel: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+Dom92: raises $6 to $12
+leftlake: calls $9
+zartrüssel: folds 
+*** FLOP *** [7s Kh 2h]
+leftlake: checks 
+Dom92: checks 
+*** TURN *** [7s Kh 2h] [6h]
+leftlake: checks 
+Dom92: bets $18
+leftlake: folds 
+Uncalled bet ($18) returned to Dom92
+Dom92 collected $28.65 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [7s Kh 2h 6h]
+Seat 1: leftlake (small blind) folded on the Turn
+Seat 2: zartrüssel (big blind) folded before Flop
+Seat 3: imactually12 folded before Flop (didn't bet)
+Seat 4: Dom92 (button) collected ($28.65)

@@ -1,0 +1,2651 @@
+
+
+PokerStars Game #102630351037:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:08:11 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($600 in chips) 
+Seat 4: rocks50 ($600 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: raises $36 to $48
+imactually12: folds 
+Uncalled bet ($36) returned to rocks50
+rocks50 collected $24 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: imactually12 (button) (small blind) folded before Flop
+Seat 4: rocks50 (big blind) collected ($24)
+
+
+PokerStars Game #102630361357:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:08:27 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($600 in chips) 
+Seat 4: rocks50 ($612 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $12 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (big blind) folded before Flop
+Seat 4: rocks50 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102630370667:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:08:42 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($600 in chips) 
+Seat 4: rocks50 ($618 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (button) (small blind) collected ($12)
+Seat 4: rocks50 (big blind) folded before Flop
+
+
+PokerStars Game #102630375626:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:08:49 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($606 in chips) 
+Seat 4: rocks50 ($612 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $12 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (big blind) folded before Flop
+Seat 4: rocks50 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102630381241:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:08:58 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($600 in chips) 
+Seat 4: rocks50 ($618 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: raises $36 to $48
+imactually12: calls $36
+*** FLOP *** [2s 3h Kc]
+rocks50: bets $54
+imactually12: folds 
+Uncalled bet ($54) returned to rocks50
+rocks50 collected $95.50 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $96 | Rake $0.50 
+Board [2s 3h Kc]
+Seat 1: imactually12 (button) (small blind) folded on the Flop
+Seat 4: rocks50 (big blind) collected ($95.50)
+
+
+PokerStars Game #102630395389:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:09:21 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($600 in chips) 
+Seat 4: rocks50 ($665.50 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+imactually12: raises $30 to $42
+rocks50: calls $30
+*** FLOP *** [7d Ks 8d]
+imactually12: checks 
+rocks50: checks 
+*** TURN *** [7d Ks 8d] [Kd]
+imactually12: bets $60
+rocks50: folds 
+Uncalled bet ($60) returned to imactually12
+imactually12 collected $83.50 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $84 | Rake $0.50 
+Board [7d Ks 8d Kd]
+Seat 1: imactually12 (big blind) collected ($83.50)
+Seat 4: rocks50 (button) (small blind) folded on the Turn
+
+
+PokerStars Game #102630413354:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:09:49 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($641.50 in chips) 
+Seat 4: rocks50 ($623.50 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: calls $6
+*** FLOP *** [Kh Qc Jd]
+rocks50: checks 
+imactually12: bets $18
+rocks50: folds 
+Uncalled bet ($18) returned to imactually12
+imactually12 collected $23.50 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Kh Qc Jd]
+Seat 1: imactually12 (button) (small blind) collected ($23.50)
+Seat 4: rocks50 (big blind) folded on the Flop
+
+
+PokerStars Game #102631011877:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:25:45 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: imactually12 ($843.28 in chips) 
+Seat 2: Subv ($645 in chips) 
+Seat 3: JMBigJoe ($619.50 in chips) 
+Seat 4: rocks50 ($610.75 in chips) 
+Seat 5: barrao ($240 in chips) 
+rocks50: posts small blind $3
+barrao: posts big blind $6
+S_Enslaver: sits out 
+*** HOLE CARDS ***
+imactually12: raises $9 to $15
+Subv: folds 
+JMBigJoe: folds 
+rocks50: folds 
+barrao: folds 
+Uncalled bet ($9) returned to imactually12
+imactually12 collected $15 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: imactually12 collected ($15)
+Seat 2: Subv folded before Flop (didn't bet)
+Seat 3: JMBigJoe (button) folded before Flop (didn't bet)
+Seat 4: rocks50 (small blind) folded before Flop
+Seat 5: barrao (big blind) folded before Flop
+
+
+PokerStars Game #102631024197:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:26:05 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($852.28 in chips) 
+Seat 2: Subv ($645 in chips) 
+Seat 3: JMBigJoe ($619.50 in chips) 
+Seat 4: rocks50 ($607.75 in chips) 
+Seat 5: barrao ($234 in chips) 
+Seat 6: S_Enslaver ($600 in chips) 
+barrao: posts small blind $3
+S_Enslaver: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+Subv: folds 
+JMBigJoe: folds 
+rocks50: raises $6 to $12
+barrao: raises $30 to $42
+S_Enslaver: folds 
+rocks50: raises $558 to $600
+barrao: calls $192 and is all-in
+Uncalled bet ($366) returned to rocks50
+*** FLOP *** [9h Js 6s]
+*** TURN *** [9h Js 6s] [4c]
+*** RIVER *** [9h Js 6s 4c] [4s]
+*** SHOW DOWN ***
+barrao: shows [Kd Ac] (a pair of Fours)
+rocks50: mucks hand 
+barrao collected $471.20 from pot
+*** SUMMARY ***
+Total pot $474 | Rake $2.80 
+Board [9h Js 6s 4c 4s]
+Seat 1: imactually12 folded before Flop (didn't bet)
+Seat 2: Subv folded before Flop (didn't bet)
+Seat 3: JMBigJoe folded before Flop (didn't bet)
+Seat 4: rocks50 (button) mucked
+Seat 5: barrao (small blind) showed [Kd Ac] and won ($471.20) with a pair of Fours
+Seat 6: S_Enslaver (big blind) folded before Flop
+
+
+PokerStars Game #102631050115:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:26:47 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: imactually12 ($852.28 in chips) 
+Seat 2: Subv ($645 in chips) 
+Seat 3: JMBigJoe ($619.50 in chips) 
+Seat 4: rocks50 ($600 in chips) 
+Seat 5: barrao ($471.20 in chips) 
+Seat 6: S_Enslaver ($600 in chips) 
+S_Enslaver: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+Subv: folds 
+JMBigJoe: raises $12 to $18
+rocks50: folds 
+barrao: folds 
+S_Enslaver: folds 
+imactually12: folds 
+Uncalled bet ($12) returned to JMBigJoe
+JMBigJoe collected $15 from pot
+JMBigJoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: imactually12 (big blind) folded before Flop
+Seat 2: Subv folded before Flop (didn't bet)
+Seat 3: JMBigJoe collected ($15)
+Seat 4: rocks50 folded before Flop (didn't bet)
+Seat 5: barrao (button) folded before Flop (didn't bet)
+Seat 6: S_Enslaver (small blind) folded before Flop
+
+
+PokerStars Game #102631071520:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:27:22 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: imactually12 ($846.28 in chips) 
+Seat 3: JMBigJoe ($628.50 in chips) 
+Seat 4: rocks50 ($600 in chips) 
+Seat 5: barrao ($471.20 in chips) 
+Seat 6: S_Enslaver ($600 in chips) 
+imactually12: posts small blind $3
+Subv: is sitting out 
+Subv leaves the table
+JMBigJoe: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $12 to $18
+barrao: folds 
+S_Enslaver: folds 
+imactually12: folds 
+JMBigJoe: folds 
+Uncalled bet ($12) returned to rocks50
+rocks50 collected $15 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: imactually12 (small blind) folded before Flop
+Seat 3: JMBigJoe (big blind) folded before Flop
+Seat 4: rocks50 collected ($15)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: S_Enslaver (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102631084174:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:27:43 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($843.28 in chips) 
+Seat 3: JMBigJoe ($622.50 in chips) 
+Seat 4: rocks50 ($609 in chips) 
+Seat 5: barrao ($471.20 in chips) 
+Seat 6: S_Enslaver ($600 in chips) 
+JMBigJoe: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+barrao: raises $9 to $15
+S_Enslaver: raises $33 to $48
+imactually12: folds 
+JMBigJoe: folds 
+rocks50: folds 
+barrao: folds 
+Uncalled bet ($33) returned to S_Enslaver
+S_Enslaver collected $39 from pot
+*** SUMMARY ***
+Total pot $39 | Rake $0 
+Seat 1: imactually12 (button) folded before Flop (didn't bet)
+Seat 3: JMBigJoe (small blind) folded before Flop
+Seat 4: rocks50 (big blind) folded before Flop
+Seat 5: barrao folded before Flop
+Seat 6: S_Enslaver collected ($39)
+
+
+PokerStars Game #102631098662:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:28:07 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: imactually12 ($843.28 in chips) 
+Seat 3: JMBigJoe ($619.50 in chips) 
+Seat 4: rocks50 ($603 in chips) 
+Seat 5: barrao ($456.20 in chips) 
+Seat 6: S_Enslaver ($624 in chips) 
+rocks50: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+S_Enslaver: folds 
+imactually12: folds 
+JMBigJoe: folds 
+rocks50: folds 
+Uncalled bet ($3) returned to barrao
+barrao collected $6 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: imactually12 folded before Flop (didn't bet)
+Seat 3: JMBigJoe (button) folded before Flop (didn't bet)
+Seat 4: rocks50 (small blind) folded before Flop
+Seat 5: barrao (big blind) collected ($6)
+Seat 6: S_Enslaver folded before Flop (didn't bet)
+
+
+PokerStars Game #102631105041:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:28:17 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($843.28 in chips) 
+Seat 3: JMBigJoe ($619.50 in chips) 
+Seat 4: rocks50 ($600 in chips) 
+Seat 5: barrao ($459.20 in chips) 
+barrao: posts small blind $3
+S_Enslaver: is sitting out 
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+JMBigJoe: folds 
+S_Enslaver leaves the table
+rocks50: raises $6 to $12
+barrao: folds 
+imactually12: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $15 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: imactually12 (big blind) folded before Flop
+Seat 3: JMBigJoe folded before Flop (didn't bet)
+Seat 4: rocks50 (button) collected ($15)
+Seat 5: barrao (small blind) folded before Flop
+
+
+PokerStars Game #102631122914:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:28:46 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: imactually12 ($837.28 in chips) 
+Seat 4: rocks50 ($609 in chips) 
+Seat 5: barrao ($456.20 in chips) 
+imactually12: posts small blind $3
+JMBigJoe: is sitting out 
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+JMBigJoe leaves the table
+barrao: folds 
+imactually12: folds 
+Uncalled bet ($3) returned to rocks50
+rocks50 collected $6 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: imactually12 (small blind) folded before Flop
+Seat 4: rocks50 (big blind) collected ($6)
+Seat 5: barrao (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102631128643:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:28:56 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($834.28 in chips) 
+Seat 4: rocks50 ($612 in chips) 
+Seat 5: barrao ($456.20 in chips) 
+rocks50: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+whollyflush joins the table at seat #3 
+rocks50: raises $36 to $48
+barrao: folds 
+imactually12: folds 
+Uncalled bet ($36) returned to rocks50
+rocks50 collected $30 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: imactually12 (button) folded before Flop
+Seat 4: rocks50 (small blind) collected ($30)
+Seat 5: barrao (big blind) folded before Flop
+
+
+PokerStars Game #102631139769:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:29:14 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($822.28 in chips) 
+Seat 4: rocks50 ($630 in chips) 
+Seat 5: barrao ($450.20 in chips) 
+barrao: posts small blind $3
+imactually12: posts big blind $6
+whollyflush: sits out 
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+barrao: folds 
+imactually12: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $15 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: imactually12 (big blind) folded before Flop
+Seat 4: rocks50 (button) collected ($15)
+Seat 5: barrao (small blind) folded before Flop
+
+
+PokerStars Game #102631147664:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:29:28 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: imactually12 ($816.28 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: rocks50 ($639 in chips) 
+Seat 5: barrao ($447.20 in chips) 
+imactually12: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+madsDal joins the table at seat #2 
+rocks50: folds 
+barrao: folds 
+laurenman joins the table at seat #6 
+imactually12: folds 
+Uncalled bet ($3) returned to whollyflush
+whollyflush collected $6 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: imactually12 (small blind) folded before Flop
+Seat 3: whollyflush (big blind) collected ($6)
+Seat 4: rocks50 folded before Flop (didn't bet)
+Seat 5: barrao (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102631159429:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:29:47 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($813.28 in chips) 
+Seat 3: whollyflush ($603 in chips) 
+Seat 4: rocks50 ($639 in chips) 
+Seat 5: barrao ($447.20 in chips) 
+madsDal will be allowed to play after the button
+whollyflush: posts small blind $3
+rocks50: posts big blind $6
+laurenman: sits out 
+*** HOLE CARDS ***
+barrao: folds 
+imactually12: raises $6 to $12
+whollyflush: folds 
+rocks50: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $15 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: imactually12 (button) collected ($15)
+Seat 3: whollyflush (small blind) folded before Flop
+Seat 4: rocks50 (big blind) folded before Flop
+Seat 5: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102630848620:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:21:22 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($838.50 in chips) 
+Seat 4: rocks50 ($622.75 in chips) 
+Seat 6: pirce ($266.76 in chips) 
+Subv will be allowed to play after the button
+rocks50: posts small blind $3
+pirce: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: folds 
+laurenman joins the table at seat #5 
+JMBigJoe joins the table at seat #3 
+pirce: calls $6
+*** FLOP *** [7d 5c Ac]
+pirce: checks 
+imactually12: checks 
+*** TURN *** [7d 5c Ac] [Th]
+pirce: checks 
+imactually12: checks 
+*** RIVER *** [7d 5c Ac Th] [3s]
+pirce: checks 
+imactually12: checks 
+*** SHOW DOWN ***
+pirce: shows [6h Jd] (high card Ace)
+imactually12: shows [Jc Qd] (high card Ace - Queen kicker)
+imactually12 collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [7d 5c Ac Th 3s]
+Seat 1: imactually12 (button) showed [Jc Qd] and won ($25.78) with high card Ace
+Seat 4: rocks50 (small blind) folded before Flop
+Seat 6: pirce (big blind) showed [6h Jd] and lost with high card Ace
+
+
+PokerStars Game #102630873189:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:22:01 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($852.28 in chips) 
+Seat 4: rocks50 ($619.75 in chips) 
+Seat 6: pirce ($254.76 in chips) 
+laurenman will be allowed to play after the button
+pirce: posts small blind $3
+imactually12: posts big blind $6
+Subv: sits out 
+JMBigJoe: sits out 
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+pirce: folds 
+imactually12: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $15 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: imactually12 (big blind) folded before Flop
+Seat 4: rocks50 (button) collected ($15)
+Seat 6: pirce (small blind) folded before Flop
+
+
+PokerStars Game #102630885286:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:22:20 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: imactually12 ($846.28 in chips) 
+Seat 2: Subv ($600 in chips) 
+Seat 4: rocks50 ($628.75 in chips) 
+Seat 6: pirce ($251.76 in chips) 
+imactually12: posts small blind $3
+Subv: posts big blind $6
+JMBigJoe: sits out 
+laurenman: sits out 
+*** HOLE CARDS ***
+rocks50: folds 
+pirce: calls $6
+imactually12: folds 
+Subv: checks 
+*** FLOP *** [6c 7s 2c]
+Subv: checks 
+pirce: bets $12
+Subv: calls $12
+*** TURN *** [6c 7s 2c] [7c]
+Subv: checks 
+pirce: checks 
+*** RIVER *** [6c 7s 2c 7c] [5s]
+Subv: bets $28.50
+pirce: calls $28.50
+*** SHOW DOWN ***
+Subv: shows [7d 8c] (three of a kind, Sevens)
+pirce: mucks hand 
+Subv collected $94.50 from pot
+*** SUMMARY ***
+Total pot $96 | Rake $1.50 
+Board [6c 7s 2c 7c 5s]
+Seat 1: imactually12 (small blind) folded before Flop
+Seat 2: Subv (big blind) showed [7d 8c] and won ($94.50) with three of a kind, Sevens
+Seat 4: rocks50 folded before Flop (didn't bet)
+Seat 6: pirce (button) mucked
+
+
+PokerStars Game #102630949289:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:24:03 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($843.28 in chips) 
+Seat 2: Subv ($648 in chips) 
+Seat 3: JMBigJoe ($600 in chips) 
+Seat 4: rocks50 ($628.75 in chips) 
+Seat 6: pirce ($205.26 in chips) 
+Subv: posts small blind $3
+JMBigJoe: posts big blind $6
+laurenman: sits out 
+*** HOLE CARDS ***
+rocks50: folds 
+pirce: folds 
+imactually12: folds 
+Subv: folds 
+Uncalled bet ($3) returned to JMBigJoe
+JMBigJoe collected $6 from pot
+JMBigJoe: doesn't show hand 
+pirce leaves the table
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: imactually12 (button) folded before Flop (didn't bet)
+Seat 2: Subv (small blind) folded before Flop
+Seat 3: JMBigJoe (big blind) collected ($6)
+Seat 4: rocks50 folded before Flop (didn't bet)
+Seat 6: pirce folded before Flop (didn't bet)
+
+
+PokerStars Game #102630958889:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:24:19 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: imactually12 ($843.28 in chips) 
+Seat 2: Subv ($645 in chips) 
+Seat 3: JMBigJoe ($603 in chips) 
+Seat 4: rocks50 ($628.75 in chips) 
+JMBigJoe: posts small blind $3
+rocks50: posts big blind $6
+laurenman: sits out 
+*** HOLE CARDS ***
+imactually12: folds 
+Subv: folds 
+S_Enslaver joins the table at seat #6 
+JMBigJoe: raises $12 to $18
+rocks50: calls $12
+*** FLOP *** [Th 9h 7d]
+laurenman leaves the table
+JMBigJoe: checks 
+rocks50: checks 
+*** TURN *** [Th 9h 7d] [7h]
+JMBigJoe: checks 
+rocks50: checks 
+*** RIVER *** [Th 9h 7d 7h] [Ac]
+JMBigJoe: bets $24.15
+barrao joins the table at seat #5 
+rocks50: folds 
+Uncalled bet ($24.15) returned to JMBigJoe
+JMBigJoe collected $34.50 from pot
+JMBigJoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $1.50 
+Board [Th 9h 7d 7h Ac]
+Seat 1: imactually12 folded before Flop (didn't bet)
+Seat 2: Subv (button) folded before Flop (didn't bet)
+Seat 3: JMBigJoe (small blind) collected ($34.50)
+Seat 4: rocks50 (big blind) folded on the River
+
+
+PokerStars Game #102630830859:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:20:53 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($832.50 in chips) 
+Seat 4: rocks50 ($628.75 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (button) (small blind) collected ($12)
+Seat 4: rocks50 (big blind) folded before Flop
+
+
+PokerStars Game #102630835125:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:21:00 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($838.50 in chips) 
+Seat 4: rocks50 ($622.75 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $12 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (big blind) folded before Flop
+Seat 4: rocks50 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102630841873:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:21:11 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($832.50 in chips) 
+Seat 4: rocks50 ($628.75 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+Subv joins the table at seat #2 
+rocks50: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+pirce joins the table at seat #6 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (button) (small blind) collected ($12)
+Seat 4: rocks50 (big blind) folded before Flop
+
+
+PokerStars Game #102630625559:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:15:27 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($863.50 in chips) 
+Seat 4: rocks50 ($600 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: raises $36 to $48
+imactually12: folds 
+Uncalled bet ($36) returned to rocks50
+rocks50 collected $24 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: imactually12 (button) (small blind) folded before Flop
+Seat 4: rocks50 (big blind) collected ($24)
+
+
+PokerStars Game #102630632191:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:15:38 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($851.50 in chips) 
+Seat 4: rocks50 ($612 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+imactually12: raises $30 to $42
+rocks50: folds 
+Uncalled bet ($30) returned to imactually12
+imactually12 collected $24 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: imactually12 (big blind) collected ($24)
+Seat 4: rocks50 (button) (small blind) folded before Flop
+
+
+PokerStars Game #102630643265:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:15:55 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($863.50 in chips) 
+Seat 4: rocks50 ($600 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: calls $6
+*** FLOP *** [Kh Kd Ac]
+rocks50: checks 
+imactually12: checks 
+*** TURN *** [Kh Kd Ac] [Jc]
+rocks50: bets $16
+imactually12: calls $16
+*** RIVER *** [Kh Kd Ac Jc] [5c]
+rocks50: checks 
+imactually12: checks 
+*** SHOW DOWN ***
+rocks50: shows [3d Ah] (two pair, Aces and Kings)
+imactually12: shows [Ad Tc] (two pair, Aces and Kings)
+rocks50 collected $27.75 from pot
+imactually12 collected $27.75 from pot
+*** SUMMARY ***
+Total pot $56 | Rake $0.50 
+Board [Kh Kd Ac Jc 5c]
+Seat 1: imactually12 (button) (small blind) showed [Ad Tc] and won ($27.75) with two pair, Aces and Kings
+Seat 4: rocks50 (big blind) showed [3d Ah] and won ($27.75) with two pair, Aces and Kings
+
+
+PokerStars Game #102630661220:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:16:23 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($863.25 in chips) 
+Seat 4: rocks50 ($600 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+imactually12: calls $6
+*** FLOP *** [3d Tc 4s]
+imactually12: checks 
+rocks50: checks 
+*** TURN *** [3d Tc 4s] [2d]
+imactually12: bets $18
+rocks50: calls $18
+*** RIVER *** [3d Tc 4s 2d] [9h]
+imactually12: bets $42
+rocks50: calls $42
+*** SHOW DOWN ***
+imactually12: shows [8c 9s] (a pair of Nines)
+rocks50: shows [3c 2c] (two pair, Threes and Deuces)
+rocks50 collected $143.50 from pot
+*** SUMMARY ***
+Total pot $144 | Rake $0.50 
+Board [3d Tc 4s 2d 9h]
+Seat 1: imactually12 (big blind) showed [8c 9s] and lost with a pair of Nines
+Seat 4: rocks50 (button) (small blind) showed [3c 2c] and won ($143.50) with two pair, Threes and Deuces
+
+
+PokerStars Game #102630683442:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:16:58 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($791.25 in chips) 
+Seat 4: rocks50 ($671.50 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (button) (small blind) collected ($12)
+Seat 4: rocks50 (big blind) folded before Flop
+
+
+PokerStars Game #102630689623:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:17:08 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($797.25 in chips) 
+Seat 4: rocks50 ($665.50 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $12 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (big blind) folded before Flop
+Seat 4: rocks50 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102630693909:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:17:15 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($791.25 in chips) 
+Seat 4: rocks50 ($671.50 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (button) (small blind) collected ($12)
+Seat 4: rocks50 (big blind) folded before Flop
+
+
+PokerStars Game #102630701411:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:17:27 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($797.25 in chips) 
+Seat 4: rocks50 ($665.50 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $12 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (big blind) folded before Flop
+Seat 4: rocks50 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102630705121:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:17:32 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($791.25 in chips) 
+Seat 4: rocks50 ($671.50 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (button) (small blind) collected ($12)
+Seat 4: rocks50 (big blind) folded before Flop
+
+
+PokerStars Game #102630711223:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:17:42 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($797.25 in chips) 
+Seat 4: rocks50 ($665.50 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $12 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (big blind) folded before Flop
+Seat 4: rocks50 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102630716631:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:17:51 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($791.25 in chips) 
+Seat 4: rocks50 ($671.50 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: calls $6
+*** FLOP *** [Td 9h 8c]
+rocks50: checks 
+imactually12: checks 
+*** TURN *** [Td 9h 8c] [6h]
+rocks50: bets $18.72
+Subv joins the table at seat #2 
+imactually12: folds 
+Uncalled bet ($18.72) returned to rocks50
+rocks50 collected $23.50 from pot
+rocks50: doesn't show hand 
+Subv leaves the table
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Td 9h 8c 6h]
+Seat 1: imactually12 (button) (small blind) folded on the Turn
+Seat 4: rocks50 (big blind) collected ($23.50)
+
+
+PokerStars Game #102630734344:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:18:19 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($779.25 in chips) 
+Seat 4: rocks50 ($683 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $12 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (big blind) folded before Flop
+Seat 4: rocks50 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102630738648:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:18:25 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($773.25 in chips) 
+Seat 4: rocks50 ($689 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (button) (small blind) collected ($12)
+Seat 4: rocks50 (big blind) folded before Flop
+
+
+PokerStars Game #102630743787:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:18:34 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($779.25 in chips) 
+Seat 4: rocks50 ($683 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+imactually12: raises $30 to $42
+rocks50: raises $54 to $96
+imactually12: calls $54
+*** FLOP *** [5d 8h 8d]
+imactually12: checks 
+rocks50: bets $72
+imactually12: calls $72
+*** TURN *** [5d 8h 8d] [5s]
+imactually12: checks 
+rocks50: checks 
+*** RIVER *** [5d 8h 8d 5s] [Jc]
+imactually12: checks 
+rocks50: checks 
+*** SHOW DOWN ***
+imactually12: shows [Ad Qc] (two pair, Eights and Fives)
+rocks50: shows [6h As] (two pair, Eights and Fives)
+imactually12 collected $167.75 from pot
+rocks50 collected $167.75 from pot
+*** SUMMARY ***
+Total pot $336 | Rake $0.50 
+Board [5d 8h 8d 5s Jc]
+Seat 1: imactually12 (big blind) showed [Ad Qc] and won ($167.75) with two pair, Eights and Fives
+Seat 4: rocks50 (button) (small blind) showed [6h As] and won ($167.75) with two pair, Eights and Fives
+
+
+PokerStars Game #102630772968:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:19:20 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($779 in chips) 
+Seat 4: rocks50 ($682.75 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (button) (small blind) collected ($12)
+Seat 4: rocks50 (big blind) folded before Flop
+
+
+PokerStars Game #102630777346:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:19:27 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($785 in chips) 
+Seat 4: rocks50 ($676.75 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $12 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (big blind) folded before Flop
+Seat 4: rocks50 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102630780799:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:19:33 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($779 in chips) 
+Seat 4: rocks50 ($682.75 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: raises $36 to $48
+imactually12: folds 
+Uncalled bet ($36) returned to rocks50
+rocks50 collected $24 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: imactually12 (button) (small blind) folded before Flop
+Seat 4: rocks50 (big blind) collected ($24)
+
+
+PokerStars Game #102630788387:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:19:45 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($767 in chips) 
+Seat 4: rocks50 ($694.75 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+imactually12: calls $6
+*** FLOP *** [4c 3d 7d]
+imactually12: checks 
+rocks50: bets $17.15
+imactually12: raises $36.85 to $54
+rocks50: calls $36.85
+*** TURN *** [4c 3d 7d] [Jc]
+imactually12: bets $105
+rocks50: folds 
+Uncalled bet ($105) returned to imactually12
+imactually12 collected $131.50 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $132 | Rake $0.50 
+Board [4c 3d 7d Jc]
+Seat 1: imactually12 (big blind) collected ($131.50)
+Seat 4: rocks50 (button) (small blind) folded on the Turn
+
+
+PokerStars Game #102630426118:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:10:10 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($653 in chips) 
+Seat 4: rocks50 ($611.50 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $12 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (big blind) folded before Flop
+Seat 4: rocks50 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102630434676:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:10:24 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($647 in chips) 
+Seat 4: rocks50 ($617.50 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: calls $6
+*** FLOP *** [9c Qh Ad]
+rocks50: checks 
+imactually12: checks 
+*** TURN *** [9c Qh Ad] [5h]
+rocks50: bets $18.72
+imactually12: folds 
+Uncalled bet ($18.72) returned to rocks50
+rocks50 collected $23.50 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [9c Qh Ad 5h]
+Seat 1: imactually12 (button) (small blind) folded on the Turn
+Seat 4: rocks50 (big blind) collected ($23.50)
+
+
+PokerStars Game #102630448137:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:10:45 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($635 in chips) 
+Seat 4: rocks50 ($629 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $12 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (big blind) folded before Flop
+Seat 4: rocks50 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102630452278:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:10:52 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($629 in chips) 
+Seat 4: rocks50 ($635 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (button) (small blind) collected ($12)
+Seat 4: rocks50 (big blind) folded before Flop
+
+
+PokerStars Game #102630458437:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:11:01 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($635 in chips) 
+Seat 4: rocks50 ($629 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: folds 
+Uncalled bet ($3) returned to imactually12
+imactually12 collected $6 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: imactually12 (big blind) collected ($6)
+Seat 4: rocks50 (button) (small blind) folded before Flop
+
+
+PokerStars Game #102630461494:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:11:06 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($638 in chips) 
+Seat 4: rocks50 ($626 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (button) (small blind) collected ($12)
+Seat 4: rocks50 (big blind) folded before Flop
+
+
+PokerStars Game #102630471687:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:11:23 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($644 in chips) 
+Seat 4: rocks50 ($620 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+imactually12: calls $6
+*** FLOP *** [7h Kh Kc]
+imactually12: checks 
+rocks50: bets $16
+imactually12: calls $16
+*** TURN *** [7h Kh Kc] [Kd]
+imactually12: checks 
+rocks50: bets $25
+imactually12: calls $25
+*** RIVER *** [7h Kh Kc Kd] [6h]
+imactually12: checks 
+rocks50: checks 
+*** SHOW DOWN ***
+imactually12: shows [5s 5d] (a full house, Kings full of Fives)
+rocks50: mucks hand 
+imactually12 collected $105.50 from pot
+*** SUMMARY ***
+Total pot $106 | Rake $0.50 
+Board [7h Kh Kc Kd 6h]
+Seat 1: imactually12 (big blind) showed [5s 5d] and won ($105.50) with a full house, Kings full of Fives
+Seat 4: rocks50 (button) (small blind) mucked
+
+
+PokerStars Game #102630486429:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:11:46 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($696.50 in chips) 
+Seat 4: rocks50 ($600 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: raises $30 to $42
+imactually12: raises $60 to $102
+rocks50: calls $60
+*** FLOP *** [9c 3c 3d]
+rocks50: checks 
+imactually12: bets $90
+rocks50: folds 
+Uncalled bet ($90) returned to imactually12
+imactually12 collected $203.50 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $204 | Rake $0.50 
+Board [9c 3c 3d]
+Seat 1: imactually12 (button) (small blind) collected ($203.50)
+Seat 4: rocks50 (big blind) folded on the Flop
+
+
+PokerStars Game #102630510776:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:12:25 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($798 in chips) 
+Seat 4: rocks50 ($600 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+imactually12: calls $6
+*** FLOP *** [2c 4c 9c]
+imactually12: checks 
+rocks50: checks 
+*** TURN *** [2c 4c 9c] [6c]
+Subv joins the table at seat #2 
+Subv leaves the table
+imactually12: checks 
+rocks50: checks 
+*** RIVER *** [2c 4c 9c 6c] [Ah]
+imactually12: bets $12
+rocks50: calls $12
+*** SHOW DOWN ***
+imactually12: shows [8s Jd] (high card Ace)
+rocks50: shows [Ad 3h] (a pair of Aces)
+rocks50 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50 
+Board [2c 4c 9c 6c Ah]
+Seat 1: imactually12 (big blind) showed [8s Jd] and lost with high card Ace
+Seat 4: rocks50 (button) (small blind) showed [Ad 3h] and won ($47.50) with a pair of Aces
+
+
+PokerStars Game #102630530377:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:12:57 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($774 in chips) 
+Seat 4: rocks50 ($623.50 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (button) (small blind) collected ($12)
+Seat 4: rocks50 (big blind) folded before Flop
+
+
+PokerStars Game #102630537676:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:13:08 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($780 in chips) 
+Seat 4: rocks50 ($617.50 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+imactually12: calls $6
+*** FLOP *** [6d 3s 8s]
+imactually12: checks 
+rocks50: checks 
+*** TURN *** [6d 3s 8s] [4d]
+imactually12: checks 
+rocks50: checks 
+*** RIVER *** [6d 3s 8s 4d] [9h]
+imactually12: checks 
+rocks50: bets $21
+imactually12: folds 
+Uncalled bet ($21) returned to rocks50
+rocks50 collected $23.50 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [6d 3s 8s 4d 9h]
+Seat 1: imactually12 (big blind) folded on the River
+Seat 4: rocks50 (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102630557933:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:13:41 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($768 in chips) 
+Seat 4: rocks50 ($629 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (button) (small blind) collected ($12)
+Seat 4: rocks50 (big blind) folded before Flop
+
+
+PokerStars Game #102630566365:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:13:54 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($774 in chips) 
+Seat 4: rocks50 ($623 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $12 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (big blind) folded before Flop
+Seat 4: rocks50 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102630570846:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:14:01 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($768 in chips) 
+Seat 4: rocks50 ($629 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (button) (small blind) collected ($12)
+Seat 4: rocks50 (big blind) folded before Flop
+
+
+PokerStars Game #102630575201:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:14:08 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($774 in chips) 
+Seat 4: rocks50 ($623 in chips) 
+rocks50: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+imactually12: raises $30 to $42
+rocks50: calls $30
+*** FLOP *** [6c Js 4d]
+imactually12: bets $48
+rocks50: calls $48
+*** TURN *** [6c Js 4d] [5d]
+imactually12: checks 
+rocks50: checks 
+*** RIVER *** [6c Js 4d 5d] [Kd]
+imactually12: checks 
+rocks50: checks 
+*** SHOW DOWN ***
+imactually12: shows [Kc Jc] (two pair, Kings and Jacks)
+rocks50: mucks hand 
+imactually12 collected $179.50 from pot
+*** SUMMARY ***
+Total pot $180 | Rake $0.50 
+Board [6c Js 4d 5d Kd]
+Seat 1: imactually12 (big blind) showed [Kc Jc] and won ($179.50) with two pair, Kings and Jacks
+Seat 4: rocks50 (button) (small blind) mucked
+
+
+PokerStars Game #102631889164:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:50:08 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: imactually12 ($1024.30 in chips) 
+Seat 2: bouloulou89 ($271.15 in chips) 
+Seat 3: whollyflush ($1296.55 in chips) 
+Seat 4: Subv ($646.98 in chips) 
+Seat 5: barrao ($367.50 in chips) 
+Seat 6: GregAndrek ($609 in chips) 
+whollyflush: posts small blind $3
+Subv: posts big blind $6
+*** HOLE CARDS ***
+barrao: raises $9 to $15
+GregAndrek: folds 
+imactually12: folds 
+bouloulou89: calls $15
+whollyflush: folds 
+Subv: calls $9
+*** FLOP *** [3h As Ac]
+Subv: checks 
+barrao: bets $24
+bouloulou89: calls $24
+Subv: calls $24
+*** TURN *** [3h As Ac] [9d]
+Subv: checks 
+barrao: bets $75
+bouloulou89: raises $157.15 to $232.15 and is all-in
+Subv: folds 
+barrao: calls $157.15
+*** RIVER *** [3h As Ac 9d] [4s]
+*** SHOW DOWN ***
+barrao: shows [3c 3s] (a full house, Threes full of Aces)
+bouloulou89: mucks hand 
+barrao collected $581.50 from pot
+*** SUMMARY ***
+Total pot $584.30 | Rake $2.80 
+Board [3h As Ac 9d 4s]
+Seat 1: imactually12 folded before Flop (didn't bet)
+Seat 2: bouloulou89 (button) mucked
+Seat 3: whollyflush (small blind) folded before Flop
+Seat 4: Subv (big blind) folded on the Turn
+Seat 5: barrao showed [3c 3s] and won ($581.50) with a full house, Threes full of Aces
+Seat 6: GregAndrek folded before Flop (didn't bet)
+
+
+PokerStars Game #102631945771:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:51:46 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: imactually12 ($1024.30 in chips) 
+Seat 3: whollyflush ($1293.55 in chips) 
+Seat 4: Subv ($607.98 in chips) 
+Seat 5: barrao ($677.85 in chips) 
+Seat 6: GregAndrek ($609 in chips) 
+Subv: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: folds 
+imactually12: folds 
+bouloulou89 leaves the table
+whollyflush: raises $6 to $12
+Subv: folds 
+barrao: folds 
+Uncalled bet ($6) returned to whollyflush
+whollyflush collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: imactually12 folded before Flop (didn't bet)
+Seat 3: whollyflush (button) collected ($15)
+Seat 4: Subv (small blind) folded before Flop
+Seat 5: barrao (big blind) folded before Flop
+Seat 6: GregAndrek folded before Flop (didn't bet)
+
+
+PokerStars Game #102631957260:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:52:05 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($1024.30 in chips) 
+Seat 3: whollyflush ($1302.55 in chips) 
+Seat 4: Subv ($604.98 in chips) 
+Seat 5: barrao ($671.85 in chips) 
+Seat 6: GregAndrek ($609 in chips) 
+barrao: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+whollyflush: folds 
+Subv: raises $6.30 to $12.30
+barrao: folds 
+GregAndrek: folds 
+Uncalled bet ($6.30) returned to Subv
+Subv collected $15 from pot
+Subv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: imactually12 folded before Flop (didn't bet)
+Seat 3: whollyflush folded before Flop (didn't bet)
+Seat 4: Subv (button) collected ($15)
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: GregAndrek (big blind) folded before Flop
+
+
+PokerStars Game #102631975090:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:52:36 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: imactually12 ($1024.30 in chips) 
+Seat 3: whollyflush ($1302.55 in chips) 
+Seat 4: Subv ($613.98 in chips) 
+Seat 5: barrao ($668.85 in chips) 
+Seat 6: GregAndrek ($603 in chips) 
+GregAndrek: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: folds 
+Subv: folds 
+barrao: raises $6 to $12
+GregAndrek: raises $33 to $45
+imactually12: folds 
+barrao: folds 
+Uncalled bet ($33) returned to GregAndrek
+GregAndrek collected $30 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: imactually12 (big blind) folded before Flop
+Seat 3: whollyflush folded before Flop (didn't bet)
+Seat 4: Subv folded before Flop (didn't bet)
+Seat 5: barrao (button) folded before Flop
+Seat 6: GregAndrek (small blind) collected ($30)
+
+
+PokerStars Game #102631993557:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:53:08 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: imactually12 ($1018.30 in chips) 
+Seat 3: whollyflush ($1302.55 in chips) 
+Seat 4: Subv ($613.98 in chips) 
+Seat 5: barrao ($656.85 in chips) 
+Seat 6: GregAndrek ($621 in chips) 
+imactually12: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+Subv: raises $6.30 to $12.30
+barrao: folds 
+GregAndrek: folds 
+imactually12: calls $9.30
+whollyflush: folds 
+*** FLOP *** [2d 4d 9c]
+imactually12: checks 
+Subv: checks 
+*** TURN *** [2d 4d 9c] [4c]
+imactually12: bets $21
+Subv: calls $21
+*** RIVER *** [2d 4d 9c 4c] [7h]
+imactually12: checks 
+Subv: bets $48
+imactually12: raises $129 to $177
+Subv: calls $129
+*** SHOW DOWN ***
+imactually12: shows [Ks Qd] (a pair of Fours)
+Subv: shows [7s 7d] (a full house, Sevens full of Fours)
+Subv collected $423.80 from pot
+*** SUMMARY ***
+Total pot $426.60 | Rake $2.80 
+Board [2d 4d 9c 4c 7h]
+Seat 1: imactually12 (small blind) showed [Ks Qd] and lost with a pair of Fours
+Seat 3: whollyflush (big blind) folded before Flop
+Seat 4: Subv showed [7s 7d] and won ($423.80) with a full house, Sevens full of Fours
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: GregAndrek (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102632046183:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:54:39 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($808 in chips) 
+Seat 3: whollyflush ($1296.55 in chips) 
+Seat 5: barrao ($656.85 in chips) 
+Seat 6: GregAndrek ($621 in chips) 
+whollyflush: posts small blind $3
+Subv: is sitting out 
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Subv leaves the table
+GregAndrek has timed out
+GregAndrek: folds 
+imactually12: folds 
+whollyflush: folds 
+Uncalled bet ($3) returned to barrao
+barrao collected $6 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: imactually12 (button) folded before Flop (didn't bet)
+Seat 3: whollyflush (small blind) folded before Flop
+Seat 5: barrao (big blind) collected ($6)
+Seat 6: GregAndrek folded before Flop (didn't bet)
+
+
+PokerStars Game #102631773349:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:46:52 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($1012.30 in chips) 
+Seat 2: bouloulou89 ($280.15 in chips) 
+Seat 3: whollyflush ($651.20 in chips) 
+Seat 4: Subv ($637.98 in chips) 
+Seat 5: barrao ($382.50 in chips) 
+Seat 6: GregAndrek ($651.15 in chips) 
+barrao: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+bouloulou89: folds 
+whollyflush: raises $6 to $12
+Subv: folds 
+barrao: folds 
+GregAndrek: raises $33 to $45
+whollyflush: calls $33
+*** FLOP *** [Qs 7d Tc]
+GregAndrek: bets $54
+whollyflush: calls $54
+*** TURN *** [Qs 7d Tc] [3d]
+GregAndrek: bets $117
+whollyflush: calls $117
+*** RIVER *** [Qs 7d Tc 3d] [6c]
+GregAndrek: bets $435.15 and is all-in
+whollyflush: calls $435.15
+*** SHOW DOWN ***
+GregAndrek: shows [Ad Kh] (high card Ace)
+whollyflush: shows [7c 7s] (three of a kind, Sevens)
+whollyflush collected $1302.50 from pot
+*** SUMMARY ***
+Total pot $1305.30 | Rake $2.80 
+Board [Qs 7d Tc 3d 6c]
+Seat 1: imactually12 folded before Flop (didn't bet)
+Seat 2: bouloulou89 folded before Flop (didn't bet)
+Seat 3: whollyflush showed [7c 7s] and won ($1302.50) with three of a kind, Sevens
+Seat 4: Subv (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: GregAndrek (big blind) showed [Ad Kh] and lost with high card Ace
+
+
+PokerStars Game #102631842132:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:48:48 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: imactually12 ($1012.30 in chips) 
+Seat 2: bouloulou89 ($280.15 in chips) 
+Seat 3: whollyflush ($1302.55 in chips) 
+Seat 4: Subv ($637.98 in chips) 
+Seat 5: barrao ($379.50 in chips) 
+Seat 6: GregAndrek ($600 in chips) 
+GregAndrek: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+bouloulou89: folds 
+whollyflush: folds 
+Subv: folds 
+barrao: raises $6 to $12
+GregAndrek: folds 
+imactually12: raises $30 to $42
+barrao: folds 
+Uncalled bet ($30) returned to imactually12
+imactually12 collected $27 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 1: imactually12 (big blind) collected ($27)
+Seat 2: bouloulou89 folded before Flop (didn't bet)
+Seat 3: whollyflush folded before Flop (didn't bet)
+Seat 4: Subv folded before Flop (didn't bet)
+Seat 5: barrao (button) folded before Flop
+Seat 6: GregAndrek (small blind) folded before Flop
+
+
+PokerStars Game #102631864162:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:49:25 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: imactually12 ($1027.30 in chips) 
+Seat 2: bouloulou89 ($280.15 in chips) 
+Seat 3: whollyflush ($1302.55 in chips) 
+Seat 4: Subv ($637.98 in chips) 
+Seat 5: barrao ($367.50 in chips) 
+Seat 6: GregAndrek ($600 in chips) 
+imactually12: posts small blind $3
+bouloulou89: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: folds 
+Subv: folds 
+barrao: folds 
+GregAndrek: raises $6 to $12
+imactually12: folds 
+bouloulou89: folds 
+Uncalled bet ($6) returned to GregAndrek
+GregAndrek collected $15 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: imactually12 (small blind) folded before Flop
+Seat 2: bouloulou89 (big blind) folded before Flop
+Seat 3: whollyflush folded before Flop (didn't bet)
+Seat 4: Subv folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: GregAndrek (button) collected ($15)
+
+
+PokerStars Game #102631874161:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:49:43 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($1024.30 in chips) 
+Seat 2: bouloulou89 ($274.15 in chips) 
+Seat 3: whollyflush ($1302.55 in chips) 
+Seat 4: Subv ($637.98 in chips) 
+Seat 5: barrao ($367.50 in chips) 
+Seat 6: GregAndrek ($609 in chips) 
+bouloulou89: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+Subv: raises $6 to $12
+barrao: folds 
+GregAndrek: folds 
+imactually12: folds 
+bouloulou89: folds 
+whollyflush: folds 
+Uncalled bet ($6) returned to Subv
+Subv collected $15 from pot
+Subv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: imactually12 (button) folded before Flop (didn't bet)
+Seat 2: bouloulou89 (small blind) folded before Flop
+Seat 3: whollyflush (big blind) folded before Flop
+Seat 4: Subv collected ($15)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: GregAndrek folded before Flop (didn't bet)
+
+
+PokerStars Game #102631535412:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:40:10 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: imactually12 ($991.98 in chips) 
+Seat 4: Subv ($645 in chips) 
+Seat 5: barrao ($433.50 in chips) 
+imactually12: posts small blind $3
+whollyflush: is sitting out 
+Subv: posts big blind $6
+*** HOLE CARDS ***
+bouloulou89 joins the table at seat #2 
+barrao: folds 
+imactually12: raises $12 to $18
+GregAndrek joins the table at seat #6 
+Subv: folds 
+Uncalled bet ($12) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (small blind) collected ($12)
+Seat 4: Subv (big blind) folded before Flop
+Seat 5: barrao (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102631542787:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:40:22 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($997.98 in chips) 
+Seat 4: Subv ($639 in chips) 
+Seat 6: GregAndrek ($600 in chips) 
+bouloulou89 will be allowed to play after the button
+whollyflush will be allowed to play after the button
+Subv: posts small blind $3
+barrao: is sitting out 
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+Subv: calls $3
+GregAndrek: checks 
+*** FLOP *** [2h Qd 8d]
+Subv: checks 
+GregAndrek: checks 
+*** TURN *** [2h Qd 8d] [4s]
+Subv: checks 
+GregAndrek: bets $9
+Subv: calls $9
+*** RIVER *** [2h Qd 8d 4s] [7c]
+Subv: checks 
+GregAndrek: checks 
+*** SHOW DOWN ***
+Subv: shows [Kd 2d] (a pair of Deuces)
+GregAndrek: shows [7s 3c] (a pair of Sevens)
+GregAndrek collected $28.65 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [2h Qd 8d 4s 7c]
+Seat 1: imactually12 (button) folded before Flop (didn't bet)
+Seat 4: Subv (small blind) showed [Kd 2d] and lost with a pair of Deuces
+Seat 6: GregAndrek (big blind) showed [7s 3c] and won ($28.65) with a pair of Sevens
+
+
+PokerStars Game #102631570997:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:41:10 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($997.98 in chips) 
+Seat 2: bouloulou89 ($295.15 in chips) 
+Seat 4: Subv ($624 in chips) 
+Seat 6: GregAndrek ($613.65 in chips) 
+barrao will be allowed to play after the button
+GregAndrek: posts small blind $3
+imactually12: posts big blind $6
+bouloulou89: posts big blind $6
+whollyflush: sits out 
+*** HOLE CARDS ***
+bouloulou89: checks 
+Subv: folds 
+GregAndrek: folds 
+imactually12: checks 
+*** FLOP *** [7d 2h 3c]
+imactually12: checks 
+bouloulou89: checks 
+*** TURN *** [7d 2h 3c] [Js]
+imactually12: checks 
+bouloulou89: checks 
+*** RIVER *** [7d 2h 3c Js] [5s]
+imactually12: bets $6
+bouloulou89: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $14.32 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.68 
+Board [7d 2h 3c Js 5s]
+Seat 1: imactually12 (big blind) collected ($14.32)
+Seat 2: bouloulou89 folded on the River
+Seat 4: Subv (button) folded before Flop (didn't bet)
+Seat 6: GregAndrek (small blind) folded before Flop
+
+
+PokerStars Game #102631602201:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:42:02 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: imactually12 ($1006.30 in chips) 
+Seat 2: bouloulou89 ($289.15 in chips) 
+Seat 4: Subv ($624 in chips) 
+Seat 6: GregAndrek ($610.65 in chips) 
+imactually12: posts small blind $3
+bouloulou89: posts big blind $6
+whollyflush: sits out 
+barrao: sits out 
+*** HOLE CARDS ***
+Subv: raises $6.30 to $12.30
+GregAndrek: raises $20.70 to $33
+imactually12: folds 
+bouloulou89: folds 
+Subv: calls $20.70
+*** FLOP *** [6d Ts 9s]
+Subv: checks 
+GregAndrek: checks 
+*** TURN *** [6d Ts 9s] [Ks]
+Subv: checks 
+GregAndrek: bets $42
+Subv: folds 
+Uncalled bet ($42) returned to GregAndrek
+GregAndrek collected $73.50 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $75 | Rake $1.50 
+Board [6d Ts 9s Ks]
+Seat 1: imactually12 (small blind) folded before Flop
+Seat 2: bouloulou89 (big blind) folded before Flop
+Seat 4: Subv folded on the Turn
+Seat 6: GregAndrek (button) collected ($73.50)
+
+
+PokerStars Game #102631649176:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:43:22 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($1003.30 in chips) 
+Seat 2: bouloulou89 ($283.15 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: Subv ($600 in chips) 
+Seat 6: GregAndrek ($651.15 in chips) 
+bouloulou89: posts small blind $3
+whollyflush: posts big blind $6
+barrao: sits out 
+*** HOLE CARDS ***
+Subv: folds 
+GregAndrek: folds 
+imactually12: raises $6 to $12
+bouloulou89: folds 
+whollyflush: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $15 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: imactually12 (button) collected ($15)
+Seat 2: bouloulou89 (small blind) folded before Flop
+Seat 3: whollyflush (big blind) folded before Flop
+Seat 4: Subv folded before Flop (didn't bet)
+Seat 6: GregAndrek folded before Flop (didn't bet)
+
+
+PokerStars Game #102631656412:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:43:34 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: imactually12 ($1012.30 in chips) 
+Seat 2: bouloulou89 ($280.15 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: Subv ($600 in chips) 
+Seat 6: GregAndrek ($651.15 in chips) 
+whollyflush: posts small blind $3
+Subv: posts big blind $6
+barrao: sits out 
+*** HOLE CARDS ***
+GregAndrek: folds 
+imactually12: folds 
+bouloulou89: folds 
+whollyflush: raises $12 to $18
+Subv: calls $12
+*** FLOP *** [3h 5s 9h]
+whollyflush: bets $25.78
+Subv: calls $25.78
+*** TURN *** [3h 5s 9h] [2c]
+whollyflush: checks 
+Subv: checks 
+*** RIVER *** [3h 5s 9h 2c] [Jc]
+whollyflush: checks 
+Subv: checks 
+*** SHOW DOWN ***
+whollyflush: shows [Qc Kh] (high card King)
+Subv: shows [5h Ah] (a pair of Fives)
+Subv collected $84.76 from pot
+*** SUMMARY ***
+Total pot $87.56 | Rake $2.80 
+Board [3h 5s 9h 2c Jc]
+Seat 1: imactually12 folded before Flop (didn't bet)
+Seat 2: bouloulou89 (button) folded before Flop (didn't bet)
+Seat 3: whollyflush (small blind) showed [Qc Kh] and lost with high card King
+Seat 4: Subv (big blind) showed [5h Ah] and won ($84.76) with a pair of Fives
+Seat 6: GregAndrek folded before Flop (didn't bet)
+
+
+PokerStars Game #102631697172:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:44:43 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: imactually12 ($1012.30 in chips) 
+Seat 2: bouloulou89 ($280.15 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: Subv ($640.98 in chips) 
+Seat 5: barrao ($433.50 in chips) 
+Seat 6: GregAndrek ($651.15 in chips) 
+Subv: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: folds 
+imactually12: folds 
+bouloulou89: folds 
+whollyflush: raises $6 to $12
+Subv: folds 
+barrao: calls $6
+*** FLOP *** [2h 7s 3c]
+barrao: bets $9
+whollyflush: calls $9
+*** TURN *** [2h 7s 3c] [4h]
+barrao: bets $30
+whollyflush: calls $30
+*** RIVER *** [2h 7s 3c 4h] [Qd]
+barrao: checks 
+whollyflush: bets $76.65
+barrao: folds 
+Uncalled bet ($76.65) returned to whollyflush
+whollyflush collected $102.20 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $105 | Rake $2.80 
+Board [2h 7s 3c 4h Qd]
+Seat 1: imactually12 folded before Flop (didn't bet)
+Seat 2: bouloulou89 folded before Flop (didn't bet)
+Seat 3: whollyflush (button) collected ($102.20)
+Seat 4: Subv (small blind) folded before Flop
+Seat 5: barrao (big blind) folded on the River
+Seat 6: GregAndrek folded before Flop (didn't bet)
+
+
+PokerStars Game #102631384260:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:35:57 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: imactually12 ($819.38 in chips) 
+Seat 2: madsDal ($255.84 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: rocks50 ($600 in chips) 
+Seat 5: barrao ($505.50 in chips) 
+Seat 6: laurenman ($262.65 in chips) 
+laurenman: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+madsDal: folds 
+whollyflush: folds 
+rocks50: raises $12 to $18
+barrao: folds 
+laurenman: folds 
+imactually12: raises $42 to $60
+madsDal leaves the table
+rocks50: raises $54 to $114
+imactually12: raises $705.38 to $819.38 and is all-in
+rocks50: folds 
+Uncalled bet ($705.38) returned to imactually12
+imactually12 collected $231 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $231 | Rake $0 
+Seat 1: imactually12 (big blind) collected ($231)
+Seat 2: madsDal folded before Flop (didn't bet)
+Seat 3: whollyflush folded before Flop (didn't bet)
+Seat 4: rocks50 folded before Flop
+Seat 5: barrao (button) folded before Flop (didn't bet)
+Seat 6: laurenman (small blind) folded before Flop
+
+
+PokerStars Game #102631405928:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:36:33 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: imactually12 ($936.38 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: rocks50 ($600 in chips) 
+Seat 5: barrao ($505.50 in chips) 
+Seat 6: laurenman ($259.65 in chips) 
+imactually12: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $12 to $18
+barrao: folds 
+laurenman: folds 
+imactually12: folds 
+whollyflush: folds 
+Uncalled bet ($12) returned to rocks50
+rocks50 collected $15 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: imactually12 (small blind) folded before Flop
+Seat 3: whollyflush (big blind) folded before Flop
+Seat 4: rocks50 collected ($15)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: laurenman (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102631412891:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:36:45 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($933.38 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: rocks50 ($609 in chips) 
+Seat 5: barrao ($505.50 in chips) 
+Seat 6: laurenman ($259.65 in chips) 
+whollyflush: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+laurenman: folds 
+imactually12: raises $6 to $12
+whollyflush: folds 
+rocks50: calls $6
+*** FLOP *** [Ts Jh Js]
+rocks50: checks 
+imactually12: bets $18
+rocks50: calls $18
+*** TURN *** [Ts Jh Js] [7d]
+rocks50: checks 
+imactually12: bets $42
+rocks50: calls $42
+*** RIVER *** [Ts Jh Js 7d] [8s]
+rocks50: checks 
+imactually12: checks 
+*** SHOW DOWN ***
+rocks50: shows [9d Ac] (a straight, Seven to Jack)
+imactually12: shows [Jc 9h] (a straight, Seven to Jack)
+rocks50 collected $72.10 from pot
+imactually12 collected $72.10 from pot
+*** SUMMARY ***
+Total pot $147 | Rake $2.80 
+Board [Ts Jh Js 7d 8s]
+Seat 1: imactually12 (button) showed [Jc 9h] and won ($72.10) with a straight, Seven to Jack
+Seat 3: whollyflush (small blind) folded before Flop
+Seat 4: rocks50 (big blind) showed [9d Ac] and won ($72.10) with a straight, Seven to Jack
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: laurenman folded before Flop (didn't bet)
+
+
+PokerStars Game #102631453133:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:37:52 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: imactually12 ($933.48 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: rocks50 ($609.10 in chips) 
+Seat 5: barrao ($505.50 in chips) 
+Seat 6: laurenman ($259.65 in chips) 
+rocks50: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+laurenman: folds 
+imactually12: folds 
+whollyflush: raises $6 to $12
+rocks50: calls $9
+barrao: calls $6
+*** FLOP *** [9h 2h Kh]
+rocks50: bets $27.40
+barrao: folds 
+whollyflush: folds 
+Uncalled bet ($27.40) returned to rocks50
+rocks50 collected $34.38 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $1.62 
+Board [9h 2h Kh]
+Seat 1: imactually12 folded before Flop (didn't bet)
+Seat 3: whollyflush (button) folded on the Flop
+Seat 4: rocks50 (small blind) collected ($34.38)
+Seat 5: barrao (big blind) folded on the Flop
+Seat 6: laurenman folded before Flop (didn't bet)
+
+
+PokerStars Game #102631474090:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:38:27 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($933.48 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: rocks50 ($631.48 in chips) 
+Seat 5: barrao ($493.50 in chips) 
+barrao: posts small blind $3
+laurenman: is sitting out 
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: raises $6 to $12
+laurenman leaves the table
+rocks50: folds 
+barrao: folds 
+imactually12: folds 
+Uncalled bet ($6) returned to whollyflush
+whollyflush collected $15 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: imactually12 (big blind) folded before Flop
+Seat 3: whollyflush collected ($15)
+Seat 4: rocks50 (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) folded before Flop
+
+
+PokerStars Game #102631486211:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:38:47 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: imactually12 ($927.48 in chips) 
+Seat 3: whollyflush ($609 in chips) 
+Seat 4: rocks50 ($631.48 in chips) 
+Seat 5: barrao ($490.50 in chips) 
+imactually12: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+rocks50: folds 
+barrao: raises $6 to $12
+imactually12: raises $36 to $48
+whollyflush: folds 
+barrao: folds 
+Uncalled bet ($36) returned to imactually12
+imactually12 collected $30 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: imactually12 (small blind) collected ($30)
+Seat 3: whollyflush (big blind) folded before Flop
+Seat 4: rocks50 folded before Flop (didn't bet)
+Seat 5: barrao (button) folded before Flop
+
+
+PokerStars Game #102631497681:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:39:07 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($945.48 in chips) 
+Seat 3: whollyflush ($603 in chips) 
+Seat 5: barrao ($478.50 in chips) 
+whollyflush: posts small blind $3
+rocks50: is sitting out 
+barrao: posts big blind $6
+*** HOLE CARDS ***
+rocks50 leaves the table
+imactually12: folds 
+whollyflush: folds 
+Uncalled bet ($3) returned to barrao
+barrao collected $6 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: imactually12 (button) folded before Flop (didn't bet)
+Seat 3: whollyflush (small blind) folded before Flop
+Seat 5: barrao (big blind) collected ($6)
+
+
+PokerStars Game #102631506247:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:39:21 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: imactually12 ($945.48 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 5: barrao ($481.50 in chips) 
+barrao: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: folds 
+barrao: raises $9 to $15
+imactually12: raises $33 to $48
+barrao: calls $33
+*** FLOP *** [7c 2s 7s]
+barrao: checks 
+imactually12: bets $54
+barrao: folds 
+Uncalled bet ($54) returned to imactually12
+Subv joins the table at seat #4 
+imactually12 collected $94.50 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $96 | Rake $1.50 
+Board [7c 2s 7s]
+Seat 1: imactually12 (big blind) collected ($94.50)
+Seat 3: whollyflush (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) folded on the Flop
+
+
+PokerStars Game #102631175398:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:30:13 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: imactually12 ($822.28 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: rocks50 ($633 in chips) 
+Seat 5: barrao ($447.20 in chips) 
+rocks50: posts small blind $3
+barrao: posts big blind $6
+laurenman: sits out 
+madsDal: sits out 
+*** HOLE CARDS ***
+imactually12: folds 
+whollyflush: folds 
+rocks50: raises $12 to $18
+barrao: folds 
+Uncalled bet ($12) returned to rocks50
+rocks50 collected $12 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 folded before Flop (didn't bet)
+Seat 3: whollyflush (button) folded before Flop (didn't bet)
+Seat 4: rocks50 (small blind) collected ($12)
+Seat 5: barrao (big blind) folded before Flop
+
+
+PokerStars Game #102631183328:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:30:26 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($822.28 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: rocks50 ($639 in chips) 
+Seat 5: barrao ($441.20 in chips) 
+Seat 6: laurenman ($240 in chips) 
+barrao: posts small blind $3
+laurenman: posts big blind $6
+madsDal: sits out 
+*** HOLE CARDS ***
+imactually12: folds 
+whollyflush: folds 
+rocks50: raises $6 to $12
+barrao: folds 
+laurenman: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $15 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: imactually12 folded before Flop (didn't bet)
+Seat 3: whollyflush folded before Flop (didn't bet)
+Seat 4: rocks50 (button) collected ($15)
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: laurenman (big blind) folded before Flop
+
+
+PokerStars Game #102631197193:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:30:49 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: imactually12 ($822.28 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: rocks50 ($648 in chips) 
+Seat 5: barrao ($438.20 in chips) 
+Seat 6: laurenman ($240 in chips) 
+laurenman: posts small blind $3
+imactually12: posts big blind $6
+madsDal: sits out 
+*** HOLE CARDS ***
+whollyflush: folds 
+rocks50: folds 
+barrao: raises $6 to $12
+laurenman: folds 
+imactually12: raises $36 to $48
+barrao: raises $36 to $84
+imactually12: raises $738.28 to $822.28 and is all-in
+barrao: calls $354.20 and is all-in
+Uncalled bet ($384.08) returned to imactually12
+*** FIRST FLOP *** [Kc 5d 8c]
+*** FIRST TURN *** [Kc 5d 8c] [7s]
+*** FIRST RIVER *** [Kc 5d 8c 7s] [2s]
+*** SECOND FLOP *** [6c Qs 6h]
+*** SECOND TURN *** [6c Qs 6h] [9d]
+*** SECOND RIVER *** [6c Qs 6h 9d] [6d]
+*** FIRST SHOW DOWN ***
+imactually12: shows [Jd Jh] (a pair of Jacks)
+barrao: shows [9h 9c] (a pair of Nines)
+imactually12 collected $438.30 from pot
+*** SECOND SHOW DOWN ***
+imactually12: shows [Jd Jh] (a full house, Sixes full of Jacks)
+barrao: shows [9h 9c] (a full house, Nines full of Sixes)
+barrao collected $438.30 from pot
+*** SUMMARY ***
+Total pot $879.40 | Rake $2.80 
+Hand was run twice
+FIRST Board [Kc 5d 8c 7s 2s]
+SECOND Board [6c Qs 6h 9d 6d]
+Seat 1: imactually12 (big blind) showed [Jd Jh] and won ($438.30) with a pair of Jacks, and lost with a full house, Sixes full of Jacks
+Seat 3: whollyflush folded before Flop (didn't bet)
+Seat 4: rocks50 folded before Flop (didn't bet)
+Seat 5: barrao (button) showed [9h 9c] and lost with a pair of Nines, and won ($438.30) with a full house, Nines full of Sixes
+Seat 6: laurenman (small blind) folded before Flop
+
+
+PokerStars Game #102631228971:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:31:41 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: imactually12 ($822.38 in chips) 
+Seat 2: madsDal ($240 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: rocks50 ($648 in chips) 
+Seat 5: barrao ($438.30 in chips) 
+Seat 6: laurenman ($240 in chips) 
+imactually12: posts small blind $3
+madsDal: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: raises $12 to $18
+rocks50: raises $36 to $54
+barrao: folds 
+laurenman: folds 
+imactually12: folds 
+madsDal: folds 
+whollyflush: folds 
+Uncalled bet ($36) returned to rocks50
+rocks50 collected $45 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $0 
+Seat 1: imactually12 (small blind) folded before Flop
+Seat 2: madsDal (big blind) folded before Flop
+Seat 3: whollyflush folded before Flop
+Seat 4: rocks50 collected ($45)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: laurenman (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102631250664:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:32:16 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($819.38 in chips) 
+Seat 2: madsDal ($234 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: rocks50 ($675 in chips) 
+Seat 5: barrao ($438.30 in chips) 
+Seat 6: laurenman ($240 in chips) 
+madsDal: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+rocks50: folds 
+barrao: folds 
+laurenman: folds 
+imactually12: folds 
+madsDal: calls $3
+whollyflush: checks 
+*** FLOP *** [Jc Ac Th]
+madsDal: bets $6
+whollyflush: raises $12 to $18
+madsDal: calls $12
+*** TURN *** [Jc Ac Th] [6d]
+madsDal: checks 
+whollyflush: checks 
+*** RIVER *** [Jc Ac Th 6d] [Tc]
+madsDal: checks 
+whollyflush: checks 
+*** SHOW DOWN ***
+madsDal: shows [4c 8c] (a flush, Ace high)
+whollyflush: mucks hand 
+madsDal collected $45.84 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $2.16 
+Board [Jc Ac Th 6d Tc]
+Seat 1: imactually12 (button) folded before Flop (didn't bet)
+Seat 2: madsDal (small blind) showed [4c 8c] and won ($45.84) with a flush, Ace high
+Seat 3: whollyflush (big blind) mucked
+Seat 4: rocks50 folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: laurenman folded before Flop (didn't bet)
+
+
+PokerStars Game #102631288157:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:33:18 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: imactually12 ($819.38 in chips) 
+Seat 2: madsDal ($255.84 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: rocks50 ($675 in chips) 
+Seat 5: barrao ($438.30 in chips) 
+Seat 6: laurenman ($240 in chips) 
+whollyflush: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+laurenman: raises $9 to $15
+imactually12: folds 
+madsDal: folds 
+whollyflush: folds 
+rocks50: folds 
+Uncalled bet ($9) returned to laurenman
+laurenman collected $15 from pot
+laurenman: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: imactually12 folded before Flop (didn't bet)
+Seat 2: madsDal (button) folded before Flop (didn't bet)
+Seat 3: whollyflush (small blind) folded before Flop
+Seat 4: rocks50 (big blind) folded before Flop
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: laurenman collected ($15)
+
+
+PokerStars Game #102631302964:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:33:42 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: imactually12 ($819.38 in chips) 
+Seat 2: madsDal ($255.84 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: rocks50 ($669 in chips) 
+Seat 5: barrao ($438.30 in chips) 
+Seat 6: laurenman ($249 in chips) 
+rocks50: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+laurenman: folds 
+imactually12: folds 
+madsDal: folds 
+whollyflush: folds 
+rocks50: raises $12 to $18
+barrao: calls $12
+*** FLOP *** [Tc 7h Qc]
+rocks50: bets $25
+barrao: calls $25
+*** TURN *** [Tc 7h Qc] [Js]
+rocks50: checks 
+barrao: checks 
+*** RIVER *** [Tc 7h Qc Js] [8c]
+rocks50: checks 
+barrao: bets $42
+rocks50: calls $42
+*** SHOW DOWN ***
+barrao: shows [Jc 8d] (two pair, Jacks and Eights)
+rocks50: mucks hand 
+barrao collected $167.20 from pot
+*** SUMMARY ***
+Total pot $170 | Rake $2.80 
+Board [Tc 7h Qc Js 8c]
+Seat 1: imactually12 folded before Flop (didn't bet)
+Seat 2: madsDal folded before Flop (didn't bet)
+Seat 3: whollyflush (button) folded before Flop (didn't bet)
+Seat 4: rocks50 (small blind) mucked
+Seat 5: barrao (big blind) showed [Jc 8d] and won ($167.20) with two pair, Jacks and Eights
+Seat 6: laurenman folded before Flop (didn't bet)
+
+
+PokerStars Game #102631347872:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:34:57 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: imactually12 ($819.38 in chips) 
+Seat 2: madsDal ($255.84 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: rocks50 ($600 in chips) 
+Seat 5: barrao ($520.50 in chips) 
+Seat 6: laurenman ($249 in chips) 
+barrao: posts small blind $3
+laurenman: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+madsDal: folds 
+whollyflush: folds 
+rocks50: folds 
+barrao: raises $9 to $15
+laurenman: calls $9
+*** FLOP *** [Kd 7c Jc]
+barrao: checks 
+laurenman: bets $14.33
+barrao: folds 
+Uncalled bet ($14.33) returned to laurenman
+laurenman collected $28.65 from pot
+laurenman: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [Kd 7c Jc]
+Seat 1: imactually12 folded before Flop (didn't bet)
+Seat 2: madsDal folded before Flop (didn't bet)
+Seat 3: whollyflush folded before Flop (didn't bet)
+Seat 4: rocks50 (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) folded on the Flop
+Seat 6: laurenman (big blind) collected ($28.65)
+
+
+PokerStars Game #102632061285:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:55:06 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: imactually12 ($808 in chips) 
+Seat 3: whollyflush ($1293.55 in chips) 
+Seat 5: barrao ($659.85 in chips) 
+barrao: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: folds 
+barrao: raises $9 to $15
+imactually12: folds 
+Uncalled bet ($9) returned to barrao
+barrao collected $12 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (big blind) folded before Flop
+Seat 3: whollyflush (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) collected ($12)
+
+
+PokerStars Game #102632074152:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:55:34 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: imactually12 ($793 in chips) 
+Seat 3: whollyflush ($1293.55 in chips) 
+Seat 5: barrao ($674.85 in chips) 
+imactually12: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+barrao: raises $6 to $12
+imactually12: raises $36 to $48
+whollyflush: folds 
+barrao: folds 
+Uncalled bet ($36) returned to imactually12
+imactually12 collected $30 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: imactually12 (small blind) collected ($30)
+Seat 3: whollyflush (big blind) folded before Flop
+Seat 5: barrao (button) folded before Flop
+
+
+PokerStars Game #102632079619:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:55:47 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($811 in chips) 
+Seat 3: whollyflush ($1287.55 in chips) 
+Seat 5: barrao ($662.85 in chips) 
+whollyflush: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+Subv joins the table at seat #2 
+whollyflush: raises $36 to $48
+barrao: folds 
+Subv leaves the table
+imactually12: calls $36
+*** FLOP *** [5s Ad 9s]
+whollyflush: bets $50.25
+imactually12: folds 
+Uncalled bet ($50.25) returned to whollyflush
+whollyflush collected $100.50 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $102 | Rake $1.50 
+Board [5s Ad 9s]
+Seat 1: imactually12 (button) folded on the Flop
+Seat 3: whollyflush (small blind) collected ($100.50)
+Seat 5: barrao (big blind) folded before Flop
+
+
+PokerStars Game #102632101331:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:56:37 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: imactually12 ($763 in chips) 
+Seat 3: whollyflush ($1340.05 in chips) 
+Seat 5: barrao ($656.85 in chips) 
+barrao: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: raises $6 to $12
+barrao: folds 
+imactually12: folds 
+Uncalled bet ($6) returned to whollyflush
+whollyflush collected $15 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: imactually12 (big blind) folded before Flop
+Seat 3: whollyflush (button) collected ($15)
+Seat 5: barrao (small blind) folded before Flop
+
+
+PokerStars Game #102632107389:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:56:51 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: imactually12 ($757 in chips) 
+Seat 3: whollyflush ($1349.05 in chips) 
+Seat 5: barrao ($653.85 in chips) 
+imactually12: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+imactually12: raises $12 to $18
+whollyflush: folds 
+Uncalled bet ($12) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (small blind) collected ($12)
+Seat 3: whollyflush (big blind) folded before Flop
+Seat 5: barrao (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102632067199:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:55:18 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: imactually12 ($802 in chips) 
+Seat 5: barrao ($665.85 in chips) 
+imactually12: posts small blind $3
+whollyflush: is sitting out 
+barrao: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+Uncalled bet ($3) returned to barrao
+barrao collected $6 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: imactually12 (button) (small blind) folded before Flop
+Seat 5: barrao (big blind) collected ($6)
+
+
+PokerStars Game #102632070991:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:55:27 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: imactually12 ($799 in chips) 
+Seat 5: barrao ($668.85 in chips) 
+barrao: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+barrao: raises $9 to $15
+imactually12: folds 
+Uncalled bet ($9) returned to barrao
+GregAndrek leaves the table
+barrao collected $12 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (big blind) folded before Flop
+Seat 5: barrao (button) (small blind) collected ($12)
+
+
+PokerStars Game #102632115248:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:57:08 ET
+Table 'Mirnaya VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: imactually12 ($763 in chips) 
+Seat 3: whollyflush ($1343.05 in chips) 
+whollyflush: posts small blind $3
+barrao: is sitting out 
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+barrao leaves the table
+whollyflush: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to whollyflush
+whollyflush collected $12 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: imactually12 (big blind) folded before Flop
+Seat 3: whollyflush (button) (small blind) collected ($12)

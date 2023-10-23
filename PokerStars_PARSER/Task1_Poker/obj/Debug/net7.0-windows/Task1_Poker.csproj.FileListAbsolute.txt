@@ -1,0 +1,38 @@
+E:\C#\Task1_Poker\Task1_Poker\obj\Debug\net7.0-windows\Task1_Poker.csproj.AssemblyReference.cache
+E:\C#\Task1_Poker\Task1_Poker\obj\Debug\net7.0-windows\Task1_Poker.Form1.resources
+E:\C#\Task1_Poker\Task1_Poker\obj\Debug\net7.0-windows\Task1_Poker.csproj.GenerateResource.cache
+E:\C#\Task1_Poker\Task1_Poker\obj\Debug\net7.0-windows\Task1_Poker.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Task1_Poker\Task1_Poker\obj\Debug\net7.0-windows\Task1_Poker.AssemblyInfoInputs.cache
+E:\C#\Task1_Poker\Task1_Poker\obj\Debug\net7.0-windows\Task1_Poker.AssemblyInfo.cs
+E:\C#\Task1_Poker\Task1_Poker\obj\Debug\net7.0-windows\Task1_Poker.csproj.CoreCompileInputs.cache
+E:\C#\Task1_Poker\Task1_Poker\bin\Debug\net7.0-windows\Task1_Poker.exe
+E:\C#\Task1_Poker\Task1_Poker\bin\Debug\net7.0-windows\Task1_Poker.deps.json
+E:\C#\Task1_Poker\Task1_Poker\bin\Debug\net7.0-windows\Task1_Poker.runtimeconfig.json
+E:\C#\Task1_Poker\Task1_Poker\bin\Debug\net7.0-windows\Task1_Poker.dll
+E:\C#\Task1_Poker\Task1_Poker\bin\Debug\net7.0-windows\Task1_Poker.pdb
+E:\C#\Task1_Poker\Task1_Poker\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+E:\C#\Task1_Poker\Task1_Poker\obj\Debug\net7.0-windows\Task1_Poker.csproj.CopyComplete
+E:\C#\Task1_Poker\Task1_Poker\obj\Debug\net7.0-windows\Task1_Poker.dll
+E:\C#\Task1_Poker\Task1_Poker\obj\Debug\net7.0-windows\refint\Task1_Poker.dll
+E:\C#\Task1_Poker\Task1_Poker\obj\Debug\net7.0-windows\Task1_Poker.pdb
+E:\C#\Task1_Poker\Task1_Poker\obj\Debug\net7.0-windows\Task1_Poker.genruntimeconfig.cache
+E:\C#\Task1_Poker\Task1_Poker\obj\Debug\net7.0-windows\ref\Task1_Poker.dll
+C:\Users\Pavel Arts\Desktop\Simple-Parser-PokerStart\PokerStars_PARSER\Task1_Poker\bin\Debug\net7.0-windows\Task1_Poker.exe
+C:\Users\Pavel Arts\Desktop\Simple-Parser-PokerStart\PokerStars_PARSER\Task1_Poker\bin\Debug\net7.0-windows\Task1_Poker.deps.json
+C:\Users\Pavel Arts\Desktop\Simple-Parser-PokerStart\PokerStars_PARSER\Task1_Poker\bin\Debug\net7.0-windows\Task1_Poker.runtimeconfig.json
+C:\Users\Pavel Arts\Desktop\Simple-Parser-PokerStart\PokerStars_PARSER\Task1_Poker\bin\Debug\net7.0-windows\Task1_Poker.dll
+C:\Users\Pavel Arts\Desktop\Simple-Parser-PokerStart\PokerStars_PARSER\Task1_Poker\bin\Debug\net7.0-windows\Task1_Poker.pdb
+C:\Users\Pavel Arts\Desktop\Simple-Parser-PokerStart\PokerStars_PARSER\Task1_Poker\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Pavel Arts\Desktop\Simple-Parser-PokerStart\PokerStars_PARSER\Task1_Poker\obj\Debug\net7.0-windows\Task1_Poker.csproj.AssemblyReference.cache
+C:\Users\Pavel Arts\Desktop\Simple-Parser-PokerStart\PokerStars_PARSER\Task1_Poker\obj\Debug\net7.0-windows\Task1_Poker.Form1.resources
+C:\Users\Pavel Arts\Desktop\Simple-Parser-PokerStart\PokerStars_PARSER\Task1_Poker\obj\Debug\net7.0-windows\Task1_Poker.csproj.GenerateResource.cache
+C:\Users\Pavel Arts\Desktop\Simple-Parser-PokerStart\PokerStars_PARSER\Task1_Poker\obj\Debug\net7.0-windows\Task1_Poker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel Arts\Desktop\Simple-Parser-PokerStart\PokerStars_PARSER\Task1_Poker\obj\Debug\net7.0-windows\Task1_Poker.AssemblyInfoInputs.cache
+C:\Users\Pavel Arts\Desktop\Simple-Parser-PokerStart\PokerStars_PARSER\Task1_Poker\obj\Debug\net7.0-windows\Task1_Poker.AssemblyInfo.cs
+C:\Users\Pavel Arts\Desktop\Simple-Parser-PokerStart\PokerStars_PARSER\Task1_Poker\obj\Debug\net7.0-windows\Task1_Poker.csproj.CoreCompileInputs.cache
+C:\Users\Pavel Arts\Desktop\Simple-Parser-PokerStart\PokerStars_PARSER\Task1_Poker\obj\Debug\net7.0-windows\Task1_Poker.csproj.CopyComplete
+C:\Users\Pavel Arts\Desktop\Simple-Parser-PokerStart\PokerStars_PARSER\Task1_Poker\obj\Debug\net7.0-windows\Task1_Poker.dll
+C:\Users\Pavel Arts\Desktop\Simple-Parser-PokerStart\PokerStars_PARSER\Task1_Poker\obj\Debug\net7.0-windows\refint\Task1_Poker.dll
+C:\Users\Pavel Arts\Desktop\Simple-Parser-PokerStart\PokerStars_PARSER\Task1_Poker\obj\Debug\net7.0-windows\Task1_Poker.pdb
+C:\Users\Pavel Arts\Desktop\Simple-Parser-PokerStart\PokerStars_PARSER\Task1_Poker\obj\Debug\net7.0-windows\Task1_Poker.genruntimeconfig.cache
+C:\Users\Pavel Arts\Desktop\Simple-Parser-PokerStart\PokerStars_PARSER\Task1_Poker\obj\Debug\net7.0-windows\ref\Task1_Poker.dll

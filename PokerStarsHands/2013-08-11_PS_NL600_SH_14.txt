@@ -1,0 +1,794 @@
+
+
+PokerStars Game #102601100835:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:55:02 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: DavetheDawg ($600 in chips) 
+Seat 2: Nahar ($253.50 in chips) 
+Seat 3: secunda13 ($444.08 in chips) 
+Seat 4: $-Twackle-$ ($633.20 in chips) 
+Seat 5: WhatA298 ($609 in chips) 
+Seat 6: Mekcsiken ($600 in chips) 
+DavetheDawg: posts small blind $3
+Nahar: posts big blind $6
+*** HOLE CARDS ***
+secunda13: folds 
+$-Twackle-$: folds 
+WhatA298: folds 
+Mekcsiken: raises $6 to $12
+DavetheDawg: folds 
+Nahar: folds 
+Uncalled bet ($6) returned to Mekcsiken
+Mekcsiken collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: DavetheDawg (small blind) folded before Flop
+Seat 2: Nahar (big blind) folded before Flop
+Seat 3: secunda13 folded before Flop (didn't bet)
+Seat 4: $-Twackle-$ folded before Flop (didn't bet)
+Seat 5: WhatA298 folded before Flop (didn't bet)
+Seat 6: Mekcsiken (button) collected ($15)
+
+
+PokerStars Game #102601113494:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:55:32 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: DavetheDawg ($600 in chips) 
+Seat 2: Nahar ($247.50 in chips) 
+Seat 3: secunda13 ($444.08 in chips) 
+Seat 4: $-Twackle-$ ($633.20 in chips) 
+Seat 5: WhatA298 ($609 in chips) 
+Seat 6: Mekcsiken ($609 in chips) 
+Nahar: posts small blind $3
+secunda13: posts big blind $6
+*** HOLE CARDS ***
+$-Twackle-$: raises $12 to $18
+WhatA298: folds 
+Mekcsiken: folds 
+DavetheDawg: folds 
+Nahar: raises $24 to $42
+secunda13: folds 
+$-Twackle-$: folds 
+Uncalled bet ($24) returned to Nahar
+Nahar collected $42 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0 
+Seat 1: DavetheDawg (button) folded before Flop (didn't bet)
+Seat 2: Nahar (small blind) collected ($42)
+Seat 3: secunda13 (big blind) folded before Flop
+Seat 4: $-Twackle-$ folded before Flop
+Seat 5: WhatA298 folded before Flop (didn't bet)
+Seat 6: Mekcsiken folded before Flop (didn't bet)
+
+
+PokerStars Game #102601136183:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:56:31 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: DavetheDawg ($600 in chips) 
+Seat 2: Nahar ($271.50 in chips) 
+Seat 3: secunda13 ($438.08 in chips) 
+Seat 4: $-Twackle-$ ($615.20 in chips) 
+Seat 5: WhatA298 ($609 in chips) 
+Seat 6: Mekcsiken ($609 in chips) 
+secunda13: posts small blind $3
+$-Twackle-$: posts big blind $6
+*** HOLE CARDS ***
+WhatA298: folds 
+Mekcsiken: folds 
+DavetheDawg: folds 
+Nahar: raises $9 to $15
+secunda13: folds 
+$-Twackle-$: raises $24 to $39
+Nahar: folds 
+Uncalled bet ($24) returned to $-Twackle-$
+$-Twackle-$ collected $33 from pot
+$-Twackle-$: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $0 
+Seat 1: DavetheDawg folded before Flop (didn't bet)
+Seat 2: Nahar (button) folded before Flop
+Seat 3: secunda13 (small blind) folded before Flop
+Seat 4: $-Twackle-$ (big blind) collected ($33)
+Seat 5: WhatA298 folded before Flop (didn't bet)
+Seat 6: Mekcsiken folded before Flop (didn't bet)
+
+
+PokerStars Game #102601154271:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:57:17 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: DavetheDawg ($600 in chips) 
+Seat 2: Nahar ($256.50 in chips) 
+Seat 3: secunda13 ($435.08 in chips) 
+Seat 4: $-Twackle-$ ($633.20 in chips) 
+Seat 5: WhatA298 ($609 in chips) 
+Seat 6: Mekcsiken ($609 in chips) 
+$-Twackle-$: posts small blind $3
+WhatA298: posts big blind $6
+*** HOLE CARDS ***
+Mekcsiken: folds 
+DavetheDawg: folds 
+Nahar: raises $9 to $15
+secunda13: folds 
+$-Twackle-$: folds 
+WhatA298: folds 
+Uncalled bet ($9) returned to Nahar
+Nahar collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: DavetheDawg folded before Flop (didn't bet)
+Seat 2: Nahar collected ($15)
+Seat 3: secunda13 (button) folded before Flop (didn't bet)
+Seat 4: $-Twackle-$ (small blind) folded before Flop
+Seat 5: WhatA298 (big blind) folded before Flop
+Seat 6: Mekcsiken folded before Flop (didn't bet)
+
+
+PokerStars Game #102601163117:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:57:39 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: DavetheDawg ($600 in chips) 
+Seat 2: Nahar ($265.50 in chips) 
+Seat 3: secunda13 ($435.08 in chips) 
+Seat 4: $-Twackle-$ ($630.20 in chips) 
+Seat 5: WhatA298 ($603 in chips) 
+Seat 6: Mekcsiken ($609 in chips) 
+WhatA298: posts small blind $3
+Mekcsiken: posts big blind $6
+*** HOLE CARDS ***
+DavetheDawg: raises $12 to $18
+Nahar: folds 
+secunda13: folds 
+$-Twackle-$: folds 
+WhatA298: folds 
+Mekcsiken: folds 
+Uncalled bet ($12) returned to DavetheDawg
+DavetheDawg collected $15 from pot
+DavetheDawg: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: DavetheDawg collected ($15)
+Seat 2: Nahar folded before Flop (didn't bet)
+Seat 3: secunda13 folded before Flop (didn't bet)
+Seat 4: $-Twackle-$ (button) folded before Flop (didn't bet)
+Seat 5: WhatA298 (small blind) folded before Flop
+Seat 6: Mekcsiken (big blind) folded before Flop
+
+
+PokerStars Game #102601170561:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:57:58 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: DavetheDawg ($609 in chips) 
+Seat 2: Nahar ($265.50 in chips) 
+Seat 3: secunda13 ($435.08 in chips) 
+Seat 4: $-Twackle-$ ($630.20 in chips) 
+Seat 5: WhatA298 ($600 in chips) 
+Seat 6: Mekcsiken ($603 in chips) 
+Mekcsiken: posts small blind $3
+DavetheDawg: posts big blind $6
+*** HOLE CARDS ***
+Nahar: raises $12 to $18
+secunda13: folds 
+$-Twackle-$: folds 
+WhatA298: folds 
+Mekcsiken: folds 
+DavetheDawg: folds 
+Uncalled bet ($12) returned to Nahar
+Nahar collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: DavetheDawg (big blind) folded before Flop
+Seat 2: Nahar collected ($15)
+Seat 3: secunda13 folded before Flop (didn't bet)
+Seat 4: $-Twackle-$ folded before Flop (didn't bet)
+Seat 5: WhatA298 (button) folded before Flop (didn't bet)
+Seat 6: Mekcsiken (small blind) folded before Flop
+
+
+PokerStars Game #102601177817:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:58:17 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: DavetheDawg ($603 in chips) 
+Seat 2: Nahar ($274.50 in chips) 
+Seat 3: secunda13 ($435.08 in chips) 
+Seat 4: $-Twackle-$ ($630.20 in chips) 
+Seat 5: WhatA298 ($600 in chips) 
+Seat 6: Mekcsiken ($600 in chips) 
+DavetheDawg: posts small blind $3
+Nahar: posts big blind $6
+*** HOLE CARDS ***
+secunda13: folds 
+$-Twackle-$: folds 
+WhatA298: folds 
+Mekcsiken: folds 
+DavetheDawg: raises $12 to $18
+Nahar: raises $27 to $45
+DavetheDawg: folds 
+Uncalled bet ($27) returned to Nahar
+Nahar collected $36 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0 
+Seat 1: DavetheDawg (small blind) folded before Flop
+Seat 2: Nahar (big blind) collected ($36)
+Seat 3: secunda13 folded before Flop (didn't bet)
+Seat 4: $-Twackle-$ folded before Flop (didn't bet)
+Seat 5: WhatA298 folded before Flop (didn't bet)
+Seat 6: Mekcsiken (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102601196071:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:59:03 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: DavetheDawg ($600 in chips) 
+Seat 2: Nahar ($292.50 in chips) 
+Seat 3: secunda13 ($435.08 in chips) 
+Seat 4: $-Twackle-$ ($630.20 in chips) 
+Seat 5: WhatA298 ($600 in chips) 
+Seat 6: Mekcsiken ($600 in chips) 
+Nahar: posts small blind $3
+secunda13: posts big blind $6
+*** HOLE CARDS ***
+$-Twackle-$: folds 
+WhatA298: raises $9.36 to $15.36
+Mekcsiken: folds 
+DavetheDawg: folds 
+Nahar: folds 
+secunda13: folds 
+Uncalled bet ($9.36) returned to WhatA298
+WhatA298 collected $15 from pot
+WhatA298: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: DavetheDawg (button) folded before Flop (didn't bet)
+Seat 2: Nahar (small blind) folded before Flop
+Seat 3: secunda13 (big blind) folded before Flop
+Seat 4: $-Twackle-$ folded before Flop (didn't bet)
+Seat 5: WhatA298 collected ($15)
+Seat 6: Mekcsiken folded before Flop (didn't bet)
+
+
+PokerStars Game #102601207567:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:59:32 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: DavetheDawg ($600 in chips) 
+Seat 2: Nahar ($289.50 in chips) 
+Seat 3: secunda13 ($429.08 in chips) 
+Seat 5: WhatA298 ($609 in chips) 
+Seat 6: Mekcsiken ($600 in chips) 
+secunda13: posts small blind $3
+$-Twackle-$: is sitting out 
+WhatA298: posts big blind $6
+*** HOLE CARDS ***
+Mekcsiken: folds 
+DavetheDawg: folds 
+$-Twackle-$ leaves the table
+Nahar: folds 
+secunda13: calls $3
+redon1 joins the table at seat #4 
+WhatA298: checks 
+*** FLOP *** [6h Kd 8c]
+secunda13: checks 
+WhatA298: checks 
+*** TURN *** [6h Kd 8c] [Ks]
+secunda13: checks 
+WhatA298: checks 
+*** RIVER *** [6h Kd 8c Ks] [Kh]
+secunda13: checks 
+WhatA298: checks 
+*** SHOW DOWN ***
+secunda13: shows [Jh 4d] (three of a kind, Kings)
+WhatA298: shows [6c Th] (a full house, Kings full of Sixes)
+WhatA298 collected $11.46 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.54 
+Board [6h Kd 8c Ks Kh]
+Seat 1: DavetheDawg folded before Flop (didn't bet)
+Seat 2: Nahar (button) folded before Flop (didn't bet)
+Seat 3: secunda13 (small blind) showed [Jh 4d] and lost with three of a kind, Kings
+Seat 5: WhatA298 (big blind) showed [6c Th] and won ($11.46) with a full house, Kings full of Sixes
+Seat 6: Mekcsiken folded before Flop (didn't bet)
+
+
+PokerStars Game #102600873785:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:47:19 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #3 is the button
+Seat 3: secunda13 ($240 in chips) 
+Seat 4: $-Twackle-$ ($600 in chips) 
+Seat 5: WhatA298 ($600 in chips) 
+Nahar joins the table at seat #2 
+Mekcsiken joins the table at seat #6 
+$-Twackle-$: posts small blind $3
+WhatA298: posts big blind $6
+*** HOLE CARDS ***
+secunda13: folds 
+DavetheDawg joins the table at seat #1 
+$-Twackle-$: folds 
+Uncalled bet ($3) returned to WhatA298
+WhatA298 collected $6 from pot
+WhatA298: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 3: secunda13 (button) folded before Flop (didn't bet)
+Seat 4: $-Twackle-$ (small blind) folded before Flop
+Seat 5: WhatA298 (big blind) collected ($6)
+
+
+PokerStars Game #102600886650:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:47:46 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #4 is the button
+Seat 3: secunda13 ($240 in chips) 
+Seat 4: $-Twackle-$ ($600 in chips) 
+Seat 5: WhatA298 ($603 in chips) 
+Seat 6: Mekcsiken ($600 in chips) 
+WhatA298: posts small blind $3
+Mekcsiken: posts big blind $6
+DavetheDawg: sits out 
+Nahar: sits out 
+*** HOLE CARDS ***
+secunda13: calls $6
+$-Twackle-$: folds 
+WhatA298: raises $27 to $33
+Mekcsiken: calls $27
+secunda13: raises $69 to $102
+WhatA298: folds 
+Mekcsiken: folds 
+Uncalled bet ($69) returned to secunda13
+secunda13 collected $99 from pot
+*** SUMMARY ***
+Total pot $99 | Rake $0 
+Seat 3: secunda13 collected ($99)
+Seat 4: $-Twackle-$ (button) folded before Flop (didn't bet)
+Seat 5: WhatA298 (small blind) folded before Flop
+Seat 6: Mekcsiken (big blind) folded before Flop
+
+
+PokerStars Game #102600931598:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:49:18 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: DavetheDawg ($600 in chips) 
+Seat 3: secunda13 ($306 in chips) 
+Seat 4: $-Twackle-$ ($600 in chips) 
+Seat 5: WhatA298 ($600 in chips) 
+Seat 6: Mekcsiken ($600 in chips) 
+Mekcsiken: posts small blind $3
+DavetheDawg: posts big blind $6
+Nahar: sits out 
+*** HOLE CARDS ***
+secunda13: folds 
+$-Twackle-$: folds 
+WhatA298: raises $6.72 to $12.72
+Mekcsiken: folds 
+DavetheDawg: folds 
+Uncalled bet ($6.72) returned to WhatA298
+WhatA298 collected $15 from pot
+WhatA298: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: DavetheDawg (big blind) folded before Flop
+Seat 3: secunda13 folded before Flop (didn't bet)
+Seat 4: $-Twackle-$ folded before Flop (didn't bet)
+Seat 5: WhatA298 (button) collected ($15)
+Seat 6: Mekcsiken (small blind) folded before Flop
+
+
+PokerStars Game #102600945594:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:49:46 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: DavetheDawg ($600 in chips) 
+Seat 2: Nahar ($240 in chips) 
+Seat 3: secunda13 ($306 in chips) 
+Seat 4: $-Twackle-$ ($600 in chips) 
+Seat 5: WhatA298 ($609 in chips) 
+Seat 6: Mekcsiken ($600 in chips) 
+DavetheDawg: posts small blind $3
+Nahar: posts big blind $6
+*** HOLE CARDS ***
+secunda13: folds 
+$-Twackle-$: folds 
+WhatA298: folds 
+Mekcsiken: raises $7.50 to $13.50
+DavetheDawg: folds 
+Nahar: raises $22.50 to $36
+Mekcsiken: folds 
+Uncalled bet ($22.50) returned to Nahar
+Nahar collected $30 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: DavetheDawg (small blind) folded before Flop
+Seat 2: Nahar (big blind) collected ($30)
+Seat 3: secunda13 folded before Flop (didn't bet)
+Seat 4: $-Twackle-$ folded before Flop (didn't bet)
+Seat 5: WhatA298 folded before Flop (didn't bet)
+Seat 6: Mekcsiken (button) folded before Flop
+
+
+PokerStars Game #102600967213:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:50:29 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: DavetheDawg ($600 in chips) 
+Seat 2: Nahar ($256.50 in chips) 
+Seat 3: secunda13 ($306 in chips) 
+Seat 4: $-Twackle-$ ($600 in chips) 
+Seat 5: WhatA298 ($609 in chips) 
+Seat 6: Mekcsiken ($600 in chips) 
+Nahar: posts small blind $3
+secunda13: posts big blind $6
+*** HOLE CARDS ***
+$-Twackle-$: folds 
+WhatA298: folds 
+Mekcsiken: raises $7.50 to $13.50
+DavetheDawg: folds 
+Nahar: folds 
+secunda13: calls $7.50
+*** FLOP *** [9c 4s 2h]
+secunda13: bets $6
+Mekcsiken: raises $18 to $24
+secunda13: calls $18
+*** TURN *** [9c 4s 2h] [5d]
+secunda13: checks 
+Mekcsiken: bets $54
+secunda13: raises $54 to $108
+Mekcsiken: calls $54
+*** RIVER *** [9c 4s 2h 5d] [3c]
+secunda13: bets $160.50 and is all-in
+Mekcsiken: folds 
+Uncalled bet ($160.50) returned to secunda13
+secunda13 collected $291.20 from pot
+secunda13: doesn't show hand 
+*** SUMMARY ***
+Total pot $294 | Rake $2.80 
+Board [9c 4s 2h 5d 3c]
+Seat 1: DavetheDawg (button) folded before Flop (didn't bet)
+Seat 2: Nahar (small blind) folded before Flop
+Seat 3: secunda13 (big blind) collected ($291.20)
+Seat 4: $-Twackle-$ folded before Flop (didn't bet)
+Seat 5: WhatA298 folded before Flop (didn't bet)
+Seat 6: Mekcsiken folded on the River
+
+
+PokerStars Game #102601002651:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:51:41 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: DavetheDawg ($600 in chips) 
+Seat 2: Nahar ($253.50 in chips) 
+Seat 3: secunda13 ($451.70 in chips) 
+Seat 4: $-Twackle-$ ($600 in chips) 
+Seat 5: WhatA298 ($609 in chips) 
+Seat 6: Mekcsiken ($600 in chips) 
+secunda13: posts small blind $3
+$-Twackle-$: posts big blind $6
+*** HOLE CARDS ***
+WhatA298: folds 
+Mekcsiken: folds 
+DavetheDawg: raises $9 to $15
+Nahar: folds 
+secunda13: calls $12
+$-Twackle-$: folds 
+*** FLOP *** [Js 5h Qh]
+secunda13: bets $6
+DavetheDawg: folds 
+Uncalled bet ($6) returned to secunda13
+secunda13 collected $34.38 from pot
+secunda13: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $1.62 
+Board [Js 5h Qh]
+Seat 1: DavetheDawg folded on the Flop
+Seat 2: Nahar (button) folded before Flop (didn't bet)
+Seat 3: secunda13 (small blind) collected ($34.38)
+Seat 4: $-Twackle-$ (big blind) folded before Flop
+Seat 5: WhatA298 folded before Flop (didn't bet)
+Seat 6: Mekcsiken folded before Flop (didn't bet)
+
+
+PokerStars Game #102601029540:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:52:36 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: DavetheDawg ($600 in chips) 
+Seat 2: Nahar ($253.50 in chips) 
+Seat 3: secunda13 ($471.08 in chips) 
+Seat 4: $-Twackle-$ ($600 in chips) 
+Seat 5: WhatA298 ($609 in chips) 
+Seat 6: Mekcsiken ($600 in chips) 
+$-Twackle-$: posts small blind $3
+WhatA298: posts big blind $6
+*** HOLE CARDS ***
+Mekcsiken: folds 
+DavetheDawg: folds 
+Nahar: folds 
+secunda13: folds 
+$-Twackle-$: folds 
+Uncalled bet ($3) returned to WhatA298
+WhatA298 collected $6 from pot
+WhatA298: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: DavetheDawg folded before Flop (didn't bet)
+Seat 2: Nahar folded before Flop (didn't bet)
+Seat 3: secunda13 (button) folded before Flop (didn't bet)
+Seat 4: $-Twackle-$ (small blind) folded before Flop
+Seat 5: WhatA298 (big blind) collected ($6)
+Seat 6: Mekcsiken folded before Flop (didn't bet)
+
+
+PokerStars Game #102601039519:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:52:57 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: DavetheDawg ($600 in chips) 
+Seat 2: Nahar ($253.50 in chips) 
+Seat 3: secunda13 ($471.08 in chips) 
+Seat 4: $-Twackle-$ ($600 in chips) 
+Seat 5: WhatA298 ($612 in chips) 
+Seat 6: Mekcsiken ($600 in chips) 
+WhatA298: posts small blind $3
+Mekcsiken: posts big blind $6
+*** HOLE CARDS ***
+DavetheDawg: folds 
+Nahar: folds 
+secunda13 has timed out
+secunda13: folds 
+$-Twackle-$: folds 
+WhatA298: folds 
+Uncalled bet ($3) returned to Mekcsiken
+Mekcsiken collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: DavetheDawg folded before Flop (didn't bet)
+Seat 2: Nahar folded before Flop (didn't bet)
+Seat 3: secunda13 folded before Flop (didn't bet)
+Seat 4: $-Twackle-$ (button) folded before Flop (didn't bet)
+Seat 5: WhatA298 (small blind) folded before Flop
+Seat 6: Mekcsiken (big blind) collected ($6)
+
+
+PokerStars Game #102601069622:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:53:58 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: DavetheDawg ($600 in chips) 
+Seat 2: Nahar ($253.50 in chips) 
+Seat 3: secunda13 ($471.08 in chips) 
+Seat 4: $-Twackle-$ ($600 in chips) 
+Seat 5: WhatA298 ($609 in chips) 
+Seat 6: Mekcsiken ($603 in chips) 
+Mekcsiken: posts small blind $3
+DavetheDawg: posts big blind $6
+*** HOLE CARDS ***
+Nahar: folds 
+secunda13: calls $6
+$-Twackle-$: raises $15 to $21
+WhatA298: folds 
+Mekcsiken: folds 
+DavetheDawg: folds 
+secunda13: calls $15
+*** FLOP *** [4d 7h Qc]
+secunda13: bets $6
+$-Twackle-$: raises $36.60 to $42.60
+secunda13: folds 
+Uncalled bet ($36.60) returned to $-Twackle-$
+$-Twackle-$ collected $60.20 from pot
+$-Twackle-$: doesn't show hand 
+*** SUMMARY ***
+Total pot $63 | Rake $2.80 
+Board [4d 7h Qc]
+Seat 1: DavetheDawg (big blind) folded before Flop
+Seat 2: Nahar folded before Flop (didn't bet)
+Seat 3: secunda13 folded on the Flop
+Seat 4: $-Twackle-$ collected ($60.20)
+Seat 5: WhatA298 (button) folded before Flop (didn't bet)
+Seat 6: Mekcsiken (small blind) folded before Flop
+
+
+PokerStars Game #102601265700:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 8:01:42 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: DavetheDawg ($600 in chips) 
+Seat 2: Nahar ($289.50 in chips) 
+Seat 3: secunda13 ($423.08 in chips) 
+Seat 5: WhatA298 ($614.46 in chips) 
+redon1 will be allowed to play after the button
+WhatA298: posts small blind $3
+Mekcsiken: is sitting out 
+DavetheDawg: posts big blind $6
+*** HOLE CARDS ***
+Nahar: folds 
+Mekcsiken leaves the table
+secunda13: raises $6 to $12
+WhatA298: folds 
+DavetheDawg: folds 
+Uncalled bet ($6) returned to secunda13
+secunda13 collected $15 from pot
+secunda13: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: DavetheDawg (big blind) folded before Flop
+Seat 2: Nahar folded before Flop (didn't bet)
+Seat 3: secunda13 (button) collected ($15)
+Seat 5: WhatA298 (small blind) folded before Flop
+
+
+PokerStars Game #102601278028:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 8:02:07 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: DavetheDawg ($600 in chips) 
+Seat 2: Nahar ($289.50 in chips) 
+Seat 3: secunda13 ($432.08 in chips) 
+Seat 5: WhatA298 ($611.46 in chips) 
+DavetheDawg: posts small blind $3
+Nahar: posts big blind $6
+redon1: sits out 
+*** HOLE CARDS ***
+secunda13: raises $6 to $12
+LukaschenkoA joins the table at seat #6 
+WhatA298: folds 
+DavetheDawg: folds 
+Nahar: calls $6
+*** FLOP *** [5c Kh 8s]
+Nahar: checks 
+secunda13: bets $18
+Nahar: folds 
+Uncalled bet ($18) returned to secunda13
+secunda13 collected $25.78 from pot
+secunda13: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [5c Kh 8s]
+Seat 1: DavetheDawg (small blind) folded before Flop
+Seat 2: Nahar (big blind) folded on the Flop
+Seat 3: secunda13 collected ($25.78)
+Seat 5: WhatA298 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102601304972:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 8:02:59 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: DavetheDawg ($600 in chips) 
+Seat 2: Nahar ($277.50 in chips) 
+Seat 3: secunda13 ($445.86 in chips) 
+Seat 5: WhatA298 ($611.46 in chips) 
+Nahar: posts small blind $3
+secunda13: posts big blind $6
+redon1: sits out 
+LukaschenkoA: sits out 
+*** HOLE CARDS ***
+WhatA298: raises $6.72 to $12.72
+DavetheDawg: folds 
+Nahar: folds 
+secunda13: calls $6.72
+*** FLOP *** [Ac 6h 4c]
+secunda13: checks 
+WhatA298: bets $16.29
+secunda13: folds 
+Uncalled bet ($16.29) returned to WhatA298
+WhatA298 collected $27.16 from pot
+WhatA298: doesn't show hand 
+*** SUMMARY ***
+Total pot $28.44 | Rake $1.28 
+Board [Ac 6h 4c]
+Seat 1: DavetheDawg (button) folded before Flop (didn't bet)
+Seat 2: Nahar (small blind) folded before Flop
+Seat 3: secunda13 (big blind) folded on the Flop
+Seat 5: WhatA298 collected ($27.16)
+
+
+PokerStars Game #102601328597:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 8:03:44 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: DavetheDawg ($600 in chips) 
+Seat 2: Nahar ($274.50 in chips) 
+Seat 3: secunda13 ($433.14 in chips) 
+Seat 4: redon1 ($600 in chips) 
+Seat 5: WhatA298 ($625.90 in chips) 
+secunda13: posts small blind $3
+redon1: posts big blind $6
+LukaschenkoA: sits out 
+*** HOLE CARDS ***
+WhatA298: raises $9.36 to $15.36
+DavetheDawg: folds 
+Nahar: folds 
+secunda13: raises $9.36 to $24.72
+redon1: folds 
+WhatA298: calls $9.36
+*** FLOP *** [Jh Qs Jd]
+secunda13: bets $42
+WhatA298: folds 
+Uncalled bet ($42) returned to secunda13
+secunda13 collected $52.95 from pot
+secunda13: doesn't show hand 
+*** SUMMARY ***
+Total pot $55.44 | Rake $2.49 
+Board [Jh Qs Jd]
+Seat 1: DavetheDawg folded before Flop (didn't bet)
+Seat 2: Nahar (button) folded before Flop (didn't bet)
+Seat 3: secunda13 (small blind) collected ($52.95)
+Seat 4: redon1 (big blind) folded before Flop
+Seat 5: WhatA298 folded on the Flop
+
+
+PokerStars Game #102601357982:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 8:04:39 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: DavetheDawg ($600 in chips) 
+Seat 2: Nahar ($274.50 in chips) 
+Seat 3: secunda13 ($461.37 in chips) 
+Seat 4: redon1 ($600 in chips) 
+Seat 5: WhatA298 ($601.18 in chips) 
+redon1: posts small blind $3
+WhatA298: posts big blind $6
+LukaschenkoA: sits out 
+*** HOLE CARDS ***
+DavetheDawg: folds 
+Nahar: raises $9 to $15
+secunda13: calls $15
+redon1: raises $45 to $60
+WhatA298: folds 
+Nahar: folds 
+secunda13: calls $45
+*** FLOP *** [7d Td 4d]
+redon1: bets $96
+secunda13: calls $96
+*** TURN *** [7d Td 4d] [4c]
+redon1: bets $324
+secunda13: calls $305.37 and is all-in
+Uncalled bet ($18.63) returned to redon1
+*** RIVER *** [7d Td 4d 4c] [8d]
+*** SHOW DOWN ***
+redon1: shows [Js Jd] (a flush, Jack high)
+secunda13: shows [Kh Th] (two pair, Tens and Fours)
+redon1 collected $940.94 from pot
+*** SUMMARY ***
+Total pot $943.74 | Rake $2.80 
+Board [7d Td 4d 4c 8d]
+Seat 1: DavetheDawg folded before Flop (didn't bet)
+Seat 2: Nahar folded before Flop
+Seat 3: secunda13 (button) showed [Kh Th] and lost with two pair, Tens and Fours
+Seat 4: redon1 (small blind) showed [Js Jd] and won ($940.94) with a flush, Jack high
+Seat 5: WhatA298 (big blind) folded before Flop
+
+
+PokerStars Game #102601390350:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 8:05:40 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: DavetheDawg ($600 in chips) 
+Seat 2: Nahar ($259.50 in chips) 
+Seat 4: redon1 ($1079.57 in chips) 
+Seat 5: WhatA298 ($600 in chips) 
+Seat 6: LukaschenkoA ($600 in chips) 
+WhatA298: posts small blind $3
+LukaschenkoA: posts big blind $6
+*** HOLE CARDS ***
+DavetheDawg: folds 
+Nahar: folds 
+secunda13 leaves the table
+redon1: folds 
+WhatA298: raises $9.36 to $15.36
+LukaschenkoA: folds 
+Uncalled bet ($9.36) returned to WhatA298
+WhatA298 collected $12 from pot
+WhatA298: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: DavetheDawg folded before Flop (didn't bet)
+Seat 2: Nahar folded before Flop (didn't bet)
+Seat 4: redon1 (button) folded before Flop (didn't bet)
+Seat 5: WhatA298 (small blind) collected ($12)
+Seat 6: LukaschenkoA (big blind) folded before Flop
+
+
+PokerStars Game #102601399471:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 8:05:58 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #5 is the button
+Seat 4: redon1 ($1079.57 in chips) 
+Seat 5: WhatA298 ($606 in chips) 
+Seat 6: LukaschenkoA ($600 in chips) 
+LukaschenkoA: posts small blind $3
+DavetheDawg: is sitting out 
+Nahar: is sitting out 
+redon1: posts big blind $6
+*** HOLE CARDS ***
+DavetheDawg leaves the table
+Nahar leaves the table
+WhatA298: folds 
+LukaschenkoA: raises $12 to $18
+redon1: folds 
+Uncalled bet ($12) returned to LukaschenkoA
+LukaschenkoA collected $12 from pot
+LukaschenkoA: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 4: redon1 (big blind) folded before Flop
+Seat 5: WhatA298 (button) folded before Flop (didn't bet)
+Seat 6: LukaschenkoA (small blind) collected ($12)
+
+
+PokerStars Game #102601413219:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 8:06:24 ET
+Table 'Fayeta V 40-100 bb' 6-max Seat #4 is the button
+Seat 4: redon1 ($1073.57 in chips) 
+Seat 6: LukaschenkoA ($606 in chips) 
+redon1: posts small blind $3
+WhatA298: is sitting out 
+LukaschenkoA: posts big blind $6
+*** HOLE CARDS ***
+WhatA298 leaves the table
+WhatA298 joins the table at seat #5 
+redon1: folds 
+Uncalled bet ($3) returned to LukaschenkoA
+LukaschenkoA collected $6 from pot
+LukaschenkoA: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 4: redon1 (button) (small blind) folded before Flop
+Seat 6: LukaschenkoA (big blind) collected ($6)

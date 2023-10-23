@@ -1,0 +1,1062 @@
+
+
+PokerStars Game #102600505385:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:34:46 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Nahar ($240 in chips) 
+Seat 2: HoldenUte03 ($240 in chips) 
+Seat 3: Mekcsiken ($600 in chips) 
+HoldenUte03: posts small blind $3
+Mekcsiken: posts big blind $6
+DavetheDawg: sits out 
+Scarface.VLT: sits out 
+*** HOLE CARDS ***
+Nahar: folds 
+HoldenUte03: calls $3
+Mekcsiken: checks 
+*** FLOP *** [Kh 4c Ah]
+HoldenUte03: checks 
+Mekcsiken: checks 
+*** TURN *** [Kh 4c Ah] [Ac]
+HoldenUte03: checks 
+Mekcsiken: checks 
+*** RIVER *** [Kh 4c Ah Ac] [6c]
+HoldenUte03: checks 
+Mekcsiken: checks 
+*** SHOW DOWN ***
+HoldenUte03: shows [Ks Tc] (two pair, Aces and Kings)
+Mekcsiken: mucks hand 
+HoldenUte03 collected $11.46 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.54 
+Board [Kh 4c Ah Ac 6c]
+Seat 1: Nahar (button) folded before Flop (didn't bet)
+Seat 2: HoldenUte03 (small blind) showed [Ks Tc] and won ($11.46) with two pair, Aces and Kings
+Seat 3: Mekcsiken (big blind) mucked
+
+
+PokerStars Game #102600524106:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:35:26 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Nahar ($240 in chips) 
+Seat 2: HoldenUte03 ($245.46 in chips) 
+Seat 3: Mekcsiken ($600 in chips) 
+Seat 4: DavetheDawg ($600 in chips) 
+Mekcsiken: posts small blind $3
+DavetheDawg: posts big blind $6
+Scarface.VLT: sits out 
+*** HOLE CARDS ***
+GERAKLmeat joins the table at seat #5 
+Nahar: folds 
+HoldenUte03: folds 
+Mekcsiken: folds 
+Uncalled bet ($3) returned to DavetheDawg
+DavetheDawg collected $6 from pot
+DavetheDawg: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Nahar folded before Flop (didn't bet)
+Seat 2: HoldenUte03 (button) folded before Flop (didn't bet)
+Seat 3: Mekcsiken (small blind) folded before Flop
+Seat 4: DavetheDawg (big blind) collected ($6)
+
+
+PokerStars Game #102600530129:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:35:38 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Nahar ($240 in chips) 
+Seat 2: HoldenUte03 ($245.46 in chips) 
+Seat 3: Mekcsiken ($600 in chips) 
+Seat 4: DavetheDawg ($603 in chips) 
+Seat 5: GERAKLmeat ($240 in chips) 
+DavetheDawg: posts small blind $3
+GERAKLmeat: posts big blind $6
+Scarface.VLT: sits out 
+*** HOLE CARDS ***
+Nahar: folds 
+HoldenUte03: folds 
+Mekcsiken: folds 
+DavetheDawg: folds 
+Uncalled bet ($3) returned to GERAKLmeat
+GERAKLmeat collected $6 from pot
+GERAKLmeat: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Nahar folded before Flop (didn't bet)
+Seat 2: HoldenUte03 folded before Flop (didn't bet)
+Seat 3: Mekcsiken (button) folded before Flop (didn't bet)
+Seat 4: DavetheDawg (small blind) folded before Flop
+Seat 5: GERAKLmeat (big blind) collected ($6)
+
+
+PokerStars Game #102600540293:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:35:58 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Nahar ($240 in chips) 
+Seat 2: HoldenUte03 ($245.46 in chips) 
+Seat 3: Mekcsiken ($600 in chips) 
+Seat 4: DavetheDawg ($600 in chips) 
+Seat 5: GERAKLmeat ($243 in chips) 
+Seat 6: Scarface.VLT ($600 in chips) 
+GERAKLmeat: posts small blind $3
+Scarface.VLT: posts big blind $6
+*** HOLE CARDS ***
+Nahar: raises $9 to $15
+HoldenUte03: folds 
+Mekcsiken: folds 
+DavetheDawg: raises $25 to $40
+GERAKLmeat: folds 
+Scarface.VLT: folds 
+Nahar: raises $200 to $240 and is all-in
+DavetheDawg: folds 
+Uncalled bet ($200) returned to Nahar
+Nahar collected $89 from pot
+*** SUMMARY ***
+Total pot $89 | Rake $0 
+Seat 1: Nahar collected ($89)
+Seat 2: HoldenUte03 folded before Flop (didn't bet)
+Seat 3: Mekcsiken folded before Flop (didn't bet)
+Seat 4: DavetheDawg (button) folded before Flop
+Seat 5: GERAKLmeat (small blind) folded before Flop
+Seat 6: Scarface.VLT (big blind) folded before Flop
+
+
+PokerStars Game #102600558127:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:36:35 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Nahar ($289 in chips) 
+Seat 2: HoldenUte03 ($245.46 in chips) 
+Seat 3: Mekcsiken ($600 in chips) 
+Seat 4: DavetheDawg ($600 in chips) 
+Seat 5: GERAKLmeat ($240 in chips) 
+Seat 6: Scarface.VLT ($600 in chips) 
+Scarface.VLT: posts small blind $3
+Nahar: posts big blind $6
+*** HOLE CARDS ***
+HoldenUte03: calls $6
+Mekcsiken: folds 
+DavetheDawg: folds 
+GERAKLmeat: folds 
+Scarface.VLT: calls $3
+Nahar: raises $21 to $27
+HoldenUte03: calls $21
+Scarface.VLT: folds 
+*** FLOP *** [5c 5s Qh]
+Nahar: bets $36
+HoldenUte03: calls $36
+*** TURN *** [5c 5s Qh] [Tc]
+Nahar: bets $66
+HoldenUte03: raises $116.46 to $182.46 and is all-in
+Nahar: calls $116.46
+*** RIVER *** [5c 5s Qh Tc] [7h]
+*** SHOW DOWN ***
+Nahar: shows [Ad Ah] (two pair, Aces and Fives)
+HoldenUte03: shows [Jd Jh] (two pair, Jacks and Fives)
+Nahar collected $494.12 from pot
+*** SUMMARY ***
+Total pot $496.92 | Rake $2.80 
+Board [5c 5s Qh Tc 7h]
+Seat 1: Nahar (big blind) showed [Ad Ah] and won ($494.12) with two pair, Aces and Fives
+Seat 2: HoldenUte03 showed [Jd Jh] and lost with two pair, Jacks and Fives
+Seat 3: Mekcsiken folded before Flop (didn't bet)
+Seat 4: DavetheDawg folded before Flop (didn't bet)
+Seat 5: GERAKLmeat (button) folded before Flop (didn't bet)
+Seat 6: Scarface.VLT (small blind) folded before Flop
+
+
+PokerStars Game #102600593875:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:37:48 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Nahar ($537.66 in chips) 
+Seat 4: DavetheDawg ($600 in chips) 
+Seat 5: GERAKLmeat ($240 in chips) 
+Seat 6: Scarface.VLT ($600 in chips) 
+Nahar: posts small blind $3
+Mekcsiken: is sitting out 
+DavetheDawg: posts big blind $6
+*** HOLE CARDS ***
+Mekcsiken leaves the table
+GERAKLmeat: folds 
+HoldenUte03 said, "of cause rigg"
+Scarface.VLT: raises $6 to $12
+HoldenUte03 leaves the table
+Nahar: folds 
+DavetheDawg: folds 
+Uncalled bet ($6) returned to Scarface.VLT
+Scarface.VLT collected $15 from pot
+Scarface.VLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Nahar (small blind) folded before Flop
+Seat 4: DavetheDawg (big blind) folded before Flop
+Seat 5: GERAKLmeat folded before Flop (didn't bet)
+Seat 6: Scarface.VLT (button) collected ($15)
+
+
+PokerStars Game #102600606137:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:38:14 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Nahar ($534.66 in chips) 
+Seat 4: DavetheDawg ($600 in chips) 
+Seat 5: GERAKLmeat ($240 in chips) 
+Seat 6: Scarface.VLT ($609 in chips) 
+DavetheDawg: posts small blind $3
+GERAKLmeat: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: folds 
+Nahar: folds 
+DavetheDawg: folds 
+Uncalled bet ($3) returned to GERAKLmeat
+GERAKLmeat collected $6 from pot
+GERAKLmeat: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Nahar (button) folded before Flop (didn't bet)
+Seat 4: DavetheDawg (small blind) folded before Flop
+Seat 5: GERAKLmeat (big blind) collected ($6)
+Seat 6: Scarface.VLT folded before Flop (didn't bet)
+
+
+PokerStars Game #102600610059:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:38:21 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Nahar ($534.66 in chips) 
+Seat 4: DavetheDawg ($600 in chips) 
+Seat 5: GERAKLmeat ($243 in chips) 
+Seat 6: Scarface.VLT ($609 in chips) 
+GERAKLmeat: posts small blind $3
+Scarface.VLT: posts big blind $6
+*** HOLE CARDS ***
+Nahar: folds 
+DavetheDawg: raises $6 to $12
+GERAKLmeat: folds 
+Scarface.VLT: raises $30 to $42
+DavetheDawg: calls $30
+*** FLOP *** [8h 4s Qc]
+Scarface.VLT: checks 
+onez69 joins the table at seat #2 
+DavetheDawg: bets $47.02
+Scarface.VLT: raises $54.98 to $102
+DavetheDawg: folds 
+Uncalled bet ($54.98) returned to Scarface.VLT
+Scarface.VLT collected $179.54 from pot
+Scarface.VLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $181.04 | Rake $1.50 
+Board [8h 4s Qc]
+Seat 1: Nahar folded before Flop (didn't bet)
+Seat 4: DavetheDawg (button) folded on the Flop
+Seat 5: GERAKLmeat (small blind) folded before Flop
+Seat 6: Scarface.VLT (big blind) collected ($179.54)
+
+
+PokerStars Game #102600651578:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:39:46 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #5 is the button
+Seat 2: onez69 ($240 in chips) 
+Seat 4: DavetheDawg ($600 in chips) 
+Seat 5: GERAKLmeat ($240 in chips) 
+Seat 6: Scarface.VLT ($699.52 in chips) 
+Scarface.VLT: posts small blind $3
+Nahar: is sitting out 
+onez69: posts big blind $6
+*** HOLE CARDS ***
+LukaschenkoA joins the table at seat #3 
+DavetheDawg: folds 
+Nahar leaves the table
+GERAKLmeat: raises $6 to $12
+Scarface.VLT: folds 
+onez69: folds 
+Uncalled bet ($6) returned to GERAKLmeat
+GERAKLmeat collected $15 from pot
+GERAKLmeat: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: onez69 (big blind) folded before Flop
+Seat 4: DavetheDawg folded before Flop (didn't bet)
+Seat 5: GERAKLmeat (button) collected ($15)
+Seat 6: Scarface.VLT (small blind) folded before Flop
+
+
+PokerStars Game #102600659823:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:40:03 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #6 is the button
+Seat 2: onez69 ($234 in chips) 
+Seat 3: LukaschenkoA ($600 in chips) 
+Seat 4: DavetheDawg ($600 in chips) 
+Seat 5: GERAKLmeat ($249 in chips) 
+Seat 6: Scarface.VLT ($696.52 in chips) 
+onez69: posts small blind $3
+LukaschenkoA: posts big blind $6
+*** HOLE CARDS ***
+DavetheDawg: folds 
+GERAKLmeat: raises $6 to $12
+Scarface.VLT: folds 
+onez69: folds 
+pacopil joins the table at seat #1 
+LukaschenkoA: raises $24 to $36
+GERAKLmeat: folds 
+Uncalled bet ($24) returned to LukaschenkoA
+LukaschenkoA collected $27 from pot
+LukaschenkoA: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 2: onez69 (small blind) folded before Flop
+Seat 3: LukaschenkoA (big blind) collected ($27)
+Seat 4: DavetheDawg folded before Flop (didn't bet)
+Seat 5: GERAKLmeat folded before Flop
+Seat 6: Scarface.VLT (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102600672151:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:40:28 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #2 is the button
+Seat 2: onez69 ($231 in chips) 
+Seat 3: LukaschenkoA ($615 in chips) 
+Seat 4: DavetheDawg ($600 in chips) 
+Seat 5: GERAKLmeat ($240 in chips) 
+Seat 6: Scarface.VLT ($696.52 in chips) 
+LukaschenkoA: posts small blind $3
+DavetheDawg: posts big blind $6
+pacopil: sits out 
+*** HOLE CARDS ***
+GERAKLmeat: folds 
+pacopil leaves the table
+Scarface.VLT: folds 
+onez69: raises $9 to $15
+LukaschenkoA: calls $12
+DavetheDawg: folds 
+*** FLOP *** [Qc Qd 7c]
+LukaschenkoA: checks 
+onez69: bets $18
+LukaschenkoA: folds 
+Uncalled bet ($18) returned to onez69
+onez69 collected $34.38 from pot
+onez69: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $1.62 
+Board [Qc Qd 7c]
+Seat 2: onez69 (button) collected ($34.38)
+Seat 3: LukaschenkoA (small blind) folded on the Flop
+Seat 4: DavetheDawg (big blind) folded before Flop
+Seat 5: GERAKLmeat folded before Flop (didn't bet)
+Seat 6: Scarface.VLT folded before Flop (didn't bet)
+
+
+PokerStars Game #102600696675:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:41:18 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #3 is the button
+Seat 2: onez69 ($250.38 in chips) 
+Seat 3: LukaschenkoA ($600 in chips) 
+Seat 4: DavetheDawg ($600 in chips) 
+Seat 5: GERAKLmeat ($240 in chips) 
+Seat 6: Scarface.VLT ($696.52 in chips) 
+kakagun joins the table at seat #1 
+DavetheDawg: posts small blind $3
+GERAKLmeat: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: raises $12 to $18
+onez69: folds 
+LukaschenkoA: folds 
+DavetheDawg: folds 
+GERAKLmeat: folds 
+Uncalled bet ($12) returned to Scarface.VLT
+Scarface.VLT collected $15 from pot
+Scarface.VLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: onez69 folded before Flop (didn't bet)
+Seat 3: LukaschenkoA (button) folded before Flop (didn't bet)
+Seat 4: DavetheDawg (small blind) folded before Flop
+Seat 5: GERAKLmeat (big blind) folded before Flop
+Seat 6: Scarface.VLT collected ($15)
+
+
+PokerStars Game #102600707049:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:41:40 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #4 is the button
+Seat 2: onez69 ($250.38 in chips) 
+Seat 3: LukaschenkoA ($600 in chips) 
+Seat 4: DavetheDawg ($600 in chips) 
+Seat 5: GERAKLmeat ($240 in chips) 
+Seat 6: Scarface.VLT ($705.52 in chips) 
+GERAKLmeat: posts small blind $3
+Scarface.VLT: posts big blind $6
+kakagun: sits out 
+*** HOLE CARDS ***
+onez69: folds 
+LukaschenkoA: folds 
+DavetheDawg: folds 
+GERAKLmeat: raises $6 to $12
+Scarface.VLT: calls $6
+*** FLOP *** [6d 2c As]
+GERAKLmeat: bets $11.68
+Scarface.VLT: calls $11.68
+*** TURN *** [6d 2c As] [Th]
+GERAKLmeat: checks 
+Scarface.VLT: checks 
+*** RIVER *** [6d 2c As Th] [7s]
+GERAKLmeat: checks 
+Scarface.VLT: checks 
+*** SHOW DOWN ***
+GERAKLmeat: shows [3s Jc] (high card Ace)
+Scarface.VLT: shows [6c Qc] (a pair of Sixes)
+Scarface.VLT collected $45.23 from pot
+*** SUMMARY ***
+Total pot $47.36 | Rake $2.13 
+Board [6d 2c As Th 7s]
+Seat 2: onez69 folded before Flop (didn't bet)
+Seat 3: LukaschenkoA folded before Flop (didn't bet)
+Seat 4: DavetheDawg (button) folded before Flop (didn't bet)
+Seat 5: GERAKLmeat (small blind) showed [3s Jc] and lost with high card Ace
+Seat 6: Scarface.VLT (big blind) showed [6c Qc] and won ($45.23) with a pair of Sixes
+
+
+PokerStars Game #102600733041:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:42:33 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #5 is the button
+Seat 1: kakagun ($600 in chips) 
+Seat 2: onez69 ($250.38 in chips) 
+Seat 3: LukaschenkoA ($600 in chips) 
+Seat 4: DavetheDawg ($600 in chips) 
+Seat 5: GERAKLmeat ($240 in chips) 
+Seat 6: Scarface.VLT ($727.07 in chips) 
+Scarface.VLT: posts small blind $3
+kakagun: posts big blind $6
+*** HOLE CARDS ***
+onez69: raises $9 to $15
+LukaschenkoA: folds 
+DavetheDawg: raises $25 to $40
+GERAKLmeat: folds 
+Scarface.VLT: folds 
+kakagun: folds 
+onez69: folds 
+Uncalled bet ($25) returned to DavetheDawg
+DavetheDawg collected $39 from pot
+DavetheDawg: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $0 
+Seat 1: kakagun (big blind) folded before Flop
+Seat 2: onez69 folded before Flop
+Seat 3: LukaschenkoA folded before Flop (didn't bet)
+Seat 4: DavetheDawg collected ($39)
+Seat 5: GERAKLmeat (button) folded before Flop (didn't bet)
+Seat 6: Scarface.VLT (small blind) folded before Flop
+
+
+PokerStars Game #102600750023:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:43:08 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #6 is the button
+Seat 1: kakagun ($594 in chips) 
+Seat 3: LukaschenkoA ($600 in chips) 
+Seat 4: DavetheDawg ($624 in chips) 
+Seat 5: GERAKLmeat ($240 in chips) 
+Seat 6: Scarface.VLT ($724.07 in chips) 
+kakagun: posts small blind $3
+onez69: is sitting out 
+LukaschenkoA: posts big blind $6
+*** HOLE CARDS ***
+DavetheDawg: raises $12 to $18
+GERAKLmeat: folds 
+Scarface.VLT: folds 
+kakagun: folds 
+LukaschenkoA: folds 
+Uncalled bet ($12) returned to DavetheDawg
+DavetheDawg collected $15 from pot
+DavetheDawg: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: kakagun (small blind) folded before Flop
+Seat 3: LukaschenkoA (big blind) folded before Flop
+Seat 4: DavetheDawg collected ($15)
+Seat 5: GERAKLmeat folded before Flop (didn't bet)
+Seat 6: Scarface.VLT (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102600756007:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:43:20 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #1 is the button
+Seat 1: kakagun ($591 in chips) 
+Seat 3: LukaschenkoA ($600 in chips) 
+Seat 5: GERAKLmeat ($240 in chips) 
+Seat 6: Scarface.VLT ($724.07 in chips) 
+LukaschenkoA: posts small blind $3
+DavetheDawg: is sitting out 
+GERAKLmeat: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: raises $6 to $12
+DavetheDawg leaves the table
+kakagun: raises $30 to $42
+LukaschenkoA: folds 
+GERAKLmeat: folds 
+onez69 leaves the table
+Scarface.VLT: folds 
+Uncalled bet ($30) returned to kakagun
+kakagun collected $33 from pot
+Nahar joins the table at seat #2 
+*** SUMMARY ***
+Total pot $33 | Rake $0 
+Seat 1: kakagun (button) collected ($33)
+Seat 3: LukaschenkoA (small blind) folded before Flop
+Seat 5: GERAKLmeat (big blind) folded before Flop
+Seat 6: Scarface.VLT folded before Flop
+
+
+PokerStars Game #102600766808:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:43:42 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #3 is the button
+Seat 1: kakagun ($612 in chips) 
+Seat 3: LukaschenkoA ($600 in chips) 
+Seat 5: GERAKLmeat ($240 in chips) 
+Seat 6: Scarface.VLT ($712.07 in chips) 
+GERAKLmeat: posts small blind $3
+Scarface.VLT: posts big blind $6
+Nahar: sits out 
+*** HOLE CARDS ***
+kakagun: raises $6 to $12
+LukaschenkoA: folds 
+GERAKLmeat: folds 
+Scarface.VLT: folds 
+Uncalled bet ($6) returned to kakagun
+redon1 joins the table at seat #4 
+kakagun collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: kakagun collected ($15)
+Seat 3: LukaschenkoA (button) folded before Flop (didn't bet)
+Seat 5: GERAKLmeat (small blind) folded before Flop
+Seat 6: Scarface.VLT (big blind) folded before Flop
+
+
+PokerStars Game #102600772934:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:43:54 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #5 is the button
+Seat 2: Nahar ($534.66 in chips) 
+Seat 3: LukaschenkoA ($600 in chips) 
+Seat 5: GERAKLmeat ($240 in chips) 
+Seat 6: Scarface.VLT ($706.07 in chips) 
+Scarface.VLT: posts small blind $3
+kakagun: is sitting out 
+Nahar: posts big blind $6
+redon1: sits out 
+*** HOLE CARDS ***
+LukaschenkoA: folds 
+kakagun leaves the table
+GERAKLmeat: raises $6 to $12
+Scarface.VLT: raises $18 to $30
+Nahar: folds 
+GERAKLmeat: calls $18
+*** FLOP *** [Ad 6h 7h]
+Scarface.VLT: checks 
+GERAKLmeat: checks 
+*** TURN *** [Ad 6h 7h] [Qd]
+Scarface.VLT: bets $42
+GERAKLmeat: calls $42
+*** RIVER *** [Ad 6h 7h Qd] [2s]
+Scarface.VLT: bets $634.07 and is all-in
+GERAKLmeat: folds 
+Uncalled bet ($634.07) returned to Scarface.VLT
+Scarface.VLT collected $148.50 from pot
+Scarface.VLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $150 | Rake $1.50 
+Board [Ad 6h 7h Qd 2s]
+Seat 2: Nahar (big blind) folded before Flop
+Seat 3: LukaschenkoA folded before Flop (didn't bet)
+Seat 5: GERAKLmeat (button) folded on the River
+Seat 6: Scarface.VLT (small blind) collected ($148.50)
+
+
+PokerStars Game #102600825913:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:45:42 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #6 is the button
+Seat 2: Nahar ($528.66 in chips) 
+Seat 3: LukaschenkoA ($600 in chips) 
+Seat 5: GERAKLmeat ($240 in chips) 
+Seat 6: Scarface.VLT ($782.57 in chips) 
+Nahar: posts small blind $3
+LukaschenkoA: posts big blind $6
+redon1: sits out 
+*** HOLE CARDS ***
+GERAKLmeat: raises $6 to $12
+redon1 leaves the table
+Scarface.VLT: folds 
+Nahar: folds 
+LukaschenkoA: folds 
+Uncalled bet ($6) returned to GERAKLmeat
+GERAKLmeat collected $15 from pot
+GERAKLmeat: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: Nahar (small blind) folded before Flop
+Seat 3: LukaschenkoA (big blind) folded before Flop
+Seat 5: GERAKLmeat collected ($15)
+Seat 6: Scarface.VLT (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102600836159:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:46:03 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #2 is the button
+Seat 2: Nahar ($525.66 in chips) 
+Seat 3: LukaschenkoA ($600 in chips) 
+Seat 5: GERAKLmeat ($249 in chips) 
+Seat 6: Scarface.VLT ($782.57 in chips) 
+LukaschenkoA: posts small blind $3
+GERAKLmeat: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: raises $6 to $12
+Nahar: folds 
+LukaschenkoA: calls $9
+GERAKLmeat: folds 
+*** FLOP *** [8s 9h 4s]
+LukaschenkoA: checks 
+Scarface.VLT: checks 
+*** TURN *** [8s 9h 4s] [Td]
+LukaschenkoA: bets $24
+Scarface.VLT: calls $24
+*** RIVER *** [8s 9h 4s Td] [Ts]
+LukaschenkoA: bets $96
+Scarface.VLT: folds 
+Uncalled bet ($96) returned to LukaschenkoA
+LukaschenkoA collected $76.50 from pot
+LukaschenkoA: doesn't show hand 
+*** SUMMARY ***
+Total pot $78 | Rake $1.50 
+Board [8s 9h 4s Td Ts]
+Seat 2: Nahar (button) folded before Flop (didn't bet)
+Seat 3: LukaschenkoA (small blind) collected ($76.50)
+Seat 5: GERAKLmeat (big blind) folded before Flop
+Seat 6: Scarface.VLT folded on the River
+
+
+PokerStars Game #102600474268:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:33:42 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Nahar ($240 in chips) 
+Seat 2: HoldenUte03 ($240 in chips) 
+Nahar: posts small blind $3
+HoldenUte03: posts big blind $6
+*** HOLE CARDS ***
+Nahar: raises $6 to $12
+HoldenUte03: folds 
+Uncalled bet ($6) returned to Nahar
+Nahar collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Nahar (button) (small blind) collected ($12)
+Seat 2: HoldenUte03 (big blind) folded before Flop
+
+
+PokerStars Game #102600483672:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:34:01 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Nahar ($246 in chips) 
+Seat 2: HoldenUte03 ($234 in chips) 
+HoldenUte03: posts small blind $3
+Nahar: posts big blind $6
+*** HOLE CARDS ***
+HoldenUte03: calls $3
+Nahar: raises $18 to $24
+HoldenUte03: folds 
+Uncalled bet ($18) returned to Nahar
+Scarface.VLT joins the table at seat #6 
+Nahar collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Nahar (big blind) collected ($12)
+Seat 2: HoldenUte03 (button) (small blind) folded before Flop
+
+
+PokerStars Game #102600494112:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:34:23 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Nahar ($252 in chips) 
+Seat 2: HoldenUte03 ($228 in chips) 
+Nahar: posts small blind $3
+HoldenUte03: posts big blind $6
+*** HOLE CARDS ***
+Nahar: raises $6 to $12
+HoldenUte03: raises $216 to $228 and is all-in
+DavetheDawg joins the table at seat #4 
+Nahar: folds 
+Uncalled bet ($216) returned to HoldenUte03
+HoldenUte03 collected $24 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: Nahar (button) (small blind) folded before Flop
+Seat 2: HoldenUte03 (big blind) collected ($24)
+
+
+PokerStars Game #102600863775:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 7:46:59 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #5 is the button
+Seat 3: LukaschenkoA ($640.50 in chips) 
+Seat 5: GERAKLmeat ($243 in chips) 
+GERAKLmeat: posts small blind $3
+Scarface.VLT: is sitting out 
+Nahar: is sitting out 
+LukaschenkoA: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT leaves the table
+GERAKLmeat: raises $6 to $12
+LukaschenkoA: folds 
+Uncalled bet ($6) returned to GERAKLmeat
+GERAKLmeat collected $12 from pot
+GERAKLmeat: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 3: LukaschenkoA (big blind) folded before Flop
+Seat 5: GERAKLmeat (button) (small blind) collected ($12)
+
+
+PokerStars Game #102602016802:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 8:25:18 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #3 is the button
+Seat 3: LukaschenkoA ($634.50 in chips) 
+Seat 6: ZarubaNT ($600 in chips) 
+LukaschenkoA: posts small blind $3
+ZarubaNT: posts big blind $6
+*** HOLE CARDS ***
+LukaschenkoA: raises $6 to $12
+ZarubaNT: folds 
+Uncalled bet ($6) returned to LukaschenkoA
+LukaschenkoA collected $12 from pot
+LukaschenkoA: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 3: LukaschenkoA (button) (small blind) collected ($12)
+Seat 6: ZarubaNT (big blind) folded before Flop
+
+
+PokerStars Game #102602021687:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 8:25:28 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #6 is the button
+Seat 3: LukaschenkoA ($640.50 in chips) 
+Seat 6: ZarubaNT ($600 in chips) 
+ZarubaNT: posts small blind $3
+LukaschenkoA: posts big blind $6
+*** HOLE CARDS ***
+ZarubaNT: raises $6 to $12
+LukaschenkoA: folds 
+Uncalled bet ($6) returned to ZarubaNT
+ZarubaNT collected $12 from pot
+ZarubaNT: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 3: LukaschenkoA (big blind) folded before Flop
+Seat 6: ZarubaNT (button) (small blind) collected ($12)
+
+
+PokerStars Game #102602025097:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 8:25:34 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #3 is the button
+Seat 3: LukaschenkoA ($634.50 in chips) 
+Seat 6: ZarubaNT ($606 in chips) 
+LukaschenkoA: posts small blind $3
+ZarubaNT: posts big blind $6
+*** HOLE CARDS ***
+LukaschenkoA: raises $6 to $12
+ZarubaNT: calls $6
+*** FLOP *** [3d 4d 7c]
+ZarubaNT: checks 
+LukaschenkoA: bets $18
+ZarubaNT: calls $18
+*** TURN *** [3d 4d 7c] [4h]
+ZarubaNT: checks 
+LukaschenkoA: bets $48
+ZarubaNT: folds 
+Uncalled bet ($48) returned to LukaschenkoA
+LukaschenkoA collected $59.50 from pot
+LukaschenkoA: doesn't show hand 
+*** SUMMARY ***
+Total pot $60 | Rake $0.50 
+Board [3d 4d 7c 4h]
+Seat 3: LukaschenkoA (button) (small blind) collected ($59.50)
+Seat 6: ZarubaNT (big blind) folded on the Turn
+
+
+PokerStars Game #102602042711:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 8:26:07 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #6 is the button
+Seat 3: LukaschenkoA ($664 in chips) 
+Seat 6: ZarubaNT ($600 in chips) 
+ZarubaNT: posts small blind $3
+LukaschenkoA: posts big blind $6
+*** HOLE CARDS ***
+ZarubaNT: raises $6 to $12
+LukaschenkoA: folds 
+Uncalled bet ($6) returned to ZarubaNT
+ZarubaNT collected $12 from pot
+ZarubaNT: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 3: LukaschenkoA (big blind) folded before Flop
+Seat 6: ZarubaNT (button) (small blind) collected ($12)
+
+
+PokerStars Game #102602050520:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 8:26:22 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #3 is the button
+Seat 3: LukaschenkoA ($658 in chips) 
+Seat 6: ZarubaNT ($606 in chips) 
+LukaschenkoA: posts small blind $3
+ZarubaNT: posts big blind $6
+*** HOLE CARDS ***
+LukaschenkoA: folds 
+Uncalled bet ($3) returned to ZarubaNT
+ZarubaNT collected $6 from pot
+ZarubaNT: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 3: LukaschenkoA (button) (small blind) folded before Flop
+Seat 6: ZarubaNT (big blind) collected ($6)
+
+
+PokerStars Game #102603292736:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:05:09 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #6 is the button
+Seat 1: WhatA298 ($600 in chips) 
+Seat 3: VegasMidas ($614.46 in chips) 
+Seat 4: Dilabancha ($374.77 in chips) 
+Seat 5: patapong ($618 in chips) 
+Seat 6: Scarface.VLT ($737.57 in chips) 
+WhatA298: posts small blind $3
+DavetheDawg: is sitting out 
+VegasMidas: posts big blind $6
+*** HOLE CARDS ***
+Dilabancha: folds 
+Dilabancha leaves the table
+DavetheDawg leaves the table
+patapong: folds 
+patapong leaves the table
+Scarface.VLT: folds 
+WhatA298: folds 
+Uncalled bet ($3) returned to VegasMidas
+VegasMidas collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: WhatA298 (small blind) folded before Flop
+Seat 3: VegasMidas (big blind) collected ($6)
+Seat 4: Dilabancha folded before Flop (didn't bet)
+Seat 5: patapong folded before Flop (didn't bet)
+Seat 6: Scarface.VLT (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102603088758:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 8:58:52 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #1 is the button
+Seat 1: WhatA298 ($600 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Dilabancha ($270 in chips) 
+Seat 5: patapong ($600 in chips) 
+VegasMidas: posts small blind $3
+Dilabancha: posts big blind $6
+*** HOLE CARDS ***
+patapong: folds 
+WhatA298: raises $6.72 to $12.72
+VegasMidas: folds 
+Dilabancha: folds 
+Uncalled bet ($6.72) returned to WhatA298
+WhatA298 collected $15 from pot
+WhatA298: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: WhatA298 (button) collected ($15)
+Seat 3: VegasMidas (small blind) folded before Flop
+Seat 4: Dilabancha (big blind) folded before Flop
+Seat 5: patapong folded before Flop (didn't bet)
+
+
+PokerStars Game #102603105126:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 8:59:30 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #3 is the button
+Seat 1: WhatA298 ($609 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Dilabancha ($264 in chips) 
+Seat 5: patapong ($600 in chips) 
+Dilabancha: posts small blind $3
+patapong: posts big blind $6
+*** HOLE CARDS ***
+WhatA298: folds 
+VegasMidas: folds 
+Dilabancha: folds 
+Uncalled bet ($3) returned to patapong
+patapong collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: WhatA298 folded before Flop (didn't bet)
+Seat 3: VegasMidas (button) folded before Flop (didn't bet)
+Seat 4: Dilabancha (small blind) folded before Flop
+Seat 5: patapong (big blind) collected ($6)
+
+
+PokerStars Game #102603116094:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 8:59:55 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #4 is the button
+Seat 1: WhatA298 ($609 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Dilabancha ($261 in chips) 
+Seat 5: patapong ($603 in chips) 
+patapong: posts small blind $3
+WhatA298: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT joins the table at seat #6 
+DavetheDawg joins the table at seat #2 
+VegasMidas: raises $9 to $15
+Dilabancha: raises $21 to $36
+patapong: folds 
+WhatA298: folds 
+VegasMidas: folds 
+Uncalled bet ($21) returned to Dilabancha
+Dilabancha collected $39 from pot
+*** SUMMARY ***
+Total pot $39 | Rake $0 
+Seat 1: WhatA298 (big blind) folded before Flop
+Seat 3: VegasMidas folded before Flop
+Seat 4: Dilabancha (button) collected ($39)
+Seat 5: patapong (small blind) folded before Flop
+
+
+PokerStars Game #102603140761:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:00:44 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #5 is the button
+Seat 1: WhatA298 ($603 in chips) 
+Seat 2: DavetheDawg ($633 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Dilabancha ($285 in chips) 
+Seat 5: patapong ($600 in chips) 
+Scarface.VLT will be allowed to play after the button
+WhatA298: posts small blind $3
+DavetheDawg: posts big blind $6
+*** HOLE CARDS ***
+VegasMidas: folds 
+Dilabancha: folds 
+patapong: raises $6 to $12
+WhatA298: folds 
+DavetheDawg: folds 
+Uncalled bet ($6) returned to patapong
+patapong collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: WhatA298 (small blind) folded before Flop
+Seat 2: DavetheDawg (big blind) folded before Flop
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Dilabancha folded before Flop (didn't bet)
+Seat 5: patapong (button) collected ($15)
+
+
+PokerStars Game #102603156335:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:01:14 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #1 is the button
+Seat 1: WhatA298 ($600 in chips) 
+Seat 2: DavetheDawg ($627 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Dilabancha ($285 in chips) 
+Seat 5: patapong ($609 in chips) 
+DavetheDawg: posts small blind $3
+VegasMidas: posts big blind $6
+Scarface.VLT: sits out 
+*** HOLE CARDS ***
+Dilabancha: folds 
+patapong: raises $9 to $15
+WhatA298: folds 
+DavetheDawg: folds 
+VegasMidas: folds 
+Uncalled bet ($9) returned to patapong
+patapong collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: WhatA298 (button) folded before Flop (didn't bet)
+Seat 2: DavetheDawg (small blind) folded before Flop
+Seat 3: VegasMidas (big blind) folded before Flop
+Seat 4: Dilabancha folded before Flop (didn't bet)
+Seat 5: patapong collected ($15)
+
+
+PokerStars Game #102603169473:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:01:38 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #2 is the button
+Seat 1: WhatA298 ($600 in chips) 
+Seat 2: DavetheDawg ($624 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Dilabancha ($285 in chips) 
+Seat 5: patapong ($618 in chips) 
+VegasMidas: posts small blind $3
+Dilabancha: posts big blind $6
+Scarface.VLT: sits out 
+*** HOLE CARDS ***
+patapong: folds 
+WhatA298: folds 
+DavetheDawg: folds 
+VegasMidas: calls $3
+Dilabancha: checks 
+*** FLOP *** [Ah 3h 4d]
+VegasMidas: bets $36
+Dilabancha: folds 
+Uncalled bet ($36) returned to VegasMidas
+VegasMidas collected $11.46 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.54 
+Board [Ah 3h 4d]
+Seat 1: WhatA298 folded before Flop (didn't bet)
+Seat 2: DavetheDawg (button) folded before Flop (didn't bet)
+Seat 3: VegasMidas (small blind) collected ($11.46)
+Seat 4: Dilabancha (big blind) folded on the Flop
+Seat 5: patapong folded before Flop (didn't bet)
+
+
+PokerStars Game #102603209868:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:02:48 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #3 is the button
+Seat 1: WhatA298 ($600 in chips) 
+Seat 2: DavetheDawg ($624 in chips) 
+Seat 3: VegasMidas ($605.46 in chips) 
+Seat 4: Dilabancha ($279 in chips) 
+Seat 5: patapong ($618 in chips) 
+Dilabancha: posts small blind $3
+patapong: posts big blind $6
+Scarface.VLT: sits out 
+*** HOLE CARDS ***
+WhatA298: folds 
+DavetheDawg: folds 
+VegasMidas: raises $6 to $12
+Dilabancha: folds 
+patapong: folds 
+Uncalled bet ($6) returned to VegasMidas
+VegasMidas collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: WhatA298 folded before Flop (didn't bet)
+Seat 2: DavetheDawg folded before Flop (didn't bet)
+Seat 3: VegasMidas (button) collected ($15)
+Seat 4: Dilabancha (small blind) folded before Flop
+Seat 5: patapong (big blind) folded before Flop
+
+
+PokerStars Game #102603230337:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:03:23 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #4 is the button
+Seat 1: WhatA298 ($600 in chips) 
+Seat 2: DavetheDawg ($624 in chips) 
+Seat 3: VegasMidas ($614.46 in chips) 
+Seat 4: Dilabancha ($276 in chips) 
+Seat 5: patapong ($612 in chips) 
+Seat 6: Scarface.VLT ($746.57 in chips) 
+patapong: posts small blind $3
+Scarface.VLT: posts big blind $6
+*** HOLE CARDS ***
+WhatA298: raises $9.36 to $15.36
+DavetheDawg: folds 
+VegasMidas: folds 
+Dilabancha: calls $15.36
+patapong: folds 
+Scarface.VLT: folds 
+*** FLOP *** [7c 8d As]
+WhatA298: bets $25.03
+Dilabancha: calls $25.03
+*** TURN *** [7c 8d As] [Th]
+WhatA298: bets $52.18
+Dilabancha: raises $70.18 to $122.36
+WhatA298: folds 
+Uncalled bet ($70.18) returned to Dilabancha
+Dilabancha collected $191.34 from pot
+*** SUMMARY ***
+Total pot $194.14 | Rake $2.80 
+Board [7c 8d As Th]
+Seat 1: WhatA298 folded on the Turn
+Seat 2: DavetheDawg folded before Flop (didn't bet)
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Dilabancha (button) collected ($191.34)
+Seat 5: patapong (small blind) folded before Flop
+Seat 6: Scarface.VLT (big blind) folded before Flop
+
+
+PokerStars Game #102603275189:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:04:39 ET
+Table 'Hertzsprung 40-100 bb' 6-max Seat #5 is the button
+Seat 1: WhatA298 ($600 in chips) 
+Seat 2: DavetheDawg ($624 in chips) 
+Seat 3: VegasMidas ($614.46 in chips) 
+Seat 4: Dilabancha ($374.77 in chips) 
+Seat 5: patapong ($609 in chips) 
+Seat 6: Scarface.VLT ($740.57 in chips) 
+Scarface.VLT: posts small blind $3
+WhatA298: posts big blind $6
+*** HOLE CARDS ***
+DavetheDawg: folds 
+VegasMidas: folds 
+Dilabancha: folds 
+patapong: raises $6 to $12
+Scarface.VLT: folds 
+WhatA298: folds 
+Uncalled bet ($6) returned to patapong
+patapong collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: WhatA298 (big blind) folded before Flop
+Seat 2: DavetheDawg folded before Flop (didn't bet)
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Dilabancha folded before Flop (didn't bet)
+Seat 5: patapong (button) collected ($15)
+Seat 6: Scarface.VLT (small blind) folded before Flop

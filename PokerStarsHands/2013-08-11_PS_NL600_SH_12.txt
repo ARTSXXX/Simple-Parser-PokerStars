@@ -1,0 +1,1380 @@
+
+
+PokerStars Game #102624026758:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:40:16 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: whollyflush ($600 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 4: king10clubs ($609 in chips) 
+Seat 5: LuckyBiitch ($600 in chips) 
+Seat 6: SEREJkE29 ($628.50 in chips) 
+whollyflush: posts small blind $3
+floriiiiider: posts big blind $6
+hob111111: sits out 
+*** HOLE CARDS ***
+king10clubs: folds 
+LuckyBiitch: folds 
+SEREJkE29: raises $6 to $12
+whollyflush: folds 
+floriiiiider: folds 
+Uncalled bet ($6) returned to SEREJkE29
+SEREJkE29 collected $15 from pot
+SEREJkE29: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: whollyflush (small blind) folded before Flop
+Seat 2: floriiiiider (big blind) folded before Flop
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: SEREJkE29 (button) collected ($15)
+
+
+PokerStars Game #102624039863:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:40:32 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: whollyflush ($600 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: hob111111 ($306.36 in chips) 
+Seat 4: king10clubs ($609 in chips) 
+Seat 5: LuckyBiitch ($600 in chips) 
+Seat 6: SEREJkE29 ($637.50 in chips) 
+floriiiiider: posts small blind $3
+hob111111: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+LuckyBiitch: folds 
+SEREJkE29: folds 
+whollyflush: folds 
+floriiiiider: folds 
+Uncalled bet ($3) returned to hob111111
+hob111111 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: whollyflush (button) folded before Flop (didn't bet)
+Seat 2: floriiiiider (small blind) folded before Flop
+Seat 3: hob111111 (big blind) collected ($6)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: SEREJkE29 folded before Flop (didn't bet)
+
+
+PokerStars Game #102624051263:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:40:45 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: whollyflush ($600 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: hob111111 ($309.36 in chips) 
+Seat 4: king10clubs ($609 in chips) 
+Seat 5: LuckyBiitch ($600 in chips) 
+Seat 6: SEREJkE29 ($637.50 in chips) 
+hob111111: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+SEREJkE29: folds 
+whollyflush: raises $6 to $12
+floriiiiider: folds 
+hob111111: folds 
+king10clubs: folds 
+Uncalled bet ($6) returned to whollyflush
+whollyflush collected $15 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: whollyflush collected ($15)
+Seat 2: floriiiiider (button) folded before Flop (didn't bet)
+Seat 3: hob111111 (small blind) folded before Flop
+Seat 4: king10clubs (big blind) folded before Flop
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: SEREJkE29 folded before Flop (didn't bet)
+
+
+PokerStars Game #102624064486:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:41:01 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: whollyflush ($609 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: hob111111 ($306.36 in chips) 
+Seat 4: king10clubs ($603 in chips) 
+Seat 5: LuckyBiitch ($600 in chips) 
+Seat 6: SEREJkE29 ($637.50 in chips) 
+king10clubs: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+SEREJkE29: folds 
+whollyflush: folds 
+floriiiiider: folds 
+hob111111: folds 
+king10clubs: folds 
+Uncalled bet ($3) returned to LuckyBiitch
+LuckyBiitch collected $6 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: whollyflush folded before Flop (didn't bet)
+Seat 2: floriiiiider folded before Flop (didn't bet)
+Seat 3: hob111111 (button) folded before Flop (didn't bet)
+Seat 4: king10clubs (small blind) folded before Flop
+Seat 5: LuckyBiitch (big blind) collected ($6)
+Seat 6: SEREJkE29 folded before Flop (didn't bet)
+
+
+PokerStars Game #102624080745:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:41:21 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: whollyflush ($609 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: hob111111 ($306.36 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: LuckyBiitch ($603 in chips) 
+Seat 6: SEREJkE29 ($637.50 in chips) 
+LuckyBiitch: posts small blind $3
+SEREJkE29: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: folds 
+floriiiiider: folds 
+hob111111: folds 
+king10clubs: raises $6 to $12
+LuckyBiitch: folds 
+SEREJkE29: calls $6
+*** FLOP *** [3h 9c 7c]
+SEREJkE29: checks 
+king10clubs: checks 
+*** TURN *** [3h 9c 7c] [8h]
+SEREJkE29: checks 
+king10clubs: checks 
+*** RIVER *** [3h 9c 7c 8h] [Qs]
+SEREJkE29: checks 
+king10clubs: checks 
+*** SHOW DOWN ***
+SEREJkE29: shows [4h 4d] (a pair of Fours)
+king10clubs: mucks hand 
+SEREJkE29 collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [3h 9c 7c 8h Qs]
+Seat 1: whollyflush folded before Flop (didn't bet)
+Seat 2: floriiiiider folded before Flop (didn't bet)
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: king10clubs (button) mucked
+Seat 5: LuckyBiitch (small blind) folded before Flop
+Seat 6: SEREJkE29 (big blind) showed [4h 4d] and won ($25.78) with a pair of Fours
+
+
+PokerStars Game #102624155901:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:42:51 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: whollyflush ($609 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: hob111111 ($306.36 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: LuckyBiitch ($600 in chips) 
+Seat 6: SEREJkE29 ($651.28 in chips) 
+SEREJkE29: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider: folds 
+hob111111: folds 
+king10clubs: folds 
+LuckyBiitch: raises $6 to $12
+SEREJkE29: folds 
+whollyflush: folds 
+Uncalled bet ($6) returned to LuckyBiitch
+LuckyBiitch collected $15 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: whollyflush (big blind) folded before Flop
+Seat 2: floriiiiider folded before Flop (didn't bet)
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: LuckyBiitch (button) collected ($15)
+Seat 6: SEREJkE29 (small blind) folded before Flop
+
+
+PokerStars Game #102624188586:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:43:31 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: whollyflush ($603 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: hob111111 ($306.36 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: LuckyBiitch ($609 in chips) 
+Seat 6: SEREJkE29 ($648.28 in chips) 
+whollyflush: posts small blind $3
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+hob111111: folds 
+king10clubs: raises $9 to $15
+LuckyBiitch: folds 
+SEREJkE29: raises $30 to $45
+whollyflush: folds 
+floriiiiider: folds 
+king10clubs: calls $30
+*** FLOP *** [Kh Th Qd]
+king10clubs: checks 
+SEREJkE29: checks 
+*** TURN *** [Kh Th Qd] [2h]
+king10clubs: bets $45
+SEREJkE29: folds 
+Uncalled bet ($45) returned to king10clubs
+king10clubs collected $96.20 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $99 | Rake $2.80 
+Board [Kh Th Qd 2h]
+Seat 1: whollyflush (small blind) folded before Flop
+Seat 2: floriiiiider (big blind) folded before Flop
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: king10clubs collected ($96.20)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: SEREJkE29 (button) folded on the Turn
+
+
+PokerStars Game #102624240574:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:44:34 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: whollyflush ($600 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: hob111111 ($306.36 in chips) 
+Seat 4: king10clubs ($651.20 in chips) 
+Seat 5: LuckyBiitch ($609 in chips) 
+Seat 6: SEREJkE29 ($603.28 in chips) 
+floriiiiider: posts small blind $3
+hob111111: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+LuckyBiitch: folds 
+SEREJkE29: folds 
+whollyflush: raises $6 to $12
+floriiiiider: folds 
+hob111111: calls $6
+*** FLOP *** [4d Qc Jc]
+hob111111: checks 
+whollyflush: bets $17.27
+hob111111: calls $17.27
+*** TURN *** [4d Qc Jc] [2d]
+hob111111: checks 
+whollyflush: checks 
+*** RIVER *** [4d Qc Jc 2d] [5c]
+hob111111: bets $42
+whollyflush: calls $42
+*** SHOW DOWN ***
+hob111111: shows [9s Td] (high card Queen)
+whollyflush: shows [5h 2h] (two pair, Fives and Deuces)
+whollyflush collected $142.74 from pot
+*** SUMMARY ***
+Total pot $145.54 | Rake $2.80 
+Board [4d Qc Jc 2d 5c]
+Seat 1: whollyflush (button) showed [5h 2h] and won ($142.74) with two pair, Fives and Deuces
+Seat 2: floriiiiider (small blind) folded before Flop
+Seat 3: hob111111 (big blind) showed [9s Td] and lost with high card Queen
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: SEREJkE29 folded before Flop (didn't bet)
+
+
+PokerStars Game #102623929151:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:38:19 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #4 is the button
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: LuckyBiitch ($600 in chips) 
+Seat 6: SEREJkE29 ($600 in chips) 
+whollyflush joins the table at seat #1 
+Ner4zzurri joins the table at seat #2 
+LuckyBiitch: posts small blind $3
+SEREJkE29: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+LuckyBiitch: folds 
+SEREJkE29: calls $6
+*** FLOP *** [5h 6s 3c]
+SEREJkE29: checks 
+king10clubs: bets $18
+SEREJkE29: calls $18
+*** TURN *** [5h 6s 3c] [4h]
+SEREJkE29: checks 
+king10clubs: checks 
+*** RIVER *** [5h 6s 3c 4h] [2d]
+SEREJkE29: bets $95
+king10clubs: folds 
+Uncalled bet ($95) returned to SEREJkE29
+SEREJkE29 collected $61.50 from pot
+SEREJkE29: doesn't show hand 
+*** SUMMARY ***
+Total pot $63 | Rake $1.50 
+Board [5h 6s 3c 4h 2d]
+Seat 4: king10clubs (button) folded on the River
+Seat 5: LuckyBiitch (small blind) folded before Flop
+Seat 6: SEREJkE29 (big blind) collected ($61.50)
+
+
+PokerStars Game #102623992824:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:39:35 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: whollyflush ($600 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: LuckyBiitch ($600 in chips) 
+Seat 6: SEREJkE29 ($631.50 in chips) 
+SEREJkE29: posts small blind $3
+whollyflush: posts big blind $6
+Ner4zzurri: sits out 
+Ner4zzurri leaves the table
+hob111111: sits out 
+*** HOLE CARDS ***
+floriiiiider joins the table at seat #2 
+king10clubs: raises $9 to $15
+LuckyBiitch: folds 
+SEREJkE29: folds 
+whollyflush: folds 
+Uncalled bet ($9) returned to king10clubs
+king10clubs collected $15 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: whollyflush (big blind) folded before Flop
+Seat 4: king10clubs collected ($15)
+Seat 5: LuckyBiitch (button) folded before Flop (didn't bet)
+Seat 6: SEREJkE29 (small blind) folded before Flop
+
+
+PokerStars Game #102625166195:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:05:20 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: whollyflush ($1151.60 in chips) 
+Seat 2: floriiiiider ($669.20 in chips) 
+Seat 3: hob111111 ($231.29 in chips) 
+Seat 4: king10clubs ($631.24 in chips) 
+Seat 5: LuckyBiitch ($682.40 in chips) 
+Seat 6: SEREJkE29 ($600 in chips) 
+hob111111: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+SEREJkE29: folds 
+whollyflush: folds 
+floriiiiider: folds 
+hob111111: folds 
+Uncalled bet ($3) returned to king10clubs
+king10clubs collected $6 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: whollyflush folded before Flop (didn't bet)
+Seat 2: floriiiiider (button) folded before Flop (didn't bet)
+Seat 3: hob111111 (small blind) folded before Flop
+Seat 4: king10clubs (big blind) collected ($6)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: SEREJkE29 folded before Flop (didn't bet)
+
+
+PokerStars Game #102625195329:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:05:55 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: whollyflush ($1151.60 in chips) 
+Seat 2: floriiiiider ($669.20 in chips) 
+Seat 3: hob111111 ($228.29 in chips) 
+Seat 4: king10clubs ($634.24 in chips) 
+Seat 5: LuckyBiitch ($682.40 in chips) 
+Seat 6: SEREJkE29 ($600 in chips) 
+king10clubs: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+SEREJkE29: raises $12 to $18
+whollyflush: folds 
+floriiiiider: folds 
+hob111111: folds 
+king10clubs: folds 
+LuckyBiitch: folds 
+Uncalled bet ($12) returned to SEREJkE29
+SEREJkE29 collected $15 from pot
+SEREJkE29: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: whollyflush folded before Flop (didn't bet)
+Seat 2: floriiiiider folded before Flop (didn't bet)
+Seat 3: hob111111 (button) folded before Flop (didn't bet)
+Seat 4: king10clubs (small blind) folded before Flop
+Seat 5: LuckyBiitch (big blind) folded before Flop
+Seat 6: SEREJkE29 collected ($15)
+
+
+PokerStars Game #102625222017:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:06:26 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: whollyflush ($1151.60 in chips) 
+Seat 2: floriiiiider ($669.20 in chips) 
+Seat 3: hob111111 ($228.29 in chips) 
+Seat 4: king10clubs ($631.24 in chips) 
+Seat 5: LuckyBiitch ($676.40 in chips) 
+Seat 6: SEREJkE29 ($609 in chips) 
+LuckyBiitch: posts small blind $3
+SEREJkE29: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: folds 
+floriiiiider: folds 
+hob111111: folds 
+king10clubs: raises $6 to $12
+LuckyBiitch: raises $33 to $45
+SEREJkE29: folds 
+king10clubs: calls $33
+*** FLOP *** [Kh Ts Th]
+LuckyBiitch: bets $60
+king10clubs: calls $60
+*** TURN *** [Kh Ts Th] [8s]
+LuckyBiitch: checks 
+king10clubs: bets $108
+LuckyBiitch: calls $108
+*** RIVER *** [Kh Ts Th 8s] [Jc]
+LuckyBiitch: checks 
+king10clubs: checks 
+*** SHOW DOWN ***
+LuckyBiitch: shows [Jd Js] (a full house, Jacks full of Tens)
+king10clubs: mucks hand 
+LuckyBiitch collected $429.20 from pot
+*** SUMMARY ***
+Total pot $432 | Rake $2.80 
+Board [Kh Ts Th 8s Jc]
+Seat 1: whollyflush folded before Flop (didn't bet)
+Seat 2: floriiiiider folded before Flop (didn't bet)
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: king10clubs (button) mucked
+Seat 5: LuckyBiitch (small blind) showed [Jd Js] and won ($429.20) with a full house, Jacks full of Tens
+Seat 6: SEREJkE29 (big blind) folded before Flop
+
+
+PokerStars Game #102625306929:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:08:06 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: whollyflush ($1151.60 in chips) 
+Seat 2: floriiiiider ($669.20 in chips) 
+Seat 3: hob111111 ($228.29 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: LuckyBiitch ($892.60 in chips) 
+Seat 6: SEREJkE29 ($603 in chips) 
+SEREJkE29: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider: folds 
+hob111111: folds 
+king10clubs: raises $9 to $15
+LuckyBiitch: folds 
+SEREJkE29: folds 
+whollyflush: folds 
+Uncalled bet ($9) returned to king10clubs
+king10clubs collected $15 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: whollyflush (big blind) folded before Flop
+Seat 2: floriiiiider folded before Flop (didn't bet)
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: king10clubs collected ($15)
+Seat 5: LuckyBiitch (button) folded before Flop (didn't bet)
+Seat 6: SEREJkE29 (small blind) folded before Flop
+
+
+PokerStars Game #102625330447:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:08:34 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: whollyflush ($1145.60 in chips) 
+Seat 2: floriiiiider ($669.20 in chips) 
+Seat 3: hob111111 ($228.29 in chips) 
+Seat 4: king10clubs ($609 in chips) 
+Seat 5: LuckyBiitch ($892.60 in chips) 
+Seat 6: SEREJkE29 ($600 in chips) 
+whollyflush: posts small blind $3
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+hob111111: folds 
+king10clubs: folds 
+LuckyBiitch: folds 
+SEREJkE29: folds 
+whollyflush: folds 
+Uncalled bet ($3) returned to floriiiiider
+floriiiiider collected $6 from pot
+floriiiiider: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: whollyflush (small blind) folded before Flop
+Seat 2: floriiiiider (big blind) collected ($6)
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: SEREJkE29 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102625351850:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:09:00 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: whollyflush ($1142.60 in chips) 
+Seat 2: floriiiiider ($672.20 in chips) 
+Seat 3: hob111111 ($228.29 in chips) 
+Seat 4: king10clubs ($609 in chips) 
+Seat 5: LuckyBiitch ($892.60 in chips) 
+Seat 6: SEREJkE29 ($600 in chips) 
+floriiiiider: posts small blind $3
+hob111111: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+LuckyBiitch: folds 
+SEREJkE29: folds 
+whollyflush: raises $6 to $12
+floriiiiider: folds 
+hob111111: folds 
+Uncalled bet ($6) returned to whollyflush
+whollyflush collected $15 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: whollyflush (button) collected ($15)
+Seat 2: floriiiiider (small blind) folded before Flop
+Seat 3: hob111111 (big blind) folded before Flop
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: SEREJkE29 folded before Flop (didn't bet)
+
+
+PokerStars Game #102625381524:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:09:35 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: whollyflush ($1151.60 in chips) 
+Seat 2: floriiiiider ($669.20 in chips) 
+Seat 3: hob111111 ($222.29 in chips) 
+Seat 4: king10clubs ($609 in chips) 
+Seat 5: LuckyBiitch ($892.60 in chips) 
+Seat 6: SEREJkE29 ($600 in chips) 
+hob111111: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+SEREJkE29: folds 
+whollyflush: folds 
+floriiiiider: raises $6 to $12
+hob111111: folds 
+king10clubs: calls $6
+*** FLOP *** [2d 3h Jh]
+king10clubs: checks 
+floriiiiider: checks 
+*** TURN *** [2d 3h Jh] [Tc]
+king10clubs: bets $21
+floriiiiider: calls $21
+*** RIVER *** [2d 3h Jh Tc] [4s]
+king10clubs: bets $53
+floriiiiider: folds 
+Uncalled bet ($53) returned to king10clubs
+king10clubs collected $66.20 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $69 | Rake $2.80 
+Board [2d 3h Jh Tc 4s]
+Seat 1: whollyflush folded before Flop (didn't bet)
+Seat 2: floriiiiider (button) folded on the River
+Seat 3: hob111111 (small blind) folded before Flop
+Seat 4: king10clubs (big blind) collected ($66.20)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: SEREJkE29 folded before Flop (didn't bet)
+
+
+PokerStars Game #102624943323:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:00:36 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: whollyflush ($988.40 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: hob111111 ($280.29 in chips) 
+Seat 4: king10clubs ($631.24 in chips) 
+Seat 5: LuckyBiitch ($645.20 in chips) 
+Seat 6: SEREJkE29 ($600 in chips) 
+LuckyBiitch: posts small blind $3
+SEREJkE29: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: folds 
+floriiiiider: raises $12 to $18
+hob111111: calls $18
+king10clubs: folds 
+LuckyBiitch: folds 
+SEREJkE29: calls $12
+*** FLOP *** [3h Kc 3s]
+SEREJkE29: checks 
+floriiiiider: checks 
+hob111111: checks 
+*** TURN *** [3h Kc 3s] [6c]
+SEREJkE29: bets $42
+floriiiiider: calls $42
+hob111111: folds 
+*** RIVER *** [3h Kc 3s 6c] [Jh]
+SEREJkE29: checks 
+floriiiiider: bets $96
+SEREJkE29: folds 
+Uncalled bet ($96) returned to floriiiiider
+floriiiiider collected $138.20 from pot
+floriiiiider: doesn't show hand 
+*** SUMMARY ***
+Total pot $141 | Rake $2.80 
+Board [3h Kc 3s 6c Jh]
+Seat 1: whollyflush folded before Flop (didn't bet)
+Seat 2: floriiiiider collected ($138.20)
+Seat 3: hob111111 folded on the Turn
+Seat 4: king10clubs (button) folded before Flop (didn't bet)
+Seat 5: LuckyBiitch (small blind) folded before Flop
+Seat 6: SEREJkE29 (big blind) folded on the River
+
+
+PokerStars Game #102624991283:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:01:46 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: whollyflush ($988.40 in chips) 
+Seat 2: floriiiiider ($678.20 in chips) 
+Seat 3: hob111111 ($262.29 in chips) 
+Seat 4: king10clubs ($631.24 in chips) 
+Seat 5: LuckyBiitch ($642.20 in chips) 
+Seat 6: SEREJkE29 ($600 in chips) 
+SEREJkE29: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider: folds 
+hob111111: raises $6 to $12
+king10clubs: folds 
+LuckyBiitch: folds 
+SEREJkE29: folds 
+whollyflush: folds 
+Uncalled bet ($6) returned to hob111111
+hob111111 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: whollyflush (big blind) folded before Flop
+Seat 2: floriiiiider folded before Flop (didn't bet)
+Seat 3: hob111111 collected ($15)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: LuckyBiitch (button) folded before Flop (didn't bet)
+Seat 6: SEREJkE29 (small blind) folded before Flop
+
+
+PokerStars Game #102625009282:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:02:10 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: whollyflush ($982.40 in chips) 
+Seat 2: floriiiiider ($678.20 in chips) 
+Seat 3: hob111111 ($271.29 in chips) 
+Seat 4: king10clubs ($631.24 in chips) 
+Seat 5: LuckyBiitch ($642.20 in chips) 
+Seat 6: SEREJkE29 ($600 in chips) 
+whollyflush: posts small blind $3
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+hob111111: folds 
+king10clubs: folds 
+LuckyBiitch: folds 
+SEREJkE29: raises $6 to $12
+whollyflush: raises $36 to $48
+floriiiiider: folds 
+SEREJkE29: raises $52 to $100
+whollyflush: calls $52
+*** FLOP *** [6d 9h Qh]
+whollyflush: checks 
+SEREJkE29: bets $66
+whollyflush: calls $66
+*** TURN *** [6d 9h Qh] [Js]
+whollyflush: checks 
+SEREJkE29: checks 
+*** RIVER *** [6d 9h Qh Js] [9c]
+whollyflush: checks 
+SEREJkE29: checks 
+*** SHOW DOWN ***
+whollyflush: shows [As Qc] (two pair, Queens and Nines)
+SEREJkE29: mucks hand 
+whollyflush collected $335.20 from pot
+*** SUMMARY ***
+Total pot $338 | Rake $2.80 
+Board [6d 9h Qh Js 9c]
+Seat 1: whollyflush (small blind) showed [As Qc] and won ($335.20) with two pair, Queens and Nines
+Seat 2: floriiiiider (big blind) folded before Flop
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: SEREJkE29 (button) mucked
+
+
+PokerStars Game #102625134771:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:04:43 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: whollyflush ($1151.60 in chips) 
+Seat 2: floriiiiider ($672.20 in chips) 
+Seat 3: hob111111 ($271.29 in chips) 
+Seat 4: king10clubs ($631.24 in chips) 
+Seat 5: LuckyBiitch ($642.20 in chips) 
+Seat 6: SEREJkE29 ($600 in chips) 
+floriiiiider: posts small blind $3
+hob111111: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+LuckyBiitch: raises $12 to $18
+SEREJkE29: folds 
+whollyflush: folds 
+floriiiiider: folds 
+hob111111: calls $12
+*** FLOP *** [5c Td 8d]
+hob111111: checks 
+LuckyBiitch: bets $22
+hob111111: calls $22
+*** TURN *** [5c Td 8d] [Qh]
+hob111111: checks 
+LuckyBiitch: bets $65
+hob111111: folds 
+Uncalled bet ($65) returned to LuckyBiitch
+LuckyBiitch collected $80.20 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $83 | Rake $2.80 
+Board [5c Td 8d Qh]
+Seat 1: whollyflush (button) folded before Flop (didn't bet)
+Seat 2: floriiiiider (small blind) folded before Flop
+Seat 3: hob111111 (big blind) folded on the Turn
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: LuckyBiitch collected ($80.20)
+Seat 6: SEREJkE29 folded before Flop (didn't bet)
+
+
+PokerStars Game #102624845474:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:57:41 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: whollyflush ($994.40 in chips) 
+Seat 2: floriiiiider ($609 in chips) 
+Seat 3: hob111111 ($334.29 in chips) 
+Seat 4: king10clubs ($609 in chips) 
+Seat 5: LuckyBiitch ($600 in chips) 
+Seat 6: SEREJkE29 ($600 in chips) 
+whollyflush: posts small blind $3
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+hob111111 has timed out
+hob111111: folds 
+king10clubs: folds 
+LuckyBiitch: folds 
+SEREJkE29: folds 
+whollyflush: folds 
+Uncalled bet ($3) returned to floriiiiider
+floriiiiider collected $6 from pot
+floriiiiider: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: whollyflush (small blind) folded before Flop
+Seat 2: floriiiiider (big blind) collected ($6)
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: SEREJkE29 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102624867430:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:58:22 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: whollyflush ($991.40 in chips) 
+Seat 2: floriiiiider ($612 in chips) 
+Seat 3: hob111111 ($334.29 in chips) 
+Seat 4: king10clubs ($609 in chips) 
+Seat 5: LuckyBiitch ($600 in chips) 
+Seat 6: SEREJkE29 ($600 in chips) 
+floriiiiider: posts small blind $3
+hob111111: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+LuckyBiitch: folds 
+SEREJkE29: folds 
+whollyflush: raises $6 to $12
+floriiiiider: folds 
+hob111111: folds 
+Uncalled bet ($6) returned to whollyflush
+whollyflush collected $15 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: whollyflush (button) collected ($15)
+Seat 2: floriiiiider (small blind) folded before Flop
+Seat 3: hob111111 (big blind) folded before Flop
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: SEREJkE29 folded before Flop (didn't bet)
+
+
+PokerStars Game #102624878561:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:58:43 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: whollyflush ($1000.40 in chips) 
+Seat 2: floriiiiider ($609 in chips) 
+Seat 3: hob111111 ($328.29 in chips) 
+Seat 4: king10clubs ($609 in chips) 
+Seat 5: LuckyBiitch ($600 in chips) 
+Seat 6: SEREJkE29 ($600 in chips) 
+hob111111: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+SEREJkE29: folds 
+whollyflush: raises $6 to $12
+floriiiiider: calls $12
+hob111111: folds 
+king10clubs: calls $6
+*** FLOP *** [7c Ts 2s]
+king10clubs: checks 
+whollyflush: checks 
+floriiiiider: checks 
+*** TURN *** [7c Ts 2s] [4d]
+king10clubs: bets $30
+whollyflush: folds 
+floriiiiider: folds 
+Uncalled bet ($30) returned to king10clubs
+king10clubs collected $37.24 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [7c Ts 2s 4d]
+Seat 1: whollyflush folded on the Turn
+Seat 2: floriiiiider (button) folded on the Turn
+Seat 3: hob111111 (small blind) folded before Flop
+Seat 4: king10clubs (big blind) collected ($37.24)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: SEREJkE29 folded before Flop (didn't bet)
+
+
+PokerStars Game #102624904145:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:59:30 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: whollyflush ($988.40 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: hob111111 ($325.29 in chips) 
+Seat 4: king10clubs ($634.24 in chips) 
+Seat 5: LuckyBiitch ($600 in chips) 
+Seat 6: SEREJkE29 ($600 in chips) 
+king10clubs: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+SEREJkE29: folds 
+whollyflush: folds 
+floriiiiider: folds 
+hob111111: raises $6 to $12
+king10clubs: folds 
+LuckyBiitch: raises $33 to $45
+hob111111: calls $33
+*** FLOP *** [6s 8s 6h]
+LuckyBiitch: bets $50
+hob111111: folds 
+Uncalled bet ($50) returned to LuckyBiitch
+LuckyBiitch collected $90.20 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $93 | Rake $2.80 
+Board [6s 8s 6h]
+Seat 1: whollyflush folded before Flop (didn't bet)
+Seat 2: floriiiiider folded before Flop (didn't bet)
+Seat 3: hob111111 (button) folded on the Flop
+Seat 4: king10clubs (small blind) folded before Flop
+Seat 5: LuckyBiitch (big blind) collected ($90.20)
+Seat 6: SEREJkE29 folded before Flop (didn't bet)
+
+
+PokerStars Game #102624512823:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:50:01 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: whollyflush ($712 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: hob111111 ($352.29 in chips) 
+Seat 4: king10clubs ($651.20 in chips) 
+Seat 5: LuckyBiitch ($600 in chips) 
+Seat 6: SEREJkE29 ($600 in chips) 
+whollyflush: posts small blind $3
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+hob111111: folds 
+king10clubs: raises $9 to $15
+LuckyBiitch: raises $30 to $45
+SEREJkE29: folds 
+whollyflush: folds 
+floriiiiider: folds 
+king10clubs: calls $30
+*** FLOP *** [8c Th 9c]
+king10clubs: checks 
+LuckyBiitch: checks 
+*** TURN *** [8c Th 9c] [3h]
+king10clubs: bets $132
+LuckyBiitch: calls $132
+*** RIVER *** [8c Th 9c 3h] [Ad]
+king10clubs: checks 
+LuckyBiitch: bets $175
+king10clubs: folds 
+Uncalled bet ($175) returned to LuckyBiitch
+LuckyBiitch collected $360.20 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $363 | Rake $2.80 
+Board [8c Th 9c 3h Ad]
+Seat 1: whollyflush (small blind) folded before Flop
+Seat 2: floriiiiider (big blind) folded before Flop
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: king10clubs folded on the River
+Seat 5: LuckyBiitch collected ($360.20)
+Seat 6: SEREJkE29 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102624608286:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:51:58 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: whollyflush ($709 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: hob111111 ($352.29 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: LuckyBiitch ($783.20 in chips) 
+Seat 6: SEREJkE29 ($600 in chips) 
+floriiiiider: posts small blind $3
+hob111111: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $9 to $15
+LuckyBiitch: folds 
+SEREJkE29: folds 
+whollyflush: calls $15
+floriiiiider: folds 
+hob111111: calls $9
+*** FLOP *** [Tc 9c 6s]
+hob111111: checks 
+king10clubs: checks 
+whollyflush: checks 
+*** TURN *** [Tc 9c 6s] [5d]
+hob111111: checks 
+king10clubs: bets $30
+whollyflush: calls $30
+hob111111: folds 
+*** RIVER *** [Tc 9c 6s 5d] [Qs]
+king10clubs: checks 
+whollyflush: checks 
+*** SHOW DOWN ***
+king10clubs: shows [9d Jd] (a pair of Nines)
+whollyflush: shows [Th 8h] (a pair of Tens)
+whollyflush collected $105.20 from pot
+*** SUMMARY ***
+Total pot $108 | Rake $2.80 
+Board [Tc 9c 6s 5d Qs]
+Seat 1: whollyflush (button) showed [Th 8h] and won ($105.20) with a pair of Tens
+Seat 2: floriiiiider (small blind) folded before Flop
+Seat 3: hob111111 (big blind) folded on the Turn
+Seat 4: king10clubs showed [9d Jd] and lost with a pair of Nines
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: SEREJkE29 folded before Flop (didn't bet)
+
+
+PokerStars Game #102624662359:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:53:05 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: whollyflush ($769.20 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: hob111111 ($337.29 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: LuckyBiitch ($783.20 in chips) 
+Seat 6: SEREJkE29 ($600 in chips) 
+hob111111: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+SEREJkE29: raises $12 to $18
+whollyflush: folds 
+floriiiiider: folds 
+hob111111: folds 
+king10clubs: folds 
+Uncalled bet ($12) returned to SEREJkE29
+SEREJkE29 collected $15 from pot
+SEREJkE29: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: whollyflush folded before Flop (didn't bet)
+Seat 2: floriiiiider (button) folded before Flop (didn't bet)
+Seat 3: hob111111 (small blind) folded before Flop
+Seat 4: king10clubs (big blind) folded before Flop
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: SEREJkE29 collected ($15)
+
+
+PokerStars Game #102624680989:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:53:28 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: whollyflush ($769.20 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: hob111111 ($334.29 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: LuckyBiitch ($783.20 in chips) 
+Seat 6: SEREJkE29 ($609 in chips) 
+king10clubs: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+SEREJkE29: folds 
+whollyflush: folds 
+floriiiiider: raises $9 to $15
+hob111111: folds 
+king10clubs: folds 
+LuckyBiitch: folds 
+Uncalled bet ($9) returned to floriiiiider
+floriiiiider collected $15 from pot
+floriiiiider: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: whollyflush folded before Flop (didn't bet)
+Seat 2: floriiiiider collected ($15)
+Seat 3: hob111111 (button) folded before Flop (didn't bet)
+Seat 4: king10clubs (small blind) folded before Flop
+Seat 5: LuckyBiitch (big blind) folded before Flop
+Seat 6: SEREJkE29 folded before Flop (didn't bet)
+
+
+PokerStars Game #102624706304:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:53:59 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: whollyflush ($769.20 in chips) 
+Seat 2: floriiiiider ($609 in chips) 
+Seat 3: hob111111 ($334.29 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: LuckyBiitch ($777.20 in chips) 
+Seat 6: SEREJkE29 ($609 in chips) 
+LuckyBiitch: posts small blind $3
+SEREJkE29: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: folds 
+floriiiiider: folds 
+hob111111: folds 
+king10clubs: raises $6 to $12
+LuckyBiitch: folds 
+SEREJkE29: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $15 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: whollyflush folded before Flop (didn't bet)
+Seat 2: floriiiiider folded before Flop (didn't bet)
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: king10clubs (button) collected ($15)
+Seat 5: LuckyBiitch (small blind) folded before Flop
+Seat 6: SEREJkE29 (big blind) folded before Flop
+
+
+PokerStars Game #102624734449:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:54:33 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: whollyflush ($769.20 in chips) 
+Seat 2: floriiiiider ($609 in chips) 
+Seat 3: hob111111 ($334.29 in chips) 
+Seat 4: king10clubs ($609 in chips) 
+Seat 5: LuckyBiitch ($774.20 in chips) 
+Seat 6: SEREJkE29 ($603 in chips) 
+SEREJkE29: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider: folds 
+hob111111: folds 
+king10clubs: folds 
+LuckyBiitch: raises $6 to $12
+SEREJkE29: folds 
+whollyflush: raises $36 to $48
+LuckyBiitch: calls $36
+*** FLOP *** [Js Qh 6d]
+whollyflush: bets $48.10
+LuckyBiitch: calls $48.10
+*** TURN *** [Js Qh 6d] [7d]
+whollyflush: bets $128.90
+LuckyBiitch: calls $128.90
+*** RIVER *** [Js Qh 6d 7d] [Kc]
+whollyflush: bets $301.63
+LuckyBiitch: folds 
+Uncalled bet ($301.63) returned to whollyflush
+whollyflush collected $450.20 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $453 | Rake $2.80 
+Board [Js Qh 6d 7d Kc]
+Seat 1: whollyflush (big blind) collected ($450.20)
+Seat 2: floriiiiider folded before Flop (didn't bet)
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: LuckyBiitch (button) folded on the River
+Seat 6: SEREJkE29 (small blind) folded before Flop
+
+
+PokerStars Game #102624291497:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:45:33 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: whollyflush ($671.47 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: hob111111 ($235.09 in chips) 
+Seat 4: king10clubs ($651.20 in chips) 
+Seat 5: LuckyBiitch ($609 in chips) 
+Seat 6: SEREJkE29 ($603.28 in chips) 
+hob111111: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+SEREJkE29: folds 
+whollyflush: folds 
+floriiiiider: folds 
+hob111111: folds 
+Uncalled bet ($3) returned to king10clubs
+king10clubs collected $6 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: whollyflush folded before Flop (didn't bet)
+Seat 2: floriiiiider (button) folded before Flop (didn't bet)
+Seat 3: hob111111 (small blind) folded before Flop
+Seat 4: king10clubs (big blind) collected ($6)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: SEREJkE29 folded before Flop (didn't bet)
+
+
+PokerStars Game #102624304844:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:45:49 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: whollyflush ($671.47 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: hob111111 ($232.09 in chips) 
+Seat 4: king10clubs ($654.20 in chips) 
+Seat 5: LuckyBiitch ($609 in chips) 
+Seat 6: SEREJkE29 ($603.28 in chips) 
+king10clubs: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+SEREJkE29: folds 
+whollyflush: raises $12 to $18
+floriiiiider: folds 
+hob111111: folds 
+king10clubs: folds 
+LuckyBiitch: folds 
+Uncalled bet ($12) returned to whollyflush
+whollyflush collected $15 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: whollyflush collected ($15)
+Seat 2: floriiiiider folded before Flop (didn't bet)
+Seat 3: hob111111 (button) folded before Flop (didn't bet)
+Seat 4: king10clubs (small blind) folded before Flop
+Seat 5: LuckyBiitch (big blind) folded before Flop
+Seat 6: SEREJkE29 folded before Flop (didn't bet)
+
+
+PokerStars Game #102624322209:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:46:10 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: whollyflush ($680.47 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: hob111111 ($232.09 in chips) 
+Seat 4: king10clubs ($651.20 in chips) 
+Seat 5: LuckyBiitch ($603 in chips) 
+Seat 6: SEREJkE29 ($603.28 in chips) 
+LuckyBiitch: posts small blind $3
+SEREJkE29: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: folds 
+floriiiiider: raises $12 to $18
+hob111111: calls $18
+king10clubs: folds 
+LuckyBiitch: folds 
+SEREJkE29: folds 
+*** FLOP *** [3d Jh 2c]
+floriiiiider: bets $30
+hob111111: calls $30
+*** TURN *** [3d Jh 2c] [9s]
+floriiiiider: bets $66
+hob111111: calls $66
+*** RIVER *** [3d Jh 2c 9s] [6c]
+floriiiiider: checks 
+hob111111: bets $118.09 and is all-in
+floriiiiider: folds 
+Uncalled bet ($118.09) returned to hob111111
+hob111111 collected $234.20 from pot
+*** SUMMARY ***
+Total pot $237 | Rake $2.80 
+Board [3d Jh 2c 9s 6c]
+Seat 1: whollyflush folded before Flop (didn't bet)
+Seat 2: floriiiiider folded on the River
+Seat 3: hob111111 collected ($234.20)
+Seat 4: king10clubs (button) folded before Flop (didn't bet)
+Seat 5: LuckyBiitch (small blind) folded before Flop
+Seat 6: SEREJkE29 (big blind) folded before Flop
+
+
+PokerStars Game #102624419762:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:48:07 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: whollyflush ($680.47 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: hob111111 ($352.29 in chips) 
+Seat 4: king10clubs ($651.20 in chips) 
+Seat 5: LuckyBiitch ($600 in chips) 
+Seat 6: SEREJkE29 ($600 in chips) 
+SEREJkE29: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider: folds 
+hob111111: folds 
+king10clubs: folds 
+LuckyBiitch: raises $6 to $12
+SEREJkE29: folds 
+whollyflush: calls $6
+*** FLOP *** [7d Qs 4s]
+whollyflush: checks 
+LuckyBiitch: checks 
+*** TURN *** [7d Qs 4s] [5h]
+whollyflush: bets $19.33
+LuckyBiitch: calls $19.33
+*** RIVER *** [7d Qs 4s 5h] [4d]
+whollyflush: checks 
+LuckyBiitch: checks 
+*** SHOW DOWN ***
+whollyflush: shows [8s Ah] (a pair of Fours)
+LuckyBiitch: mucks hand 
+whollyflush collected $62.86 from pot
+*** SUMMARY ***
+Total pot $65.66 | Rake $2.80 
+Board [7d Qs 4s 5h 4d]
+Seat 1: whollyflush (big blind) showed [8s Ah] and won ($62.86) with a pair of Fours
+Seat 2: floriiiiider folded before Flop (didn't bet)
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: LuckyBiitch (button) mucked
+Seat 6: SEREJkE29 (small blind) folded before Flop
+
+
+PokerStars Game #102625423332:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:10:25 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: whollyflush ($1151.60 in chips) 
+Seat 2: floriiiiider ($636.20 in chips) 
+Seat 3: hob111111 ($219.29 in chips) 
+Seat 4: king10clubs ($642.20 in chips) 
+Seat 5: LuckyBiitch ($892.60 in chips) 
+Seat 6: SEREJkE29 ($600 in chips) 
+king10clubs: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+SEREJkE29: folds 
+whollyflush: raises $12 to $18
+floriiiiider: folds 
+hob111111: folds 
+king10clubs: calls $15
+LuckyBiitch: folds 
+*** FLOP *** [9s As 6s]
+king10clubs: checks 
+whollyflush: checks 
+*** TURN *** [9s As 6s] [Qh]
+king10clubs: checks 
+whollyflush: bets $30.08
+king10clubs: folds 
+Uncalled bet ($30.08) returned to whollyflush
+whollyflush collected $40.11 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $42 | Rake $1.89 
+Board [9s As 6s Qh]
+Seat 1: whollyflush collected ($40.11)
+Seat 2: floriiiiider folded before Flop (didn't bet)
+Seat 3: hob111111 (button) folded before Flop (didn't bet)
+Seat 4: king10clubs (small blind) folded on the Turn
+Seat 5: LuckyBiitch (big blind) folded before Flop
+Seat 6: SEREJkE29 folded before Flop (didn't bet)
+
+
+PokerStars Game #102625462401:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:11:13 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: whollyflush ($1173.71 in chips) 
+Seat 2: floriiiiider ($636.20 in chips) 
+Seat 3: hob111111 ($219.29 in chips) 
+Seat 4: king10clubs ($624.20 in chips) 
+Seat 5: LuckyBiitch ($886.60 in chips) 
+Seat 6: SEREJkE29 ($600 in chips) 
+LuckyBiitch: posts small blind $3
+SEREJkE29: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: folds 
+floriiiiider: folds 
+hob111111: folds 
+king10clubs: raises $6 to $12
+LuckyBiitch: raises $33 to $45
+SEREJkE29: folds 
+king10clubs: folds 
+Uncalled bet ($33) returned to LuckyBiitch
+LuckyBiitch collected $30 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: whollyflush folded before Flop (didn't bet)
+Seat 2: floriiiiider folded before Flop (didn't bet)
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: king10clubs (button) folded before Flop
+Seat 5: LuckyBiitch (small blind) collected ($30)
+Seat 6: SEREJkE29 (big blind) folded before Flop
+
+
+PokerStars Game #102625485740:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:11:41 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: whollyflush ($1173.71 in chips) 
+Seat 2: floriiiiider ($636.20 in chips) 
+Seat 3: hob111111 ($219.29 in chips) 
+Seat 4: king10clubs ($612.20 in chips) 
+Seat 5: LuckyBiitch ($904.60 in chips) 
+Seat 6: SEREJkE29 ($600 in chips) 
+SEREJkE29: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider: raises $12 to $18
+hob111111: folds 
+king10clubs: calls $18
+LuckyBiitch: folds 
+SEREJkE29: calls $15
+whollyflush: folds 
+*** FLOP *** [Kh 9c 3d]
+SEREJkE29: checks 
+floriiiiider: checks 
+king10clubs: checks 
+*** TURN *** [Kh 9c 3d] [Ks]
+SEREJkE29: checks 
+floriiiiider: bets $39
+king10clubs: folds 
+SEREJkE29: calls $39
+*** RIVER *** [Kh 9c 3d Ks] [5s]
+SEREJkE29: checks 
+floriiiiider: checks 
+*** SHOW DOWN ***
+SEREJkE29: shows [As Kc] (three of a kind, Kings)
+floriiiiider: mucks hand 
+SEREJkE29 collected $135.20 from pot
+*** SUMMARY ***
+Total pot $138 | Rake $2.80 
+Board [Kh 9c 3d Ks 5s]
+Seat 1: whollyflush (big blind) folded before Flop
+Seat 2: floriiiiider mucked
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: king10clubs folded on the Turn
+Seat 5: LuckyBiitch (button) folded before Flop (didn't bet)
+Seat 6: SEREJkE29 (small blind) showed [As Kc] and won ($135.20) with three of a kind, Kings
+
+
+PokerStars Game #102625545526:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:12:54 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: whollyflush ($1167.71 in chips) 
+Seat 2: floriiiiider ($600 in chips) 
+Seat 3: hob111111 ($219.29 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: LuckyBiitch ($904.60 in chips) 
+Seat 6: SEREJkE29 ($678.20 in chips) 
+whollyflush: posts small blind $3
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+hob111111: folds 
+hob111111 leaves the table
+king10clubs: folds 
+LuckyBiitch: folds 
+SEREJkE29: folds 
+whollyflush: folds 
+Uncalled bet ($3) returned to floriiiiider
+floriiiiider collected $6 from pot
+floriiiiider: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: whollyflush (small blind) folded before Flop
+Seat 2: floriiiiider (big blind) collected ($6)
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: SEREJkE29 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102625560071:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:13:12 ET
+Table 'Fagnes VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: whollyflush ($1164.71 in chips) 
+Seat 2: floriiiiider ($603 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: LuckyBiitch ($904.60 in chips) 
+Seat 6: SEREJkE29 ($678.20 in chips) 
+floriiiiider: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+LuckyBiitch leaves the table
+SEREJkE29: raises $9 to $15
+elvn89 joins the table at seat #5 
+elvn89 leaves the table
+whollyflush: folds 
+floriiiiider: folds 
+Ner4zzurri joins the table at seat #5 
+king10clubs: folds 
+Uncalled bet ($9) returned to SEREJkE29
+SEREJkE29 collected $15 from pot
+SEREJkE29: doesn't show hand 
+Ner4zzurri leaves the table
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: whollyflush (button) folded before Flop (didn't bet)
+Seat 2: floriiiiider (small blind) folded before Flop
+Seat 4: king10clubs (big blind) folded before Flop
+Seat 5: LuckyBiitch folded before Flop (didn't bet)
+Seat 6: SEREJkE29 collected ($15)

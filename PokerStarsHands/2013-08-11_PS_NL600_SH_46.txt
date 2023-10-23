@@ -1,0 +1,1840 @@
+
+
+PokerStars Game #102628533073:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:20:05 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($644.51 in chips) 
+Seat 5: king10clubs ($1264.40 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+Uncalled bet ($3) returned to unk1nd
+unk1nd collected $6 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: unk1nd (big blind) collected ($6)
+Seat 5: king10clubs (button) (small blind) folded before Flop
+
+
+PokerStars Game #102628536368:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:20:10 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($647.51 in chips) 
+Seat 5: king10clubs ($1261.40 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to unk1nd
+unk1nd collected $12 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: unk1nd (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102628542663:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:20:19 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($653.51 in chips) 
+Seat 5: king10clubs ($1255.40 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: unk1nd (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102628549473:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:20:28 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($647.51 in chips) 
+Seat 5: king10clubs ($1261.40 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to unk1nd
+unk1nd collected $12 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: unk1nd (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102628556765:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:20:39 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($653.51 in chips) 
+Seat 5: king10clubs ($1255.40 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: calls $6
+*** FLOP *** [Qs Jc Qd]
+unk1nd: checks 
+king10clubs: checks 
+*** TURN *** [Qs Jc Qd] [Kc]
+unk1nd: bets $15.51
+king10clubs: folds 
+Uncalled bet ($15.51) returned to unk1nd
+unk1nd collected $23.50 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Qs Jc Qd Kc]
+Seat 2: unk1nd (big blind) collected ($23.50)
+Seat 5: king10clubs (button) (small blind) folded on the Turn
+
+
+PokerStars Game #102628570731:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:20:58 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($665.01 in chips) 
+Seat 5: king10clubs ($1243.40 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to unk1nd
+unk1nd collected $12 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: unk1nd (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102628577481:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:21:08 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($671.01 in chips) 
+Seat 5: king10clubs ($1237.40 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: calls $6
+*** FLOP *** [2h Kc 4d]
+unk1nd: checks 
+king10clubs: bets $15
+unk1nd: folds 
+Uncalled bet ($15) returned to king10clubs
+king10clubs collected $23.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [2h Kc 4d]
+Seat 2: unk1nd (big blind) folded on the Flop
+Seat 5: king10clubs (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102628588820:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:21:24 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($659.01 in chips) 
+Seat 5: king10clubs ($1248.90 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to unk1nd
+unk1nd collected $12 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: unk1nd (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102628598351:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:21:38 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($665.01 in chips) 
+Seat 5: king10clubs ($1242.90 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: calls $6
+*** FLOP *** [8h Kc 2s]
+unk1nd: checks 
+king10clubs: checks 
+*** TURN *** [8h Kc 2s] [5c]
+unk1nd: bets $15.51
+king10clubs: calls $15.51
+*** RIVER *** [8h Kc 2s 5c] [5s]
+unk1nd: checks 
+king10clubs: checks 
+*** SHOW DOWN ***
+unk1nd: shows [Kh 2h] (two pair, Kings and Fives)
+king10clubs: mucks hand 
+unk1nd collected $54.52 from pot
+*** SUMMARY ***
+Total pot $55.02 | Rake $0.50 
+Board [8h Kc 2s 5c 5s]
+Seat 2: unk1nd (big blind) showed [Kh 2h] and won ($54.52) with two pair, Kings and Fives
+Seat 5: king10clubs (button) (small blind) mucked
+
+
+PokerStars Game #102628634532:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:22:29 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($692.02 in chips) 
+Seat 5: king10clubs ($1215.39 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to unk1nd
+unk1nd collected $12 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: unk1nd (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102628640537:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:22:38 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($698.02 in chips) 
+Seat 5: king10clubs ($1209.39 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: raises $30 to $42
+king10clubs: folds 
+Uncalled bet ($30) returned to unk1nd
+unk1nd collected $24 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: unk1nd (big blind) collected ($24)
+Seat 5: king10clubs (button) (small blind) folded before Flop
+
+
+PokerStars Game #102628651319:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:22:54 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($710.02 in chips) 
+Seat 5: king10clubs ($1197.39 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [6s 3c 2d]
+king10clubs: checks 
+unk1nd: checks 
+*** TURN *** [6s 3c 2d] [Jc]
+king10clubs: checks 
+unk1nd: checks 
+*** RIVER *** [6s 3c 2d Jc] [5s]
+king10clubs: checks 
+unk1nd: bets $15.51
+king10clubs: folds 
+Uncalled bet ($15.51) returned to unk1nd
+unk1nd collected $23.50 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [6s 3c 2d Jc 5s]
+Seat 2: unk1nd (button) (small blind) collected ($23.50)
+Seat 5: king10clubs (big blind) folded on the River
+
+
+PokerStars Game #102628674649:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:23:27 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($721.52 in chips) 
+Seat 5: king10clubs ($1185.39 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: calls $6
+*** FLOP *** [Qh Ks As]
+unk1nd: checks 
+king10clubs: checks 
+*** TURN *** [Qh Ks As] [Qc]
+unk1nd: bets $15.51
+king10clubs: folds 
+Uncalled bet ($15.51) returned to unk1nd
+unk1nd collected $23.50 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Qh Ks As Qc]
+Seat 2: unk1nd (big blind) collected ($23.50)
+Seat 5: king10clubs (button) (small blind) folded on the Turn
+
+
+PokerStars Game #102628693311:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:23:54 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($733.02 in chips) 
+Seat 5: king10clubs ($1173.39 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: raises $36 to $48
+unk1nd: folds 
+Uncalled bet ($36) returned to king10clubs
+king10clubs collected $24 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: unk1nd (button) (small blind) folded before Flop
+Seat 5: king10clubs (big blind) collected ($24)
+
+
+PokerStars Game #102628704033:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:24:10 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($721.02 in chips) 
+Seat 5: king10clubs ($1185.39 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: raises $30 to $42
+king10clubs: calls $30
+*** FLOP *** [Qd 5c Qc]
+unk1nd: checks 
+king10clubs: bets $48
+unk1nd: calls $48
+*** TURN *** [Qd 5c Qc] [Js]
+unk1nd: checks 
+king10clubs: bets $120
+unk1nd: calls $120
+*** RIVER *** [Qd 5c Qc Js] [Ah]
+unk1nd: checks 
+king10clubs: bets $975.39 and is all-in
+unk1nd: folds 
+Uncalled bet ($975.39) returned to king10clubs
+king10clubs collected $419.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $420 | Rake $0.50 
+Board [Qd 5c Qc Js Ah]
+Seat 2: unk1nd (big blind) folded on the River
+Seat 5: king10clubs (button) (small blind) collected ($419.50)
+
+
+PokerStars Game #102628339512:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:15:35 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($601.99 in chips) 
+Seat 5: king10clubs ($697.42 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: calls $6
+*** FLOP *** [Kc Tc 7h]
+unk1nd: checks 
+king10clubs: bets $15
+unk1nd: calls $15
+*** TURN *** [Kc Tc 7h] [5s]
+unk1nd: checks 
+king10clubs: bets $44
+unk1nd: raises $100 to $144
+king10clubs: calls $100
+*** RIVER *** [Kc Tc 7h 5s] [2c]
+unk1nd: bets $256.12
+king10clubs: raises $270.30 to $526.42 and is all-in
+unk1nd: calls $174.87 and is all-in
+Uncalled bet ($95.43) returned to king10clubs
+*** SHOW DOWN ***
+king10clubs: shows [9c 3c] (a flush, King high)
+unk1nd: shows [Kh 7c] (two pair, Kings and Sevens)
+king10clubs collected $1203.48 from pot
+*** SUMMARY ***
+Total pot $1203.98 | Rake $0.50 
+Board [Kc Tc 7h 5s 2c]
+Seat 2: unk1nd (big blind) showed [Kh 7c] and lost with two pair, Kings and Sevens
+Seat 5: king10clubs (button) (small blind) showed [9c 3c] and won ($1203.48) with a flush, King high
+
+
+PokerStars Game #102628434256:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:17:46 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($600 in chips) 
+Seat 5: king10clubs ($1298.91 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to unk1nd
+unk1nd collected $12 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: unk1nd (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102628439810:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:17:54 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($606 in chips) 
+Seat 5: king10clubs ($1292.91 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: calls $6
+*** FLOP *** [4h 2d 9h]
+unk1nd: checks 
+king10clubs: bets $16
+unk1nd: folds 
+Uncalled bet ($16) returned to king10clubs
+king10clubs collected $23.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [4h 2d 9h]
+Seat 2: unk1nd (big blind) folded on the Flop
+Seat 5: king10clubs (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102628451758:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:18:11 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($600 in chips) 
+Seat 5: king10clubs ($1304.41 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to unk1nd
+unk1nd collected $12 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: unk1nd (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102628458492:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:18:20 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($606 in chips) 
+Seat 5: king10clubs ($1298.41 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: calls $6
+*** FLOP *** [Ts Td 8c]
+unk1nd: checks 
+king10clubs: bets $15
+unk1nd: folds 
+Uncalled bet ($15) returned to king10clubs
+king10clubs collected $23.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Ts Td 8c]
+Seat 2: unk1nd (big blind) folded on the Flop
+Seat 5: king10clubs (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102628479616:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:18:50 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($600 in chips) 
+Seat 5: king10clubs ($1309.91 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [4c 7h 7d]
+king10clubs: checks 
+unk1nd: bets $15.51
+king10clubs: calls $15.51
+*** TURN *** [4c 7h 7d] [9d]
+king10clubs: checks 
+unk1nd: bets $40.89
+king10clubs: folds 
+Uncalled bet ($40.89) returned to unk1nd
+unk1nd collected $54.52 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $55.02 | Rake $0.50 
+Board [4c 7h 7d 9d]
+Seat 2: unk1nd (button) (small blind) collected ($54.52)
+Seat 5: king10clubs (big blind) folded on the Turn
+
+
+PokerStars Game #102628500250:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:19:19 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($627.01 in chips) 
+Seat 5: king10clubs ($1282.40 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: unk1nd (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102628505856:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:19:27 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($621.01 in chips) 
+Seat 5: king10clubs ($1288.40 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to unk1nd
+unk1nd collected $12 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: unk1nd (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102628510745:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:19:34 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($627.01 in chips) 
+Seat 5: king10clubs ($1282.40 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: calls $6
+*** FLOP *** [Jh 9d 9c]
+unk1nd: checks 
+king10clubs: checks 
+*** TURN *** [Jh 9d 9c] [5s]
+unk1nd: bets $15.51
+king10clubs: folds 
+Uncalled bet ($15.51) returned to unk1nd
+unk1nd collected $23.50 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Jh 9d 9c 5s]
+Seat 2: unk1nd (big blind) collected ($23.50)
+Seat 5: king10clubs (button) (small blind) folded on the Turn
+
+
+PokerStars Game #102628527163:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:19:57 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($638.51 in chips) 
+Seat 5: king10clubs ($1270.40 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to unk1nd
+unk1nd collected $12 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: unk1nd (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102628121136:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:10:31 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($600 in chips) 
+Seat 5: king10clubs ($677.40 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to unk1nd
+unk1nd collected $12 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: unk1nd (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102628126270:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:10:38 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($606 in chips) 
+Seat 5: king10clubs ($671.40 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: calls $6
+*** FLOP *** [6s Th Jd]
+unk1nd: checks 
+king10clubs: checks 
+*** TURN *** [6s Th Jd] [3h]
+unk1nd: bets $15.51
+king10clubs: calls $15.51
+*** RIVER *** [6s Th Jd 3h] [6d]
+unk1nd: checks 
+king10clubs: checks 
+*** SHOW DOWN ***
+unk1nd: shows [Qh 7s] (a pair of Sixes)
+king10clubs: shows [7c Ts] (two pair, Tens and Sixes)
+king10clubs collected $54.52 from pot
+*** SUMMARY ***
+Total pot $55.02 | Rake $0.50 
+Board [6s Th Jd 3h 6d]
+Seat 2: unk1nd (big blind) showed [Qh 7s] and lost with a pair of Sixes
+Seat 5: king10clubs (button) (small blind) showed [7c Ts] and won ($54.52) with two pair, Tens and Sixes
+
+
+PokerStars Game #102628157108:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:11:21 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($600 in chips) 
+Seat 5: king10clubs ($698.41 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to unk1nd
+unk1nd collected $12 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: unk1nd (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102628170055:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:11:39 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($606 in chips) 
+Seat 5: king10clubs ($692.41 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: raises $30 to $42
+king10clubs: folds 
+Uncalled bet ($30) returned to unk1nd
+unk1nd collected $24 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: unk1nd (big blind) collected ($24)
+Seat 5: king10clubs (button) (small blind) folded before Flop
+
+
+PokerStars Game #102628181040:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:11:54 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($618 in chips) 
+Seat 5: king10clubs ($680.41 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to unk1nd
+unk1nd collected $12 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: unk1nd (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102628199207:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:12:19 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($624 in chips) 
+Seat 5: king10clubs ($674.41 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: calls $6
+*** FLOP *** [Tc 8s Jd]
+unk1nd: checks 
+king10clubs: bets $15
+unk1nd: calls $15
+*** TURN *** [Tc 8s Jd] [4h]
+unk1nd: checks 
+king10clubs: bets $45
+unk1nd: folds 
+Uncalled bet ($45) returned to king10clubs
+king10clubs collected $53.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $54 | Rake $0.50 
+Board [Tc 8s Jd 4h]
+Seat 2: unk1nd (big blind) folded on the Turn
+Seat 5: king10clubs (button) (small blind) collected ($53.50)
+
+
+PokerStars Game #102628226633:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:12:57 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($600 in chips) 
+Seat 5: king10clubs ($700.91 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to unk1nd
+unk1nd collected $12 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: unk1nd (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102628235726:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:13:10 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($606 in chips) 
+Seat 5: king10clubs ($694.91 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: calls $6
+*** FLOP *** [Jc 6h As]
+unk1nd: checks 
+king10clubs: checks 
+*** TURN *** [Jc 6h As] [3c]
+unk1nd: checks 
+king10clubs: checks 
+*** RIVER *** [Jc 6h As 3c] [5s]
+unk1nd: checks 
+king10clubs: checks 
+*** SHOW DOWN ***
+unk1nd: shows [Kd 2s] (high card Ace)
+king10clubs: mucks hand 
+unk1nd collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Jc 6h As 3c 5s]
+Seat 2: unk1nd (big blind) showed [Kd 2s] and won ($23.50) with high card Ace
+Seat 5: king10clubs (button) (small blind) mucked
+
+
+PokerStars Game #102628265976:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:13:52 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($617.50 in chips) 
+Seat 5: king10clubs ($682.91 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to unk1nd
+unk1nd collected $12 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: unk1nd (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102628273024:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:14:02 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($623.50 in chips) 
+Seat 5: king10clubs ($676.91 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: calls $6
+*** FLOP *** [Js 3c 8c]
+unk1nd: checks 
+king10clubs: bets $15
+unk1nd: folds 
+Uncalled bet ($15) returned to king10clubs
+king10clubs collected $23.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Js 3c 8c]
+Seat 2: unk1nd (big blind) folded on the Flop
+Seat 5: king10clubs (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102628287582:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:14:22 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($611.50 in chips) 
+Seat 5: king10clubs ($688.41 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to unk1nd
+unk1nd collected $12 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: unk1nd (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102628295947:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:14:34 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($617.50 in chips) 
+Seat 5: king10clubs ($682.41 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: raises $30 to $42
+king10clubs: folds 
+Uncalled bet ($30) returned to unk1nd
+unk1nd collected $24 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: unk1nd (big blind) collected ($24)
+Seat 5: king10clubs (button) (small blind) folded before Flop
+
+
+PokerStars Game #102628304758:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:14:47 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($629.50 in chips) 
+Seat 5: king10clubs ($670.41 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [7h 7d 4c]
+king10clubs: checks 
+unk1nd: bets $15.51
+king10clubs: calls $15.51
+*** TURN *** [7h 7d 4c] [4s]
+king10clubs: checks 
+unk1nd: checks 
+*** RIVER *** [7h 7d 4c 4s] [Kc]
+king10clubs: checks 
+unk1nd: checks 
+*** SHOW DOWN ***
+king10clubs: shows [5d As] (two pair, Sevens and Fours)
+unk1nd: mucks hand 
+king10clubs collected $54.52 from pot
+*** SUMMARY ***
+Total pot $55.02 | Rake $0.50 
+Board [7h 7d 4c 4s Kc]
+Seat 2: unk1nd (button) (small blind) mucked
+Seat 5: king10clubs (big blind) showed [5d As] and won ($54.52) with two pair, Sevens and Fours
+
+
+PokerStars Game #102627901747:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:05:35 ET
+Table 'Arete V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: TTSIP ($613.78 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+Seat 6: elvn89 ($240 in chips) 
+TTSIP: posts small blind $3
+Strz: is sitting out 
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+elvn89: raises $7.02 to $13.02
+TTSIP: folds 
+Strz leaves the table
+king10clubs: folds 
+Uncalled bet ($7.02) returned to elvn89
+elvn89 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: TTSIP (small blind) folded before Flop
+Seat 5: king10clubs (big blind) folded before Flop
+Seat 6: elvn89 (button) collected ($15)
+
+
+PokerStars Game #102627920618:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:06:01 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: TTSIP ($610.78 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+king10clubs: posts small blind $3
+elvn89: is sitting out 
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+elvn89 leaves the table
+king10clubs: raises $6 to $12
+TTSIP: calls $6
+*** FLOP *** [6h Ts Kh]
+TTSIP: checks 
+king10clubs: checks 
+*** TURN *** [6h Ts Kh] [9h]
+TTSIP: bets $18
+king10clubs: folds 
+Uncalled bet ($18) returned to TTSIP
+TTSIP collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [6h Ts Kh 9h]
+Seat 1: TTSIP (big blind) collected ($23.50)
+Seat 5: king10clubs (button) (small blind) folded on the Turn
+
+
+PokerStars Game #102627937768:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:06:24 ET
+Table 'Arete V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: TTSIP ($622.28 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+TTSIP: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [9s 5c 6s]
+king10clubs: checks 
+TTSIP: checks 
+*** TURN *** [9s 5c 6s] [7s]
+king10clubs: bets $18
+TTSIP: folds 
+Uncalled bet ($18) returned to king10clubs
+king10clubs collected $23.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [9s 5c 6s 7s]
+Seat 1: TTSIP (button) (small blind) folded on the Turn
+Seat 5: king10clubs (big blind) collected ($23.50)
+
+
+PokerStars Game #102627959773:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:06:53 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($600 in chips) 
+Seat 5: king10clubs ($611.50 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd said, "hey!"
+unk1nd said, "wanna start some more?"
+unk1nd: calls $6
+*** FLOP *** [Jc Ks Ah]
+unk1nd: checks 
+king10clubs: checks 
+*** TURN *** [Jc Ks Ah] [8d]
+unk1nd: checks 
+king10clubs said, "full atm"
+unk1nd said, "good 4 u =)"
+king10clubs: checks 
+*** RIVER *** [Jc Ks Ah 8d] [7s]
+unk1nd: bets $15.51
+king10clubs: folds 
+Uncalled bet ($15.51) returned to unk1nd
+unk1nd collected $23.50 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Jc Ks Ah 8d 7s]
+Seat 2: unk1nd (big blind) collected ($23.50)
+Seat 5: king10clubs (button) (small blind) folded on the River
+
+
+PokerStars Game #102628020697:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:08:15 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($611.50 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [8d Ad 4c]
+king10clubs: checks 
+unk1nd: bets $15.51
+king10clubs: calls $15.51
+*** TURN *** [8d Ad 4c] [Js]
+king10clubs: checks 
+unk1nd: checks 
+*** RIVER *** [8d Ad 4c Js] [9h]
+king10clubs: checks 
+unk1nd: bets $40.89
+king10clubs: calls $40.89
+*** SHOW DOWN ***
+unk1nd: shows [Jh 5h] (a pair of Jacks)
+king10clubs: shows [5s Ah] (a pair of Aces)
+king10clubs collected $136.30 from pot
+*** SUMMARY ***
+Total pot $136.80 | Rake $0.50 
+Board [8d Ad 4c Js 9h]
+Seat 2: unk1nd (button) (small blind) showed [Jh 5h] and lost with a pair of Jacks
+Seat 5: king10clubs (big blind) showed [5s Ah] and won ($136.30) with a pair of Aces
+
+
+PokerStars Game #102628060602:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:09:09 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($600 in chips) 
+Seat 5: king10clubs ($667.90 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: calls $6
+*** FLOP *** [8d 6s Ad]
+unk1nd: checks 
+king10clubs: checks 
+*** TURN *** [8d 6s Ad] [Kh]
+unk1nd: bets $15.51
+king10clubs: folds 
+Uncalled bet ($15.51) returned to unk1nd
+unk1nd collected $23.50 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [8d 6s Ad Kh]
+Seat 2: unk1nd (big blind) collected ($23.50)
+Seat 5: king10clubs (button) (small blind) folded on the Turn
+
+
+PokerStars Game #102628083774:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:09:40 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($611.50 in chips) 
+Seat 5: king10clubs ($655.90 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to unk1nd
+unk1nd collected $12 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: unk1nd (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102628089292:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:09:48 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($617.50 in chips) 
+Seat 5: king10clubs ($649.90 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: calls $6
+*** FLOP *** [Kh 7c 7h]
+unk1nd: checks 
+king10clubs: checks 
+*** TURN *** [Kh 7c 7h] [Jh]
+unk1nd: checks 
+king10clubs: bets $16
+unk1nd: calls $16
+*** RIVER *** [Kh 7c 7h Jh] [Qd]
+unk1nd: checks 
+king10clubs: bets $45
+unk1nd: folds 
+Uncalled bet ($45) returned to king10clubs
+king10clubs collected $55.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $56 | Rake $0.50 
+Board [Kh 7c 7h Jh Qd]
+Seat 2: unk1nd (big blind) folded on the River
+Seat 5: king10clubs (button) (small blind) collected ($55.50)
+
+
+PokerStars Game #102627841978:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:04:15 ET
+Table 'Arete V 40-100 bb' 6-max Seat #3 is the button
+Seat 3: <bigarchx> ($280.10 in chips) 
+Seat 4: Strz ($600 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+Strz: posts small blind $3
+elvn89 joins the table at seat #6 
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+ilir3 joins the table at seat #2 
+<bigarchx>: raises $12 to $18
+TTSIP joins the table at seat #1 
+Strz: folds 
+king10clubs: folds 
+Uncalled bet ($12) returned to <bigarchx>
+<bigarchx> collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 3: <bigarchx> (button) collected ($15)
+Seat 4: Strz (small blind) folded before Flop
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102627858447:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:04:37 ET
+Table 'Arete V 40-100 bb' 6-max Seat #4 is the button
+Seat 3: <bigarchx> ($289.10 in chips) 
+Seat 4: Strz ($600 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+Seat 6: elvn89 ($240 in chips) 
+king10clubs: posts small blind $3
+elvn89: posts big blind $6
+TTSIP: sits out 
+ilir3: sits out 
+*** HOLE CARDS ***
+<bigarchx>: folds 
+<bigarchx> leaves the table
+Strz: folds 
+GregAndrek joins the table at seat #3 
+king10clubs: folds 
+Uncalled bet ($3) returned to elvn89
+elvn89 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 3: <bigarchx> folded before Flop (didn't bet)
+Seat 4: Strz (button) folded before Flop (didn't bet)
+Seat 5: king10clubs (small blind) folded before Flop
+Seat 6: elvn89 (big blind) collected ($6)
+
+
+PokerStars Game #102627873664:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:04:58 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: TTSIP ($600 in chips) 
+Seat 4: Strz ($600 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+Seat 6: elvn89 ($243 in chips) 
+elvn89: posts small blind $3
+TTSIP: posts big blind $6
+ilir3: sits out 
+GregAndrek: sits out 
+*** HOLE CARDS ***
+ilir3 leaves the table
+Strz: folds 
+king10clubs: raises $6 to $12
+elvn89: folds 
+TTSIP: calls $6
+*** FLOP *** [4s 2s 5s]
+GregAndrek leaves the table
+TTSIP: checks 
+king10clubs: checks 
+*** TURN *** [4s 2s 5s] [9d]
+TTSIP: bets $18
+king10clubs: folds 
+Uncalled bet ($18) returned to TTSIP
+TTSIP collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [4s 2s 5s 9d]
+Seat 1: TTSIP (big blind) collected ($25.78)
+Seat 4: Strz folded before Flop (didn't bet)
+Seat 5: king10clubs (button) folded on the Turn
+Seat 6: elvn89 (small blind) folded before Flop
+
+
+PokerStars Game #102629148746:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:35:04 ET
+Table 'Arete V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: S_Enslaver ($600 in chips) 
+Seat 2: unk1nd ($896.29 in chips) 
+Seat 4: TTSIP ($618 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: Hurloon ($609 in chips) 
+S_Enslaver: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: folds 
+GregAndrek: raises $9 to $15
+Hurloon: folds 
+S_Enslaver: folds 
+unk1nd: calls $9
+*** FLOP *** [6s 5c 8c]
+unk1nd: checks 
+GregAndrek: bets $21
+unk1nd: raises $39 to $60
+GregAndrek: folds 
+Uncalled bet ($39) returned to unk1nd
+unk1nd collected $72.20 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $75 | Rake $2.80 
+Board [6s 5c 8c]
+Seat 1: S_Enslaver (small blind) folded before Flop
+Seat 2: unk1nd (big blind) collected ($72.20)
+Seat 4: TTSIP folded before Flop (didn't bet)
+Seat 5: GregAndrek folded on the Flop
+Seat 6: Hurloon (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102629195098:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:36:15 ET
+Table 'Arete V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: S_Enslaver ($600 in chips) 
+Seat 2: unk1nd ($932.49 in chips) 
+Seat 4: TTSIP ($618 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: Hurloon ($609 in chips) 
+unk1nd: posts small blind $3
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: raises $12 to $18
+Hurloon: calls $18
+S_Enslaver: folds 
+unk1nd: folds 
+TTSIP: folds 
+*** FLOP *** [4d 8s Ad]
+GregAndrek: bets $30
+Hurloon: folds 
+Uncalled bet ($30) returned to GregAndrek
+GregAndrek collected $42.98 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $2.02 
+Board [4d 8s Ad]
+Seat 1: S_Enslaver (button) folded before Flop (didn't bet)
+Seat 2: unk1nd (small blind) folded before Flop
+Seat 4: TTSIP (big blind) folded before Flop
+Seat 5: GregAndrek collected ($42.98)
+Seat 6: Hurloon folded on the Flop
+
+
+PokerStars Game #102629219819:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:36:53 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: S_Enslaver ($600 in chips) 
+Seat 2: unk1nd ($929.49 in chips) 
+Seat 4: TTSIP ($612 in chips) 
+Seat 6: Hurloon ($600 in chips) 
+TTSIP: posts small blind $3
+GregAndrek: is sitting out 
+Hurloon: posts big blind $6
+*** HOLE CARDS ***
+S_Enslaver: folds 
+unk1nd: folds 
+TTSIP: folds 
+Uncalled bet ($3) returned to Hurloon
+Hurloon collected $6 from pot
+Hurloon: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: S_Enslaver folded before Flop (didn't bet)
+Seat 2: unk1nd (button) folded before Flop (didn't bet)
+Seat 4: TTSIP (small blind) folded before Flop
+Seat 6: Hurloon (big blind) collected ($6)
+
+
+PokerStars Game #102629228225:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:37:05 ET
+Table 'Arete V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: S_Enslaver ($600 in chips) 
+Seat 2: unk1nd ($929.49 in chips) 
+Seat 4: TTSIP ($609 in chips) 
+Seat 6: Hurloon ($603 in chips) 
+Hurloon: posts small blind $3
+S_Enslaver: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: folds 
+TTSIP: raises $6 to $12
+Hurloon: raises $42 to $54
+S_Enslaver: folds 
+TTSIP: folds 
+Uncalled bet ($42) returned to Hurloon
+Hurloon collected $30 from pot
+Hurloon: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: S_Enslaver (big blind) folded before Flop
+Seat 2: unk1nd folded before Flop (didn't bet)
+Seat 4: TTSIP (button) folded before Flop
+Seat 6: Hurloon (small blind) collected ($30)
+
+
+PokerStars Game #102629246782:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:37:34 ET
+Table 'Arete V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: S_Enslaver ($600 in chips) 
+Seat 2: unk1nd ($929.49 in chips) 
+Seat 4: TTSIP ($600 in chips) 
+Seat 6: Hurloon ($621 in chips) 
+S_Enslaver: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: folds 
+Hurloon: raises $6 to $12
+S_Enslaver: folds 
+unk1nd: calls $6
+*** FLOP *** [9h Ad 3d]
+unk1nd: checks 
+Hurloon: bets $18
+unk1nd: calls $18
+*** TURN *** [9h Ad 3d] [6s]
+unk1nd: checks 
+Hurloon: bets $42
+unk1nd: folds 
+Uncalled bet ($42) returned to Hurloon
+Hurloon collected $61.50 from pot
+Hurloon: doesn't show hand 
+*** SUMMARY ***
+Total pot $63 | Rake $1.50 
+Board [9h Ad 3d 6s]
+Seat 1: S_Enslaver (small blind) folded before Flop
+Seat 2: unk1nd (big blind) folded on the Turn
+Seat 4: TTSIP folded before Flop (didn't bet)
+Seat 6: Hurloon (button) collected ($61.50)
+
+
+PokerStars Game #102629266658:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:38:04 ET
+Table 'Arete V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: S_Enslaver ($600 in chips) 
+Seat 2: unk1nd ($899.49 in chips) 
+Seat 4: TTSIP ($600 in chips) 
+Seat 6: Hurloon ($652.50 in chips) 
+unk1nd: posts small blind $3
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+Hurloon: folds 
+S_Enslaver: raises $6 to $12
+unk1nd: folds 
+TTSIP: raises $36 to $48
+S_Enslaver: folds 
+Uncalled bet ($36) returned to TTSIP
+TTSIP collected $27 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 1: S_Enslaver (button) folded before Flop
+Seat 2: unk1nd (small blind) folded before Flop
+Seat 4: TTSIP (big blind) collected ($27)
+Seat 6: Hurloon folded before Flop (didn't bet)
+
+
+PokerStars Game #102629280812:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:38:25 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: S_Enslaver ($600 in chips) 
+Seat 2: unk1nd ($896.49 in chips) 
+Seat 4: TTSIP ($615 in chips) 
+Seat 6: Hurloon ($652.50 in chips) 
+Wulli333 was removed from the table for failing to post
+TTSIP: posts small blind $3
+Hurloon: posts big blind $6
+*** HOLE CARDS ***
+S_Enslaver: folds 
+unk1nd: raises $6 to $12
+TTSIP: raises $36 to $48
+GregAndrek leaves the table
+Hurloon: folds 
+Ner4zzurri joins the table at seat #3 
+Ner4zzurri leaves the table
+floriiiiider joins the table at seat #3 
+floriiiiider leaves the table
+unk1nd: calls $36
+*** FLOP *** [9s 3d 5d]
+TTSIP: bets $54
+S_Enslaver leaves the table
+unk1nd has timed out
+unk1nd: folds 
+Uncalled bet ($54) returned to TTSIP
+TTSIP collected $100.50 from pot
+*** SUMMARY ***
+Total pot $102 | Rake $1.50 
+Board [9s 3d 5d]
+Seat 1: S_Enslaver folded before Flop (didn't bet)
+Seat 2: unk1nd (button) folded on the Flop
+Seat 4: TTSIP (small blind) collected ($100.50)
+Seat 6: Hurloon (big blind) folded before Flop
+
+
+PokerStars Game #102628957973:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:30:18 ET
+Table 'Arete V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Strz ($603 in chips) 
+Seat 2: unk1nd ($877.01 in chips) 
+Seat 4: neomorf ($600 in chips) 
+Seat 5: king10clubs ($1395.38 in chips) 
+Seat 6: Hurloon ($600 in chips) 
+Strz: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+neomorf: folds 
+king10clubs: folds 
+Hurloon: raises $6 to $12
+Strz: raises $36 to $48
+unk1nd: folds 
+Hurloon: folds 
+Uncalled bet ($36) returned to Strz
+Strz collected $30 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: Strz (small blind) collected ($30)
+Seat 2: unk1nd (big blind) folded before Flop
+Seat 4: neomorf folded before Flop (didn't bet)
+Seat 5: king10clubs folded before Flop (didn't bet)
+Seat 6: Hurloon (button) folded before Flop
+
+
+PokerStars Game #102628981611:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:30:53 ET
+Table 'Arete V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Strz ($621 in chips) 
+Seat 2: unk1nd ($871.01 in chips) 
+Seat 6: Hurloon ($600 in chips) 
+unk1nd: posts small blind $3
+neomorf: is sitting out 
+king10clubs: is sitting out 
+Hurloon: posts big blind $6
+*** HOLE CARDS ***
+Strz: raises $6 to $12
+neomorf leaves the table
+TTSIP joins the table at seat #4 
+king10clubs leaves the table
+unk1nd: folds 
+Hurloon: raises $36 to $48
+Strz: calls $36
+*** FLOP *** [Jd 9d 4d]
+Hurloon: bets $54
+Strz: raises $60 to $114
+GregAndrek joins the table at seat #5 
+Hurloon: folds 
+Uncalled bet ($60) returned to Strz
+Strz collected $205.50 from pot
+*** SUMMARY ***
+Total pot $207 | Rake $1.50 
+Board [Jd 9d 4d]
+Seat 1: Strz (button) collected ($205.50)
+Seat 2: unk1nd (small blind) folded before Flop
+Seat 6: Hurloon (big blind) folded on the Flop
+
+
+PokerStars Game #102629048192:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:32:33 ET
+Table 'Arete V 40-100 bb' 6-max Seat #6 is the button
+Seat 2: unk1nd ($879.51 in chips) 
+Seat 4: TTSIP ($610.28 in chips) 
+Seat 6: Hurloon ($600 in chips) 
+unk1nd: posts small blind $3
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+Hurloon: raises $6 to $12
+Strz leaves the table
+unk1nd: folds 
+floriiiiider joins the table at seat #1 
+TTSIP: folds 
+Uncalled bet ($6) returned to Hurloon
+floriiiiider leaves the table
+Hurloon collected $15 from pot
+Hurloon: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: unk1nd (small blind) folded before Flop
+Seat 4: TTSIP (big blind) folded before Flop
+Seat 6: Hurloon (button) collected ($15)
+
+
+PokerStars Game #102629056523:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:32:45 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($876.51 in chips) 
+Seat 4: TTSIP ($604.28 in chips) 
+Seat 6: Hurloon ($609 in chips) 
+TTSIP: posts small blind $3
+Hurloon: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: folds 
+TTSIP: folds 
+Uncalled bet ($3) returned to Hurloon
+Hurloon collected $6 from pot
+Hurloon: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: unk1nd (button) folded before Flop (didn't bet)
+Seat 4: TTSIP (small blind) folded before Flop
+Seat 6: Hurloon (big blind) collected ($6)
+
+
+PokerStars Game #102629061613:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:32:53 ET
+Table 'Arete V 40-100 bb' 6-max Seat #4 is the button
+Seat 2: unk1nd ($876.51 in chips) 
+Seat 4: TTSIP ($601.28 in chips) 
+Seat 6: Hurloon ($612 in chips) 
+Hurloon: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: raises $6 to $12
+Hurloon: folds 
+unk1nd: calls $6
+*** FLOP *** [2c Jc 4c]
+unk1nd: checks 
+TTSIP: checks 
+*** TURN *** [2c Jc 4c] [Qd]
+unk1nd: bets $17.01
+TTSIP: folds 
+Uncalled bet ($17.01) returned to unk1nd
+unk1nd collected $25.78 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [2c Jc 4c Qd]
+Seat 2: unk1nd (big blind) collected ($25.78)
+Seat 4: TTSIP (button) folded on the Turn
+Seat 6: Hurloon (small blind) folded before Flop
+
+
+PokerStars Game #102629088488:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:33:33 ET
+Table 'Arete V 40-100 bb' 6-max Seat #6 is the button
+Seat 2: unk1nd ($890.29 in chips) 
+Seat 4: TTSIP ($600 in chips) 
+Seat 6: Hurloon ($609 in chips) 
+unk1nd: posts small blind $3
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+Hurloon: raises $6 to $12
+unk1nd: folds 
+TTSIP: folds 
+Uncalled bet ($6) returned to Hurloon
+Hurloon collected $15 from pot
+Hurloon: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: unk1nd (small blind) folded before Flop
+Seat 4: TTSIP (big blind) folded before Flop
+Seat 6: Hurloon (button) collected ($15)
+
+
+PokerStars Game #102629099706:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:33:50 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($887.29 in chips) 
+Seat 4: TTSIP ($600 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: Hurloon ($618 in chips) 
+TTSIP: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+Hurloon: folds 
+unk1nd: raises $6 to $12
+TTSIP: folds 
+S_Enslaver joins the table at seat #1 
+GregAndrek: folds 
+Uncalled bet ($6) returned to unk1nd
+unk1nd collected $15 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: unk1nd (button) collected ($15)
+Seat 4: TTSIP (small blind) folded before Flop
+Seat 5: GregAndrek (big blind) folded before Flop
+Seat 6: Hurloon folded before Flop (didn't bet)
+
+
+PokerStars Game #102629128094:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:34:32 ET
+Table 'Arete V 40-100 bb' 6-max Seat #4 is the button
+Seat 2: unk1nd ($896.29 in chips) 
+Seat 4: TTSIP ($600 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: Hurloon ($618 in chips) 
+GregAndrek: posts small blind $3
+Hurloon: posts big blind $6
+S_Enslaver: sits out 
+*** HOLE CARDS ***
+unk1nd: folds 
+TTSIP: raises $6 to $12
+GregAndrek: folds 
+Hurloon: folds 
+Uncalled bet ($6) returned to TTSIP
+TTSIP collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: unk1nd folded before Flop (didn't bet)
+Seat 4: TTSIP (button) collected ($15)
+Seat 5: GregAndrek (small blind) folded before Flop
+Seat 6: Hurloon (big blind) folded before Flop
+
+
+PokerStars Game #102629136657:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:34:46 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: S_Enslaver ($600 in chips) 
+Seat 2: unk1nd ($896.29 in chips) 
+Seat 4: TTSIP ($609 in chips) 
+Seat 5: GregAndrek ($600 in chips) 
+Seat 6: Hurloon ($612 in chips) 
+Hurloon: posts small blind $3
+S_Enslaver: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: folds 
+TTSIP: raises $9 to $15
+GregAndrek: folds 
+Hurloon: folds 
+S_Enslaver: folds 
+Uncalled bet ($9) returned to TTSIP
+TTSIP collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: S_Enslaver (big blind) folded before Flop
+Seat 2: unk1nd folded before Flop (didn't bet)
+Seat 4: TTSIP collected ($15)
+Seat 5: GregAndrek (button) folded before Flop (didn't bet)
+Seat 6: Hurloon (small blind) folded before Flop
+
+
+PokerStars Game #102629013593:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:31:41 ET
+Table 'Arete V 40-100 bb' 6-max Seat #6 is the button
+Seat 2: unk1nd ($868.01 in chips) 
+Seat 6: Hurloon ($600 in chips) 
+TTSIP will be allowed to play after the button
+GregAndrek will be allowed to play after the button
+Hurloon: posts small blind $3
+Strz: is sitting out 
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+Hurloon: raises $6 to $12
+unk1nd: calls $6
+*** FLOP *** [Qc 5h Th]
+unk1nd: checks 
+Hurloon: checks 
+*** TURN *** [Qc 5h Th] [7h]
+unk1nd: checks 
+Hurloon: checks 
+*** RIVER *** [Qc 5h Th 7h] [4c]
+unk1nd: bets $17.62
+Hurloon: folds 
+Uncalled bet ($17.62) returned to unk1nd
+unk1nd collected $23.50 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Qc 5h Th 7h 4c]
+Seat 2: unk1nd (big blind) collected ($23.50)
+Seat 6: Hurloon (button) (small blind) folded on the River
+
+
+PokerStars Game #102628860684:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:27:56 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($632.51 in chips) 
+Seat 3: Wulli333 ($240 in chips) 
+Seat 5: king10clubs ($1360.88 in chips) 
+Hurloon will be allowed to play after the button
+Strz will be allowed to play after the button
+unk1nd: posts small blind $3
+Wulli333: posts big blind $6
+neomorf: sits out 
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: folds 
+Wulli333: calls $6
+*** FLOP *** [8c 4c 9h]
+Wulli333: bets $24
+king10clubs: calls $24
+*** TURN *** [8c 4c 9h] [Kh]
+Wulli333: checks 
+king10clubs: bets $45
+Wulli333: folds 
+Uncalled bet ($45) returned to king10clubs
+king10clubs collected $73.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $75 | Rake $1.50 
+Board [8c 4c 9h Kh]
+Seat 2: unk1nd (small blind) folded before Flop
+Seat 3: Wulli333 (big blind) folded on the Turn
+Seat 5: king10clubs (button) collected ($73.50)
+
+
+PokerStars Game #102628880233:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:28:24 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($629.51 in chips) 
+Seat 3: Wulli333 ($204 in chips) 
+Seat 4: neomorf ($600 in chips) 
+Seat 5: king10clubs ($1398.38 in chips) 
+Wulli333: posts small blind $3
+neomorf: posts big blind $6
+Hurloon: sits out 
+Strz: sits out 
+*** HOLE CARDS ***
+king10clubs: folds 
+unk1nd: raises $6 to $12
+Wulli333: calls $9
+neomorf: calls $6
+*** FLOP *** [8c 5c 7h]
+Wulli333: bets $24
+neomorf: calls $24
+unk1nd: raises $69 to $93
+Wulli333: raises $99 to $192 and is all-in
+neomorf: folds 
+unk1nd: calls $99
+*** TURN *** [8c 5c 7h] [6s]
+*** RIVER *** [8c 5c 7h 6s] [Jd]
+*** SHOW DOWN ***
+Wulli333: shows [8d Qd] (a pair of Eights)
+unk1nd: shows [7s 8s] (two pair, Eights and Sevens)
+unk1nd collected $442.50 from pot
+*** SUMMARY ***
+Total pot $444 | Rake $1.50 
+Board [8c 5c 7h 6s Jd]
+Seat 2: unk1nd (button) showed [7s 8s] and won ($442.50) with two pair, Eights and Sevens
+Seat 3: Wulli333 (small blind) showed [8d Qd] and lost with a pair of Eights
+Seat 4: neomorf (big blind) folded on the Flop
+Seat 5: king10clubs folded before Flop (didn't bet)
+
+
+PokerStars Game #102628918509:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:29:20 ET
+Table 'Arete V 40-100 bb' 6-max Seat #4 is the button
+Seat 2: unk1nd ($868.01 in chips) 
+Seat 4: neomorf ($600 in chips) 
+Seat 5: king10clubs ($1398.38 in chips) 
+Seat 6: Hurloon ($600 in chips) 
+king10clubs: posts small blind $3
+Hurloon: posts big blind $6
+Strz: sits out 
+*** HOLE CARDS ***
+unk1nd: raises $12 to $18
+neomorf: folds 
+king10clubs: folds 
+Hurloon: folds 
+Uncalled bet ($12) returned to unk1nd
+unk1nd collected $15 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: unk1nd collected ($15)
+Seat 4: neomorf (button) folded before Flop (didn't bet)
+Seat 5: king10clubs (small blind) folded before Flop
+Seat 6: Hurloon (big blind) folded before Flop
+
+
+PokerStars Game #102628930590:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:29:38 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Strz ($600 in chips) 
+Seat 2: unk1nd ($877.01 in chips) 
+Seat 4: neomorf ($600 in chips) 
+Seat 5: king10clubs ($1395.38 in chips) 
+Seat 6: Hurloon ($600 in chips) 
+Hurloon: posts small blind $3
+Strz: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: folds 
+neomorf: folds 
+king10clubs: folds 
+Hurloon: folds 
+Uncalled bet ($3) returned to Strz
+Strz collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Strz (big blind) collected ($6)
+Seat 2: unk1nd folded before Flop (didn't bet)
+Seat 4: neomorf folded before Flop (didn't bet)
+Seat 5: king10clubs (button) folded before Flop (didn't bet)
+Seat 6: Hurloon (small blind) folded before Flop
+
+
+PokerStars Game #102628776855:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:25:54 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($600 in chips) 
+Seat 5: king10clubs ($1394.89 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [Qc Jc Qh]
+king10clubs: checks 
+unk1nd: bets $15.51
+king10clubs: calls $15.51
+*** TURN *** [Qc Jc Qh] [Kd]
+king10clubs: checks 
+unk1nd: bets $40.89
+king10clubs: folds 
+Uncalled bet ($40.89) returned to unk1nd
+unk1nd collected $54.52 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $55.02 | Rake $0.50 
+Board [Qc Jc Qh Kd]
+Seat 2: unk1nd (button) (small blind) collected ($54.52)
+Seat 5: king10clubs (big blind) folded on the Turn
+
+
+PokerStars Game #102628802427:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:26:31 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($627.01 in chips) 
+Seat 5: king10clubs ($1367.38 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: unk1nd (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102628812435:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:26:46 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($621.01 in chips) 
+Seat 5: king10clubs ($1373.38 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to unk1nd
+unk1nd collected $12 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: unk1nd (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102628821265:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:26:58 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($627.01 in chips) 
+Seat 5: king10clubs ($1367.38 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+unk1nd: calls $6
+*** FLOP *** [Js 3d 3c]
+unk1nd: checks 
+king10clubs: bets $16
+unk1nd: folds 
+Uncalled bet ($16) returned to king10clubs
+king10clubs collected $23.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Js 3d 3c]
+Seat 2: unk1nd (big blind) folded on the Flop
+Seat 5: king10clubs (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102628834277:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:27:17 ET
+Table 'Arete V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: unk1nd ($615.01 in chips) 
+Seat 5: king10clubs ($1378.88 in chips) 
+unk1nd: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+unk1nd: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to unk1nd
+unk1nd collected $12 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: unk1nd (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102628841243:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 18:27:27 ET
+Table 'Arete V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: unk1nd ($621.01 in chips) 
+Seat 5: king10clubs ($1372.88 in chips) 
+king10clubs: posts small blind $3
+unk1nd: posts big blind $6
+*** HOLE CARDS ***
+Wulli333 joins the table at seat #3 
+king10clubs: raises $6 to $12
+unk1nd: calls $6
+*** FLOP *** [2d 8c Jh]
+Strz joins the table at seat #1 
+neomorf joins the table at seat #4 
+Hurloon joins the table at seat #6 
+unk1nd: checks 
+king10clubs: checks 
+*** TURN *** [2d 8c Jh] [Th]
+unk1nd: bets $15.51
+king10clubs: folds 
+Uncalled bet ($15.51) returned to unk1nd
+unk1nd collected $23.50 from pot
+unk1nd: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [2d 8c Jh Th]
+Seat 2: unk1nd (big blind) collected ($23.50)
+Seat 5: king10clubs (button) (small blind) folded on the Turn

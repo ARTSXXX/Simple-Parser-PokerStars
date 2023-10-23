@@ -1,0 +1,1253 @@
+
+
+PokerStars Game #102625381189:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:09:35 ET
+Table 'Educatio 40-100 bb' 6-max Seat #2 is the button
+Seat 2: call110 ($480 in chips) 
+Seat 3: SEREJkE29 ($600 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: ilir3 ($600 in chips) 
+Seat 6: gabe1970 ($501.71 in chips) 
+SEREJkE29: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+gabe1970: folds 
+call110: raises $6 to $12
+SEREJkE29: folds 
+king10clubs: folds 
+Uncalled bet ($6) returned to call110
+call110 collected $15 from pot
+call110: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: call110 (button) collected ($15)
+Seat 3: SEREJkE29 (small blind) folded before Flop
+Seat 4: king10clubs (big blind) folded before Flop
+Seat 5: ilir3 folded before Flop (didn't bet)
+Seat 6: gabe1970 folded before Flop (didn't bet)
+
+
+PokerStars Game #102626390121:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:30:22 ET
+Table 'Educatio 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Flying Smile ($669.20 in chips) 
+Seat 2: WhatA298 ($627 in chips) 
+Seat 3: SEREJkE29 ($624.72 in chips) 
+Seat 4: king10clubs ($744.20 in chips) 
+Seat 5: ilir3 ($742 in chips) 
+Seat 6: gabe1970 ($515.41 in chips) 
+gabe1970: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+WhatA298: folds 
+SEREJkE29: raises $12 to $18
+king10clubs: folds 
+ilir3: folds 
+gabe1970: folds 
+Flying Smile: calls $12
+*** FLOP *** [4d 7d Qs]
+Flying Smile: checks 
+SEREJkE29: checks 
+*** TURN *** [4d 7d Qs] [7h]
+Flying Smile: bets $36
+SEREJkE29: folds 
+Uncalled bet ($36) returned to Flying Smile
+Flying Smile collected $37.24 from pot
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [4d 7d Qs 7h]
+Seat 1: Flying Smile (big blind) collected ($37.24)
+Seat 2: WhatA298 folded before Flop (didn't bet)
+Seat 3: SEREJkE29 folded on the Turn
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: ilir3 (button) folded before Flop (didn't bet)
+Seat 6: gabe1970 (small blind) folded before Flop
+
+
+PokerStars Game #102626460496:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:31:51 ET
+Table 'Educatio 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Flying Smile ($688.44 in chips) 
+Seat 2: WhatA298 ($627 in chips) 
+Seat 3: SEREJkE29 ($606.72 in chips) 
+Seat 4: king10clubs ($744.20 in chips) 
+Seat 5: ilir3 ($742 in chips) 
+Seat 6: gabe1970 ($512.41 in chips) 
+Flying Smile: posts small blind $3
+WhatA298: posts big blind $6
+*** HOLE CARDS ***
+SEREJkE29: folds 
+king10clubs: folds 
+ilir3: folds 
+gabe1970: raises $7.50 to $13.50
+Flying Smile: raises $34.50 to $48
+WhatA298: folds 
+gabe1970: folds 
+Uncalled bet ($34.50) returned to Flying Smile
+Flying Smile collected $33 from pot
+*** SUMMARY ***
+Total pot $33 | Rake $0 
+Seat 1: Flying Smile (small blind) collected ($33)
+Seat 2: WhatA298 (big blind) folded before Flop
+Seat 3: SEREJkE29 folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: ilir3 folded before Flop (didn't bet)
+Seat 6: gabe1970 (button) folded before Flop
+
+
+PokerStars Game #102626494323:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:32:34 ET
+Table 'Educatio 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Flying Smile ($707.94 in chips) 
+Seat 2: WhatA298 ($621 in chips) 
+Seat 3: SEREJkE29 ($606.72 in chips) 
+Seat 4: king10clubs ($744.20 in chips) 
+Seat 5: ilir3 ($742 in chips) 
+Seat 6: gabe1970 ($498.91 in chips) 
+WhatA298: posts small blind $3
+SEREJkE29: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $9 to $15
+ilir3: folds 
+gabe1970: folds 
+Flying Smile: folds 
+WhatA298: folds 
+SEREJkE29: folds 
+Uncalled bet ($9) returned to king10clubs
+king10clubs collected $15 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Flying Smile (button) folded before Flop (didn't bet)
+Seat 2: WhatA298 (small blind) folded before Flop
+Seat 3: SEREJkE29 (big blind) folded before Flop
+Seat 4: king10clubs collected ($15)
+Seat 5: ilir3 folded before Flop (didn't bet)
+Seat 6: gabe1970 folded before Flop (didn't bet)
+
+
+PokerStars Game #102626519974:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:33:07 ET
+Table 'Educatio 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Flying Smile ($707.94 in chips) 
+Seat 2: WhatA298 ($618 in chips) 
+Seat 3: SEREJkE29 ($600.72 in chips) 
+Seat 4: king10clubs ($753.20 in chips) 
+Seat 5: ilir3 ($742 in chips) 
+Seat 6: gabe1970 ($498.91 in chips) 
+SEREJkE29: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+gabe1970: raises $7.50 to $13.50
+Flying Smile: folds 
+WhatA298: folds 
+SEREJkE29: raises $31.50 to $45
+king10clubs: folds 
+gabe1970: calls $31.50
+*** FLOP *** [6d Qs 9h]
+SEREJkE29: checks 
+gabe1970: bets $78
+SEREJkE29: folds 
+Uncalled bet ($78) returned to gabe1970
+gabe1970 collected $93.20 from pot
+gabe1970: doesn't show hand 
+*** SUMMARY ***
+Total pot $96 | Rake $2.80 
+Board [6d Qs 9h]
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 2: WhatA298 (button) folded before Flop (didn't bet)
+Seat 3: SEREJkE29 (small blind) folded on the Flop
+Seat 4: king10clubs (big blind) folded before Flop
+Seat 5: ilir3 folded before Flop (didn't bet)
+Seat 6: gabe1970 collected ($93.20)
+
+
+PokerStars Game #102626562641:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:34:01 ET
+Table 'Educatio 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Flying Smile ($707.94 in chips) 
+Seat 2: WhatA298 ($618 in chips) 
+Seat 3: SEREJkE29 ($600 in chips) 
+Seat 5: ilir3 ($742 in chips) 
+Seat 6: gabe1970 ($547.11 in chips) 
+ilir3: posts small blind $3
+gabe1970: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+WhatA298: folds 
+SEREJkE29: folds 
+ilir3: calls $3
+gabe1970: checks 
+*** FLOP *** [As 8d Ks]
+ilir3: bets $6
+gabe1970: folds 
+Uncalled bet ($6) returned to ilir3
+ilir3 collected $11.46 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0.54 
+Board [As 8d Ks]
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 2: WhatA298 folded before Flop (didn't bet)
+Seat 3: SEREJkE29 (button) folded before Flop (didn't bet)
+Seat 5: ilir3 (small blind) collected ($11.46)
+Seat 6: gabe1970 (big blind) folded on the Flop
+
+
+PokerStars Game #102626586904:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:34:32 ET
+Table 'Educatio 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Flying Smile ($707.94 in chips) 
+Seat 2: WhatA298 ($618 in chips) 
+Seat 3: SEREJkE29 ($600 in chips) 
+Seat 5: ilir3 ($747.46 in chips) 
+Seat 6: gabe1970 ($541.11 in chips) 
+gabe1970: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+WhatA298: raises $9.36 to $15.36
+SEREJkE29: folds 
+ilir3: calls $15.36
+gabe1970: calls $12.36
+Flying Smile: raises $56.64 to $72
+WhatA298: folds 
+ilir3: folds 
+gabe1970: calls $56.64
+*** FLOP *** [3c 6h 3s]
+gabe1970: checks 
+Flying Smile: bets $93
+gabe1970: raises $159 to $252
+Flying Smile: raises $383.94 to $635.94 and is all-in
+gabe1970: calls $217.11 and is all-in
+Uncalled bet ($166.83) returned to Flying Smile
+*** TURN *** [3c 6h 3s] [8d]
+*** RIVER *** [3c 6h 3s 8d] [3h]
+*** SHOW DOWN ***
+gabe1970: shows [Th Ts] (a full house, Threes full of Tens)
+Flying Smile: shows [Jd Js] (a full house, Threes full of Jacks)
+Flying Smile collected $1110.14 from pot
+*** SUMMARY ***
+Total pot $1112.94 | Rake $2.80 
+Board [3c 6h 3s 8d 3h]
+Seat 1: Flying Smile (big blind) showed [Jd Js] and won ($1110.14) with a full house, Threes full of Jacks
+Seat 2: WhatA298 folded before Flop
+Seat 3: SEREJkE29 folded before Flop (didn't bet)
+Seat 5: ilir3 (button) folded before Flop
+Seat 6: gabe1970 (small blind) showed [Th Ts] and lost with a full house, Threes full of Tens
+
+
+PokerStars Game #102626148354:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:25:16 ET
+Table 'Educatio 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Flying Smile ($696.20 in chips) 
+Seat 2: WhatA298 ($600 in chips) 
+Seat 3: SEREJkE29 ($722.70 in chips) 
+Seat 4: king10clubs ($762.20 in chips) 
+Seat 5: ilir3 ($600 in chips) 
+Seat 6: gabe1970 ($521.41 in chips) 
+SEREJkE29: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+gabe1970: raises $7.50 to $13.50
+Flying Smile: folds 
+WhatA298: folds 
+SEREJkE29: folds 
+king10clubs: folds 
+Uncalled bet ($7.50) returned to gabe1970
+gabe1970 collected $15 from pot
+gabe1970: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 2: WhatA298 (button) folded before Flop (didn't bet)
+Seat 3: SEREJkE29 (small blind) folded before Flop
+Seat 4: king10clubs (big blind) folded before Flop
+Seat 5: ilir3 folded before Flop (didn't bet)
+Seat 6: gabe1970 collected ($15)
+
+
+PokerStars Game #102626165041:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:25:37 ET
+Table 'Educatio 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Flying Smile ($696.20 in chips) 
+Seat 2: WhatA298 ($600 in chips) 
+Seat 3: SEREJkE29 ($719.70 in chips) 
+Seat 4: king10clubs ($756.20 in chips) 
+Seat 5: ilir3 ($600 in chips) 
+Seat 6: gabe1970 ($530.41 in chips) 
+king10clubs: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+gabe1970: folds 
+Flying Smile: folds 
+WhatA298: folds 
+SEREJkE29: raises $6 to $12
+king10clubs: folds 
+ilir3: raises $36 to $48
+SEREJkE29: folds 
+Uncalled bet ($36) returned to ilir3
+ilir3 collected $27 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 2: WhatA298 folded before Flop (didn't bet)
+Seat 3: SEREJkE29 (button) folded before Flop
+Seat 4: king10clubs (small blind) folded before Flop
+Seat 5: ilir3 (big blind) collected ($27)
+Seat 6: gabe1970 folded before Flop (didn't bet)
+
+
+PokerStars Game #102626181425:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:25:57 ET
+Table 'Educatio 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Flying Smile ($696.20 in chips) 
+Seat 2: WhatA298 ($600 in chips) 
+Seat 3: SEREJkE29 ($707.70 in chips) 
+Seat 4: king10clubs ($753.20 in chips) 
+Seat 5: ilir3 ($615 in chips) 
+Seat 6: gabe1970 ($530.41 in chips) 
+ilir3: posts small blind $3
+gabe1970: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+WhatA298: folds 
+SEREJkE29: raises $9 to $15
+king10clubs: folds 
+ilir3: raises $40 to $55
+gabe1970: folds 
+SEREJkE29: raises $60 to $115
+ilir3: raises $500 to $615 and is all-in
+SEREJkE29: folds 
+Uncalled bet ($500) returned to ilir3
+ilir3 collected $236 from pot
+*** SUMMARY ***
+Total pot $236 | Rake $0 
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 2: WhatA298 folded before Flop (didn't bet)
+Seat 3: SEREJkE29 folded before Flop
+Seat 4: king10clubs (button) folded before Flop (didn't bet)
+Seat 5: ilir3 (small blind) collected ($236)
+Seat 6: gabe1970 (big blind) folded before Flop
+
+
+PokerStars Game #102626223438:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:26:50 ET
+Table 'Educatio 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Flying Smile ($696.20 in chips) 
+Seat 2: WhatA298 ($600 in chips) 
+Seat 3: SEREJkE29 ($600 in chips) 
+Seat 4: king10clubs ($753.20 in chips) 
+Seat 5: ilir3 ($736 in chips) 
+Seat 6: gabe1970 ($524.41 in chips) 
+gabe1970: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+WhatA298: folds 
+SEREJkE29: folds 
+king10clubs: folds 
+ilir3: raises $6 to $12
+gabe1970: folds 
+Flying Smile: folds 
+Uncalled bet ($6) returned to ilir3
+ilir3 collected $15 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Flying Smile (big blind) folded before Flop
+Seat 2: WhatA298 folded before Flop (didn't bet)
+Seat 3: SEREJkE29 folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: ilir3 (button) collected ($15)
+Seat 6: gabe1970 (small blind) folded before Flop
+
+
+PokerStars Game #102626237679:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:27:08 ET
+Table 'Educatio 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Flying Smile ($690.20 in chips) 
+Seat 2: WhatA298 ($600 in chips) 
+Seat 3: SEREJkE29 ($600 in chips) 
+Seat 4: king10clubs ($753.20 in chips) 
+Seat 5: ilir3 ($745 in chips) 
+Seat 6: gabe1970 ($521.41 in chips) 
+Flying Smile: posts small blind $3
+WhatA298: posts big blind $6
+*** HOLE CARDS ***
+SEREJkE29: folds 
+king10clubs: folds 
+ilir3: folds 
+gabe1970: folds 
+Flying Smile: folds 
+Uncalled bet ($3) returned to WhatA298
+WhatA298 collected $6 from pot
+WhatA298: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Flying Smile (small blind) folded before Flop
+Seat 2: WhatA298 (big blind) collected ($6)
+Seat 3: SEREJkE29 folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: ilir3 folded before Flop (didn't bet)
+Seat 6: gabe1970 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102626250717:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:27:25 ET
+Table 'Educatio 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Flying Smile ($687.20 in chips) 
+Seat 2: WhatA298 ($603 in chips) 
+Seat 3: SEREJkE29 ($600 in chips) 
+Seat 4: king10clubs ($753.20 in chips) 
+Seat 5: ilir3 ($745 in chips) 
+Seat 6: gabe1970 ($521.41 in chips) 
+WhatA298: posts small blind $3
+SEREJkE29: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+ilir3: raises $9 to $15
+gabe1970: folds 
+Flying Smile: folds 
+WhatA298: folds 
+SEREJkE29: raises $40 to $55
+ilir3: folds 
+Uncalled bet ($40) returned to SEREJkE29
+SEREJkE29 collected $33 from pot
+SEREJkE29: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $0 
+Seat 1: Flying Smile (button) folded before Flop (didn't bet)
+Seat 2: WhatA298 (small blind) folded before Flop
+Seat 3: SEREJkE29 (big blind) collected ($33)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: ilir3 folded before Flop
+Seat 6: gabe1970 folded before Flop (didn't bet)
+
+
+PokerStars Game #102626285690:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:28:10 ET
+Table 'Educatio 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Flying Smile ($687.20 in chips) 
+Seat 2: WhatA298 ($600 in chips) 
+Seat 3: SEREJkE29 ($618 in chips) 
+Seat 4: king10clubs ($753.20 in chips) 
+Seat 5: ilir3 ($730 in chips) 
+Seat 6: gabe1970 ($521.41 in chips) 
+SEREJkE29: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+gabe1970: folds 
+Flying Smile: folds 
+WhatA298: raises $6.72 to $12.72
+SEREJkE29: raises $32.28 to $45
+king10clubs: folds 
+WhatA298: folds 
+Uncalled bet ($32.28) returned to SEREJkE29
+SEREJkE29 collected $31.44 from pot
+SEREJkE29: doesn't show hand 
+*** SUMMARY ***
+Total pot $31.44 | Rake $0 
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 2: WhatA298 (button) folded before Flop
+Seat 3: SEREJkE29 (small blind) collected ($31.44)
+Seat 4: king10clubs (big blind) folded before Flop
+Seat 5: ilir3 folded before Flop (didn't bet)
+Seat 6: gabe1970 folded before Flop (didn't bet)
+
+
+PokerStars Game #102626320013:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:28:53 ET
+Table 'Educatio 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Flying Smile ($687.20 in chips) 
+Seat 2: WhatA298 ($600 in chips) 
+Seat 3: SEREJkE29 ($636.72 in chips) 
+Seat 4: king10clubs ($747.20 in chips) 
+Seat 5: ilir3 ($730 in chips) 
+Seat 6: gabe1970 ($521.41 in chips) 
+king10clubs: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+gabe1970: folds 
+Flying Smile: folds 
+WhatA298: folds 
+SEREJkE29: raises $6 to $12
+king10clubs: folds 
+ilir3: raises $36 to $48
+SEREJkE29: folds 
+Uncalled bet ($36) returned to ilir3
+ilir3 collected $27 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 2: WhatA298 folded before Flop (didn't bet)
+Seat 3: SEREJkE29 (button) folded before Flop
+Seat 4: king10clubs (small blind) folded before Flop
+Seat 5: ilir3 (big blind) collected ($27)
+Seat 6: gabe1970 folded before Flop (didn't bet)
+
+
+PokerStars Game #102626351165:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:29:33 ET
+Table 'Educatio 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Flying Smile ($687.20 in chips) 
+Seat 2: WhatA298 ($600 in chips) 
+Seat 3: SEREJkE29 ($624.72 in chips) 
+Seat 4: king10clubs ($744.20 in chips) 
+Seat 5: ilir3 ($745 in chips) 
+Seat 6: gabe1970 ($521.41 in chips) 
+ilir3: posts small blind $3
+gabe1970: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: raises $12 to $18
+WhatA298: raises $36 to $54
+SEREJkE29: folds 
+king10clubs: folds 
+ilir3: folds 
+gabe1970: folds 
+Flying Smile: folds 
+Uncalled bet ($36) returned to WhatA298
+WhatA298 collected $45 from pot
+WhatA298: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $0 
+Seat 1: Flying Smile folded before Flop
+Seat 2: WhatA298 collected ($45)
+Seat 3: SEREJkE29 folded before Flop (didn't bet)
+Seat 4: king10clubs (button) folded before Flop (didn't bet)
+Seat 5: ilir3 (small blind) folded before Flop
+Seat 6: gabe1970 (big blind) folded before Flop
+
+
+PokerStars Game #102625909546:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:20:18 ET
+Table 'Educatio 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 3: SEREJkE29 ($600 in chips) 
+Seat 4: king10clubs ($783.20 in chips) 
+Seat 5: ilir3 ($600 in chips) 
+Seat 6: gabe1970 ($534.91 in chips) 
+Flying Smile: posts small blind $3
+call110: is sitting out 
+SEREJkE29: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+call110 leaves the table
+WhatA298 joins the table at seat #2 
+ilir3: folds 
+gabe1970: folds 
+Flying Smile: folds 
+Uncalled bet ($3) returned to SEREJkE29
+SEREJkE29 collected $6 from pot
+SEREJkE29: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Flying Smile (small blind) folded before Flop
+Seat 3: SEREJkE29 (big blind) collected ($6)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: ilir3 folded before Flop (didn't bet)
+Seat 6: gabe1970 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102625929602:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:20:42 ET
+Table 'Educatio 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 3: SEREJkE29 ($603 in chips) 
+Seat 4: king10clubs ($783.20 in chips) 
+Seat 5: ilir3 ($600 in chips) 
+Seat 6: gabe1970 ($534.91 in chips) 
+WhatA298 will be allowed to play after the button
+SEREJkE29: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+gabe1970: folds 
+Flying Smile: raises $6 to $12
+SEREJkE29: raises $33 to $45
+king10clubs: folds 
+Flying Smile: calls $33
+*** FLOP *** [5s 3h Kc]
+SEREJkE29: bets $48
+Flying Smile: calls $48
+*** TURN *** [5s 3h Kc] [Ks]
+SEREJkE29: checks 
+Flying Smile: checks 
+*** RIVER *** [5s 3h Kc Ks] [5h]
+SEREJkE29: checks 
+Flying Smile: checks 
+*** SHOW DOWN ***
+SEREJkE29: shows [Jc 8c] (two pair, Kings and Fives)
+Flying Smile: shows [Qh Ad] (two pair, Kings and Fives - Ace kicker)
+Flying Smile collected $189.20 from pot
+*** SUMMARY ***
+Total pot $192 | Rake $2.80 
+Board [5s 3h Kc Ks 5h]
+Seat 1: Flying Smile (button) showed [Qh Ad] and won ($189.20) with two pair, Kings and Fives
+Seat 3: SEREJkE29 (small blind) showed [Jc 8c] and lost with two pair, Kings and Fives
+Seat 4: king10clubs (big blind) folded before Flop
+Seat 5: ilir3 folded before Flop (didn't bet)
+Seat 6: gabe1970 folded before Flop (didn't bet)
+
+
+PokerStars Game #102625990108:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:21:58 ET
+Table 'Educatio 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Flying Smile ($696.20 in chips) 
+Seat 3: SEREJkE29 ($600 in chips) 
+Seat 4: king10clubs ($777.20 in chips) 
+Seat 5: ilir3 ($600 in chips) 
+Seat 6: gabe1970 ($534.91 in chips) 
+king10clubs: posts small blind $3
+ilir3: posts big blind $6
+WhatA298: sits out 
+*** HOLE CARDS ***
+gabe1970: raises $7.50 to $13.50
+Flying Smile: folds 
+SEREJkE29: raises $34.50 to $48
+king10clubs: folds 
+ilir3: folds 
+gabe1970: folds 
+Uncalled bet ($34.50) returned to SEREJkE29
+SEREJkE29 collected $36 from pot
+SEREJkE29: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $0 
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 3: SEREJkE29 (button) collected ($36)
+Seat 4: king10clubs (small blind) folded before Flop
+Seat 5: ilir3 (big blind) folded before Flop
+Seat 6: gabe1970 folded before Flop
+
+
+PokerStars Game #102626019120:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:22:34 ET
+Table 'Educatio 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Flying Smile ($696.20 in chips) 
+Seat 3: SEREJkE29 ($622.50 in chips) 
+Seat 4: king10clubs ($774.20 in chips) 
+Seat 5: ilir3 ($600 in chips) 
+Seat 6: gabe1970 ($521.41 in chips) 
+ilir3: posts small blind $3
+gabe1970: posts big blind $6
+WhatA298: sits out 
+*** HOLE CARDS ***
+Flying Smile: folds 
+SEREJkE29: folds 
+king10clubs: raises $6 to $12
+ilir3: raises $36 to $48
+gabe1970: folds 
+king10clubs: folds 
+Uncalled bet ($36) returned to ilir3
+ilir3 collected $30 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 3: SEREJkE29 folded before Flop (didn't bet)
+Seat 4: king10clubs (button) folded before Flop
+Seat 5: ilir3 (small blind) collected ($30)
+Seat 6: gabe1970 (big blind) folded before Flop
+
+
+PokerStars Game #102626040554:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:23:01 ET
+Table 'Educatio 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Flying Smile ($696.20 in chips) 
+Seat 3: SEREJkE29 ($622.50 in chips) 
+Seat 4: king10clubs ($762.20 in chips) 
+Seat 5: ilir3 ($618 in chips) 
+Seat 6: gabe1970 ($515.41 in chips) 
+gabe1970: posts small blind $3
+Flying Smile: posts big blind $6
+WhatA298: sits out 
+*** HOLE CARDS ***
+SEREJkE29: raises $12 to $18
+king10clubs: folds 
+ilir3: calls $18
+gabe1970: folds 
+Flying Smile: folds 
+*** FLOP *** [Ac 4c 3c]
+SEREJkE29: bets $30
+ilir3: calls $30
+*** TURN *** [Ac 4c 3c] [As]
+SEREJkE29: checks 
+ilir3: checks 
+*** RIVER *** [Ac 4c 3c As] [3d]
+SEREJkE29: checks 
+ilir3: bets $52
+SEREJkE29: calls $52
+*** SHOW DOWN ***
+ilir3: shows [Th Tc] (two pair, Aces and Tens)
+SEREJkE29: shows [Kc Ah] (a full house, Aces full of Threes)
+SEREJkE29 collected $206.20 from pot
+*** SUMMARY ***
+Total pot $209 | Rake $2.80 
+Board [Ac 4c 3c As 3d]
+Seat 1: Flying Smile (big blind) folded before Flop
+Seat 3: SEREJkE29 showed [Kc Ah] and won ($206.20) with a full house, Aces full of Threes
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: ilir3 (button) showed [Th Tc] and lost with two pair, Aces and Tens
+Seat 6: gabe1970 (small blind) folded before Flop
+
+
+PokerStars Game #102626102488:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:24:18 ET
+Table 'Educatio 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Flying Smile ($690.20 in chips) 
+Seat 2: WhatA298 ($600 in chips) 
+Seat 3: SEREJkE29 ($728.70 in chips) 
+Seat 4: king10clubs ($762.20 in chips) 
+Seat 5: ilir3 ($600 in chips) 
+Seat 6: gabe1970 ($512.41 in chips) 
+Flying Smile: posts small blind $3
+WhatA298: posts big blind $6
+*** HOLE CARDS ***
+SEREJkE29: folds 
+king10clubs: folds 
+ilir3 said, "huh"
+ilir3: folds 
+gabe1970: raises $9.72 to $15.72
+Flying Smile: folds 
+WhatA298: folds 
+Uncalled bet ($9.72) returned to gabe1970
+gabe1970 collected $15 from pot
+gabe1970: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Flying Smile (small blind) folded before Flop
+Seat 2: WhatA298 (big blind) folded before Flop
+Seat 3: SEREJkE29 folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: ilir3 folded before Flop (didn't bet)
+Seat 6: gabe1970 (button) collected ($15)
+
+
+PokerStars Game #102626135287:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:24:59 ET
+Table 'Educatio 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Flying Smile ($687.20 in chips) 
+Seat 2: WhatA298 ($600 in chips) 
+Seat 3: SEREJkE29 ($728.70 in chips) 
+Seat 4: king10clubs ($762.20 in chips) 
+Seat 5: ilir3 ($600 in chips) 
+Seat 6: gabe1970 ($521.41 in chips) 
+WhatA298: posts small blind $3
+SEREJkE29: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+ilir3: folds 
+gabe1970: folds 
+Flying Smile: raises $6 to $12
+WhatA298: folds 
+SEREJkE29: folds 
+Uncalled bet ($6) returned to Flying Smile
+Flying Smile collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Flying Smile (button) collected ($15)
+Seat 2: WhatA298 (small blind) folded before Flop
+Seat 3: SEREJkE29 (big blind) folded before Flop
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: ilir3 folded before Flop (didn't bet)
+Seat 6: gabe1970 folded before Flop (didn't bet)
+
+
+PokerStars Game #102625657736:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:15:10 ET
+Table 'Educatio 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Flying Smile ($612 in chips) 
+Seat 2: call110 ($690.20 in chips) 
+Seat 3: SEREJkE29 ($609 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: ilir3 ($627.20 in chips) 
+Seat 6: gabe1970 ($504.71 in chips) 
+Flying Smile: posts small blind $3
+call110: posts big blind $6
+*** HOLE CARDS ***
+SEREJkE29: folds 
+king10clubs: folds 
+ilir3: raises $6 to $12
+gabe1970: raises $30 to $42
+Flying Smile: folds 
+call110: folds 
+ilir3: calls $30
+*** FLOP *** [9c Kd 3d]
+ilir3: checks 
+gabe1970: bets $54
+ilir3: folds 
+Uncalled bet ($54) returned to gabe1970
+gabe1970 collected $90.20 from pot
+gabe1970: doesn't show hand 
+*** SUMMARY ***
+Total pot $93 | Rake $2.80 
+Board [9c Kd 3d]
+Seat 1: Flying Smile (small blind) folded before Flop
+Seat 2: call110 (big blind) folded before Flop
+Seat 3: SEREJkE29 folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: ilir3 folded on the Flop
+Seat 6: gabe1970 (button) collected ($90.20)
+
+
+PokerStars Game #102625697419:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:15:58 ET
+Table 'Educatio 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Flying Smile ($609 in chips) 
+Seat 2: call110 ($684.20 in chips) 
+Seat 3: SEREJkE29 ($609 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: ilir3 ($600 in chips) 
+Seat 6: gabe1970 ($552.91 in chips) 
+call110: posts small blind $3
+SEREJkE29: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+ilir3: folds 
+gabe1970: folds 
+Flying Smile: raises $6 to $12
+call110: folds 
+SEREJkE29: calls $6
+*** FLOP *** [Th 5d 8h]
+SEREJkE29: checks 
+Flying Smile: bets $18
+SEREJkE29: raises $39 to $57
+Flying Smile: folds 
+Uncalled bet ($39) returned to SEREJkE29
+SEREJkE29 collected $60.20 from pot
+SEREJkE29: doesn't show hand 
+*** SUMMARY ***
+Total pot $63 | Rake $2.80 
+Board [Th 5d 8h]
+Seat 1: Flying Smile (button) folded on the Flop
+Seat 2: call110 (small blind) folded before Flop
+Seat 3: SEREJkE29 (big blind) collected ($60.20)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: ilir3 folded before Flop (didn't bet)
+Seat 6: gabe1970 folded before Flop (didn't bet)
+
+
+PokerStars Game #102625741267:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:16:52 ET
+Table 'Educatio 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 2: call110 ($681.20 in chips) 
+Seat 3: SEREJkE29 ($639.20 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: ilir3 ($600 in chips) 
+Seat 6: gabe1970 ($552.91 in chips) 
+SEREJkE29: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+gabe1970: folds 
+Flying Smile: folds 
+call110: raises $6 to $12
+SEREJkE29: folds 
+king10clubs: folds 
+Uncalled bet ($6) returned to call110
+call110 collected $15 from pot
+call110: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 2: call110 (button) collected ($15)
+Seat 3: SEREJkE29 (small blind) folded before Flop
+Seat 4: king10clubs (big blind) folded before Flop
+Seat 5: ilir3 folded before Flop (didn't bet)
+Seat 6: gabe1970 folded before Flop (didn't bet)
+
+
+PokerStars Game #102625774984:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:17:33 ET
+Table 'Educatio 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 2: call110 ($690.20 in chips) 
+Seat 3: SEREJkE29 ($636.20 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: ilir3 ($600 in chips) 
+Seat 6: gabe1970 ($552.91 in chips) 
+king10clubs: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+gabe1970: folds 
+Flying Smile has timed out
+Flying Smile: folds 
+call110: folds 
+SEREJkE29: raises $6 to $12
+king10clubs: folds 
+ilir3: folds 
+Uncalled bet ($6) returned to SEREJkE29
+SEREJkE29 collected $15 from pot
+SEREJkE29: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 2: call110 folded before Flop (didn't bet)
+Seat 3: SEREJkE29 (button) collected ($15)
+Seat 4: king10clubs (small blind) folded before Flop
+Seat 5: ilir3 (big blind) folded before Flop
+Seat 6: gabe1970 folded before Flop (didn't bet)
+
+
+PokerStars Game #102625798943:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:18:02 ET
+Table 'Educatio 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 2: call110 ($690.20 in chips) 
+Seat 3: SEREJkE29 ($645.20 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: ilir3 ($600 in chips) 
+Seat 6: gabe1970 ($552.91 in chips) 
+ilir3: posts small blind $3
+gabe1970: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+call110: folds 
+SEREJkE29: raises $9 to $15
+king10clubs: calls $15
+ilir3: folds 
+gabe1970: calls $9
+*** FLOP *** [Jd Kd 8c]
+gabe1970: checks 
+SEREJkE29: bets $30
+king10clubs: calls $30
+gabe1970: folds 
+*** TURN *** [Jd Kd 8c] [4h]
+SEREJkE29: bets $84
+king10clubs: calls $84
+*** RIVER *** [Jd Kd 8c 4h] [4c]
+SEREJkE29: checks 
+king10clubs: bets $225
+SEREJkE29: folds 
+Uncalled bet ($225) returned to king10clubs
+king10clubs collected $273.20 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $276 | Rake $2.80 
+Board [Jd Kd 8c 4h 4c]
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 2: call110 folded before Flop (didn't bet)
+Seat 3: SEREJkE29 folded on the River
+Seat 4: king10clubs (button) collected ($273.20)
+Seat 5: ilir3 (small blind) folded before Flop
+Seat 6: gabe1970 (big blind) folded on the Flop
+
+
+PokerStars Game #102625880671:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:19:42 ET
+Table 'Educatio 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 2: call110 ($690.20 in chips) 
+Seat 3: SEREJkE29 ($600 in chips) 
+Seat 4: king10clubs ($744.20 in chips) 
+Seat 5: ilir3 ($600 in chips) 
+Seat 6: gabe1970 ($537.91 in chips) 
+gabe1970: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+call110: raises $9 to $15
+SEREJkE29: calls $15
+king10clubs: raises $51 to $66
+ilir3: folds 
+gabe1970: folds 
+Flying Smile: folds 
+call110: folds 
+SEREJkE29: folds 
+Uncalled bet ($51) returned to king10clubs
+king10clubs collected $54 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $54 | Rake $0 
+Seat 1: Flying Smile (big blind) folded before Flop
+Seat 2: call110 folded before Flop
+Seat 3: SEREJkE29 folded before Flop
+Seat 4: king10clubs collected ($54)
+Seat 5: ilir3 (button) folded before Flop (didn't bet)
+Seat 6: gabe1970 (small blind) folded before Flop
+
+
+PokerStars Game #102625407014:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:10:06 ET
+Table 'Educatio 40-100 bb' 6-max Seat #3 is the button
+Seat 2: call110 ($600 in chips) 
+Seat 3: SEREJkE29 ($600 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: ilir3 ($600 in chips) 
+Seat 6: gabe1970 ($501.71 in chips) 
+king10clubs: posts small blind $3
+ilir3: posts big blind $6
+Flying Smile: sits out 
+*** HOLE CARDS ***
+gabe1970: folds 
+call110: folds 
+SEREJkE29: raises $6 to $12
+king10clubs: folds 
+ilir3: calls $6
+*** FLOP *** [3s 5d Kd]
+ilir3: checks 
+SEREJkE29: bets $18
+ilir3: calls $18
+*** TURN *** [3s 5d Kd] [2h]
+ilir3: checks 
+SEREJkE29: checks 
+*** RIVER *** [3s 5d Kd 2h] [2d]
+ilir3: bets $48
+SEREJkE29: folds 
+Uncalled bet ($48) returned to ilir3
+ilir3 collected $60.20 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $63 | Rake $2.80 
+Board [3s 5d Kd 2h 2d]
+Seat 2: call110 folded before Flop (didn't bet)
+Seat 3: SEREJkE29 (button) folded on the River
+Seat 4: king10clubs (small blind) folded before Flop
+Seat 5: ilir3 (big blind) collected ($60.20)
+Seat 6: gabe1970 folded before Flop (didn't bet)
+
+
+PokerStars Game #102625445931:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:10:53 ET
+Table 'Educatio 40-100 bb' 6-max Seat #4 is the button
+Seat 2: call110 ($600 in chips) 
+Seat 3: SEREJkE29 ($600 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: ilir3 ($630.20 in chips) 
+Seat 6: gabe1970 ($501.71 in chips) 
+ilir3: posts small blind $3
+gabe1970: posts big blind $6
+Flying Smile: sits out 
+*** HOLE CARDS ***
+call110: folds 
+SEREJkE29: folds 
+king10clubs: raises $6 to $12
+ilir3: folds 
+gabe1970: raises $30 to $42
+king10clubs: folds 
+Uncalled bet ($30) returned to gabe1970
+gabe1970 collected $27 from pot
+gabe1970: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 2: call110 folded before Flop (didn't bet)
+Seat 3: SEREJkE29 folded before Flop (didn't bet)
+Seat 4: king10clubs (button) folded before Flop
+Seat 5: ilir3 (small blind) folded before Flop
+Seat 6: gabe1970 (big blind) collected ($27)
+
+
+PokerStars Game #102625465342:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:11:16 ET
+Table 'Educatio 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 2: call110 ($600 in chips) 
+Seat 3: SEREJkE29 ($600 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: ilir3 ($627.20 in chips) 
+Seat 6: gabe1970 ($516.71 in chips) 
+gabe1970: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+call110: folds 
+SEREJkE29: raises $12 to $18
+king10clubs: folds 
+ilir3: folds 
+gabe1970: folds 
+Flying Smile: folds 
+Uncalled bet ($12) returned to SEREJkE29
+SEREJkE29 collected $15 from pot
+SEREJkE29: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Flying Smile (big blind) folded before Flop
+Seat 2: call110 folded before Flop (didn't bet)
+Seat 3: SEREJkE29 collected ($15)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: ilir3 (button) folded before Flop (didn't bet)
+Seat 6: gabe1970 (small blind) folded before Flop
+
+
+PokerStars Game #102625483366:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:11:38 ET
+Table 'Educatio 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 2: call110 ($600 in chips) 
+Seat 3: SEREJkE29 ($609 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: ilir3 ($627.20 in chips) 
+Seat 6: gabe1970 ($513.71 in chips) 
+Flying Smile: posts small blind $3
+call110: posts big blind $6
+*** HOLE CARDS ***
+SEREJkE29: folds 
+king10clubs: folds 
+ilir3: raises $6 to $12
+gabe1970: folds 
+Flying Smile: folds 
+call110: folds 
+Uncalled bet ($6) returned to ilir3
+ilir3 collected $15 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Flying Smile (small blind) folded before Flop
+Seat 2: call110 (big blind) folded before Flop
+Seat 3: SEREJkE29 folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: ilir3 collected ($15)
+Seat 6: gabe1970 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102625514108:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:12:16 ET
+Table 'Educatio 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 2: call110 ($594 in chips) 
+Seat 3: SEREJkE29 ($609 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: ilir3 ($636.20 in chips) 
+Seat 6: gabe1970 ($513.71 in chips) 
+call110: posts small blind $3
+SEREJkE29: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+ilir3: folds 
+gabe1970: folds 
+Flying Smile: folds 
+call110: folds 
+Uncalled bet ($3) returned to SEREJkE29
+SEREJkE29 collected $6 from pot
+SEREJkE29: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Flying Smile (button) folded before Flop (didn't bet)
+Seat 2: call110 (small blind) folded before Flop
+Seat 3: SEREJkE29 (big blind) collected ($6)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: ilir3 folded before Flop (didn't bet)
+Seat 6: gabe1970 folded before Flop (didn't bet)
+
+
+PokerStars Game #102625525750:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:12:30 ET
+Table 'Educatio 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Flying Smile ($600 in chips) 
+Seat 2: call110 ($591 in chips) 
+Seat 3: SEREJkE29 ($612 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: ilir3 ($636.20 in chips) 
+Seat 6: gabe1970 ($513.71 in chips) 
+SEREJkE29: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+gabe1970: folds 
+Flying Smile: raises $9 to $15
+call110: folds 
+SEREJkE29: folds 
+king10clubs: folds 
+Uncalled bet ($9) returned to Flying Smile
+Flying Smile collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Flying Smile collected ($15)
+Seat 2: call110 (button) folded before Flop (didn't bet)
+Seat 3: SEREJkE29 (small blind) folded before Flop
+Seat 4: king10clubs (big blind) folded before Flop
+Seat 5: ilir3 folded before Flop (didn't bet)
+Seat 6: gabe1970 folded before Flop (didn't bet)
+
+
+PokerStars Game #102625550553:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:13:00 ET
+Table 'Educatio 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Flying Smile ($609 in chips) 
+Seat 2: call110 ($591 in chips) 
+Seat 3: SEREJkE29 ($609 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: ilir3 ($636.20 in chips) 
+Seat 6: gabe1970 ($513.71 in chips) 
+king10clubs: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+gabe1970: folds 
+Flying Smile: folds 
+call110: raises $9 to $15
+SEREJkE29: raises $30 to $45
+king10clubs: folds 
+ilir3: folds 
+call110: calls $30
+*** FLOP *** [Js 7s 3d]
+call110: checks 
+SEREJkE29: bets $48
+call110: calls $48
+*** TURN *** [Js 7s 3d] [3s]
+call110: checks 
+SEREJkE29: checks 
+*** RIVER *** [Js 7s 3d 3s] [4c]
+call110: checks 
+SEREJkE29: checks 
+*** SHOW DOWN ***
+call110: shows [9h 9d] (two pair, Nines and Threes)
+SEREJkE29: mucks hand 
+call110 collected $192.20 from pot
+*** SUMMARY ***
+Total pot $195 | Rake $2.80 
+Board [Js 7s 3d 3s 4c]
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 2: call110 showed [9h 9d] and won ($192.20) with two pair, Nines and Threes
+Seat 3: SEREJkE29 (button) mucked
+Seat 4: king10clubs (small blind) folded before Flop
+Seat 5: ilir3 (big blind) folded before Flop
+Seat 6: gabe1970 folded before Flop (didn't bet)
+
+
+PokerStars Game #102625618863:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:14:24 ET
+Table 'Educatio 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Flying Smile ($609 in chips) 
+Seat 2: call110 ($690.20 in chips) 
+Seat 3: SEREJkE29 ($600 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: ilir3 ($630.20 in chips) 
+Seat 6: gabe1970 ($513.71 in chips) 
+ilir3: posts small blind $3
+gabe1970: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+call110: folds 
+SEREJkE29: raises $9 to $15
+king10clubs: folds 
+ilir3: folds 
+gabe1970: folds 
+Uncalled bet ($9) returned to SEREJkE29
+SEREJkE29 collected $15 from pot
+SEREJkE29: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Flying Smile folded before Flop (didn't bet)
+Seat 2: call110 folded before Flop (didn't bet)
+Seat 3: SEREJkE29 collected ($15)
+Seat 4: king10clubs (button) folded before Flop (didn't bet)
+Seat 5: ilir3 (small blind) folded before Flop
+Seat 6: gabe1970 (big blind) folded before Flop
+
+
+PokerStars Game #102625648339:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:14:59 ET
+Table 'Educatio 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Flying Smile ($609 in chips) 
+Seat 2: call110 ($690.20 in chips) 
+Seat 3: SEREJkE29 ($609 in chips) 
+Seat 4: king10clubs ($600 in chips) 
+Seat 5: ilir3 ($627.20 in chips) 
+Seat 6: gabe1970 ($507.71 in chips) 
+gabe1970: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+call110: folds 
+SEREJkE29: folds 
+king10clubs: folds 
+ilir3: folds 
+gabe1970: folds 
+Uncalled bet ($3) returned to Flying Smile
+Flying Smile collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Flying Smile (big blind) collected ($6)
+Seat 2: call110 folded before Flop (didn't bet)
+Seat 3: SEREJkE29 folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: ilir3 (button) folded before Flop (didn't bet)
+Seat 6: gabe1970 (small blind) folded before Flop
+
+
+PokerStars Game #102626657255:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 17:36:03 ET
+Table 'Educatio 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Flying Smile ($1276.97 in chips) 
+Seat 2: WhatA298 ($602.64 in chips) 
+Seat 5: ilir3 ($732.10 in chips) 
+WhatA298: posts small blind $3
+SEREJkE29: is sitting out 
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+gabe1970 leaves the table
+Flying Smile: raises $6 to $12
+SEREJkE29 leaves the table
+floriiiiider joins the table at seat #6 
+floriiiiider leaves the table
+WhatA298: folds 
+ilir3: folds 
+Uncalled bet ($6) returned to Flying Smile
+Flying Smile collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Flying Smile (button) collected ($15)
+Seat 2: WhatA298 (small blind) folded before Flop
+Seat 5: ilir3 (big blind) folded before Flop

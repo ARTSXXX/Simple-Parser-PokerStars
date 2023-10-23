@@ -1,0 +1,626 @@
+
+
+PokerStars Game #102618163701:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:46:03 ET
+Table 'Salli V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: teunuss ($600 in chips) 
+Seat 2: Luthimir ($237 in chips) 
+Seat 3: mikimiki88 ($651.20 in chips) 
+Seat 4: BigGOGl ($600 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: borntotilt ($600 in chips) 
+BigGOGl: posts small blind $3
+iznak: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: folds 
+teunuss: folds 
+Luthimir: raises $6 to $12
+mikimiki88: folds 
+BigGOGl: folds 
+iznak: folds 
+Uncalled bet ($6) returned to Luthimir
+Luthimir collected $15 from pot
+Luthimir: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: teunuss folded before Flop (didn't bet)
+Seat 2: Luthimir collected ($15)
+Seat 3: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 4: BigGOGl (small blind) folded before Flop
+Seat 5: iznak (big blind) folded before Flop
+Seat 6: borntotilt folded before Flop (didn't bet)
+
+
+PokerStars Game #102618198473:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:46:41 ET
+Table 'Salli V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: teunuss ($600 in chips) 
+Seat 2: Luthimir ($246 in chips) 
+Seat 3: mikimiki88 ($651.20 in chips) 
+Seat 4: BigGOGl ($600 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: borntotilt ($600 in chips) 
+iznak: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Luthimir: folds 
+mikimiki88: folds 
+BigGOGl: folds 
+iznak: folds 
+Uncalled bet ($3) returned to borntotilt
+borntotilt collected $6 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: teunuss folded before Flop (didn't bet)
+Seat 2: Luthimir folded before Flop (didn't bet)
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: BigGOGl (button) folded before Flop (didn't bet)
+Seat 5: iznak (small blind) folded before Flop
+Seat 6: borntotilt (big blind) collected ($6)
+
+
+PokerStars Game #102618223742:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:47:09 ET
+Table 'Salli V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: teunuss ($600 in chips) 
+Seat 2: Luthimir ($246 in chips) 
+Seat 3: mikimiki88 ($651.20 in chips) 
+Seat 4: BigGOGl ($600 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: borntotilt ($603 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+Luthimir: folds 
+mikimiki88: folds 
+BigGOGl: raises $6 to $12
+iznak: folds 
+borntotilt: raises $28 to $40
+teunuss: folds 
+BigGOGl: calls $28
+*** FLOP *** [2s 3d 4s]
+borntotilt: bets $46
+BigGOGl: calls $46
+*** TURN *** [2s 3d 4s] [Ah]
+borntotilt: checks 
+BigGOGl: bets $119
+borntotilt: folds 
+Uncalled bet ($119) returned to BigGOGl
+BigGOGl collected $175.20 from pot
+BigGOGl: doesn't show hand 
+*** SUMMARY ***
+Total pot $178 | Rake $2.80 
+Board [2s 3d 4s Ah]
+Seat 1: teunuss (big blind) folded before Flop
+Seat 2: Luthimir folded before Flop (didn't bet)
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: BigGOGl collected ($175.20)
+Seat 5: iznak (button) folded before Flop (didn't bet)
+Seat 6: borntotilt (small blind) folded on the Turn
+
+
+PokerStars Game #102618304831:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:48:40 ET
+Table 'Salli V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: teunuss ($600 in chips) 
+Seat 2: Luthimir ($246 in chips) 
+Seat 3: mikimiki88 ($651.20 in chips) 
+Seat 4: BigGOGl ($689.20 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: borntotilt ($600 in chips) 
+teunuss: posts small blind $3
+Luthimir: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+BigGOGl: folds 
+iznak: folds 
+borntotilt: raises $6 to $12
+teunuss: folds 
+Luthimir: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $15 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: teunuss (small blind) folded before Flop
+Seat 2: Luthimir (big blind) folded before Flop
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: BigGOGl folded before Flop (didn't bet)
+Seat 5: iznak folded before Flop (didn't bet)
+Seat 6: borntotilt (button) collected ($15)
+
+
+PokerStars Game #102618342515:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:49:22 ET
+Table 'Salli V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: teunuss ($600 in chips) 
+Seat 2: Luthimir ($240 in chips) 
+Seat 3: mikimiki88 ($651.20 in chips) 
+Seat 4: BigGOGl ($689.20 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: borntotilt ($609 in chips) 
+Luthimir: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+BigGOGl: folds 
+iznak: folds 
+borntotilt: folds 
+teunuss: raises $6 to $12
+Luthimir: folds 
+mikimiki88: calls $6
+*** FLOP *** [Qs 5s Kc]
+mikimiki88: checks 
+teunuss: checks 
+*** TURN *** [Qs 5s Kc] [3c]
+mikimiki88: bets $21.13
+teunuss: calls $21.13
+*** RIVER *** [Qs 5s Kc 3c] [2c]
+mikimiki88: bets $54.49
+teunuss: folds 
+Uncalled bet ($54.49) returned to mikimiki88
+mikimiki88 collected $66.46 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $69.26 | Rake $2.80 
+Board [Qs 5s Kc 3c 2c]
+Seat 1: teunuss (button) folded on the River
+Seat 2: Luthimir (small blind) folded before Flop
+Seat 3: mikimiki88 (big blind) collected ($66.46)
+Seat 4: BigGOGl folded before Flop (didn't bet)
+Seat 5: iznak folded before Flop (didn't bet)
+Seat 6: borntotilt folded before Flop (didn't bet)
+
+
+PokerStars Game #102618099782:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:44:52 ET
+Table 'Salli V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: teunuss ($609 in chips) 
+Seat 2: Luthimir ($237 in chips) 
+Seat 3: mikimiki88 ($600 in chips) 
+Seat 4: BigGOGl ($600 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: borntotilt ($600 in chips) 
+mikimiki88: posts small blind $3
+BigGOGl: posts big blind $6
+*** HOLE CARDS ***
+iznak: folds 
+borntotilt: folds 
+teunuss: raises $9 to $15
+Luthimir: folds 
+mikimiki88: raises $33 to $48
+BigGOGl: folds 
+teunuss: calls $33
+*** FLOP *** [Qc 6d 3c]
+mikimiki88: bets $70.43
+teunuss: folds 
+Uncalled bet ($70.43) returned to mikimiki88
+mikimiki88 collected $99.20 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $102 | Rake $2.80 
+Board [Qc 6d 3c]
+Seat 1: teunuss folded on the Flop
+Seat 2: Luthimir (button) folded before Flop (didn't bet)
+Seat 3: mikimiki88 (small blind) collected ($99.20)
+Seat 4: BigGOGl (big blind) folded before Flop
+Seat 5: iznak folded before Flop (didn't bet)
+Seat 6: borntotilt folded before Flop (didn't bet)
+
+
+PokerStars Game #102618653239:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:55:14 ET
+Table 'Salli V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: teunuss ($621.50 in chips) 
+Seat 3: mikimiki88 ($706.21 in chips) 
+Seat 4: maloyd ($600 in chips) 
+Seat 6: borntotilt ($606 in chips) 
+teunuss: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+maloyd: raises $7.80 to $13.80
+WhatA298 leaves the table
+borntotilt: calls $13.80
+teunuss: folds 
+mikimiki88: folds 
+*** FLOP *** [4s Qc 7d]
+maloyd: checks 
+borntotilt: bets $24
+maloyd: calls $24
+*** TURN *** [4s Qc 7d] [8s]
+maloyd: checks 
+Subv joins the table at seat #5 
+Subv leaves the table
+WhatA298 joins the table at seat #5 
+borntotilt: bets $72
+maloyd: calls $72
+*** RIVER *** [4s Qc 7d 8s] [6h]
+maloyd: checks 
+WhatA298 leaves the table
+borntotilt: bets $168
+maloyd: folds 
+Uncalled bet ($168) returned to borntotilt
+borntotilt collected $227.10 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $228.60 | Rake $1.50 
+Board [4s Qc 7d 8s 6h]
+Seat 1: teunuss (small blind) folded before Flop
+Seat 3: mikimiki88 (big blind) folded before Flop
+Seat 4: maloyd folded on the River
+Seat 6: borntotilt (button) collected ($227.10)
+
+
+PokerStars Game #102618700150:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:56:42 ET
+Table 'Salli V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: teunuss ($618.50 in chips) 
+Seat 3: mikimiki88 ($700.21 in chips) 
+Seat 4: maloyd ($600 in chips) 
+Seat 6: borntotilt ($723.30 in chips) 
+mikimiki88: posts small blind $3
+maloyd: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $12 to $18
+teunuss: folds 
+mikimiki88: folds 
+maloyd: folds 
+Uncalled bet ($12) returned to borntotilt
+borntotilt collected $15 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: teunuss (button) folded before Flop (didn't bet)
+Seat 3: mikimiki88 (small blind) folded before Flop
+Seat 4: maloyd (big blind) folded before Flop
+Seat 6: borntotilt collected ($15)
+
+
+PokerStars Game #102618708854:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:56:58 ET
+Table 'Salli V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: teunuss ($618.50 in chips) 
+Seat 3: mikimiki88 ($697.21 in chips) 
+Seat 4: maloyd ($600 in chips) 
+Seat 6: borntotilt ($732.30 in chips) 
+maloyd: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $9 to $15
+mikimiki88: folds 
+maloyd: folds 
+borntotilt: folds 
+Uncalled bet ($9) returned to teunuss
+teunuss collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: teunuss collected ($15)
+Seat 3: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 4: maloyd (small blind) folded before Flop
+Seat 6: borntotilt (big blind) folded before Flop
+
+
+PokerStars Game #102618718591:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:57:16 ET
+Table 'Salli V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: teunuss ($627.50 in chips) 
+Seat 3: mikimiki88 ($697.21 in chips) 
+Seat 4: maloyd ($600 in chips) 
+Seat 6: borntotilt ($726.30 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+maloyd: raises $6 to $12
+borntotilt: raises $36 to $48
+teunuss: folds 
+maloyd: raises $54 to $102
+borntotilt: calls $54
+*** FLOP *** [Js Ks 9s]
+borntotilt: checks 
+maloyd: bets $72
+borntotilt: calls $72
+*** TURN *** [Js Ks 9s] [Ah]
+borntotilt: checks 
+maloyd: checks 
+*** RIVER *** [Js Ks 9s Ah] [5d]
+borntotilt: checks 
+maloyd: bets $117
+borntotilt: folds 
+Uncalled bet ($117) returned to maloyd
+maloyd collected $352.50 from pot
+*** SUMMARY ***
+Total pot $354 | Rake $1.50 
+Board [Js Ks 9s Ah 5d]
+Seat 1: teunuss (big blind) folded before Flop
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: maloyd (button) collected ($352.50)
+Seat 6: borntotilt (small blind) folded on the River
+
+
+PokerStars Game #102618798632:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:59:42 ET
+Table 'Salli V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: teunuss ($621.50 in chips) 
+Seat 4: maloyd ($778.50 in chips) 
+Seat 6: borntotilt ($600 in chips) 
+teunuss: posts small blind $3
+mikimiki88: is sitting out 
+maloyd: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $9
+maloyd: calls $6
+*** FLOP *** [9s 4d Qh]
+teunuss: checks 
+maloyd: checks 
+borntotilt: bets $24
+teunuss: raises $48 to $72
+maloyd: folds 
+borntotilt: calls $48
+*** TURN *** [9s 4d Qh] [2s]
+teunuss: checks 
+borntotilt: bets $138
+teunuss: folds 
+Uncalled bet ($138) returned to borntotilt
+borntotilt collected $178.50 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $180 | Rake $1.50 
+Board [9s 4d Qh 2s]
+Seat 1: teunuss (small blind) folded on the Turn
+Seat 4: maloyd (big blind) folded on the Flop
+Seat 6: borntotilt (button) collected ($178.50)
+
+
+PokerStars Game #102618864144:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:01:20 ET
+Table 'Salli V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: teunuss ($600 in chips) 
+Seat 4: maloyd ($766.50 in chips) 
+maloyd: posts small blind $3
+borntotilt: is sitting out 
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+maloyd: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [6s 2d 4d]
+teunuss: checks 
+maloyd: bets $15
+teunuss: calls $15
+*** TURN *** [6s 2d 4d] [Qd]
+teunuss: checks 
+borntotilt leaves the table
+maloyd: checks 
+*** RIVER *** [6s 2d 4d Qd] [6h]
+teunuss: checks 
+maloyd: bets $42
+teunuss: folds 
+Uncalled bet ($42) returned to maloyd
+maloyd collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50 
+Board [6s 2d 4d Qd 6h]
+Seat 1: teunuss (big blind) folded on the River
+Seat 4: maloyd (button) (small blind) collected ($53.50)
+
+
+PokerStars Game #102618889773:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:01:52 ET
+Table 'Salli V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: teunuss ($600 in chips) 
+Seat 4: maloyd ($793 in chips) 
+teunuss: posts small blind $3
+maloyd: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+maloyd: folds 
+Uncalled bet ($6) returned to teunuss
+maloyd leaves the table
+teunuss collected $12 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: teunuss (button) (small blind) collected ($12)
+Seat 4: maloyd (big blind) folded before Flop
+
+
+PokerStars Game #102618396299:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:50:22 ET
+Table 'Salli V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: teunuss ($600 in chips) 
+Seat 2: Luthimir ($237 in chips) 
+Seat 3: mikimiki88 ($684.53 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: borntotilt ($609 in chips) 
+mikimiki88: posts small blind $3
+BigGOGl: is sitting out 
+iznak: posts big blind $6
+*** HOLE CARDS ***
+BigGOGl leaves the table
+borntotilt: folds 
+teunuss: folds 
+Luthimir: folds 
+dRobespierre joins the table at seat #4 
+mikimiki88: raises $9 to $15
+dRobespierre leaves the table
+iznak: calls $9
+*** FLOP *** [5c Tc 6c]
+mikimiki88: bets $20.34
+iznak: folds 
+Uncalled bet ($20.34) returned to mikimiki88
+mikimiki88 collected $28.65 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [5c Tc 6c]
+Seat 1: teunuss folded before Flop (didn't bet)
+Seat 2: Luthimir (button) folded before Flop (didn't bet)
+Seat 3: mikimiki88 (small blind) collected ($28.65)
+Seat 5: iznak (big blind) folded on the Flop
+Seat 6: borntotilt folded before Flop (didn't bet)
+
+
+PokerStars Game #102618460332:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:51:34 ET
+Table 'Salli V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: teunuss ($600 in chips) 
+Seat 2: Luthimir ($237 in chips) 
+Seat 3: mikimiki88 ($698.18 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: borntotilt ($609 in chips) 
+iznak: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $9 to $15
+Luthimir: folds 
+mikimiki88: raises $24 to $39
+iznak: folds 
+borntotilt: folds 
+teunuss: calls $24
+*** FLOP *** [9d 6h 8s]
+teunuss: checks 
+mikimiki88: bets $69.04
+maloyd joins the table at seat #4 
+teunuss: folds 
+Uncalled bet ($69.04) returned to mikimiki88
+mikimiki88 collected $84.20 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $87 | Rake $2.80 
+Board [9d 6h 8s]
+Seat 1: teunuss folded on the Flop
+Seat 2: Luthimir folded before Flop (didn't bet)
+Seat 3: mikimiki88 (button) collected ($84.20)
+Seat 5: iznak (small blind) folded before Flop
+Seat 6: borntotilt (big blind) folded before Flop
+
+
+PokerStars Game #102618498922:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:52:17 ET
+Table 'Salli V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: teunuss ($600 in chips) 
+Seat 2: Luthimir ($237 in chips) 
+Seat 3: mikimiki88 ($743.38 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: borntotilt ($603 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+maloyd: sits out 
+*** HOLE CARDS ***
+Luthimir: folds 
+mikimiki88: raises $6 to $12
+iznak: folds 
+borntotilt: folds 
+teunuss: calls $6
+*** FLOP *** [9s 2c 8c]
+teunuss: checks 
+mikimiki88: bets $18.30
+teunuss: raises $44.70 to $63
+mikimiki88: folds 
+Uncalled bet ($44.70) returned to teunuss
+teunuss collected $60.80 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $63.60 | Rake $2.80 
+Board [9s 2c 8c]
+Seat 1: teunuss (big blind) collected ($60.80)
+Seat 2: Luthimir folded before Flop (didn't bet)
+Seat 3: mikimiki88 folded on the Flop
+Seat 5: iznak (button) folded before Flop (didn't bet)
+Seat 6: borntotilt (small blind) folded before Flop
+
+
+PokerStars Game #102618569376:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:53:36 ET
+Table 'Salli V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: teunuss ($630.50 in chips) 
+Seat 3: mikimiki88 ($713.08 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: borntotilt ($600 in chips) 
+teunuss: posts small blind $3
+Luthimir: is sitting out 
+mikimiki88: posts big blind $6
+maloyd: sits out 
+*** HOLE CARDS ***
+Luthimir leaves the table
+iznak: raises $6.87 to $12.87
+borntotilt: folds 
+teunuss: folds 
+mikimiki88: calls $6.87
+*** FLOP *** [8d 2c 8s]
+mikimiki88: checks 
+iznak: bets $13.11
+mikimiki88: folds 
+Uncalled bet ($13.11) returned to iznak
+iznak collected $27.45 from pot
+iznak: doesn't show hand 
+*** SUMMARY ***
+Total pot $28.74 | Rake $1.29 
+Board [8d 2c 8s]
+Seat 1: teunuss (small blind) folded before Flop
+Seat 3: mikimiki88 (big blind) folded on the Flop
+Seat 5: iznak collected ($27.45)
+Seat 6: borntotilt (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102618598307:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:54:09 ET
+Table 'Salli V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: teunuss ($627.50 in chips) 
+Seat 3: mikimiki88 ($700.21 in chips) 
+Seat 4: maloyd ($600 in chips) 
+Seat 5: iznak ($254.58 in chips) 
+Seat 6: borntotilt ($600 in chips) 
+mikimiki88: posts small blind $3
+maloyd: posts big blind $6
+*** HOLE CARDS ***
+iznak: raises $6.87 to $12.87
+borntotilt: folds 
+teunuss: folds 
+mikimiki88: folds 
+maloyd: folds 
+Uncalled bet ($6.87) returned to iznak
+iznak collected $15 from pot
+iznak: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: teunuss (button) folded before Flop (didn't bet)
+Seat 3: mikimiki88 (small blind) folded before Flop
+Seat 4: maloyd (big blind) folded before Flop
+Seat 5: iznak collected ($15)
+Seat 6: borntotilt folded before Flop (didn't bet)
+
+
+PokerStars Game #102618621762:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:54:35 ET
+Table 'Salli V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: teunuss ($627.50 in chips) 
+Seat 3: mikimiki88 ($697.21 in chips) 
+Seat 4: maloyd ($600 in chips) 
+Seat 6: borntotilt ($600 in chips) 
+maloyd: posts small blind $3
+iznak: is sitting out 
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+iznak leaves the table
+teunuss: folds 
+mikimiki88: raises $6 to $12
+maloyd: folds 
+borntotilt: folds 
+Uncalled bet ($6) returned to mikimiki88
+mikimiki88 collected $15 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: teunuss folded before Flop (didn't bet)
+Seat 3: mikimiki88 (button) collected ($15)
+Seat 4: maloyd (small blind) folded before Flop
+Seat 6: borntotilt (big blind) folded before Flop
+
+
+PokerStars Game #102618639737:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 14:54:56 ET
+Table 'Salli V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: teunuss ($627.50 in chips) 
+Seat 3: mikimiki88 ($706.21 in chips) 
+Seat 4: maloyd ($600 in chips) 
+Seat 6: borntotilt ($600 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+WhatA298 joins the table at seat #2 
+mikimiki88: folds 
+maloyd: folds 
+borntotilt: raises $12 to $18
+teunuss: folds 
+Uncalled bet ($12) returned to borntotilt
+borntotilt collected $12 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: teunuss (big blind) folded before Flop
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: maloyd (button) folded before Flop (didn't bet)
+Seat 6: borntotilt (small blind) collected ($12)

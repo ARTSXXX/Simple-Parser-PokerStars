@@ -1,0 +1,1488 @@
+
+
+PokerStars Game #102605276360:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:01:55 ET
+Table 'Sumava 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($236.50 in chips) 
+Seat 4: LgwZ ($623.50 in chips) 
+Seat 5: barrao ($240 in chips) 
+LgwZ: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: folds 
+LgwZ: raises $12 to $18
+barrao: raises $24 to $42
+LgwZ: raises $581.50 to $623.50 and is all-in
+barrao: folds 
+Uncalled bet ($581.50) returned to LgwZ
+LgwZ collected $84 from pot
+LgwZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $84 | Rake $0 
+Seat 1: uwbabe (button) folded before Flop (didn't bet)
+Seat 4: LgwZ (small blind) collected ($84)
+Seat 5: barrao (big blind) folded before Flop
+
+
+PokerStars Game #102605302794:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:02:35 ET
+Table 'Sumava 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($236.50 in chips) 
+Seat 4: LgwZ ($665.50 in chips) 
+Seat 5: barrao ($240 in chips) 
+barrao: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+Chappolini joins the table at seat #6 
+LgwZ: raises $6 to $12
+barrao: folds 
+WhatA298 joins the table at seat #3 
+uwbabe: calls $6
+*** FLOP *** [6h 3h 8d]
+uwbabe: checks 
+WhatA298 leaves the table
+LgwZ: bets $17.53
+uwbabe: folds 
+Uncalled bet ($17.53) returned to LgwZ
+LgwZ collected $25.78 from pot
+LgwZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [6h 3h 8d]
+Seat 1: uwbabe (big blind) folded on the Flop
+Seat 4: LgwZ (button) collected ($25.78)
+Seat 5: barrao (small blind) folded before Flop
+
+
+PokerStars Game #102605325099:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:03:09 ET
+Table 'Sumava 40-100 bb' 6-max Seat #5 is the button
+Seat 1: uwbabe ($224.50 in chips) 
+Seat 4: LgwZ ($679.28 in chips) 
+Seat 5: barrao ($237 in chips) 
+Chappolini will be allowed to play after the button
+uwbabe: posts small blind $3
+LgwZ: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+uwbabe: folds 
+Uncalled bet ($3) returned to LgwZ
+LgwZ collected $6 from pot
+LgwZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: uwbabe (small blind) folded before Flop
+Seat 4: LgwZ (big blind) collected ($6)
+Seat 5: barrao (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102605330752:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:03:17 ET
+Table 'Sumava 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($221.50 in chips) 
+Seat 4: LgwZ ($682.28 in chips) 
+Seat 5: barrao ($237 in chips) 
+LgwZ: posts small blind $3
+barrao: posts big blind $6
+Chappolini: sits out 
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+LgwZ: folds 
+barrao: folds 
+Uncalled bet ($6) returned to uwbabe
+uwbabe collected $15 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: uwbabe (button) collected ($15)
+Seat 4: LgwZ (small blind) folded before Flop
+Seat 5: barrao (big blind) folded before Flop
+
+
+PokerStars Game #102605339044:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:03:29 ET
+Table 'Sumava 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($230.50 in chips) 
+Seat 4: LgwZ ($679.28 in chips) 
+Seat 5: barrao ($231 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+barrao: posts small blind $3
+Chappolini: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: folds 
+LgwZ: raises $6 to $12
+barrao: folds 
+Chappolini: folds 
+Uncalled bet ($6) returned to LgwZ
+LgwZ collected $15 from pot
+LgwZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: uwbabe folded before Flop (didn't bet)
+Seat 4: LgwZ (button) collected ($15)
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: Chappolini (big blind) folded before Flop
+
+
+PokerStars Game #102605355159:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:03:53 ET
+Table 'Sumava 40-100 bb' 6-max Seat #5 is the button
+Seat 1: uwbabe ($230.50 in chips) 
+Seat 4: LgwZ ($688.28 in chips) 
+Seat 5: barrao ($228 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+Chappolini: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+LgwZ: folds 
+barrao: folds 
+Chappolini: folds 
+Uncalled bet ($3) returned to uwbabe
+uwbabe collected $6 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: uwbabe (big blind) collected ($6)
+Seat 4: LgwZ folded before Flop (didn't bet)
+Seat 5: barrao (button) folded before Flop (didn't bet)
+Seat 6: Chappolini (small blind) folded before Flop
+
+
+PokerStars Game #102605369126:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:04:13 ET
+Table 'Sumava 40-100 bb' 6-max Seat #6 is the button
+Seat 1: uwbabe ($233.50 in chips) 
+Seat 4: LgwZ ($688.28 in chips) 
+Seat 5: barrao ($228 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+uwbabe: posts small blind $3
+LgwZ: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+Chappolini: raises $6 to $12
+uwbabe: raises $10 to $22
+LgwZ: folds 
+Chappolini: calls $10
+*** FLOP *** [7s 5d 3c]
+uwbabe: bets $12
+Chappolini: calls $12
+*** TURN *** [7s 5d 3c] [2c]
+uwbabe: bets $35
+Chappolini: calls $35
+*** RIVER *** [7s 5d 3c 2c] [Ks]
+uwbabe: bets $156
+Chappolini: folds 
+Uncalled bet ($156) returned to uwbabe
+uwbabe collected $142.50 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $144 | Rake $1.50 
+Board [7s 5d 3c 2c Ks]
+Seat 1: uwbabe (small blind) collected ($142.50)
+Seat 4: LgwZ (big blind) folded before Flop
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Chappolini (button) folded on the River
+
+
+PokerStars Game #102605217886:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:00:14 ET
+Table 'Sumava 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($240 in chips) 
+Seat 4: LgwZ ($600 in chips) 
+uwbabe: posts small blind $3
+LgwZ: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: folds 
+Uncalled bet ($3) returned to LgwZ
+LgwZ collected $6 from pot
+LgwZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: uwbabe (button) (small blind) folded before Flop
+Seat 4: LgwZ (big blind) collected ($6)
+
+
+PokerStars Game #102605224791:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:00:28 ET
+Table 'Sumava 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($237 in chips) 
+Seat 4: LgwZ ($603 in chips) 
+LgwZ: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+LgwZ: raises $6 to $12
+uwbabe: calls $6
+*** FLOP *** [9s Td Ah]
+uwbabe: checks 
+LgwZ: checks 
+*** TURN *** [9s Td Ah] [Jc]
+uwbabe: bets $12
+LgwZ: calls $12
+*** RIVER *** [9s Td Ah Jc] [5h]
+uwbabe: bets $24
+LgwZ: folds 
+Uncalled bet ($24) returned to uwbabe
+uwbabe collected $47.50 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $48 | Rake $0.50 
+Board [9s Td Ah Jc 5h]
+Seat 1: uwbabe (big blind) collected ($47.50)
+Seat 4: LgwZ (button) (small blind) folded on the River
+
+
+PokerStars Game #102605245111:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:01:05 ET
+Table 'Sumava 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($260.50 in chips) 
+Seat 4: LgwZ ($600 in chips) 
+uwbabe: posts small blind $3
+LgwZ: posts big blind $6
+*** HOLE CARDS ***
+barrao joins the table at seat #5 
+uwbabe: raises $6 to $12
+WhatA298 joins the table at seat #2 
+LgwZ: calls $6
+*** FLOP *** [4c 2d Qh]
+LgwZ: checks 
+WhatA298 leaves the table
+uwbabe: bets $12
+LgwZ: calls $12
+*** TURN *** [4c 2d Qh] [4s]
+LgwZ: checks 
+uwbabe: checks 
+*** RIVER *** [4c 2d Qh 4s] [3c]
+LgwZ: bets $30
+uwbabe: folds 
+Uncalled bet ($30) returned to LgwZ
+LgwZ collected $47.50 from pot
+LgwZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $48 | Rake $0.50 
+Board [4c 2d Qh 4s 3c]
+Seat 1: uwbabe (button) (small blind) folded on the River
+Seat 4: LgwZ (big blind) collected ($47.50)
+
+
+PokerStars Game #102606085606:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:20:38 ET
+Table 'Sumava 40-100 bb' 6-max Seat #6 is the button
+Seat 1: uwbabe ($240 in chips) 
+Seat 2: vivecrew ($541.20 in chips) 
+Seat 3: Zero 1100101 ($693.20 in chips) 
+Seat 4: pohnken ($768.40 in chips) 
+Seat 5: barrao ($411.08 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+uwbabe: posts small blind $3
+vivecrew: posts big blind $6
+*** HOLE CARDS ***
+Zero 1100101: folds 
+pohnken: folds 
+barrao: folds 
+Chappolini: folds 
+uwbabe: raises $6 to $12
+vivecrew: calls $6
+*** FLOP *** [As 6s 2s]
+uwbabe: bets $9
+vivecrew: raises $15 to $24
+uwbabe: calls $15
+*** TURN *** [As 6s 2s] [Jd]
+uwbabe: bets $9
+vivecrew: raises $36 to $45
+uwbabe: folds 
+Uncalled bet ($36) returned to vivecrew
+vivecrew collected $87.20 from pot
+*** SUMMARY ***
+Total pot $90 | Rake $2.80 
+Board [As 6s 2s Jd]
+Seat 1: uwbabe (small blind) folded on the Turn
+Seat 2: vivecrew (big blind) collected ($87.20)
+Seat 3: Zero 1100101 folded before Flop (didn't bet)
+Seat 4: pohnken folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Chappolini (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102606158950:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:22:17 ET
+Table 'Sumava 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($195 in chips) 
+Seat 2: vivecrew ($583.40 in chips) 
+Seat 3: Zero 1100101 ($693.20 in chips) 
+Seat 4: pohnken ($768.40 in chips) 
+Seat 5: barrao ($411.08 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+vivecrew: posts small blind $3
+Zero 1100101: posts big blind $6
+*** HOLE CARDS ***
+pohnken: folds 
+barrao: folds 
+Chappolini: raises $12 to $18
+uwbabe: folds 
+vivecrew: folds 
+Zero 1100101: calls $12
+*** FLOP *** [Ts 4s Jd]
+Zero 1100101: checks 
+Chappolini: bets $24
+Zero 1100101: raises $44 to $68
+Chappolini: calls $44
+*** TURN *** [Ts 4s Jd] [Th]
+Zero 1100101: bets $126
+Chappolini: calls $126
+*** RIVER *** [Ts 4s Jd Th] [2s]
+Zero 1100101: bets $480
+Chappolini: calls $388 and is all-in
+Uncalled bet ($92) returned to Zero 1100101
+*** SHOW DOWN ***
+Zero 1100101: shows [Kh Qs] (a pair of Tens)
+Chappolini: shows [Ah Jc] (two pair, Jacks and Tens)
+Chappolini collected $1200.20 from pot
+*** SUMMARY ***
+Total pot $1203 | Rake $2.80 
+Board [Ts 4s Jd Th 2s]
+Seat 1: uwbabe (button) folded before Flop (didn't bet)
+Seat 2: vivecrew (small blind) folded before Flop
+Seat 3: Zero 1100101 (big blind) showed [Kh Qs] and lost with a pair of Tens
+Seat 4: pohnken folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Chappolini showed [Ah Jc] and won ($1200.20) with two pair, Jacks and Tens
+
+
+PokerStars Game #102606268342:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:24:45 ET
+Table 'Sumava 40-100 bb' 6-max Seat #2 is the button
+Seat 1: uwbabe ($195 in chips) 
+Seat 2: vivecrew ($580.40 in chips) 
+Seat 3: Zero 1100101 ($600 in chips) 
+Seat 4: pohnken ($768.40 in chips) 
+Seat 5: barrao ($411.08 in chips) 
+Seat 6: Chappolini ($1200.20 in chips) 
+Zero 1100101: posts small blind $3
+pohnken: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+Chappolini: folds 
+uwbabe: folds 
+vivecrew: raises $6.36 to $12.36
+Zero 1100101: raises $35.64 to $48
+pohnken: folds 
+vivecrew: folds 
+Uncalled bet ($35.64) returned to Zero 1100101
+Zero 1100101 collected $30.72 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $30.72 | Rake $0 
+Seat 1: uwbabe folded before Flop (didn't bet)
+Seat 2: vivecrew (button) folded before Flop
+Seat 3: Zero 1100101 (small blind) collected ($30.72)
+Seat 4: pohnken (big blind) folded before Flop
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Chappolini folded before Flop (didn't bet)
+
+
+PokerStars Game #102605843480:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:15:15 ET
+Table 'Sumava 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($311.52 in chips) 
+Seat 2: vivecrew ($544.20 in chips) 
+Seat 3: Zero 1100101 ($600 in chips) 
+Seat 4: pohnken ($594 in chips) 
+Seat 5: barrao ($276.36 in chips) 
+Seat 6: Chappolini ($609 in chips) 
+vivecrew: posts small blind $3
+Zero 1100101: posts big blind $6
+*** HOLE CARDS ***
+pohnken: folds 
+barrao: folds 
+Chappolini: folds 
+uwbabe: raises $6 to $12
+vivecrew: folds 
+Zero 1100101: calls $6
+*** FLOP *** [5c Kh Ks]
+Zero 1100101: checks 
+uwbabe: bets $12
+Zero 1100101: calls $12
+*** TURN *** [5c Kh Ks] [4h]
+Zero 1100101: checks 
+uwbabe: bets $24
+Zero 1100101: calls $24
+*** RIVER *** [5c Kh Ks 4h] [6c]
+Zero 1100101: checks 
+uwbabe: bets $48
+Zero 1100101: calls $48
+*** SHOW DOWN ***
+uwbabe: shows [7h 7d] (two pair, Kings and Sevens)
+Zero 1100101: shows [Kd 8d] (three of a kind, Kings)
+Zero 1100101 collected $192.20 from pot
+*** SUMMARY ***
+Total pot $195 | Rake $2.80 
+Board [5c Kh Ks 4h 6c]
+Seat 1: uwbabe (button) showed [7h 7d] and lost with two pair, Kings and Sevens
+Seat 2: vivecrew (small blind) folded before Flop
+Seat 3: Zero 1100101 (big blind) showed [Kd 8d] and won ($192.20) with three of a kind, Kings
+Seat 4: pohnken folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Chappolini folded before Flop (didn't bet)
+
+
+PokerStars Game #102605915871:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:16:52 ET
+Table 'Sumava 40-100 bb' 6-max Seat #2 is the button
+Seat 1: uwbabe ($215.52 in chips) 
+Seat 2: vivecrew ($541.20 in chips) 
+Seat 3: Zero 1100101 ($696.20 in chips) 
+Seat 4: pohnken ($594 in chips) 
+Seat 5: barrao ($276.36 in chips) 
+Seat 6: Chappolini ($609 in chips) 
+Zero 1100101: posts small blind $3
+pohnken: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+Chappolini: folds 
+uwbabe: raises $6 to $12
+vivecrew: folds 
+Zero 1100101: folds 
+pohnken: calls $6
+*** FLOP *** [8s 7s 4d]
+pohnken: checks 
+uwbabe: bets $12
+pohnken: raises $12 to $24
+uwbabe: calls $12
+*** TURN *** [8s 7s 4d] [Kc]
+pohnken: bets $36
+uwbabe: calls $36
+*** RIVER *** [8s 7s 4d Kc] [8d]
+pohnken: checks 
+uwbabe: checks 
+*** SHOW DOWN ***
+pohnken: shows [4c 8c] (a full house, Eights full of Fours)
+uwbabe: mucks hand 
+pohnken collected $144.20 from pot
+*** SUMMARY ***
+Total pot $147 | Rake $2.80 
+Board [8s 7s 4d Kc 8d]
+Seat 1: uwbabe mucked
+Seat 2: vivecrew (button) folded before Flop (didn't bet)
+Seat 3: Zero 1100101 (small blind) folded before Flop
+Seat 4: pohnken (big blind) showed [4c 8c] and won ($144.20) with a full house, Eights full of Fours
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Chappolini folded before Flop (didn't bet)
+
+
+PokerStars Game #102605983191:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:18:21 ET
+Table 'Sumava 40-100 bb' 6-max Seat #3 is the button
+Seat 1: uwbabe ($143.52 in chips) 
+Seat 2: vivecrew ($541.20 in chips) 
+Seat 3: Zero 1100101 ($693.20 in chips) 
+Seat 4: pohnken ($666.20 in chips) 
+Seat 5: barrao ($276.36 in chips) 
+Seat 6: Chappolini ($609 in chips) 
+pohnken: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Chappolini: raises $12 to $18
+uwbabe: folds 
+vivecrew: folds 
+Zero 1100101: folds 
+pohnken: calls $15
+barrao: folds 
+*** FLOP *** [2h 6h 3s]
+pohnken: checks 
+Chappolini: checks 
+*** TURN *** [2h 6h 3s] [8s]
+pohnken: bets $24
+Chappolini: calls $24
+*** RIVER *** [2h 6h 3s 8s] [3c]
+pohnken: bets $48
+Chappolini: calls $48
+*** SHOW DOWN ***
+pohnken: shows [7d 7c] (two pair, Sevens and Threes)
+Chappolini: mucks hand 
+pohnken collected $183.20 from pot
+*** SUMMARY ***
+Total pot $186 | Rake $2.80 
+Board [2h 6h 3s 8s 3c]
+Seat 1: uwbabe folded before Flop (didn't bet)
+Seat 2: vivecrew folded before Flop (didn't bet)
+Seat 3: Zero 1100101 (button) folded before Flop (didn't bet)
+Seat 4: pohnken (small blind) showed [7d 7c] and won ($183.20) with two pair, Sevens and Threes
+Seat 5: barrao (big blind) folded before Flop
+Seat 6: Chappolini mucked
+
+
+PokerStars Game #102606027526:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:19:20 ET
+Table 'Sumava 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($143.52 in chips) 
+Seat 2: vivecrew ($541.20 in chips) 
+Seat 3: Zero 1100101 ($693.20 in chips) 
+Seat 4: pohnken ($759.40 in chips) 
+Seat 5: barrao ($270.36 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+barrao: posts small blind $3
+Chappolini: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: folds 
+vivecrew: folds 
+Zero 1100101: folds 
+pohnken: raises $6 to $12
+barrao: folds 
+Chappolini: folds 
+Uncalled bet ($6) returned to pohnken
+pohnken collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: uwbabe folded before Flop (didn't bet)
+Seat 2: vivecrew folded before Flop (didn't bet)
+Seat 3: Zero 1100101 folded before Flop (didn't bet)
+Seat 4: pohnken (button) collected ($15)
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: Chappolini (big blind) folded before Flop
+
+
+PokerStars Game #102606048443:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:19:48 ET
+Table 'Sumava 40-100 bb' 6-max Seat #5 is the button
+Seat 1: uwbabe ($143.52 in chips) 
+Seat 2: vivecrew ($541.20 in chips) 
+Seat 3: Zero 1100101 ($693.20 in chips) 
+Seat 4: pohnken ($768.40 in chips) 
+Seat 5: barrao ($267.36 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+Chappolini: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+vivecrew: folds 
+Zero 1100101 has timed out
+Zero 1100101: folds 
+pohnken: folds 
+barrao: raises $9 to $15
+Chappolini: folds 
+uwbabe: raises $57 to $72
+barrao: raises $195.36 to $267.36 and is all-in
+uwbabe: calls $71.52 and is all-in
+Uncalled bet ($123.84) returned to barrao
+*** FIRST FLOP *** [Qh 7c Ah]
+*** FIRST TURN *** [Qh 7c Ah] [Jd]
+*** FIRST RIVER *** [Qh 7c Ah Jd] [8h]
+*** SECOND FLOP *** [Kd Js 3h]
+*** SECOND TURN *** [Kd Js 3h] [4c]
+*** SECOND RIVER *** [Kd Js 3h 4c] [5h]
+*** FIRST SHOW DOWN ***
+uwbabe: shows [9h Ad] (a pair of Aces)
+barrao: shows [Ac Kh] (a pair of Aces - King kicker)
+barrao collected $143.62 from pot
+*** SECOND SHOW DOWN ***
+uwbabe: shows [9h Ad] (high card Ace)
+barrao: shows [Ac Kh] (a pair of Kings)
+barrao collected $143.62 from pot
+*** SUMMARY ***
+Total pot $290.04 | Rake $2.80 
+Hand was run twice
+FIRST Board [Qh 7c Ah Jd 8h]
+SECOND Board [Kd Js 3h 4c 5h]
+Seat 1: uwbabe (big blind) showed [9h Ad] and lost with a pair of Aces, and lost with high card Ace
+Seat 2: vivecrew folded before Flop (didn't bet)
+Seat 3: Zero 1100101 folded before Flop (didn't bet)
+Seat 4: pohnken folded before Flop (didn't bet)
+Seat 5: barrao (button) showed [Ac Kh] and won ($143.62) with a pair of Aces, and won ($143.62) with a pair of Kings
+Seat 6: Chappolini (small blind) folded before Flop
+
+
+PokerStars Game #102605631229:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:10:22 ET
+Table 'Sumava 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($338.52 in chips) 
+Seat 2: vivecrew ($543 in chips) 
+Seat 4: LgwZ ($650.78 in chips) 
+Seat 5: barrao ($240 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+vivecrew: posts small blind $3
+LgwZ: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+Chappolini: folds 
+uwbabe: folds 
+vivecrew: raises $6.36 to $12.36
+LgwZ: folds 
+Uncalled bet ($6.36) returned to vivecrew
+vivecrew collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (button) folded before Flop (didn't bet)
+Seat 2: vivecrew (small blind) collected ($12)
+Seat 4: LgwZ (big blind) folded before Flop
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Chappolini folded before Flop (didn't bet)
+
+
+PokerStars Game #102605649123:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:10:47 ET
+Table 'Sumava 40-100 bb' 6-max Seat #2 is the button
+Seat 1: uwbabe ($338.52 in chips) 
+Seat 2: vivecrew ($549 in chips) 
+Seat 4: LgwZ ($644.78 in chips) 
+Seat 5: barrao ($240 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+LgwZ: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Chappolini: folds 
+uwbabe: folds 
+vivecrew: raises $6.36 to $12.36
+LgwZ: raises $23.64 to $36
+barrao: folds 
+vivecrew: folds 
+Uncalled bet ($23.64) returned to LgwZ
+LgwZ collected $30.72 from pot
+LgwZ: doesn't show hand 
+Zero 1100101 joins the table at seat #3 
+*** SUMMARY ***
+Total pot $30.72 | Rake $0 
+Seat 1: uwbabe folded before Flop (didn't bet)
+Seat 2: vivecrew (button) folded before Flop
+Seat 4: LgwZ (small blind) collected ($30.72)
+Seat 5: barrao (big blind) folded before Flop
+Seat 6: Chappolini folded before Flop (didn't bet)
+
+
+PokerStars Game #102605671800:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:11:19 ET
+Table 'Sumava 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($338.52 in chips) 
+Seat 2: vivecrew ($536.64 in chips) 
+Seat 4: LgwZ ($663.14 in chips) 
+Seat 5: barrao ($234 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+barrao: posts small blind $3
+Chappolini: posts big blind $6
+Zero 1100101: sits out 
+*** HOLE CARDS ***
+uwbabe: folds 
+vivecrew: folds 
+LgwZ: folds 
+barrao: raises $12 to $18
+Chappolini: folds 
+Uncalled bet ($12) returned to barrao
+barrao collected $12 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe folded before Flop (didn't bet)
+Seat 2: vivecrew folded before Flop (didn't bet)
+Seat 4: LgwZ (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) collected ($12)
+Seat 6: Chappolini (big blind) folded before Flop
+
+
+PokerStars Game #102605691495:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:11:46 ET
+Table 'Sumava 40-100 bb' 6-max Seat #5 is the button
+Seat 1: uwbabe ($338.52 in chips) 
+Seat 2: vivecrew ($536.64 in chips) 
+Seat 4: LgwZ ($663.14 in chips) 
+Seat 5: barrao ($240 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+Chappolini: posts small blind $3
+uwbabe: posts big blind $6
+Zero 1100101: sits out 
+*** HOLE CARDS ***
+vivecrew: raises $6.36 to $12.36
+LgwZ: folds 
+barrao: raises $18.36 to $30.72
+Chappolini: folds 
+uwbabe: folds 
+vivecrew: folds 
+Uncalled bet ($18.36) returned to barrao
+barrao collected $33.72 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $33.72 | Rake $0 
+Seat 1: uwbabe (big blind) folded before Flop
+Seat 2: vivecrew folded before Flop
+Seat 4: LgwZ folded before Flop (didn't bet)
+Seat 5: barrao (button) collected ($33.72)
+Seat 6: Chappolini (small blind) folded before Flop
+
+
+PokerStars Game #102605712109:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:12:15 ET
+Table 'Sumava 40-100 bb' 6-max Seat #6 is the button
+Seat 1: uwbabe ($332.52 in chips) 
+Seat 2: vivecrew ($524.28 in chips) 
+Seat 4: LgwZ ($663.14 in chips) 
+Seat 5: barrao ($261.36 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+uwbabe: posts small blind $3
+vivecrew: posts big blind $6
+Zero 1100101: sits out 
+*** HOLE CARDS ***
+LgwZ: folds 
+barrao: folds 
+Chappolini: folds 
+uwbabe: raises $6 to $12
+vivecrew: calls $6
+*** FLOP *** [4s 3s Kc]
+uwbabe: checks 
+vivecrew: checks 
+*** TURN *** [4s 3s Kc] [5s]
+uwbabe: checks 
+vivecrew: bets $15.35
+uwbabe: folds 
+Uncalled bet ($15.35) returned to vivecrew
+vivecrew collected $22.92 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.08 
+Board [4s 3s Kc 5s]
+Seat 1: uwbabe (small blind) folded on the Turn
+Seat 2: vivecrew (big blind) collected ($22.92)
+Seat 4: LgwZ folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Chappolini (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102605751400:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:13:09 ET
+Table 'Sumava 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($320.52 in chips) 
+Seat 2: vivecrew ($535.20 in chips) 
+Seat 3: Zero 1100101 ($600 in chips) 
+Seat 4: LgwZ ($663.14 in chips) 
+Seat 5: barrao ($261.36 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+vivecrew: posts small blind $3
+Zero 1100101: posts big blind $6
+*** HOLE CARDS ***
+LgwZ: folds 
+barrao: raises $9 to $15
+Chappolini: folds 
+uwbabe: folds 
+vivecrew: folds 
+Zero 1100101: folds 
+Uncalled bet ($9) returned to barrao
+barrao collected $15 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: uwbabe (button) folded before Flop (didn't bet)
+Seat 2: vivecrew (small blind) folded before Flop
+Seat 3: Zero 1100101 (big blind) folded before Flop
+Seat 4: LgwZ folded before Flop (didn't bet)
+Seat 5: barrao collected ($15)
+Seat 6: Chappolini folded before Flop (didn't bet)
+
+
+PokerStars Game #102605773558:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:13:40 ET
+Table 'Sumava 40-100 bb' 6-max Seat #2 is the button
+Seat 1: uwbabe ($320.52 in chips) 
+Seat 2: vivecrew ($532.20 in chips) 
+Seat 3: Zero 1100101 ($600 in chips) 
+Seat 5: barrao ($270.36 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+Zero 1100101: posts small blind $3
+LgwZ: is sitting out 
+barrao: posts big blind $6
+*** HOLE CARDS ***
+LgwZ leaves the table
+Chappolini: folds 
+uwbabe: folds 
+vivecrew: raises $6.36 to $12.36
+Zero 1100101: folds 
+barrao: folds 
+Uncalled bet ($6.36) returned to vivecrew
+vivecrew collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: uwbabe folded before Flop (didn't bet)
+Seat 2: vivecrew (button) collected ($15)
+Seat 3: Zero 1100101 (small blind) folded before Flop
+Seat 5: barrao (big blind) folded before Flop
+Seat 6: Chappolini folded before Flop (didn't bet)
+
+
+PokerStars Game #102605788195:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:14:00 ET
+Table 'Sumava 40-100 bb' 6-max Seat #3 is the button
+Seat 1: uwbabe ($320.52 in chips) 
+Seat 2: vivecrew ($541.20 in chips) 
+Seat 3: Zero 1100101 ($600 in chips) 
+Seat 5: barrao ($264.36 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+barrao: posts small blind $3
+Chappolini: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: folds 
+pohnken joins the table at seat #4 
+vivecrew: raises $6.36 to $12.36
+Zero 1100101: folds 
+barrao: folds 
+Chappolini: folds 
+Uncalled bet ($6.36) returned to vivecrew
+vivecrew collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: uwbabe folded before Flop (didn't bet)
+Seat 2: vivecrew collected ($15)
+Seat 3: Zero 1100101 (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: Chappolini (big blind) folded before Flop
+
+
+PokerStars Game #102605806434:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:14:25 ET
+Table 'Sumava 40-100 bb' 6-max Seat #5 is the button
+Seat 1: uwbabe ($320.52 in chips) 
+Seat 2: vivecrew ($550.20 in chips) 
+Seat 3: Zero 1100101 ($600 in chips) 
+Seat 4: pohnken ($600 in chips) 
+Seat 5: barrao ($261.36 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+Chappolini: posts small blind $3
+uwbabe: posts big blind $6
+pohnken: posts big blind $6
+*** HOLE CARDS ***
+vivecrew: folds 
+Zero 1100101: folds 
+pohnken: checks 
+barrao: raises $9 to $15
+Chappolini: folds 
+uwbabe: folds 
+pohnken: folds 
+Uncalled bet ($9) returned to barrao
+barrao collected $21 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $0 
+Seat 1: uwbabe (big blind) folded before Flop
+Seat 2: vivecrew folded before Flop (didn't bet)
+Seat 3: Zero 1100101 folded before Flop (didn't bet)
+Seat 4: pohnken folded before Flop
+Seat 5: barrao (button) collected ($21)
+Seat 6: Chappolini (small blind) folded before Flop
+
+
+PokerStars Game #102605828134:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:14:54 ET
+Table 'Sumava 40-100 bb' 6-max Seat #6 is the button
+Seat 1: uwbabe ($314.52 in chips) 
+Seat 2: vivecrew ($550.20 in chips) 
+Seat 3: Zero 1100101 ($600 in chips) 
+Seat 4: pohnken ($594 in chips) 
+Seat 5: barrao ($276.36 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+uwbabe: posts small blind $3
+vivecrew: posts big blind $6
+*** HOLE CARDS ***
+Zero 1100101: folds 
+pohnken: folds 
+barrao: folds 
+Chappolini: raises $6 to $12
+uwbabe: folds 
+vivecrew: folds 
+Uncalled bet ($6) returned to Chappolini
+Chappolini collected $15 from pot
+Chappolini: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: uwbabe (small blind) folded before Flop
+Seat 2: vivecrew (big blind) folded before Flop
+Seat 3: Zero 1100101 folded before Flop (didn't bet)
+Seat 4: pohnken folded before Flop (didn't bet)
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Chappolini (button) collected ($15)
+
+
+PokerStars Game #102605429793:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:05:40 ET
+Table 'Sumava 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($307 in chips) 
+Seat 4: LgwZ ($682.28 in chips) 
+Seat 5: barrao ($228 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+LgwZ: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Chappolini: raises $9 to $15
+uwbabe: folds 
+LgwZ: folds 
+barrao: folds 
+Uncalled bet ($9) returned to Chappolini
+Chappolini collected $15 from pot
+Chappolini: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: uwbabe (button) folded before Flop (didn't bet)
+Seat 4: LgwZ (small blind) folded before Flop
+Seat 5: barrao (big blind) folded before Flop
+Seat 6: Chappolini collected ($15)
+
+
+PokerStars Game #102605450516:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:06:09 ET
+Table 'Sumava 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($307 in chips) 
+Seat 4: LgwZ ($679.28 in chips) 
+Seat 5: barrao ($222 in chips) 
+Seat 6: Chappolini ($609 in chips) 
+barrao: posts small blind $3
+Chappolini: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+LgwZ: folds 
+barrao: folds 
+Chappolini: folds 
+Uncalled bet ($6) returned to uwbabe
+uwbabe collected $15 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: uwbabe collected ($15)
+Seat 4: LgwZ (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: Chappolini (big blind) folded before Flop
+
+
+PokerStars Game #102605461582:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:06:25 ET
+Table 'Sumava 40-100 bb' 6-max Seat #5 is the button
+Seat 1: uwbabe ($316 in chips) 
+Seat 4: LgwZ ($679.28 in chips) 
+Seat 5: barrao ($219 in chips) 
+Seat 6: Chappolini ($603 in chips) 
+Chappolini: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+WhatA298 joins the table at seat #2 
+LgwZ: folds 
+WhatA298 leaves the table
+barrao: folds 
+Chappolini: folds 
+Uncalled bet ($3) returned to uwbabe
+uwbabe collected $6 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: uwbabe (big blind) collected ($6)
+Seat 4: LgwZ folded before Flop (didn't bet)
+Seat 5: barrao (button) folded before Flop (didn't bet)
+Seat 6: Chappolini (small blind) folded before Flop
+
+
+PokerStars Game #102605470342:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:06:37 ET
+Table 'Sumava 40-100 bb' 6-max Seat #6 is the button
+Seat 1: uwbabe ($319 in chips) 
+Seat 4: LgwZ ($679.28 in chips) 
+Seat 5: barrao ($219 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+uwbabe: posts small blind $3
+LgwZ: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+WhatA298 joins the table at seat #2 
+WhatA298 leaves the table
+Chappolini: raises $6 to $12
+uwbabe: raises $18 to $30
+LgwZ: folds 
+Chappolini: folds 
+Uncalled bet ($18) returned to uwbabe
+uwbabe collected $30 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: uwbabe (small blind) collected ($30)
+Seat 4: LgwZ (big blind) folded before Flop
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Chappolini (button) folded before Flop
+
+
+PokerStars Game #102605487156:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:07:01 ET
+Table 'Sumava 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($337 in chips) 
+Seat 4: LgwZ ($673.28 in chips) 
+Seat 5: barrao ($219 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+WhatA298 joins the table at seat #2 
+LgwZ: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Chappolini: folds 
+uwbabe: raises $6 to $12
+LgwZ: folds 
+barrao: calls $6
+*** FLOP *** [6s 6c 9s]
+barrao: bets $9
+uwbabe: calls $9
+*** TURN *** [6s 6c 9s] [4h]
+barrao: checks 
+uwbabe: checks 
+*** RIVER *** [6s 6c 9s 4h] [9h]
+barrao: checks 
+uwbabe: checks 
+*** SHOW DOWN ***
+barrao: shows [Ah 8s] (two pair, Nines and Sixes)
+uwbabe: mucks hand 
+barrao collected $43.50 from pot
+*** SUMMARY ***
+Total pot $45 | Rake $1.50 
+Board [6s 6c 9s 4h 9h]
+Seat 1: uwbabe (button) mucked
+Seat 4: LgwZ (small blind) folded before Flop
+Seat 5: barrao (big blind) showed [Ah 8s] and won ($43.50) with two pair, Nines and Sixes
+Seat 6: Chappolini folded before Flop (didn't bet)
+
+
+PokerStars Game #102605508306:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:07:30 ET
+Table 'Sumava 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($316 in chips) 
+Seat 4: LgwZ ($670.28 in chips) 
+Seat 5: barrao ($241.50 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+barrao: posts small blind $3
+Chappolini: posts big blind $6
+*** HOLE CARDS ***
+WhatA298 leaves the table
+uwbabe: folds 
+LgwZ: folds 
+barrao: raises $9 to $15
+Chappolini: folds 
+Uncalled bet ($9) returned to barrao
+barrao collected $12 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe folded before Flop (didn't bet)
+Seat 4: LgwZ (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) collected ($12)
+Seat 6: Chappolini (big blind) folded before Flop
+
+
+PokerStars Game #102605517265:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:07:43 ET
+Table 'Sumava 40-100 bb' 6-max Seat #5 is the button
+Seat 1: uwbabe ($316 in chips) 
+Seat 4: LgwZ ($670.28 in chips) 
+Seat 5: barrao ($247.50 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+Chappolini: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+LgwZ: folds 
+barrao: folds 
+Chappolini: folds 
+Uncalled bet ($3) returned to uwbabe
+uwbabe collected $6 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: uwbabe (big blind) collected ($6)
+Seat 4: LgwZ folded before Flop (didn't bet)
+Seat 5: barrao (button) folded before Flop (didn't bet)
+Seat 6: Chappolini (small blind) folded before Flop
+
+
+PokerStars Game #102605530049:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:08:01 ET
+Table 'Sumava 40-100 bb' 6-max Seat #6 is the button
+Seat 1: uwbabe ($319 in chips) 
+Seat 4: LgwZ ($670.28 in chips) 
+Seat 5: barrao ($247.50 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+uwbabe: posts small blind $3
+LgwZ: posts big blind $6
+*** HOLE CARDS ***
+barrao: raises $6 to $12
+Chappolini: folds 
+uwbabe: folds 
+LgwZ: folds 
+Uncalled bet ($6) returned to barrao
+barrao collected $15 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: uwbabe (small blind) folded before Flop
+Seat 4: LgwZ (big blind) folded before Flop
+Seat 5: barrao collected ($15)
+Seat 6: Chappolini (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102605549146:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:08:28 ET
+Table 'Sumava 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($316 in chips) 
+Seat 4: LgwZ ($664.28 in chips) 
+Seat 5: barrao ($256.50 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+LgwZ: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Chappolini: raises $9 to $15
+uwbabe: folds 
+LgwZ: calls $12
+barrao: folds 
+*** FLOP *** [6c 6s 8d]
+LgwZ: checks 
+Chappolini: checks 
+*** TURN *** [6c 6s 8d] [7d]
+LgwZ: bets $27
+Chappolini: folds 
+Uncalled bet ($27) returned to LgwZ
+LgwZ collected $34.50 from pot
+LgwZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $1.50 
+Board [6c 6s 8d 7d]
+Seat 1: uwbabe (button) folded before Flop (didn't bet)
+Seat 4: LgwZ (small blind) collected ($34.50)
+Seat 5: barrao (big blind) folded before Flop
+Seat 6: Chappolini folded on the Turn
+
+
+PokerStars Game #102605573738:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:09:02 ET
+Table 'Sumava 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($316 in chips) 
+Seat 4: LgwZ ($683.78 in chips) 
+Seat 5: barrao ($250.50 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+barrao: posts small blind $3
+Chappolini: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+LgwZ: folds 
+barrao: folds 
+Chappolini: folds 
+Uncalled bet ($6) returned to uwbabe
+uwbabe collected $15 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: uwbabe collected ($15)
+Seat 4: LgwZ (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: Chappolini (big blind) folded before Flop
+
+
+PokerStars Game #102605581707:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:09:13 ET
+Table 'Sumava 40-100 bb' 6-max Seat #5 is the button
+Seat 1: uwbabe ($325 in chips) 
+Seat 4: LgwZ ($683.78 in chips) 
+Seat 5: barrao ($247.50 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+Chappolini: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+LgwZ: raises $9 to $15
+barrao: folds 
+WhatA298 joins the table at seat #3 
+vivecrew joins the table at seat #2 
+WhatA298 leaves the table
+Chappolini: folds 
+uwbabe: calls $9
+*** FLOP *** [9c Qh 7h]
+uwbabe: bets $18
+LgwZ: folds 
+Uncalled bet ($18) returned to uwbabe
+uwbabe collected $31.52 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $1.48 
+Board [9c Qh 7h]
+Seat 1: uwbabe (big blind) collected ($31.52)
+Seat 4: LgwZ folded on the Flop
+Seat 5: barrao (button) folded before Flop (didn't bet)
+Seat 6: Chappolini (small blind) folded before Flop
+
+
+PokerStars Game #102605605946:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:09:47 ET
+Table 'Sumava 40-100 bb' 6-max Seat #6 is the button
+Seat 1: uwbabe ($341.52 in chips) 
+Seat 2: vivecrew ($480 in chips) 
+Seat 4: LgwZ ($668.78 in chips) 
+Seat 5: barrao ($247.50 in chips) 
+Seat 6: Chappolini ($600 in chips) 
+uwbabe: posts small blind $3
+vivecrew: posts big blind $6
+*** HOLE CARDS ***
+LgwZ: raises $12 to $18
+barrao: raises $24 to $42
+Chappolini: folds 
+uwbabe: folds 
+vivecrew: raises $438 to $480 and is all-in
+LgwZ: folds 
+barrao: folds 
+Uncalled bet ($438) returned to vivecrew
+vivecrew collected $105 from pot
+*** SUMMARY ***
+Total pot $105 | Rake $0 
+Seat 1: uwbabe (small blind) folded before Flop
+Seat 2: vivecrew (big blind) collected ($105)
+Seat 4: LgwZ folded before Flop
+Seat 5: barrao folded before Flop
+Seat 6: Chappolini (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102606526420:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:30:28 ET
+Table 'Sumava 40-100 bb' 6-max Seat #6 is the button
+Seat 3: Zero 1100101 ($705.56 in chips) 
+Seat 5: barrao ($447.08 in chips) 
+Seat 6: Chappolini ($1165.44 in chips) 
+Zero 1100101: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Chappolini: raises $6 to $12
+Zero 1100101: folds 
+barrao: folds 
+Uncalled bet ($6) returned to Chappolini
+Chappolini collected $15 from pot
+Chappolini: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 3: Zero 1100101 (small blind) folded before Flop
+Seat 5: barrao (big blind) folded before Flop
+Seat 6: Chappolini (button) collected ($15)
+
+
+PokerStars Game #102606539100:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:30:45 ET
+Table 'Sumava 40-100 bb' 6-max Seat #5 is the button
+Seat 3: Zero 1100101 ($702.56 in chips) 
+Seat 5: barrao ($441.08 in chips) 
+barrao: posts small blind $3
+Chappolini: is sitting out 
+Zero 1100101: posts big blind $6
+*** HOLE CARDS ***
+barrao: raises $6 to $12
+WhatA298 leaves the table
+Chappolini leaves the table
+Zero 1100101: raises $30 to $42
+barrao: folds 
+Uncalled bet ($30) returned to Zero 1100101
+Zero 1100101 collected $24 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 3: Zero 1100101 (big blind) collected ($24)
+Seat 5: barrao (button) (small blind) folded before Flop
+
+
+PokerStars Game #102606288282:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:25:12 ET
+Table 'Sumava 40-100 bb' 6-max Seat #3 is the button
+Seat 1: uwbabe ($195 in chips) 
+Seat 2: vivecrew ($600 in chips) 
+Seat 3: Zero 1100101 ($618.36 in chips) 
+Seat 4: pohnken ($762.40 in chips) 
+Seat 5: barrao ($411.08 in chips) 
+Seat 6: Chappolini ($1200.20 in chips) 
+pohnken: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Chappolini: raises $12 to $18
+uwbabe: folds 
+vivecrew: folds 
+Zero 1100101: folds 
+pohnken: folds 
+barrao: folds 
+Uncalled bet ($12) returned to Chappolini
+Chappolini collected $15 from pot
+Chappolini: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: uwbabe folded before Flop (didn't bet)
+Seat 2: vivecrew folded before Flop (didn't bet)
+Seat 3: Zero 1100101 (button) folded before Flop (didn't bet)
+Seat 4: pohnken (small blind) folded before Flop
+Seat 5: barrao (big blind) folded before Flop
+Seat 6: Chappolini collected ($15)
+
+
+PokerStars Game #102606305198:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:25:34 ET
+Table 'Sumava 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($195 in chips) 
+Seat 2: vivecrew ($600 in chips) 
+Seat 3: Zero 1100101 ($618.36 in chips) 
+Seat 4: pohnken ($759.40 in chips) 
+Seat 5: barrao ($405.08 in chips) 
+Seat 6: Chappolini ($1209.20 in chips) 
+barrao: posts small blind $3
+Chappolini: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+vivecrew: folds 
+Zero 1100101: folds 
+pohnken: folds 
+barrao: folds 
+Chappolini: folds 
+Uncalled bet ($6) returned to uwbabe
+uwbabe collected $15 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: uwbabe collected ($15)
+Seat 2: vivecrew folded before Flop (didn't bet)
+Seat 3: Zero 1100101 folded before Flop (didn't bet)
+Seat 4: pohnken (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: Chappolini (big blind) folded before Flop
+
+
+PokerStars Game #102606315840:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:25:49 ET
+Table 'Sumava 40-100 bb' 6-max Seat #5 is the button
+Seat 1: uwbabe ($204 in chips) 
+Seat 2: vivecrew ($600 in chips) 
+Seat 3: Zero 1100101 ($618.36 in chips) 
+Seat 4: pohnken ($759.40 in chips) 
+Seat 5: barrao ($402.08 in chips) 
+Seat 6: Chappolini ($1203.20 in chips) 
+Chappolini: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+vivecrew: folds 
+Zero 1100101: raises $12 to $18
+pohnken: folds 
+barrao: folds 
+Chappolini: folds 
+uwbabe: folds 
+Uncalled bet ($12) returned to Zero 1100101
+Zero 1100101 collected $15 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: uwbabe (big blind) folded before Flop
+Seat 2: vivecrew folded before Flop (didn't bet)
+Seat 3: Zero 1100101 collected ($15)
+Seat 4: pohnken folded before Flop (didn't bet)
+Seat 5: barrao (button) folded before Flop (didn't bet)
+Seat 6: Chappolini (small blind) folded before Flop
+
+
+PokerStars Game #102606331396:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:26:09 ET
+Table 'Sumava 40-100 bb' 6-max Seat #6 is the button
+Seat 1: uwbabe ($198 in chips) 
+Seat 2: vivecrew ($600 in chips) 
+Seat 3: Zero 1100101 ($627.36 in chips) 
+Seat 4: pohnken ($759.40 in chips) 
+Seat 5: barrao ($402.08 in chips) 
+Seat 6: Chappolini ($1200.20 in chips) 
+uwbabe: posts small blind $3
+vivecrew: posts big blind $6
+*** HOLE CARDS ***
+Zero 1100101: folds 
+pohnken: raises $6 to $12
+barrao: folds 
+Chappolini: folds 
+uwbabe: folds 
+vivecrew: calls $6
+*** FLOP *** [Td 8h 3s]
+vivecrew: checks 
+pohnken: checks 
+*** TURN *** [Td 8h 3s] [3h]
+vivecrew: checks 
+pohnken: checks 
+*** RIVER *** [Td 8h 3s 3h] [Js]
+vivecrew: bets $17.27
+pohnken: folds 
+Uncalled bet ($17.27) returned to vivecrew
+vivecrew collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Td 8h 3s 3h Js]
+Seat 1: uwbabe (small blind) folded before Flop
+Seat 2: vivecrew (big blind) collected ($25.78)
+Seat 3: Zero 1100101 folded before Flop (didn't bet)
+Seat 4: pohnken folded on the River
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Chappolini (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102606401577:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:27:43 ET
+Table 'Sumava 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($195 in chips) 
+Seat 2: vivecrew ($613.78 in chips) 
+Seat 3: Zero 1100101 ($627.36 in chips) 
+Seat 5: barrao ($402.08 in chips) 
+Seat 6: Chappolini ($1200.20 in chips) 
+vivecrew: posts small blind $3
+Zero 1100101: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+pohnken leaves the table
+Chappolini: raises $12 to $18
+elvn89 joins the table at seat #4 
+elvn89 leaves the table
+uwbabe: folds 
+vivecrew: folds 
+Zero 1100101: calls $12
+*** FLOP *** [Ad 5c 7h]
+Zero 1100101: checks 
+Chappolini: bets $24
+Zero 1100101: folds 
+Uncalled bet ($24) returned to Chappolini
+Chappolini collected $37.24 from pot
+Chappolini: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [Ad 5c 7h]
+Seat 1: uwbabe (button) folded before Flop (didn't bet)
+Seat 2: vivecrew (small blind) folded before Flop
+Seat 3: Zero 1100101 (big blind) folded on the Flop
+Seat 5: barrao folded before Flop (didn't bet)
+Seat 6: Chappolini collected ($37.24)
+
+
+PokerStars Game #102606437900:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:28:32 ET
+Table 'Sumava 40-100 bb' 6-max Seat #2 is the button
+Seat 1: uwbabe ($195 in chips) 
+Seat 2: vivecrew ($610.78 in chips) 
+Seat 3: Zero 1100101 ($609.36 in chips) 
+Seat 5: barrao ($402.08 in chips) 
+Seat 6: Chappolini ($1219.44 in chips) 
+Zero 1100101: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Chappolini: folds 
+uwbabe: folds 
+vivecrew: raises $6.36 to $12.36
+Zero 1100101: raises $35.64 to $48
+barrao: folds 
+vivecrew: calls $35.64
+*** FLOP *** [8h 7s 8d]
+Zero 1100101: bets $51
+vivecrew: calls $51
+*** TURN *** [8h 7s 8d] [2c]
+Zero 1100101: checks 
+vivecrew: checks 
+*** RIVER *** [8h 7s 8d 2c] [9d]
+Zero 1100101: checks 
+vivecrew: checks 
+*** SHOW DOWN ***
+Zero 1100101: shows [Kh Ad] (a pair of Eights)
+vivecrew: mucks hand 
+Zero 1100101 collected $201.20 from pot
+*** SUMMARY ***
+Total pot $204 | Rake $2.80 
+Board [8h 7s 8d 2c 9d]
+Seat 1: uwbabe folded before Flop (didn't bet)
+Seat 2: vivecrew (button) mucked
+Seat 3: Zero 1100101 (small blind) showed [Kh Ad] and won ($201.20) with a pair of Eights
+Seat 5: barrao (big blind) folded before Flop
+Seat 6: Chappolini folded before Flop (didn't bet)
+
+
+PokerStars Game #102606478669:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:29:27 ET
+Table 'Sumava 40-100 bb' 6-max Seat #3 is the button
+Seat 1: uwbabe ($195 in chips) 
+Seat 2: vivecrew ($511.78 in chips) 
+Seat 3: Zero 1100101 ($711.56 in chips) 
+Seat 5: barrao ($396.08 in chips) 
+Seat 6: Chappolini ($1219.44 in chips) 
+barrao: posts small blind $3
+Chappolini: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: folds 
+vivecrew: raises $6.36 to $12.36
+Zero 1100101: folds 
+barrao: folds 
+Chappolini: folds 
+Uncalled bet ($6.36) returned to vivecrew
+vivecrew collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: uwbabe folded before Flop (didn't bet)
+Seat 2: vivecrew collected ($15)
+Seat 3: Zero 1100101 (button) folded before Flop (didn't bet)
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: Chappolini (big blind) folded before Flop
+
+
+PokerStars Game #102606498541:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:29:52 ET
+Table 'Sumava 40-100 bb' 6-max Seat #5 is the button
+Seat 3: Zero 1100101 ($711.56 in chips) 
+Seat 5: barrao ($393.08 in chips) 
+Seat 6: Chappolini ($1213.44 in chips) 
+Chappolini: posts small blind $3
+uwbabe: is sitting out 
+vivecrew: is sitting out 
+uwbabe leaves the table
+vivecrew leaves the table
+Zero 1100101: posts big blind $6
+*** HOLE CARDS ***
+barrao: raises $6 to $12
+WhatA298 joins the table at seat #4 
+Chappolini: raises $36 to $48
+Zero 1100101: folds 
+barrao: raises $36 to $84
+Chappolini: folds 
+Uncalled bet ($36) returned to barrao
+barrao collected $102 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $102 | Rake $0 
+Seat 3: Zero 1100101 (big blind) folded before Flop
+Seat 5: barrao (button) collected ($102)
+Seat 6: Chappolini (small blind) folded before Flop

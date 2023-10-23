@@ -1,0 +1,759 @@
+
+
+PokerStars Game #102631004765:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:25:33 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($240 in chips) 
+Seat 4: imactually12 ($886 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: folds 
+Uncalled bet ($3) returned to imactually12
+imactually12 collected $6 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: uwbabe (button) (small blind) folded before Flop
+Seat 4: imactually12 (big blind) collected ($6)
+
+
+PokerStars Game #102631010153:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:25:42 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($237 in chips) 
+Seat 4: imactually12 ($889 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (big blind) folded before Flop
+Seat 4: imactually12 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102631014242:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:25:49 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($231 in chips) 
+Seat 4: imactually12 ($895 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to uwbabe
+uwbabe collected $12 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (button) (small blind) collected ($12)
+Seat 4: imactually12 (big blind) folded before Flop
+
+
+PokerStars Game #102631019073:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:25:57 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($237 in chips) 
+Seat 4: imactually12 ($889 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (big blind) folded before Flop
+Seat 4: imactually12 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102631029873:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:26:14 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($231 in chips) 
+Seat 4: imactually12 ($895 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to uwbabe
+uwbabe collected $12 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (button) (small blind) collected ($12)
+Seat 4: imactually12 (big blind) folded before Flop
+
+
+PokerStars Game #102631035185:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:26:23 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($237 in chips) 
+Seat 4: imactually12 ($889 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (big blind) folded before Flop
+Seat 4: imactually12 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102631042745:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:26:35 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($231 in chips) 
+Seat 4: imactually12 ($895 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to uwbabe
+uwbabe collected $12 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (button) (small blind) collected ($12)
+Seat 4: imactually12 (big blind) folded before Flop
+
+
+PokerStars Game #102631047255:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:26:42 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($237 in chips) 
+Seat 4: imactually12 ($889 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (big blind) folded before Flop
+Seat 4: imactually12 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102631051880:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:26:50 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($231 in chips) 
+Seat 4: imactually12 ($895 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: calls $6
+*** FLOP *** [6c Td Kd]
+imactually12: checks 
+uwbabe: bets $9.96
+imactually12: calls $9.96
+*** TURN *** [6c Td Kd] [As]
+imactually12: checks 
+uwbabe: bets $30
+imactually12: calls $30
+*** RIVER *** [6c Td Kd As] [Qc]
+imactually12: checks 
+uwbabe: checks 
+*** SHOW DOWN ***
+imactually12: shows [Kh 4h] (a pair of Kings)
+uwbabe: mucks hand 
+imactually12 collected $103.42 from pot
+*** SUMMARY ***
+Total pot $103.92 | Rake $0.50 
+Board [6c Td Kd As Qc]
+Seat 1: uwbabe (button) (small blind) mucked
+Seat 4: imactually12 (big blind) showed [Kh 4h] and won ($103.42) with a pair of Kings
+
+
+PokerStars Game #102631083216:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:27:41 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($179.04 in chips) 
+Seat 4: imactually12 ($946.46 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (big blind) folded before Flop
+Seat 4: imactually12 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102631087583:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:27:48 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($173.04 in chips) 
+Seat 4: imactually12 ($952.46 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: calls $6
+*** FLOP *** [9h 2c Js]
+imactually12: checks 
+uwbabe: bets $12
+imactually12: raises $24 to $36
+uwbabe: folds 
+Uncalled bet ($24) returned to imactually12
+imactually12 collected $47.50 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $48 | Rake $0.50 
+Board [9h 2c Js]
+Seat 1: uwbabe (button) (small blind) folded on the Flop
+Seat 4: imactually12 (big blind) collected ($47.50)
+
+
+PokerStars Game #102631101460:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:28:11 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($149.04 in chips) 
+Seat 4: imactually12 ($975.96 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (big blind) folded before Flop
+Seat 4: imactually12 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102631106854:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:28:20 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($143.04 in chips) 
+Seat 4: imactually12 ($981.96 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: calls $6
+*** FLOP *** [4s 4c 7d]
+imactually12: checks 
+uwbabe: checks 
+*** TURN *** [4s 4c 7d] [6s]
+imactually12: bets $15
+uwbabe: calls $15
+*** RIVER *** [4s 4c 7d 6s] [8s]
+imactually12: checks 
+uwbabe: checks 
+*** SHOW DOWN ***
+imactually12: shows [8c Jd] (two pair, Eights and Fours)
+uwbabe: mucks hand 
+imactually12 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50 
+Board [4s 4c 7d 6s 8s]
+Seat 1: uwbabe (button) (small blind) mucked
+Seat 4: imactually12 (big blind) showed [8c Jd] and won ($53.50) with two pair, Eights and Fours
+
+
+PokerStars Game #102631126358:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:28:52 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($116.04 in chips) 
+Seat 4: imactually12 ($1008.46 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: calls $6
+*** FLOP *** [2s Jd Ac]
+uwbabe: checks 
+imactually12: checks 
+*** TURN *** [2s Jd Ac] [Jc]
+uwbabe: checks 
+imactually12: checks 
+*** RIVER *** [2s Jd Ac Jc] [5h]
+uwbabe: checks 
+imactually12: checks 
+*** SHOW DOWN ***
+uwbabe: shows [Qh 8d] (a pair of Jacks)
+imactually12: mucks hand 
+uwbabe collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [2s Jd Ac Jc 5h]
+Seat 1: uwbabe (big blind) showed [Qh 8d] and won ($23.50) with a pair of Jacks
+Seat 4: imactually12 (button) (small blind) mucked
+
+
+PokerStars Game #102631138024:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:29:12 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($127.54 in chips) 
+Seat 4: imactually12 ($996.46 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: folds 
+Uncalled bet ($3) returned to imactually12
+imactually12 collected $6 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: uwbabe (button) (small blind) folded before Flop
+Seat 4: imactually12 (big blind) collected ($6)
+
+
+PokerStars Game #102631145698:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:29:24 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($124.54 in chips) 
+Seat 4: imactually12 ($999.46 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: calls $6
+*** FLOP *** [Th 8d Ad]
+uwbabe: checks 
+imactually12: checks 
+*** TURN *** [Th 8d Ad] [Jh]
+uwbabe: checks 
+imactually12: checks 
+*** RIVER *** [Th 8d Ad Jh] [4c]
+uwbabe: checks 
+imactually12: bets $12
+uwbabe: folds 
+Uncalled bet ($12) returned to imactually12
+imactually12 collected $23.50 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Th 8d Ad Jh 4c]
+Seat 1: uwbabe (big blind) folded on the River
+Seat 4: imactually12 (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102631159963:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:29:48 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($112.54 in chips) 
+Seat 4: imactually12 ($1010.96 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: folds 
+Uncalled bet ($3) returned to imactually12
+imactually12 collected $6 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: uwbabe (button) (small blind) folded before Flop
+Seat 4: imactually12 (big blind) collected ($6)
+
+
+PokerStars Game #102631163200:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:29:53 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($109.54 in chips) 
+Seat 4: imactually12 ($1013.96 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: raises $97.54 to $109.54 and is all-in
+imactually12: calls $97.54
+*** FIRST FLOP *** [5c Ac Jc]
+*** FIRST TURN *** [5c Ac Jc] [Qs]
+*** FIRST RIVER *** [5c Ac Jc Qs] [5h]
+*** SECOND FLOP *** [Jh 2h Ad]
+*** SECOND TURN *** [Jh 2h Ad] [Qh]
+*** SECOND RIVER *** [Jh 2h Ad Qh] [8d]
+*** FIRST SHOW DOWN ***
+uwbabe: shows [2s 2d] (two pair, Fives and Deuces)
+imactually12: shows [Td Ah] (two pair, Aces and Fives)
+imactually12 collected $109.29 from pot
+*** SECOND SHOW DOWN ***
+uwbabe: shows [2s 2d] (three of a kind, Deuces)
+imactually12: shows [Td Ah] (a pair of Aces)
+uwbabe collected $109.29 from pot
+*** SUMMARY ***
+Total pot $219.08 | Rake $0.50 
+Hand was run twice
+FIRST Board [5c Ac Jc Qs 5h]
+SECOND Board [Jh 2h Ad Qh 8d]
+Seat 1: uwbabe (big blind) showed [2s 2d] and lost with two pair, Fives and Deuces, and won ($109.29) with three of a kind, Deuces
+Seat 4: imactually12 (button) (small blind) showed [Td Ah] and won ($109.29) with two pair, Aces and Fives, and lost with a pair of Aces
+
+
+PokerStars Game #102630883964:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:22:18 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($240 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+Subv: is sitting out 
+Subv leaves the table
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: calls $6
+*** FLOP *** [Ks 3c 5s]
+uwbabe: checks 
+imactually12: checks 
+*** TURN *** [Ks 3c 5s] [2d]
+uwbabe: bets $12
+imactually12: folds 
+Uncalled bet ($12) returned to uwbabe
+uwbabe collected $23.50 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Ks 3c 5s 2d]
+Seat 1: uwbabe (big blind) collected ($23.50)
+Seat 4: imactually12 (button) (small blind) folded on the Turn
+
+
+PokerStars Game #102630903329:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:22:49 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($251.50 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to uwbabe
+uwbabe collected $12 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (button) (small blind) collected ($12)
+Seat 4: imactually12 (big blind) folded before Flop
+
+
+PokerStars Game #102630911206:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:23:02 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($257.50 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: calls $6
+*** FLOP *** [8d 4h Js]
+uwbabe: checks 
+imactually12: checks 
+*** TURN *** [8d 4h Js] [Qd]
+uwbabe: bets $18
+imactually12: folds 
+Uncalled bet ($18) returned to uwbabe
+uwbabe collected $23.50 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [8d 4h Js Qd]
+Seat 1: uwbabe (big blind) collected ($23.50)
+Seat 4: imactually12 (button) (small blind) folded on the Turn
+
+
+PokerStars Game #102630926550:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:23:27 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($269 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to uwbabe
+uwbabe collected $12 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (button) (small blind) collected ($12)
+Seat 4: imactually12 (big blind) folded before Flop
+
+
+PokerStars Game #102630931143:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:23:34 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($275 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: raises $24 to $36
+imactually12: folds 
+Uncalled bet ($24) returned to uwbabe
+uwbabe collected $24 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: uwbabe (big blind) collected ($24)
+Seat 4: imactually12 (button) (small blind) folded before Flop
+
+
+PokerStars Game #102630938675:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:23:46 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($287 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: calls $6
+*** FLOP *** [8d Td 7c]
+imactually12: checks 
+uwbabe: bets $18
+imactually12: calls $18
+*** TURN *** [8d Td 7c] [6h]
+imactually12: checks 
+uwbabe: bets $36
+imactually12: calls $36
+*** RIVER *** [8d Td 7c 6h] [Qc]
+imactually12: checks 
+uwbabe: checks 
+*** SHOW DOWN ***
+imactually12: shows [Kh 9h] (a straight, Six to Ten)
+uwbabe: mucks hand 
+imactually12 collected $131.50 from pot
+*** SUMMARY ***
+Total pot $132 | Rake $0.50 
+Board [8d Td 7c 6h Qc]
+Seat 1: uwbabe (button) (small blind) mucked
+Seat 4: imactually12 (big blind) showed [Kh 9h] and won ($131.50) with a straight, Six to Ten
+
+
+PokerStars Game #102630959819:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:24:20 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($221 in chips) 
+Seat 4: imactually12 ($665.50 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (big blind) folded before Flop
+Seat 4: imactually12 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102630969327:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:24:36 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($215 in chips) 
+Seat 4: imactually12 ($671.50 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to uwbabe
+uwbabe collected $12 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (button) (small blind) collected ($12)
+Seat 4: imactually12 (big blind) folded before Flop
+
+
+PokerStars Game #102630975410:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:24:46 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($221 in chips) 
+Seat 4: imactually12 ($665.50 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: calls $6
+*** FLOP *** [6s 3h Js]
+uwbabe: checks 
+imactually12: bets $18
+uwbabe: calls $18
+*** TURN *** [6s 3h Js] [2h]
+uwbabe: bets $24
+imactually12: raises $42 to $66
+uwbabe: raises $125 to $191 and is all-in
+imactually12: calls $125
+*** FIRST RIVER *** [6s 3h Js 2h] [2c]
+*** SECOND RIVER *** [6s 3h Js 2h] [Qd]
+*** FIRST SHOW DOWN ***
+uwbabe: shows [4h Jh] (two pair, Jacks and Deuces)
+imactually12: shows [Kh Kd] (two pair, Kings and Deuces)
+imactually12 collected $220.75 from pot
+*** SECOND SHOW DOWN ***
+uwbabe: shows [4h Jh] (a pair of Jacks)
+imactually12: shows [Kh Kd] (a pair of Kings)
+imactually12 collected $220.75 from pot
+*** SUMMARY ***
+Total pot $442 | Rake $0.50 
+Hand was run twice
+FIRST Board [6s 3h Js 2h 2c]
+SECOND Board [6s 3h Js 2h Qd]
+Seat 1: uwbabe (big blind) showed [4h Jh] and lost with two pair, Jacks and Deuces, and lost with a pair of Jacks
+Seat 4: imactually12 (button) (small blind) showed [Kh Kd] and won ($220.75) with two pair, Kings and Deuces, and won ($220.75) with a pair of Kings
+
+
+PokerStars Game #102631175931:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:30:14 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($109.29 in chips) 
+Seat 4: imactually12 ($1013.71 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $103.29 to $109.29 and is all-in
+imactually12 said, "hmm"
+imactually12 said, "i guess i flip"
+imactually12: calls $103.29
+*** FIRST FLOP *** [3s 9d 5d]
+*** FIRST TURN *** [3s 9d 5d] [7s]
+*** FIRST RIVER *** [3s 9d 5d 7s] [Qh]
+*** SECOND FLOP *** [6c 2h 4s]
+*** SECOND TURN *** [6c 2h 4s] [Jc]
+*** SECOND RIVER *** [6c 2h 4s Jc] [5s]
+*** FIRST SHOW DOWN ***
+imactually12: shows [Ac As] (a pair of Aces)
+uwbabe: shows [2s 2d] (a pair of Deuces)
+imactually12 collected $109.04 from pot
+*** SECOND SHOW DOWN ***
+imactually12: shows [Ac As] (a pair of Aces)
+uwbabe: shows [2s 2d] (three of a kind, Deuces)
+uwbabe collected $109.04 from pot
+*** SUMMARY ***
+Total pot $218.58 | Rake $0.50 
+Hand was run twice
+FIRST Board [3s 9d 5d 7s Qh]
+SECOND Board [6c 2h 4s Jc 5s]
+Seat 1: uwbabe (button) (small blind) showed [2s 2d] and lost with a pair of Deuces, and won ($109.04) with three of a kind, Deuces
+Seat 4: imactually12 (big blind) showed [Ac As] and won ($109.04) with a pair of Aces, and lost with a pair of Aces
+
+
+PokerStars Game #102631193625:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:30:43 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($109.04 in chips) 
+Seat 4: imactually12 ($1013.46 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (big blind) folded before Flop
+Seat 4: imactually12 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102631197995:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:30:50 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($103.04 in chips) 
+Seat 4: imactually12 ($1019.46 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: folds 
+Uncalled bet ($3) returned to imactually12
+imactually12 collected $6 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: uwbabe (button) (small blind) folded before Flop
+Seat 4: imactually12 (big blind) collected ($6)
+
+
+PokerStars Game #102631201840:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:30:56 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($100.04 in chips) 
+Seat 4: imactually12 ($1022.46 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: calls $6
+*** FLOP *** [8s Th Ac]
+uwbabe: checks 
+imactually12: checks 
+*** TURN *** [8s Th Ac] [5h]
+uwbabe: bets $9
+imactually12: calls $9
+*** RIVER *** [8s Th Ac 5h] [7c]
+uwbabe: checks 
+imactually12: checks 
+*** SHOW DOWN ***
+uwbabe: shows [Kd Qc] (high card Ace)
+imactually12: shows [2d Td] (a pair of Tens)
+imactually12 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50 
+Board [8s Th Ac 5h 7c]
+Seat 1: uwbabe (big blind) showed [Kd Qc] and lost with high card Ace
+Seat 4: imactually12 (button) (small blind) showed [2d Td] and won ($41.50) with a pair of Tens
+
+
+PokerStars Game #102631225198:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:31:34 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($79.04 in chips) 
+Seat 4: imactually12 ($1042.96 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: calls $6
+*** FLOP *** [5s Ac 4c]
+imactually12: checks 
+uwbabe: checks 
+*** TURN *** [5s Ac 4c] [As]
+imactually12: checks 
+uwbabe: bets $12
+imactually12: folds 
+Uncalled bet ($12) returned to uwbabe
+uwbabe collected $23.50 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [5s Ac 4c As]
+Seat 1: uwbabe (button) (small blind) collected ($23.50)
+Seat 4: imactually12 (big blind) folded on the Turn
+
+
+PokerStars Game #102631247025:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:32:10 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($90.54 in chips) 
+Seat 4: imactually12 ($1030.96 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (big blind) folded before Flop
+Seat 4: imactually12 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102631263763:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:32:38 ET
+Table 'Luthera VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($84.54 in chips) 
+Seat 4: imactually12 ($1036.96 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to uwbabe
+uwbabe collected $12 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (button) (small blind) collected ($12)
+Seat 4: imactually12 (big blind) folded before Flop

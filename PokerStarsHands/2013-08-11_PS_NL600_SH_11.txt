@@ -1,0 +1,2805 @@
+
+
+PokerStars Game #102593972028:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:45:22 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($759.10 in chips) 
+Seat 5: king10clubs ($611.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: folds 
+Uncalled bet ($3) returned to king10clubs
+king10clubs collected $6 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) folded before Flop
+Seat 5: king10clubs (big blind) collected ($6)
+
+
+PokerStars Game #102593974430:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:45:32 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($756.10 in chips) 
+Seat 5: king10clubs ($614.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102593976260:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:45:39 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($750.10 in chips) 
+Seat 5: king10clubs ($620.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102593978730:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:45:49 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($756.10 in chips) 
+Seat 5: king10clubs ($614.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [4s 3h 7c]
+vjxbkf: checks 
+king10clubs: bets $16
+pro montreal joins the table at seat #6 
+pro montreal leaves the table
+vjxbkf: folds 
+Uncalled bet ($16) returned to king10clubs
+king10clubs collected $23.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [4s 3h 7c]
+Seat 2: vjxbkf (big blind) folded on the Flop
+Seat 5: king10clubs (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102593989037:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:46:31 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($744.10 in chips) 
+Seat 5: king10clubs ($626 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: folds 
+Uncalled bet ($3) returned to king10clubs
+king10clubs collected $6 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) folded before Flop
+Seat 5: king10clubs (big blind) collected ($6)
+
+
+PokerStars Game #102593992763:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:46:46 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($741.10 in chips) 
+Seat 5: king10clubs ($629 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: raises $30 to $42
+king10clubs: folds 
+Uncalled bet ($30) returned to vjxbkf
+vjxbkf collected $24 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: vjxbkf (big blind) collected ($24)
+Seat 5: king10clubs (button) (small blind) folded before Flop
+
+
+PokerStars Game #102593998221:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:47:08 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($753.10 in chips) 
+Seat 5: king10clubs ($617 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102594001483:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:47:21 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($759.10 in chips) 
+Seat 5: king10clubs ($611 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102594003666:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:47:30 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($753.10 in chips) 
+Seat 5: king10clubs ($617 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [6c 8d Qd]
+king10clubs: checks 
+vjxbkf: bets $15
+king10clubs: raises $38 to $53
+vjxbkf: calls $38
+*** TURN *** [6c 8d Qd] [4c]
+king10clubs: checks 
+vjxbkf: checks 
+*** RIVER *** [6c 8d Qd 4c] [Ks]
+king10clubs: bets $114
+vjxbkf: folds 
+Uncalled bet ($114) returned to king10clubs
+king10clubs collected $129.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $130 | Rake $0.50 
+Board [6c 8d Qd 4c Ks]
+Seat 2: vjxbkf (button) (small blind) folded on the River
+Seat 5: king10clubs (big blind) collected ($129.50)
+
+
+PokerStars Game #102594031569:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:49:21 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($688.10 in chips) 
+Seat 5: king10clubs ($681.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [Js 5c 2h]
+vjxbkf: checks 
+king10clubs: bets $15
+vjxbkf: raises $30 to $45
+king10clubs: folds 
+Uncalled bet ($30) returned to vjxbkf
+vjxbkf collected $53.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $54 | Rake $0.50 
+Board [Js 5c 2h]
+Seat 2: vjxbkf (big blind) collected ($53.50)
+Seat 5: king10clubs (button) (small blind) folded on the Flop
+
+
+PokerStars Game #102593897385:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:40:15 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($611.50 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102593899701:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:40:25 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($617.50 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102593903171:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:40:39 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($611.50 in chips) 
+Seat 5: king10clubs ($606 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102593907132:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:40:55 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($617.50 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [Kd Tc Ah]
+vjxbkf: bets $18
+king10clubs: folds 
+Uncalled bet ($18) returned to vjxbkf
+vjxbkf collected $23.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Kd Tc Ah]
+Seat 2: vjxbkf (big blind) collected ($23.50)
+Seat 5: king10clubs (button) (small blind) folded on the Flop
+
+
+PokerStars Game #102593914700:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:41:27 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($629 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102593917060:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:41:37 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($635 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [2c 8d 5s]
+vjxbkf: bets $18
+king10clubs: raises $36 to $54
+vjxbkf: folds 
+Uncalled bet ($36) returned to king10clubs
+king10clubs collected $59.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $60 | Rake $0.50 
+Board [2c 8d 5s]
+Seat 2: vjxbkf (big blind) folded on the Flop
+Seat 5: king10clubs (button) (small blind) collected ($59.50)
+
+
+PokerStars Game #102593929543:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:42:28 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($605 in chips) 
+Seat 5: king10clubs ($629.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [5h 8d 5d]
+king10clubs: checks 
+vjxbkf: bets $15
+king10clubs: raises $39 to $54
+vjxbkf: calls $39
+*** TURN *** [5h 8d 5d] [7h]
+king10clubs: bets $100.60
+vjxbkf: calls $100.60
+*** RIVER *** [5h 8d 5d 7h] [7c]
+king10clubs: checks 
+vjxbkf: bets $201
+king10clubs: folds 
+Uncalled bet ($201) returned to vjxbkf
+vjxbkf collected $332.70 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $333.20 | Rake $0.50 
+Board [5h 8d 5d 7h 7c]
+Seat 2: vjxbkf (button) (small blind) collected ($332.70)
+Seat 5: king10clubs (big blind) folded on the River
+
+
+PokerStars Game #102593963374:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:44:47 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($771.10 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [2s 6s Kd]
+vjxbkf: checks 
+king10clubs: bets $15
+vjxbkf: folds 
+Uncalled bet ($15) returned to king10clubs
+king10clubs collected $23.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [2s 6s Kd]
+Seat 2: vjxbkf (big blind) folded on the Flop
+Seat 5: king10clubs (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102593877688:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:38:52 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: folds 
+Uncalled bet ($3) returned to king10clubs
+king10clubs collected $6 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) folded before Flop
+Seat 5: king10clubs (big blind) collected ($6)
+
+
+PokerStars Game #102593880660:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:39:04 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($603 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102593882935:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:39:14 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($609 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: folds 
+Uncalled bet ($3) returned to king10clubs
+king10clubs collected $6 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) folded before Flop
+Seat 5: king10clubs (big blind) collected ($6)
+
+
+PokerStars Game #102593884745:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:39:22 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($612 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [Jd Qh Ts]
+vjxbkf: checks 
+king10clubs: checks 
+*** TURN *** [Jd Qh Ts] [2c]
+vjxbkf: checks 
+king10clubs: checks 
+*** RIVER *** [Jd Qh Ts 2c] [9h]
+vjxbkf: checks 
+king10clubs: checks 
+*** SHOW DOWN ***
+vjxbkf: shows [7s 4s] (high card Queen)
+king10clubs: mucks hand 
+vjxbkf collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Jd Qh Ts 2c 9h]
+Seat 2: vjxbkf (big blind) showed [7s 4s] and won ($23.50) with high card Queen
+Seat 5: king10clubs (button) (small blind) mucked
+
+
+PokerStars Game #102594042302:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:50:04 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($714.60 in chips) 
+Seat 5: king10clubs ($654.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102594045352:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:50:17 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($720.60 in chips) 
+Seat 5: king10clubs ($648.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [2c Ad 8c]
+vjxbkf: bets $18
+king10clubs: calls $18
+*** TURN *** [2c Ad 8c] [Kc]
+vjxbkf: bets $48
+king10clubs: folds 
+Uncalled bet ($48) returned to vjxbkf
+vjxbkf collected $59.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $60 | Rake $0.50 
+Board [2c Ad 8c Kc]
+Seat 2: vjxbkf (big blind) collected ($59.50)
+Seat 5: king10clubs (button) (small blind) folded on the Turn
+
+
+PokerStars Game #102594061330:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:51:21 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($750.10 in chips) 
+Seat 5: king10clubs ($618.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: raises $33 to $45
+vjxbkf: folds 
+Uncalled bet ($33) returned to king10clubs
+king10clubs collected $24 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) folded before Flop
+Seat 5: king10clubs (big blind) collected ($24)
+
+
+PokerStars Game #102594067151:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:51:45 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($738.10 in chips) 
+Seat 5: king10clubs ($630.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+Uncalled bet ($3) returned to vjxbkf
+vjxbkf collected $6 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: vjxbkf (big blind) collected ($6)
+Seat 5: king10clubs (button) (small blind) folded before Flop
+
+
+PokerStars Game #102594068594:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:51:51 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($741.10 in chips) 
+Seat 5: king10clubs ($627.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: raises $33 to $45
+vjxbkf: calls $33
+*** FLOP *** [7c Jh 3c]
+king10clubs: checks 
+vjxbkf: bets $54
+king10clubs: folds 
+Uncalled bet ($54) returned to vjxbkf
+vjxbkf collected $89.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $90 | Rake $0.50 
+Board [7c Jh 3c]
+Seat 2: vjxbkf (button) (small blind) collected ($89.50)
+Seat 5: king10clubs (big blind) folded on the Flop
+
+
+PokerStars Game #102594084247:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:52:53 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($785.60 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102594086704:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:53:03 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($779.60 in chips) 
+Seat 5: king10clubs ($606 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102594088962:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:53:12 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($785.60 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102594091192:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:53:22 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($779.60 in chips) 
+Seat 5: king10clubs ($606 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102594093197:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:53:30 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($785.60 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+Uncalled bet ($3) returned to vjxbkf
+vjxbkf collected $6 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: vjxbkf (big blind) collected ($6)
+Seat 5: king10clubs (button) (small blind) folded before Flop
+
+
+PokerStars Game #102594094380:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:53:34 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($788.60 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [6c 4d 3c]
+king10clubs: checks 
+vjxbkf: checks 
+*** TURN *** [6c 4d 3c] [9c]
+king10clubs: checks 
+vjxbkf: checks 
+*** RIVER *** [6c 4d 3c 9c] [Ks]
+king10clubs: bets $18
+vjxbkf: calls $18
+*** SHOW DOWN ***
+king10clubs: shows [7s Kh] (a pair of Kings)
+vjxbkf: shows [Kc As] (a pair of Kings - Ace kicker)
+vjxbkf collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50 
+Board [6c 4d 3c 9c Ks]
+Seat 2: vjxbkf (button) (small blind) showed [Kc As] and won ($59.50) with a pair of Kings
+Seat 5: king10clubs (big blind) showed [7s Kh] and lost with a pair of Kings
+
+
+PokerStars Game #102594108919:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:54:32 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($818.10 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102594114522:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:54:55 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($812.10 in chips) 
+Seat 5: king10clubs ($606 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102594392440:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:12:30 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1004 in chips) 
+Seat 5: king10clubs ($1070 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102594394660:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:12:38 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1010 in chips) 
+Seat 5: king10clubs ($1064 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102594398290:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:12:49 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1004 in chips) 
+Seat 5: king10clubs ($1070 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102594401419:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:13:00 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1010 in chips) 
+Seat 5: king10clubs ($1064 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: raises $36 to $48
+king10clubs: calls $36
+*** FLOP *** [Js Kh 6d]
+vjxbkf: bets $75
+king10clubs: calls $75
+*** TURN *** [Js Kh 6d] [Qd]
+vjxbkf: bets $204
+king10clubs: folds 
+Uncalled bet ($204) returned to vjxbkf
+vjxbkf collected $245.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $246 | Rake $0.50 
+Board [Js Kh 6d Qd]
+Seat 2: vjxbkf (big blind) collected ($245.50)
+Seat 5: king10clubs (button) (small blind) folded on the Turn
+
+
+PokerStars Game #102594432104:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:14:42 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1132.50 in chips) 
+Seat 5: king10clubs ($941 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [3s 6d 2c]
+king10clubs: checks 
+vjxbkf: checks 
+*** TURN *** [3s 6d 2c] [Qs]
+king10clubs: checks 
+vjxbkf: checks 
+*** RIVER *** [3s 6d 2c Qs] [2h]
+king10clubs: checks 
+vjxbkf: bets $15
+king10clubs: folds 
+Uncalled bet ($15) returned to vjxbkf
+vjxbkf collected $23.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [3s 6d 2c Qs 2h]
+Seat 2: vjxbkf (button) (small blind) collected ($23.50)
+Seat 5: king10clubs (big blind) folded on the River
+
+
+PokerStars Game #102594291313:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:06:47 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($1475.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [Ac 8c Kd]
+king10clubs: checks 
+vjxbkf: bets $15
+king10clubs: calls $15
+*** TURN *** [Ac 8c Kd] [4c]
+king10clubs: checks 
+vjxbkf: bets $36
+king10clubs: raises $84 to $120
+vjxbkf: calls $84
+*** RIVER *** [Ac 8c Kd 4c] [Js]
+king10clubs: checks 
+vjxbkf: checks 
+*** SHOW DOWN ***
+king10clubs: shows [Qd Jc] (a pair of Jacks)
+vjxbkf: shows [Ad Qc] (a pair of Aces)
+vjxbkf collected $293.50 from pot
+*** SUMMARY ***
+Total pot $294 | Rake $0.50 
+Board [Ac 8c Kd 4c Js]
+Seat 2: vjxbkf (button) (small blind) showed [Ad Qc] and won ($293.50) with a pair of Aces
+Seat 5: king10clubs (big blind) showed [Qd Jc] and lost with a pair of Jacks
+
+
+PokerStars Game #102594318137:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:08:20 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($746.50 in chips) 
+Seat 5: king10clubs ($1328.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: raises $30 to $42
+king10clubs: folds 
+Uncalled bet ($30) returned to vjxbkf
+vjxbkf collected $24 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: vjxbkf (big blind) collected ($24)
+Seat 5: king10clubs (button) (small blind) folded before Flop
+
+
+PokerStars Game #102594323387:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:08:38 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($758.50 in chips) 
+Seat 5: king10clubs ($1316.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [Ah As Ts]
+king10clubs: checks 
+vjxbkf: checks 
+*** TURN *** [Ah As Ts] [5h]
+king10clubs: bets $21
+vjxbkf: folds 
+Uncalled bet ($21) returned to king10clubs
+king10clubs collected $23.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Ah As Ts 5h]
+Seat 2: vjxbkf (button) (small blind) folded on the Turn
+Seat 5: king10clubs (big blind) collected ($23.50)
+
+
+PokerStars Game #102594333817:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:09:13 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($746.50 in chips) 
+Seat 5: king10clubs ($1328 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102594338056:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:09:28 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($740.50 in chips) 
+Seat 5: king10clubs ($1334 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102594340551:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:09:36 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($746.50 in chips) 
+Seat 5: king10clubs ($1328 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: raises $30 to $42
+king10clubs: calls $30
+*** FLOP *** [6c 3d Ac]
+vjxbkf: bets $66
+king10clubs: calls $66
+*** TURN *** [6c 3d Ac] [6d]
+vjxbkf: bets $150
+king10clubs: calls $150
+*** RIVER *** [6c 3d Ac 6d] [9h]
+vjxbkf: bets $488.50 and is all-in
+king10clubs: folds 
+Uncalled bet ($488.50) returned to vjxbkf
+vjxbkf collected $515.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $516 | Rake $0.50 
+Board [6c 3d Ac 6d 9h]
+Seat 2: vjxbkf (big blind) collected ($515.50)
+Seat 5: king10clubs (button) (small blind) folded on the River
+
+
+PokerStars Game #102594221718:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:02:41 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($1357 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102594224445:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:02:51 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($606 in chips) 
+Seat 5: king10clubs ($1351 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102594227208:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:03:01 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($600 in chips) 
+Seat 5: king10clubs ($1357 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [Ah Js 3s]
+king10clubs: checks 
+vjxbkf: bets $15
+king10clubs: folds 
+Uncalled bet ($15) returned to vjxbkf
+vjxbkf collected $23.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Ah Js 3s]
+Seat 2: vjxbkf (button) (small blind) collected ($23.50)
+Seat 5: king10clubs (big blind) folded on the Flop
+
+
+PokerStars Game #102594236891:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:03:36 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($611.50 in chips) 
+Seat 5: king10clubs ($1345 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+Uncalled bet ($3) returned to vjxbkf
+vjxbkf collected $6 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: vjxbkf (big blind) collected ($6)
+Seat 5: king10clubs (button) (small blind) folded before Flop
+
+
+PokerStars Game #102594238712:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:03:43 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($614.50 in chips) 
+Seat 5: king10clubs ($1342 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [6d Js Td]
+king10clubs: checks 
+vjxbkf: bets $15
+king10clubs: folds 
+Uncalled bet ($15) returned to vjxbkf
+vjxbkf collected $23.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [6d Js Td]
+Seat 2: vjxbkf (button) (small blind) collected ($23.50)
+Seat 5: king10clubs (big blind) folded on the Flop
+
+
+PokerStars Game #102594249898:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:04:22 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($626 in chips) 
+Seat 5: king10clubs ($1330 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [Ac 7s 3h]
+vjxbkf: checks 
+king10clubs: bets $14
+vjxbkf: raises $30 to $44
+king10clubs: calls $30
+*** TURN *** [Ac 7s 3h] [2h]
+vjxbkf: bets $90
+king10clubs: calls $90
+*** RIVER *** [Ac 7s 3h 2h] [Kd]
+vjxbkf: checks 
+king10clubs: checks 
+*** SHOW DOWN ***
+vjxbkf: shows [Jd 7c] (a pair of Sevens)
+king10clubs: shows [2d Ah] (two pair, Aces and Deuces)
+king10clubs collected $291.50 from pot
+*** SUMMARY ***
+Total pot $292 | Rake $0.50 
+Board [Ac 7s 3h 2h Kd]
+Seat 2: vjxbkf (big blind) showed [Jd 7c] and lost with a pair of Sevens
+Seat 5: king10clubs (button) (small blind) showed [2d Ah] and won ($291.50) with two pair, Aces and Deuces
+
+
+PokerStars Game #102594117715:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:55:08 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($818.10 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [2c As 3c]
+vjxbkf: checks 
+king10clubs: bets $16
+vjxbkf: raises $32 to $48
+king10clubs: calls $32
+*** TURN *** [2c As 3c] [Th]
+vjxbkf: bets $96
+king10clubs: folds 
+Uncalled bet ($96) returned to vjxbkf
+vjxbkf collected $119.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $120 | Rake $0.50 
+Board [2c As 3c Th]
+Seat 2: vjxbkf (big blind) collected ($119.50)
+Seat 5: king10clubs (button) (small blind) folded on the Turn
+
+
+PokerStars Game #102594135644:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:56:33 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($877.60 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: raises $33 to $45
+vjxbkf: folds 
+Uncalled bet ($33) returned to king10clubs
+king10clubs collected $24 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) folded before Flop
+Seat 5: king10clubs (big blind) collected ($24)
+
+
+PokerStars Game #102594143763:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:57:11 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($865.60 in chips) 
+Seat 5: king10clubs ($612 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [3d As 9d]
+vjxbkf: checks 
+king10clubs: bets $15
+vjxbkf: raises $30 to $45
+king10clubs: calls $30
+*** TURN *** [3d As 9d] [5s]
+vjxbkf: bets $90
+king10clubs: calls $90
+*** RIVER *** [3d As 9d 5s] [Ks]
+vjxbkf: checks 
+king10clubs: checks 
+*** SHOW DOWN ***
+vjxbkf: shows [2d Qd] (high card Ace)
+king10clubs: shows [Ad 2h] (a pair of Aces)
+king10clubs collected $293.50 from pot
+*** SUMMARY ***
+Total pot $294 | Rake $0.50 
+Board [3d As 9d 5s Ks]
+Seat 2: vjxbkf (big blind) showed [2d Qd] and lost with high card Ace
+Seat 5: king10clubs (button) (small blind) showed [Ad 2h] and won ($293.50) with a pair of Aces
+
+
+PokerStars Game #102594166846:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:58:58 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($718.60 in chips) 
+Seat 5: king10clubs ($758.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102594170322:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:59:14 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($724.60 in chips) 
+Seat 5: king10clubs ($752.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: raises $30 to $42
+king10clubs: folds 
+Uncalled bet ($30) returned to vjxbkf
+vjxbkf collected $24 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: vjxbkf (big blind) collected ($24)
+Seat 5: king10clubs (button) (small blind) folded before Flop
+
+
+PokerStars Game #102594175343:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:59:37 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($736.60 in chips) 
+Seat 5: king10clubs ($740.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102594178262:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 2:59:50 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($742.60 in chips) 
+Seat 5: king10clubs ($734.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: raises $30 to $42
+king10clubs: calls $30
+*** FLOP *** [Js Kh 4h]
+vjxbkf: bets $66
+king10clubs: calls $66
+*** TURN *** [Js Kh 4h] [4c]
+vjxbkf: bets $150
+king10clubs: calls $150
+*** RIVER *** [Js Kh 4h 4c] [9c]
+vjxbkf: checks 
+king10clubs: bets $365
+vjxbkf: calls $365
+*** SHOW DOWN ***
+king10clubs: shows [4s 8s] (three of a kind, Fours)
+vjxbkf: mucks hand 
+king10clubs collected $1245.50 from pot
+*** SUMMARY ***
+Total pot $1246 | Rake $0.50 
+Board [Js Kh 4h 4c 9c]
+Seat 2: vjxbkf (big blind) mucked
+Seat 5: king10clubs (button) (small blind) showed [4s 8s] and won ($1245.50) with three of a kind, Fours
+
+
+PokerStars Game #102594641587:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:25:42 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: NutPopper ($209.22 in chips) 
+Seat 2: vjxbkf ($1130.52 in chips) 
+Seat 3: HoldenUte03 ($255.98 in chips) 
+Seat 4: o.miro ($600 in chips) 
+Seat 5: king10clubs ($958 in chips) 
+Seat 6: checkitout12 ($240 in chips) 
+NutPopper: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+HoldenUte03: folds 
+o.miro: raises $9 to $15
+king10clubs: folds 
+checkitout12: folds 
+NutPopper: calls $12
+vjxbkf: folds 
+*** FLOP *** [2s 6s Qd]
+NutPopper: bets $12
+o.miro: calls $12
+*** TURN *** [2s 6s Qd] [9d]
+NutPopper: bets $6.78
+o.miro: calls $6.78
+*** RIVER *** [2s 6s Qd 9d] [2d]
+NutPopper: checks 
+o.miro: checks 
+*** SHOW DOWN ***
+NutPopper: shows [8c 8s] (two pair, Eights and Deuces)
+o.miro: mucks hand 
+NutPopper collected $70.76 from pot
+*** SUMMARY ***
+Total pot $73.56 | Rake $2.80 
+Board [2s 6s Qd 9d 2d]
+Seat 1: NutPopper (small blind) showed [8c 8s] and won ($70.76) with two pair, Eights and Deuces
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 3: HoldenUte03 folded before Flop (didn't bet)
+Seat 4: o.miro mucked
+Seat 5: king10clubs folded before Flop (didn't bet)
+Seat 6: checkitout12 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102594670958:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:27:10 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: NutPopper ($246.20 in chips) 
+Seat 2: vjxbkf ($1124.52 in chips) 
+Seat 3: HoldenUte03 ($255.98 in chips) 
+Seat 4: o.miro ($600 in chips) 
+Seat 5: king10clubs ($958 in chips) 
+Seat 6: checkitout12 ($240 in chips) 
+vjxbkf: posts small blind $3
+HoldenUte03: posts big blind $6
+*** HOLE CARDS ***
+o.miro: raises $9 to $15
+king10clubs: folds 
+checkitout12: folds 
+NutPopper: folds 
+vjxbkf: folds 
+HoldenUte03: folds 
+Uncalled bet ($9) returned to o.miro
+o.miro collected $15 from pot
+o.miro: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: NutPopper (button) folded before Flop (didn't bet)
+Seat 2: vjxbkf (small blind) folded before Flop
+Seat 3: HoldenUte03 (big blind) folded before Flop
+Seat 4: o.miro collected ($15)
+Seat 5: king10clubs folded before Flop (didn't bet)
+Seat 6: checkitout12 folded before Flop (didn't bet)
+
+
+PokerStars Game #102594680579:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:27:38 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: NutPopper ($246.20 in chips) 
+Seat 2: vjxbkf ($1121.52 in chips) 
+Seat 3: HoldenUte03 ($249.98 in chips) 
+Seat 4: o.miro ($609 in chips) 
+Seat 5: king10clubs ($958 in chips) 
+Seat 6: checkitout12 ($240 in chips) 
+HoldenUte03: posts small blind $3
+o.miro: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $12 to $18
+checkitout12: folds 
+NutPopper: calls $18
+vjxbkf: folds 
+HoldenUte03: calls $15
+o.miro: folds 
+*** FLOP *** [Jh 7c Qc]
+HoldenUte03: checks 
+king10clubs: checks 
+NutPopper: checks 
+*** TURN *** [Jh 7c Qc] [8d]
+HoldenUte03: bets $36
+king10clubs: folds 
+NutPopper: folds 
+Uncalled bet ($36) returned to HoldenUte03
+HoldenUte03 collected $57.30 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $2.70 
+Board [Jh 7c Qc 8d]
+Seat 1: NutPopper folded on the Turn
+Seat 2: vjxbkf (button) folded before Flop (didn't bet)
+Seat 3: HoldenUte03 (small blind) collected ($57.30)
+Seat 4: o.miro (big blind) folded before Flop
+Seat 5: king10clubs folded on the Turn
+Seat 6: checkitout12 folded before Flop (didn't bet)
+
+
+PokerStars Game #102594706827:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:28:58 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: NutPopper ($228.20 in chips) 
+Seat 2: vjxbkf ($1121.52 in chips) 
+Seat 3: HoldenUte03 ($289.28 in chips) 
+Seat 4: o.miro ($603 in chips) 
+Seat 5: king10clubs ($940 in chips) 
+Seat 6: checkitout12 ($240 in chips) 
+o.miro: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+checkitout12: folds 
+NutPopper: folds 
+vjxbkf: folds 
+HoldenUte03: folds 
+o.miro: folds 
+Uncalled bet ($3) returned to king10clubs
+king10clubs collected $6 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: NutPopper folded before Flop (didn't bet)
+Seat 2: vjxbkf folded before Flop (didn't bet)
+Seat 3: HoldenUte03 (button) folded before Flop (didn't bet)
+Seat 4: o.miro (small blind) folded before Flop
+Seat 5: king10clubs (big blind) collected ($6)
+Seat 6: checkitout12 folded before Flop (didn't bet)
+
+
+PokerStars Game #102594712389:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:29:15 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: NutPopper ($228.20 in chips) 
+Seat 2: vjxbkf ($1121.52 in chips) 
+Seat 3: HoldenUte03 ($289.28 in chips) 
+Seat 4: o.miro ($600 in chips) 
+Seat 5: king10clubs ($943 in chips) 
+Seat 6: checkitout12 ($240 in chips) 
+king10clubs: posts small blind $3
+checkitout12: posts big blind $6
+*** HOLE CARDS ***
+NutPopper: folds 
+vjxbkf: raises $15 to $21
+HoldenUte03: folds 
+o.miro: folds 
+king10clubs: folds 
+checkitout12: folds 
+Uncalled bet ($15) returned to vjxbkf
+vjxbkf collected $15 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: NutPopper folded before Flop (didn't bet)
+Seat 2: vjxbkf collected ($15)
+Seat 3: HoldenUte03 folded before Flop (didn't bet)
+Seat 4: o.miro (button) folded before Flop (didn't bet)
+Seat 5: king10clubs (small blind) folded before Flop
+Seat 6: checkitout12 (big blind) folded before Flop
+
+
+PokerStars Game #102594726782:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:29:58 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: NutPopper ($228.20 in chips) 
+Seat 2: vjxbkf ($1130.52 in chips) 
+Seat 3: HoldenUte03 ($289.28 in chips) 
+Seat 4: o.miro ($600 in chips) 
+Seat 5: king10clubs ($940 in chips) 
+Seat 6: checkitout12 ($240 in chips) 
+checkitout12: posts small blind $3
+NutPopper: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: folds 
+HoldenUte03: folds 
+o.miro: folds 
+king10clubs: raises $6 to $12
+checkitout12: folds 
+NutPopper: raises $18 to $30
+king10clubs: folds 
+Uncalled bet ($18) returned to NutPopper
+NutPopper collected $27 from pot
+NutPopper: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 1: NutPopper (big blind) collected ($27)
+Seat 2: vjxbkf folded before Flop (didn't bet)
+Seat 3: HoldenUte03 folded before Flop (didn't bet)
+Seat 4: o.miro folded before Flop (didn't bet)
+Seat 5: king10clubs (button) folded before Flop
+Seat 6: checkitout12 (small blind) folded before Flop
+
+
+PokerStars Game #102594570754:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:22:06 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1117 in chips) 
+Seat 3: HoldenUte03 ($240 in chips) 
+Seat 5: king10clubs ($953.50 in chips) 
+checkitout12 will be allowed to play after the button
+vjxbkf: posts small blind $3
+HoldenUte03: posts big blind $6
+o.miro: sits out 
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $9
+NutPopper joins the table at seat #1 
+HoldenUte03: calls $6
+*** FLOP *** [Kd 2s Qs]
+vjxbkf: checks 
+HoldenUte03: checks 
+king10clubs: bets $24
+vjxbkf: folds 
+HoldenUte03: folds 
+Uncalled bet ($24) returned to king10clubs
+king10clubs collected $34.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $1.50 
+Board [Kd 2s Qs]
+Seat 2: vjxbkf (small blind) folded on the Flop
+Seat 3: HoldenUte03 (big blind) folded on the Flop
+Seat 5: king10clubs (button) collected ($34.50)
+
+
+PokerStars Game #102594590431:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:23:07 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1105 in chips) 
+Seat 3: HoldenUte03 ($228 in chips) 
+Seat 4: o.miro ($600 in chips) 
+Seat 5: king10clubs ($976 in chips) 
+HoldenUte03: posts small blind $3
+o.miro: posts big blind $6
+checkitout12: sits out 
+NutPopper: sits out 
+*** HOLE CARDS ***
+king10clubs: folds 
+vjxbkf: raises $6 to $12
+HoldenUte03: folds 
+o.miro: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $15 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: vjxbkf (button) collected ($15)
+Seat 3: HoldenUte03 (small blind) folded before Flop
+Seat 4: o.miro (big blind) folded before Flop
+Seat 5: king10clubs folded before Flop (didn't bet)
+
+
+PokerStars Game #102594599537:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:23:35 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #3 is the button
+Seat 2: vjxbkf ($1114 in chips) 
+Seat 3: HoldenUte03 ($225 in chips) 
+Seat 4: o.miro ($600 in chips) 
+Seat 5: king10clubs ($976 in chips) 
+o.miro: posts small blind $3
+king10clubs: posts big blind $6
+checkitout12: sits out 
+NutPopper: sits out 
+*** HOLE CARDS ***
+vjxbkf: raises $9 to $15
+HoldenUte03: folds 
+o.miro: folds 
+king10clubs: calls $9
+*** FLOP *** [Ac Jc 2d]
+king10clubs: checks 
+vjxbkf: bets $18
+king10clubs: folds 
+Uncalled bet ($18) returned to vjxbkf
+vjxbkf collected $31.52 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $1.48 
+Board [Ac Jc 2d]
+Seat 2: vjxbkf collected ($31.52)
+Seat 3: HoldenUte03 (button) folded before Flop (didn't bet)
+Seat 4: o.miro (small blind) folded before Flop
+Seat 5: king10clubs (big blind) folded on the Flop
+
+
+PokerStars Game #102594614480:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:24:20 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #4 is the button
+Seat 2: vjxbkf ($1130.52 in chips) 
+Seat 3: HoldenUte03 ($225 in chips) 
+Seat 4: o.miro ($600 in chips) 
+Seat 5: king10clubs ($961 in chips) 
+Seat 6: checkitout12 ($240 in chips) 
+king10clubs: posts small blind $3
+checkitout12: posts big blind $6
+NutPopper: sits out 
+*** HOLE CARDS ***
+vjxbkf: folds 
+HoldenUte03: folds 
+o.miro: folds 
+king10clubs: folds 
+Uncalled bet ($3) returned to checkitout12
+checkitout12 collected $6 from pot
+checkitout12: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: vjxbkf folded before Flop (didn't bet)
+Seat 3: HoldenUte03 folded before Flop (didn't bet)
+Seat 4: o.miro (button) folded before Flop (didn't bet)
+Seat 5: king10clubs (small blind) folded before Flop
+Seat 6: checkitout12 (big blind) collected ($6)
+
+
+PokerStars Game #102594620778:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:24:39 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: NutPopper ($240 in chips) 
+Seat 2: vjxbkf ($1130.52 in chips) 
+Seat 3: HoldenUte03 ($225 in chips) 
+Seat 4: o.miro ($600 in chips) 
+Seat 5: king10clubs ($958 in chips) 
+Seat 6: checkitout12 ($243 in chips) 
+checkitout12: posts small blind $3
+NutPopper: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: folds 
+HoldenUte03: raises $6 to $12
+o.miro: folds 
+king10clubs: folds 
+checkitout12: folds 
+NutPopper: calls $6
+*** FLOP *** [Ad 6h Qc]
+NutPopper: checks 
+HoldenUte03: bets $12
+NutPopper: calls $12
+*** TURN *** [Ad 6h Qc] [Kc]
+NutPopper: bets $6.78
+HoldenUte03: raises $12.78 to $19.56
+NutPopper: folds 
+Uncalled bet ($12.78) returned to HoldenUte03
+HoldenUte03 collected $61.76 from pot
+*** SUMMARY ***
+Total pot $64.56 | Rake $2.80 
+Board [Ad 6h Qc Kc]
+Seat 1: NutPopper (big blind) folded on the Turn
+Seat 2: vjxbkf folded before Flop (didn't bet)
+Seat 3: HoldenUte03 collected ($61.76)
+Seat 4: o.miro folded before Flop (didn't bet)
+Seat 5: king10clubs (button) folded before Flop (didn't bet)
+Seat 6: checkitout12 (small blind) folded before Flop
+
+
+PokerStars Game #102594536715:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:20:19 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1144 in chips) 
+Seat 5: king10clubs ($927 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: raises $36 to $48
+king10clubs: folds 
+Uncalled bet ($36) returned to vjxbkf
+vjxbkf collected $24 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: vjxbkf (big blind) collected ($24)
+Seat 5: king10clubs (button) (small blind) folded before Flop
+
+
+PokerStars Game #102594543904:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:20:43 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1156 in chips) 
+Seat 5: king10clubs ($915 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [9d 3h 5s]
+king10clubs: checks 
+vjxbkf: checks 
+*** TURN *** [9d 3h 5s] [4h]
+king10clubs: bets $21
+vjxbkf: calls $21
+*** RIVER *** [9d 3h 5s 4h] [Th]
+HoldenUte03 joins the table at seat #3 
+o.miro joins the table at seat #4 
+king10clubs: bets $54
+vjxbkf: folds 
+Uncalled bet ($54) returned to king10clubs
+king10clubs collected $65.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $66 | Rake $0.50 
+Board [9d 3h 5s 4h Th]
+Seat 2: vjxbkf (button) (small blind) folded on the River
+Seat 5: king10clubs (big blind) collected ($65.50)
+
+
+PokerStars Game #102594566826:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:21:56 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1123 in chips) 
+Seat 5: king10clubs ($947.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+checkitout12 joins the table at seat #6 
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102594457389:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:16:05 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1144 in chips) 
+Seat 5: king10clubs ($929 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102594462797:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:16:22 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1138 in chips) 
+Seat 5: king10clubs ($935 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102594467916:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:16:39 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1144 in chips) 
+Seat 5: king10clubs ($929 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [Jh 7s Qc]
+vjxbkf: checks 
+king10clubs: checks 
+*** TURN *** [Jh 7s Qc] [5c]
+vjxbkf: bets $18
+king10clubs: folds 
+Uncalled bet ($18) returned to vjxbkf
+vjxbkf collected $23.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Jh 7s Qc 5c]
+Seat 2: vjxbkf (big blind) collected ($23.50)
+Seat 5: king10clubs (button) (small blind) folded on the Turn
+
+
+PokerStars Game #102594479813:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:17:17 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1155.50 in chips) 
+Seat 5: king10clubs ($917 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [3s 9d 5s]
+king10clubs: checks 
+vjxbkf: bets $15
+king10clubs: calls $15
+*** TURN *** [3s 9d 5s] [8s]
+king10clubs: checks 
+vjxbkf: checks 
+*** RIVER *** [3s 9d 5s 8s] [2s]
+king10clubs: checks 
+vjxbkf: checks 
+*** SHOW DOWN ***
+king10clubs: shows [5h 4c] (a pair of Fives)
+vjxbkf: mucks hand 
+king10clubs collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50 
+Board [3s 9d 5s 8s 2s]
+Seat 2: vjxbkf (button) (small blind) mucked
+Seat 5: king10clubs (big blind) showed [5h 4c] and won ($53.50) with a pair of Fives
+
+
+PokerStars Game #102594494084:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:18:03 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1128.50 in chips) 
+Seat 5: king10clubs ($943.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102594497912:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:18:15 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1122.50 in chips) 
+Seat 5: king10clubs ($949.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102594500315:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:18:23 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1128.50 in chips) 
+Seat 5: king10clubs ($943.50 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102594506093:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:18:41 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1122.50 in chips) 
+Seat 5: king10clubs ($949.50 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: calls $6
+*** FLOP *** [Jh Qh 8h]
+king10clubs: checks 
+vjxbkf: checks 
+*** TURN *** [Jh Qh 8h] [3s]
+king10clubs: bets $21
+vjxbkf: folds 
+Uncalled bet ($21) returned to king10clubs
+king10clubs collected $23.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Jh Qh 8h 3s]
+Seat 2: vjxbkf (button) (small blind) folded on the Turn
+Seat 5: king10clubs (big blind) collected ($23.50)
+
+
+PokerStars Game #102594515987:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:19:13 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1110.50 in chips) 
+Seat 5: king10clubs ($961 in chips) 
+king10clubs: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+vjxbkf: calls $6
+*** FLOP *** [6h 2s 3s]
+vjxbkf: checks 
+king10clubs: bets $16
+vjxbkf: raises $32 to $48
+king10clubs: folds 
+Uncalled bet ($32) returned to vjxbkf
+vjxbkf collected $55.50 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $56 | Rake $0.50 
+Board [6h 2s 3s]
+Seat 2: vjxbkf (big blind) collected ($55.50)
+Seat 5: king10clubs (button) (small blind) folded on the Flop
+
+
+PokerStars Game #102594530059:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:19:58 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1138 in chips) 
+Seat 5: king10clubs ($933 in chips) 
+vjxbkf: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to vjxbkf
+vjxbkf collected $12 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: vjxbkf (button) (small blind) collected ($12)
+Seat 5: king10clubs (big blind) folded before Flop
+
+
+PokerStars Game #102594930752:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:40:00 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #3 is the button
+Seat 3: Nemo & co ($369.64 in chips) 
+Seat 4: NutPopper ($463.90 in chips) 
+Seat 5: king10clubs ($675.80 in chips) 
+Seat 6: checkitout12 ($389.53 in chips) 
+NutPopper: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+checkitout12: raises $6.18 to $12.18
+Nemo & co: folds 
+NutPopper: folds 
+king10clubs: folds 
+Uncalled bet ($6.18) returned to checkitout12
+checkitout12 collected $15 from pot
+checkitout12: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 3: Nemo & co (button) folded before Flop (didn't bet)
+Seat 4: NutPopper (small blind) folded before Flop
+Seat 5: king10clubs (big blind) folded before Flop
+Seat 6: checkitout12 collected ($15)
+
+
+PokerStars Game #102594939919:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:40:26 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #4 is the button
+Seat 3: Nemo & co ($369.64 in chips) 
+Seat 4: NutPopper ($460.90 in chips) 
+Seat 5: king10clubs ($669.80 in chips) 
+Seat 6: checkitout12 ($398.53 in chips) 
+king10clubs: posts small blind $3
+checkitout12: posts big blind $6
+*** HOLE CARDS ***
+Nemo & co: folds 
+NutPopper: raises $6 to $12
+king10clubs: folds 
+checkitout12: folds 
+Uncalled bet ($6) returned to NutPopper
+NutPopper collected $15 from pot
+NutPopper: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 3: Nemo & co folded before Flop (didn't bet)
+Seat 4: NutPopper (button) collected ($15)
+Seat 5: king10clubs (small blind) folded before Flop
+Seat 6: checkitout12 (big blind) folded before Flop
+
+
+PokerStars Game #102594950193:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:40:56 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 3: Nemo & co ($369.64 in chips) 
+Seat 4: NutPopper ($469.90 in chips) 
+Seat 5: king10clubs ($666.80 in chips) 
+Seat 6: checkitout12 ($392.53 in chips) 
+checkitout12: posts small blind $3
+Nemo & co: posts big blind $6
+*** HOLE CARDS ***
+NutPopper: folds 
+king10clubs: raises $6 to $12
+checkitout12: folds 
+Nemo & co: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $15 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 3: Nemo & co (big blind) folded before Flop
+Seat 4: NutPopper folded before Flop (didn't bet)
+Seat 5: king10clubs (button) collected ($15)
+Seat 6: checkitout12 (small blind) folded before Flop
+
+
+PokerStars Game #102594955084:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:41:09 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #6 is the button
+Seat 3: Nemo & co ($363.64 in chips) 
+Seat 5: king10clubs ($675.80 in chips) 
+Seat 6: checkitout12 ($389.53 in chips) 
+Nemo & co: posts small blind $3
+NutPopper: is sitting out 
+NutPopper leaves the table
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+checkitout12: folds 
+Nemo & co: calls $3
+king10clubs: checks 
+*** FLOP *** [Qc 2h Tc]
+JulyShort joins the table at seat #4 
+Nemo & co: checks 
+king10clubs: bets $8
+Nemo & co: calls $8
+*** TURN *** [Qc 2h Tc] [Ad]
+Nemo & co: bets $24
+king10clubs: calls $24
+*** RIVER *** [Qc 2h Tc Ad] [Jd]
+Nemo & co: bets $54
+king10clubs: calls $54
+*** SHOW DOWN ***
+Nemo & co: shows [Td Ks] (a straight, Ten to Ace)
+king10clubs: mucks hand 
+Nemo & co collected $182.50 from pot
+*** SUMMARY ***
+Total pot $184 | Rake $1.50 
+Board [Qc 2h Tc Ad Jd]
+Seat 3: Nemo & co (small blind) showed [Td Ks] and won ($182.50) with a straight, Ten to Ace
+Seat 5: king10clubs (big blind) mucked
+Seat 6: checkitout12 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102594984364:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:42:34 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 3: Nemo & co ($448.14 in chips) 
+Seat 4: JulyShort ($240 in chips) 
+Seat 5: king10clubs ($606 in chips) 
+Nemo & co: posts small blind $3
+JulyShort: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+checkitout12 leaves the table
+Nemo & co: folds 
+JulyShort: calls $6
+*** FLOP *** [9d Qc 4d]
+JulyShort: checks 
+CrionR joins the table at seat #1 
+king10clubs: checks 
+*** TURN *** [9d Qc 4d] [2s]
+JulyShort: checks 
+king10clubs: bets $18
+JulyShort: calls $18
+*** RIVER *** [9d Qc 4d 2s] [Th]
+JulyShort: checks 
+king10clubs: bets $45
+JulyShort: folds 
+Uncalled bet ($45) returned to king10clubs
+king10clubs collected $61.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $63 | Rake $1.50 
+Board [9d Qc 4d 2s Th]
+Seat 3: Nemo & co (small blind) folded before Flop
+Seat 4: JulyShort (big blind) folded on the River
+Seat 5: king10clubs (button) collected ($61.50)
+
+
+PokerStars Game #102595011068:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:43:51 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #3 is the button
+Seat 3: Nemo & co ($445.14 in chips) 
+Seat 4: JulyShort ($210 in chips) 
+Seat 5: king10clubs ($637.50 in chips) 
+JulyShort: posts small blind $3
+king10clubs: posts big blind $6
+CrionR: sits out 
+*** HOLE CARDS ***
+Nemo & co has timed out
+Nemo & co: folds 
+JulyShort: raises $9 to $15
+king10clubs: calls $9
+*** FLOP *** [9s 2c 4h]
+JulyShort: bets $12
+king10clubs: calls $12
+*** TURN *** [9s 2c 4h] [5d]
+JulyShort: bets $30
+king10clubs: folds 
+Uncalled bet ($30) returned to JulyShort
+JulyShort collected $52.50 from pot
+JulyShort: doesn't show hand 
+*** SUMMARY ***
+Total pot $54 | Rake $1.50 
+Board [9s 2c 4h 5d]
+Seat 3: Nemo & co (button) folded before Flop (didn't bet)
+Seat 4: JulyShort (small blind) collected ($52.50)
+Seat 5: king10clubs (big blind) folded on the Turn
+
+
+PokerStars Game #102595027382:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:44:39 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: CrionR ($600 in chips) 
+Seat 4: JulyShort ($235.50 in chips) 
+Seat 5: king10clubs ($610.50 in chips) 
+king10clubs: posts small blind $3
+CrionR: posts big blind $6
+*** HOLE CARDS ***
+JulyShort: folds 
+king10clubs: folds 
+Uncalled bet ($3) returned to CrionR
+CrionR collected $6 from pot
+CrionR: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: CrionR (big blind) collected ($6)
+Seat 4: JulyShort (button) folded before Flop (didn't bet)
+Seat 5: king10clubs (small blind) folded before Flop
+
+
+PokerStars Game #102595033100:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:44:55 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: CrionR ($603 in chips) 
+Seat 4: JulyShort ($235.50 in chips) 
+Seat 5: king10clubs ($607.50 in chips) 
+CrionR: posts small blind $3
+JulyShort: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+CrionR: raises $30 to $42
+JulyShort: folds 
+king10clubs: folds 
+Uncalled bet ($30) returned to CrionR
+CrionR collected $30 from pot
+CrionR: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: CrionR (small blind) collected ($30)
+Seat 4: JulyShort (big blind) folded before Flop
+Seat 5: king10clubs (button) folded before Flop
+
+
+PokerStars Game #102594980566:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:42:23 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 3: Nemo & co ($454.14 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+JulyShort will be allowed to play after the button
+king10clubs: posts small blind $3
+checkitout12: is sitting out 
+Nemo & co: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $9 to $15
+Nemo & co: folds 
+Uncalled bet ($9) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 3: Nemo & co (big blind) folded before Flop
+Seat 5: king10clubs (button) (small blind) collected ($12)
+
+
+PokerStars Game #102594844645:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:35:49 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: vjxbkf ($1121.52 in chips) 
+Seat 3: Nemo & co ($387.82 in chips) 
+Seat 5: king10clubs ($916 in chips) 
+Seat 6: checkitout12 ($271.95 in chips) 
+Nemo & co: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+checkitout12: raises $6.18 to $12.18
+vjxbkf: folds 
+Nemo & co: folds 
+king10clubs: folds 
+Uncalled bet ($6.18) returned to checkitout12
+checkitout12 collected $15 from pot
+checkitout12: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: vjxbkf (button) folded before Flop (didn't bet)
+Seat 3: Nemo & co (small blind) folded before Flop
+Seat 5: king10clubs (big blind) folded before Flop
+Seat 6: checkitout12 collected ($15)
+
+
+PokerStars Game #102594852834:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:36:12 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #3 is the button
+Seat 2: vjxbkf ($1121.52 in chips) 
+Seat 3: Nemo & co ($384.82 in chips) 
+Seat 5: king10clubs ($910 in chips) 
+Seat 6: checkitout12 ($280.95 in chips) 
+king10clubs: posts small blind $3
+checkitout12: posts big blind $6
+*** HOLE CARDS ***
+vjxbkf: raises $12 to $18
+Nemo & co: folds 
+king10clubs: folds 
+checkitout12: calls $12
+*** FLOP *** [Td Qc Qh]
+checkitout12: checks 
+vjxbkf: bets $21
+NutPopper joins the table at seat #4 
+checkitout12: calls $21
+*** TURN *** [Td Qc Qh] [8h]
+checkitout12: checks 
+vjxbkf: bets $57
+checkitout12: calls $57
+*** RIVER *** [Td Qc Qh 8h] [4c]
+checkitout12: checks 
+vjxbkf: checks 
+*** SHOW DOWN ***
+checkitout12: shows [Qs Ks] (three of a kind, Queens)
+vjxbkf: mucks hand 
+checkitout12 collected $193.50 from pot
+*** SUMMARY ***
+Total pot $195 | Rake $1.50 
+Board [Td Qc Qh 8h 4c]
+Seat 2: vjxbkf mucked
+Seat 3: Nemo & co (button) folded before Flop (didn't bet)
+Seat 5: king10clubs (small blind) folded before Flop
+Seat 6: checkitout12 (big blind) showed [Qs Ks] and won ($193.50) with three of a kind, Queens
+
+
+PokerStars Game #102594889357:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:37:59 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 3: Nemo & co ($384.82 in chips) 
+Seat 5: king10clubs ($907 in chips) 
+Seat 6: checkitout12 ($378.45 in chips) 
+checkitout12: posts small blind $3
+vjxbkf: is sitting out 
+Nemo & co: posts big blind $6
+NutPopper: sits out 
+*** HOLE CARDS ***
+king10clubs: folds 
+vjxbkf leaves the table
+checkitout12: raises $6.18 to $12.18
+Nemo & co: calls $6.18
+*** FLOP *** [Ah Ad 4h]
+checkitout12: bets $13.02
+Nemo & co: folds 
+Uncalled bet ($13.02) returned to checkitout12
+checkitout12 collected $23.26 from pot
+checkitout12: doesn't show hand 
+*** SUMMARY ***
+Total pot $24.36 | Rake $1.10 
+Board [Ah Ad 4h]
+Seat 3: Nemo & co (big blind) folded on the Flop
+Seat 5: king10clubs (button) folded before Flop (didn't bet)
+Seat 6: checkitout12 (small blind) collected ($23.26)
+
+
+PokerStars Game #102594910773:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:39:01 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #6 is the button
+Seat 3: Nemo & co ($372.64 in chips) 
+Seat 4: NutPopper ($231.20 in chips) 
+Seat 5: king10clubs ($907 in chips) 
+Seat 6: checkitout12 ($389.53 in chips) 
+Nemo & co: posts small blind $3
+NutPopper: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $9 to $15
+checkitout12: folds 
+Nemo & co: folds 
+NutPopper: raises $18 to $33
+king10clubs: raises $42 to $75
+NutPopper: raises $156.20 to $231.20 and is all-in
+king10clubs: calls $156.20
+*** FIRST FLOP *** [2s 7c 5d]
+*** FIRST TURN *** [2s 7c 5d] [7d]
+*** FIRST RIVER *** [2s 7c 5d 7d] [3s]
+*** SECOND FLOP *** [Tc 3c Jh]
+*** SECOND TURN *** [Tc 3c Jh] [3h]
+*** SECOND RIVER *** [Tc 3c Jh 3h] [5s]
+*** FIRST SHOW DOWN ***
+NutPopper: shows [Kh Kc] (two pair, Kings and Sevens)
+king10clubs: shows [Qc Ah] (a pair of Sevens)
+NutPopper collected $231.95 from pot
+*** SECOND SHOW DOWN ***
+NutPopper: shows [Kh Kc] (two pair, Kings and Threes)
+king10clubs: shows [Qc Ah] (a pair of Threes)
+NutPopper collected $231.95 from pot
+*** SUMMARY ***
+Total pot $465.40 | Rake $1.50 
+Hand was run twice
+FIRST Board [2s 7c 5d 7d 3s]
+SECOND Board [Tc 3c Jh 3h 5s]
+Seat 3: Nemo & co (small blind) folded before Flop
+Seat 4: NutPopper (big blind) showed [Kh Kc] and won ($231.95) with two pair, Kings and Sevens, and won ($231.95) with two pair, Kings and Threes
+Seat 5: king10clubs showed [Qc Ah] and lost with a pair of Sevens, and lost with a pair of Threes
+Seat 6: checkitout12 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102594735767:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:30:25 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: NutPopper ($243.20 in chips) 
+Seat 2: vjxbkf ($1130.52 in chips) 
+Seat 3: HoldenUte03 ($289.28 in chips) 
+Seat 4: o.miro ($600 in chips) 
+Seat 5: king10clubs ($928 in chips) 
+Seat 6: checkitout12 ($240 in chips) 
+NutPopper: posts small blind $3
+vjxbkf: posts big blind $6
+*** HOLE CARDS ***
+HoldenUte03: folds 
+o.miro: folds 
+king10clubs: raises $9 to $15
+checkitout12: folds 
+NutPopper: folds 
+vjxbkf: folds 
+Uncalled bet ($9) returned to king10clubs
+king10clubs collected $15 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: NutPopper (small blind) folded before Flop
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 3: HoldenUte03 folded before Flop (didn't bet)
+Seat 4: o.miro folded before Flop (didn't bet)
+Seat 5: king10clubs collected ($15)
+Seat 6: checkitout12 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102594742800:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:30:46 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: NutPopper ($240.20 in chips) 
+Seat 2: vjxbkf ($1124.52 in chips) 
+Seat 3: HoldenUte03 ($289.28 in chips) 
+Seat 4: o.miro ($600 in chips) 
+Seat 5: king10clubs ($937 in chips) 
+Seat 6: checkitout12 ($240 in chips) 
+vjxbkf: posts small blind $3
+HoldenUte03: posts big blind $6
+*** HOLE CARDS ***
+o.miro: folds 
+king10clubs: folds 
+checkitout12: folds 
+NutPopper: raises $12 to $18
+vjxbkf: raises $21 to $39
+HoldenUte03: folds 
+NutPopper: folds 
+Uncalled bet ($21) returned to vjxbkf
+vjxbkf collected $42 from pot
+vjxbkf: doesn't show hand 
+*** SUMMARY ***
+Total pot $42 | Rake $0 
+Seat 1: NutPopper (button) folded before Flop
+Seat 2: vjxbkf (small blind) collected ($42)
+Seat 3: HoldenUte03 (big blind) folded before Flop
+Seat 4: o.miro folded before Flop (didn't bet)
+Seat 5: king10clubs folded before Flop (didn't bet)
+Seat 6: checkitout12 folded before Flop (didn't bet)
+
+
+PokerStars Game #102594757794:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:31:31 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: NutPopper ($222.20 in chips) 
+Seat 2: vjxbkf ($1148.52 in chips) 
+Seat 3: HoldenUte03 ($283.28 in chips) 
+Seat 4: o.miro ($600 in chips) 
+Seat 5: king10clubs ($937 in chips) 
+Seat 6: checkitout12 ($240 in chips) 
+HoldenUte03: posts small blind $3
+o.miro: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+checkitout12: raises $6.18 to $12.18
+NutPopper: folds 
+vjxbkf: folds 
+HoldenUte03: calls $9.18
+o.miro: folds 
+*** FLOP *** [6h As 7d]
+HoldenUte03: checks 
+checkitout12: bets $16.23
+HoldenUte03: calls $16.23
+*** TURN *** [6h As 7d] [9h]
+HoldenUte03: checks 
+checkitout12: bets $33.61
+HoldenUte03: calls $33.61
+*** RIVER *** [6h As 7d 9h] [5d]
+HoldenUte03: checks 
+checkitout12: checks 
+*** SHOW DOWN ***
+HoldenUte03: shows [Ad 2c] (a pair of Aces)
+checkitout12: mucks hand 
+HoldenUte03 collected $127.24 from pot
+*** SUMMARY ***
+Total pot $130.04 | Rake $2.80 
+Board [6h As 7d 9h 5d]
+Seat 1: NutPopper folded before Flop (didn't bet)
+Seat 2: vjxbkf (button) folded before Flop (didn't bet)
+Seat 3: HoldenUte03 (small blind) showed [Ad 2c] and won ($127.24) with a pair of Aces
+Seat 4: o.miro (big blind) folded before Flop
+Seat 5: king10clubs folded before Flop (didn't bet)
+Seat 6: checkitout12 mucked
+
+
+PokerStars Game #102594785686:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:32:54 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: NutPopper ($222.20 in chips) 
+Seat 2: vjxbkf ($1148.52 in chips) 
+Seat 3: HoldenUte03 ($348.50 in chips) 
+Seat 4: o.miro ($600 in chips) 
+Seat 5: king10clubs ($937 in chips) 
+Seat 6: checkitout12 ($240 in chips) 
+o.miro: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+checkitout12: folds 
+NutPopper: raises $6 to $12
+vjxbkf: folds 
+HoldenUte03: folds 
+HoldenUte03 leaves the table
+o.miro: folds 
+king10clubs: folds 
+Uncalled bet ($6) returned to NutPopper
+NutPopper collected $15 from pot
+NutPopper: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: NutPopper collected ($15)
+Seat 2: vjxbkf folded before Flop (didn't bet)
+Seat 3: HoldenUte03 (button) folded before Flop (didn't bet)
+Seat 4: o.miro (small blind) folded before Flop
+Seat 5: king10clubs (big blind) folded before Flop
+Seat 6: checkitout12 folded before Flop (didn't bet)
+
+
+PokerStars Game #102594799555:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:33:35 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: NutPopper ($231.20 in chips) 
+Seat 2: vjxbkf ($1148.52 in chips) 
+Seat 4: o.miro ($600 in chips) 
+Seat 5: king10clubs ($931 in chips) 
+Seat 6: checkitout12 ($240 in chips) 
+king10clubs: posts small blind $3
+checkitout12: posts big blind $6
+*** HOLE CARDS ***
+NutPopper: folds 
+Nemo & co joins the table at seat #3 
+vjxbkf: raises $12 to $18
+o.miro: raises $33 to $51
+king10clubs: folds 
+checkitout12: folds 
+vjxbkf: folds 
+Uncalled bet ($33) returned to o.miro
+o.miro collected $45 from pot
+o.miro: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $0 
+Seat 1: NutPopper folded before Flop (didn't bet)
+Seat 2: vjxbkf folded before Flop
+Seat 4: o.miro (button) collected ($45)
+Seat 5: king10clubs (small blind) folded before Flop
+Seat 6: checkitout12 (big blind) folded before Flop
+
+
+PokerStars Game #102594816896:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:34:27 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: vjxbkf ($1130.52 in chips) 
+Seat 4: o.miro ($627 in chips) 
+Seat 5: king10clubs ($928 in chips) 
+Seat 6: checkitout12 ($240 in chips) 
+checkitout12: posts small blind $3
+NutPopper: is sitting out 
+NutPopper leaves the table
+vjxbkf: posts big blind $6
+Nemo & co: sits out 
+*** HOLE CARDS ***
+o.miro: folds 
+king10clubs: raises $6 to $12
+checkitout12: raises $18.96 to $30.96
+vjxbkf: folds 
+king10clubs: folds 
+Uncalled bet ($18.96) returned to checkitout12
+checkitout12 collected $30 from pot
+checkitout12: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 2: vjxbkf (big blind) folded before Flop
+Seat 4: o.miro folded before Flop (didn't bet)
+Seat 5: king10clubs (button) folded before Flop
+Seat 6: checkitout12 (small blind) collected ($30)
+
+
+PokerStars Game #102594826175:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:34:54 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #6 is the button
+Seat 2: vjxbkf ($1124.52 in chips) 
+Seat 3: Nemo & co ($400 in chips) 
+Seat 4: o.miro ($627 in chips) 
+Seat 5: king10clubs ($916 in chips) 
+Seat 6: checkitout12 ($258 in chips) 
+vjxbkf: posts small blind $3
+Nemo & co: posts big blind $6
+*** HOLE CARDS ***
+o.miro: folds 
+o.miro leaves the table
+king10clubs: folds 
+checkitout12: raises $6.18 to $12.18
+vjxbkf: folds 
+Nemo & co: calls $6.18
+*** FLOP *** [8d Jc 3s]
+Nemo & co: checks 
+checkitout12: bets $14.63
+Nemo & co: folds 
+Uncalled bet ($14.63) returned to checkitout12
+checkitout12 collected $26.13 from pot
+checkitout12: doesn't show hand 
+*** SUMMARY ***
+Total pot $27.36 | Rake $1.23 
+Board [8d Jc 3s]
+Seat 2: vjxbkf (small blind) folded before Flop
+Seat 3: Nemo & co (big blind) folded on the Flop
+Seat 4: o.miro folded before Flop (didn't bet)
+Seat 5: king10clubs folded before Flop (didn't bet)
+Seat 6: checkitout12 (button) collected ($26.13)
+
+
+PokerStars Game #102595047310:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:45:35 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: CrionR ($624 in chips) 
+Seat 3: Nemo & co ($445.14 in chips) 
+Seat 4: JulyShort ($226.50 in chips) 
+JulyShort: posts small blind $3
+CrionR: posts big blind $6
+*** HOLE CARDS ***
+Nemo & co: folds 
+JulyShort: raises $9 to $15
+CrionR: folds 
+Uncalled bet ($9) returned to JulyShort
+JulyShort collected $12 from pot
+JulyShort: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: CrionR (big blind) folded before Flop
+Seat 3: Nemo & co (button) folded before Flop (didn't bet)
+Seat 4: JulyShort (small blind) collected ($12)
+
+
+PokerStars Game #102595051601:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:45:48 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: CrionR ($618 in chips) 
+Seat 3: Nemo & co ($445.14 in chips) 
+Seat 4: JulyShort ($232.50 in chips) 
+CrionR: posts small blind $3
+Nemo & co: posts big blind $6
+*** HOLE CARDS ***
+JulyShort: raises $6 to $12
+CrionR: folds 
+Nemo & co: folds 
+Uncalled bet ($6) returned to JulyShort
+JulyShort collected $15 from pot
+JulyShort: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: CrionR (small blind) folded before Flop
+Seat 3: Nemo & co (big blind) folded before Flop
+Seat 4: JulyShort (button) collected ($15)
+
+
+PokerStars Game #102595056277:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:46:01 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: CrionR ($615 in chips) 
+Seat 3: Nemo & co ($439.14 in chips) 
+Seat 4: JulyShort ($241.50 in chips) 
+Nemo & co: posts small blind $3
+JulyShort: posts big blind $6
+*** HOLE CARDS ***
+CrionR: raises $6 to $12
+Nemo & co: folds 
+JulyShort: folds 
+Uncalled bet ($6) returned to CrionR
+CrionR collected $15 from pot
+CrionR: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: CrionR (button) collected ($15)
+Seat 3: Nemo & co (small blind) folded before Flop
+Seat 4: JulyShort (big blind) folded before Flop
+
+
+PokerStars Game #102595063109:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:46:20 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: CrionR ($624 in chips) 
+Seat 3: Nemo & co ($436.14 in chips) 
+Seat 4: JulyShort ($235.50 in chips) 
+JulyShort: posts small blind $3
+CrionR: posts big blind $6
+*** HOLE CARDS ***
+Nemo & co: folds 
+JulyShort: folds 
+Uncalled bet ($3) returned to CrionR
+CrionR collected $6 from pot
+CrionR: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: CrionR (big blind) collected ($6)
+Seat 3: Nemo & co (button) folded before Flop (didn't bet)
+Seat 4: JulyShort (small blind) folded before Flop
+
+
+PokerStars Game #102595069252:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:46:38 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: CrionR ($627 in chips) 
+Seat 3: Nemo & co ($436.14 in chips) 
+Seat 4: JulyShort ($232.50 in chips) 
+CrionR: posts small blind $3
+Nemo & co: posts big blind $6
+*** HOLE CARDS ***
+JulyShort: raises $6 to $12
+CrionR: folds 
+Nemo & co: folds 
+Uncalled bet ($6) returned to JulyShort
+JulyShort collected $15 from pot
+JulyShort: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: CrionR (small blind) folded before Flop
+Seat 3: Nemo & co (big blind) folded before Flop
+Seat 4: JulyShort (button) collected ($15)
+
+
+PokerStars Game #102595075442:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:46:56 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: CrionR ($624 in chips) 
+Seat 3: Nemo & co ($430.14 in chips) 
+Seat 4: JulyShort ($241.50 in chips) 
+Nemo & co: posts small blind $3
+JulyShort: posts big blind $6
+*** HOLE CARDS ***
+CrionR: folds 
+Nemo & co: raises $6 to $12
+JulyShort: folds 
+Uncalled bet ($6) returned to Nemo & co
+Nemo & co collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: CrionR (button) folded before Flop (didn't bet)
+Seat 3: Nemo & co (small blind) collected ($12)
+Seat 4: JulyShort (big blind) folded before Flop
+
+
+PokerStars Game #102595080180:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:47:09 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: CrionR ($624 in chips) 
+Seat 3: Nemo & co ($436.14 in chips) 
+Seat 4: JulyShort ($235.50 in chips) 
+JulyShort: posts small blind $3
+CrionR: posts big blind $6
+*** HOLE CARDS ***
+Nemo & co: raises $6 to $12
+JulyShort: raises $21 to $33
+CrionR: folds 
+Nemo & co: calls $21
+*** FLOP *** [Th 6h Js]
+JulyShort: checks 
+Nemo & co: checks 
+*** TURN *** [Th 6h Js] [5h]
+JulyShort: checks 
+Nemo & co: checks 
+*** RIVER *** [Th 6h Js 5h] [2c]
+JulyShort: checks 
+Nemo & co: checks 
+*** SHOW DOWN ***
+JulyShort: shows [Ah 8c] (high card Ace)
+Nemo & co: shows [As Ts] (a pair of Tens)
+Nemo & co collected $70.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $1.50 
+Board [Th 6h Js 5h 2c]
+Seat 1: CrionR (big blind) folded before Flop
+Seat 3: Nemo & co (button) showed [As Ts] and won ($70.50) with a pair of Tens
+Seat 4: JulyShort (small blind) showed [Ah 8c] and lost with high card Ace
+
+
+PokerStars Game #102595097029:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:47:57 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: CrionR ($618 in chips) 
+Seat 3: Nemo & co ($473.64 in chips) 
+Seat 4: JulyShort ($202.50 in chips) 
+king10clubs will be allowed to play after the button
+CrionR: posts small blind $3
+Nemo & co: posts big blind $6
+*** HOLE CARDS ***
+JulyShort: raises $6 to $12
+CrionR: folds 
+Nemo & co: calls $6
+*** FLOP *** [Qd 6c Ks]
+Nemo & co: checks 
+JulyShort: bets $15
+Nemo & co: calls $15
+*** TURN *** [Qd 6c Ks] [Kd]
+Nemo & co: checks 
+JulyShort: checks 
+*** RIVER *** [Qd 6c Ks Kd] [Js]
+Nemo & co: bets $60
+JulyShort: folds 
+Uncalled bet ($60) returned to Nemo & co
+Nemo & co collected $55.50 from pot
+*** SUMMARY ***
+Total pot $57 | Rake $1.50 
+Board [Qd 6c Ks Kd Js]
+Seat 1: CrionR (small blind) folded before Flop
+Seat 3: Nemo & co (big blind) collected ($55.50)
+Seat 4: JulyShort (button) folded on the River
+
+
+PokerStars Game #102595111839:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:48:40 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: CrionR ($615 in chips) 
+Seat 3: Nemo & co ($502.14 in chips) 
+Seat 4: JulyShort ($175.50 in chips) 
+Nemo & co: posts small blind $3
+JulyShort: posts big blind $6
+king10clubs: sits out 
+*** HOLE CARDS ***
+CrionR: raises $6 to $12
+Nemo & co: folds 
+JulyShort: folds 
+Uncalled bet ($6) returned to CrionR
+CrionR collected $15 from pot
+CrionR: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: CrionR (button) collected ($15)
+Seat 3: Nemo & co (small blind) folded before Flop
+Seat 4: JulyShort (big blind) folded before Flop
+
+
+PokerStars Game #102595115868:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:48:51 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: CrionR ($624 in chips) 
+Seat 3: Nemo & co ($499.14 in chips) 
+Seat 4: JulyShort ($169.50 in chips) 
+Seat 5: king10clubs ($600 in chips) 
+JulyShort: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+CrionR: folds 
+Nemo & co: raises $6 to $12
+JulyShort: folds 
+king10clubs: calls $6
+*** FLOP *** [8d 3c 4c]
+king10clubs: checks 
+Nemo & co: bets $18
+king10clubs: raises $36 to $54
+Nemo & co: folds 
+Uncalled bet ($36) returned to king10clubs
+king10clubs collected $61.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $63 | Rake $1.50 
+Board [8d 3c 4c]
+Seat 1: CrionR folded before Flop (didn't bet)
+Seat 3: Nemo & co (button) folded on the Flop
+Seat 4: JulyShort (small blind) folded before Flop
+Seat 5: king10clubs (big blind) collected ($61.50)
+
+
+PokerStars Game #102595126804:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:49:23 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: CrionR ($624 in chips) 
+Seat 3: Nemo & co ($469.14 in chips) 
+Seat 4: JulyShort ($166.50 in chips) 
+Seat 5: king10clubs ($631.50 in chips) 
+king10clubs: posts small blind $3
+CrionR: posts big blind $6
+*** HOLE CARDS ***
+Nemo & co: folds 
+JulyShort: raises $6 to $12
+king10clubs: folds 
+Nemo & co leaves the table
+CrionR: folds 
+Uncalled bet ($6) returned to JulyShort
+JulyShort collected $15 from pot
+JulyShort: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: CrionR (big blind) folded before Flop
+Seat 3: Nemo & co folded before Flop (didn't bet)
+Seat 4: JulyShort (button) collected ($15)
+Seat 5: king10clubs (small blind) folded before Flop
+
+
+PokerStars Game #102595131191:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:49:35 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: CrionR ($618 in chips) 
+Seat 4: JulyShort ($175.50 in chips) 
+Seat 5: king10clubs ($628.50 in chips) 
+CrionR: posts small blind $3
+JulyShort: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+CrionR: folds 
+JulyShort: raises $21 to $33
+king10clubs: raises $39 to $72
+JulyShort: folds 
+Uncalled bet ($39) returned to king10clubs
+king10clubs collected $69 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $69 | Rake $0 
+Seat 1: CrionR (small blind) folded before Flop
+Seat 4: JulyShort (big blind) folded before Flop
+Seat 5: king10clubs (button) collected ($69)
+
+
+PokerStars Game #102595040745:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:45:17 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: CrionR ($621 in chips) 
+Seat 4: JulyShort ($229.50 in chips) 
+JulyShort: posts small blind $3
+CrionR: posts big blind $6
+*** HOLE CARDS ***
+JulyShort: folds 
+Uncalled bet ($3) returned to CrionR
+CrionR collected $6 from pot
+CrionR: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: CrionR (big blind) collected ($6)
+Seat 4: JulyShort (button) (small blind) folded before Flop
+
+
+PokerStars Game #102595138427:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 3:49:56 ET
+Table 'Eureka VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: CrionR ($615 in chips) 
+Seat 4: JulyShort ($142.50 in chips) 
+JulyShort: posts small blind $3
+king10clubs: is sitting out 
+CrionR: posts big blind $6
+*** HOLE CARDS ***
+JulyShort: raises $9 to $15
+CrionR: raises $21 to $36
+JulyShort: folds 
+Uncalled bet ($21) returned to CrionR
+CrionR collected $30 from pot
+CrionR: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: CrionR (big blind) collected ($30)
+Seat 4: JulyShort (button) (small blind) folded before Flop

@@ -1,0 +1,1405 @@
+
+
+PokerStars Game #102619355039:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:10:15 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Luthimir ($265.70 in chips) 
+Seat 2: ilir3 ($629.84 in chips) 
+Seat 3: shevliak ($246 in chips) 
+Seat 4: SaleH25 ($250.78 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($600 in chips) 
+shevliak: posts small blind $3
+SaleH25: posts big blind $6
+*** HOLE CARDS ***
+pindrokk: folds 
+Subv: folds 
+Luthimir: raises $6 to $12
+ilir3: folds 
+shevliak: folds 
+SaleH25: calls $6
+*** FLOP *** [Th Kd 2d]
+SaleH25: checks 
+Luthimir: bets $14.66
+SaleH25: folds 
+Uncalled bet ($14.66) returned to Luthimir
+Luthimir collected $25.78 from pot
+Luthimir: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Th Kd 2d]
+Seat 1: Luthimir collected ($25.78)
+Seat 2: ilir3 (button) folded before Flop (didn't bet)
+Seat 3: shevliak (small blind) folded before Flop
+Seat 4: SaleH25 (big blind) folded on the Flop
+Seat 5: pindrokk folded before Flop (didn't bet)
+Seat 6: Subv folded before Flop (didn't bet)
+
+
+PokerStars Game #102619410013:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:11:13 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Luthimir ($279.48 in chips) 
+Seat 2: ilir3 ($629.84 in chips) 
+Seat 3: shevliak ($243 in chips) 
+Seat 4: SaleH25 ($238.78 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($600 in chips) 
+SaleH25: posts small blind $3
+pindrokk: posts big blind $6
+*** HOLE CARDS ***
+Subv: folds 
+Luthimir: raises $6 to $12
+ilir3: folds 
+shevliak: calls $12
+SaleH25: folds 
+pindrokk: folds 
+*** FLOP *** [8d 9s 6c]
+Luthimir: checks 
+shevliak: bets $17.02
+Luthimir: calls $17.02
+*** TURN *** [8d 9s 6c] [4c]
+Luthimir: bets $15
+shevliak: raises $50.88 to $65.88
+Luthimir: folds 
+Uncalled bet ($50.88) returned to shevliak
+shevliak collected $94.24 from pot
+shevliak: doesn't show hand 
+*** SUMMARY ***
+Total pot $97.04 | Rake $2.80 
+Board [8d 9s 6c 4c]
+Seat 1: Luthimir folded on the Turn
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: shevliak (button) collected ($94.24)
+Seat 4: SaleH25 (small blind) folded before Flop
+Seat 5: pindrokk (big blind) folded before Flop
+Seat 6: Subv folded before Flop (didn't bet)
+
+
+PokerStars Game #102619527958:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:13:19 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Luthimir ($235.46 in chips) 
+Seat 2: ilir3 ($629.84 in chips) 
+Seat 3: shevliak ($293.22 in chips) 
+Seat 4: SaleH25 ($235.78 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($600 in chips) 
+pindrokk: posts small blind $3
+Subv: posts big blind $6
+*** HOLE CARDS ***
+Luthimir: folds 
+ilir3: raises $9 to $15
+shevliak: folds 
+SaleH25: calls $15
+pindrokk: folds 
+Subv: folds 
+*** FLOP *** [6s 6d Kh]
+ilir3: bets $24
+SaleH25: calls $24
+*** TURN *** [6s 6d Kh] [Jh]
+ilir3: checks 
+SaleH25: bets $60
+ilir3: calls $60
+*** RIVER *** [6s 6d Kh Jh] [4h]
+ilir3: checks 
+SaleH25: checks 
+*** SHOW DOWN ***
+ilir3: shows [Ad Qd] (a pair of Sixes)
+SaleH25: shows [5d 5s] (two pair, Sixes and Fives)
+SaleH25 collected $204.20 from pot
+*** SUMMARY ***
+Total pot $207 | Rake $2.80 
+Board [6s 6d Kh Jh 4h]
+Seat 1: Luthimir folded before Flop (didn't bet)
+Seat 2: ilir3 showed [Ad Qd] and lost with a pair of Sixes
+Seat 3: shevliak folded before Flop (didn't bet)
+Seat 4: SaleH25 (button) showed [5d 5s] and won ($204.20) with two pair, Sixes and Fives
+Seat 5: pindrokk (small blind) folded before Flop
+Seat 6: Subv (big blind) folded before Flop
+
+
+PokerStars Game #102619585045:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:14:20 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Luthimir ($235.46 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: shevliak ($293.22 in chips) 
+Seat 4: SaleH25 ($340.98 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($600 in chips) 
+Subv: posts small blind $3
+Luthimir: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+shevliak: folds 
+SaleH25: folds 
+pindrokk: raises $6 to $12
+Subv: raises $36 to $48
+Luthimir: folds 
+pindrokk: folds 
+Uncalled bet ($36) returned to Subv
+Subv collected $30 from pot
+Subv: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: Luthimir (big blind) folded before Flop
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: shevliak folded before Flop (didn't bet)
+Seat 4: SaleH25 folded before Flop (didn't bet)
+Seat 5: pindrokk (button) folded before Flop
+Seat 6: Subv (small blind) collected ($30)
+
+
+PokerStars Game #102619067733:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:05:09 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Luthimir ($240 in chips) 
+Seat 2: ilir3 ($619.46 in chips) 
+Seat 3: shevliak ($240 in chips) 
+Seat 4: SaleH25 ($240 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($600 in chips) 
+shevliak: posts small blind $3
+SaleH25: posts big blind $6
+*** HOLE CARDS ***
+pindrokk: folds 
+Subv: folds 
+Luthimir: folds 
+ilir3: raises $6 to $12
+shevliak: calls $9
+SaleH25: calls $6
+*** FLOP *** [2s Jh Jd]
+shevliak: checks 
+SaleH25: checks 
+ilir3: bets $24
+shevliak: folds 
+SaleH25: folds 
+Uncalled bet ($24) returned to ilir3
+ilir3 collected $34.38 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $1.62 
+Board [2s Jh Jd]
+Seat 1: Luthimir folded before Flop (didn't bet)
+Seat 2: ilir3 (button) collected ($34.38)
+Seat 3: shevliak (small blind) folded on the Flop
+Seat 4: SaleH25 (big blind) folded on the Flop
+Seat 5: pindrokk folded before Flop (didn't bet)
+Seat 6: Subv folded before Flop (didn't bet)
+
+
+PokerStars Game #102619124395:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:06:09 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Luthimir ($240 in chips) 
+Seat 2: ilir3 ($641.84 in chips) 
+Seat 3: shevliak ($240 in chips) 
+Seat 4: SaleH25 ($228 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($600 in chips) 
+SaleH25: posts small blind $3
+pindrokk: posts big blind $6
+*** HOLE CARDS ***
+Subv: folds 
+Luthimir: folds 
+ilir3: folds 
+shevliak: folds 
+SaleH25: calls $3
+pindrokk: checks 
+*** FLOP *** [6c Qh Ad]
+SaleH25: bets $6
+pindrokk: folds 
+Uncalled bet ($6) returned to SaleH25
+SaleH25 collected $11.46 from pot
+SaleH25: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0.54 
+Board [6c Qh Ad]
+Seat 1: Luthimir folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: shevliak (button) folded before Flop (didn't bet)
+Seat 4: SaleH25 (small blind) collected ($11.46)
+Seat 5: pindrokk (big blind) folded on the Flop
+Seat 6: Subv folded before Flop (didn't bet)
+
+
+PokerStars Game #102619156239:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:06:43 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Luthimir ($240 in chips) 
+Seat 3: shevliak ($240 in chips) 
+Seat 4: SaleH25 ($233.46 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($600 in chips) 
+pindrokk: posts small blind $3
+Subv: posts big blind $6
+*** HOLE CARDS ***
+Luthimir: folds 
+shevliak: folds 
+SaleH25: calls $6
+pindrokk: folds 
+Subv: checks 
+*** FLOP *** [4d Td 4h]
+Subv: checks 
+SaleH25: bets $6
+Subv: folds 
+Uncalled bet ($6) returned to SaleH25
+SaleH25 collected $14.32 from pot
+SaleH25: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.68 
+Board [4d Td 4h]
+Seat 1: Luthimir folded before Flop (didn't bet)
+Seat 3: shevliak folded before Flop (didn't bet)
+Seat 4: SaleH25 (button) collected ($14.32)
+Seat 5: pindrokk (small blind) folded before Flop
+Seat 6: Subv (big blind) folded on the Flop
+
+
+PokerStars Game #102619194533:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:07:23 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Luthimir ($240 in chips) 
+Seat 3: shevliak ($240 in chips) 
+Seat 4: SaleH25 ($241.78 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($600 in chips) 
+Subv: posts small blind $3
+Luthimir: posts big blind $6
+*** HOLE CARDS ***
+shevliak: folds 
+SaleH25: folds 
+pindrokk: folds 
+Subv: calls $3
+Luthimir: checks 
+*** FLOP *** [9s 9h 8d]
+Subv: bets $7.50
+Luthimir: calls $7.50
+*** TURN *** [9s 9h 8d] [Kc]
+Subv: bets $18
+Luthimir: calls $18
+*** RIVER *** [9s 9h 8d Kc] [5d]
+Subv: checks 
+Luthimir: checks 
+*** SHOW DOWN ***
+Subv: shows [Jc Tc] (a pair of Nines)
+Luthimir: shows [8h Th] (two pair, Nines and Eights)
+Luthimir collected $60.20 from pot
+*** SUMMARY ***
+Total pot $63 | Rake $2.80 
+Board [9s 9h 8d Kc 5d]
+Seat 1: Luthimir (big blind) showed [8h Th] and won ($60.20) with two pair, Nines and Eights
+Seat 3: shevliak folded before Flop (didn't bet)
+Seat 4: SaleH25 folded before Flop (didn't bet)
+Seat 5: pindrokk (button) folded before Flop (didn't bet)
+Seat 6: Subv (small blind) showed [Jc Tc] and lost with a pair of Nines
+
+
+PokerStars Game #102619300821:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:09:17 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Luthimir ($268.70 in chips) 
+Seat 2: ilir3 ($641.84 in chips) 
+Seat 3: shevliak ($240 in chips) 
+Seat 4: SaleH25 ($241.78 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($600 in chips) 
+Luthimir: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+shevliak: folds 
+SaleH25: raises $12 to $18
+pindrokk: folds 
+Subv: folds 
+Luthimir: folds 
+ilir3: folds 
+Uncalled bet ($12) returned to SaleH25
+SaleH25 collected $15 from pot
+SaleH25: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Luthimir (small blind) folded before Flop
+Seat 2: ilir3 (big blind) folded before Flop
+Seat 3: shevliak folded before Flop (didn't bet)
+Seat 4: SaleH25 collected ($15)
+Seat 5: pindrokk folded before Flop (didn't bet)
+Seat 6: Subv (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102619319508:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:09:37 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Luthimir ($265.70 in chips) 
+Seat 2: ilir3 ($635.84 in chips) 
+Seat 3: shevliak ($240 in chips) 
+Seat 4: SaleH25 ($250.78 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($600 in chips) 
+ilir3: posts small blind $3
+shevliak: posts big blind $6
+*** HOLE CARDS ***
+SaleH25: folds 
+pindrokk: folds 
+Subv: folds 
+Luthimir: folds 
+ilir3: calls $3
+shevliak: raises $12 to $18
+ilir3: folds 
+Uncalled bet ($12) returned to shevliak
+shevliak collected $12 from pot
+shevliak: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Luthimir (button) folded before Flop (didn't bet)
+Seat 2: ilir3 (small blind) folded before Flop
+Seat 3: shevliak (big blind) collected ($12)
+Seat 4: SaleH25 folded before Flop (didn't bet)
+Seat 5: pindrokk folded before Flop (didn't bet)
+Seat 6: Subv folded before Flop (didn't bet)
+
+
+PokerStars Game #102618993237:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:03:50 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Luthimir ($240 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: shevliak ($240 in chips) 
+Seat 4: SaleH25 ($240 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($600 in chips) 
+ilir3: posts small blind $3
+shevliak: posts big blind $6
+*** HOLE CARDS ***
+SaleH25: folds 
+pindrokk: folds 
+Subv: folds 
+Luthimir: folds 
+ilir3: calls $3
+shevliak: checks 
+*** FLOP *** [Th 5h 3d]
+ilir3: bets $6
+shevliak: raises $9.38 to $15.38
+ilir3: calls $9.38
+*** TURN *** [Th 5h 3d] [9d]
+ilir3: checks 
+shevliak: checks 
+*** RIVER *** [Th 5h 3d 9d] [Qh]
+ilir3: bets $30
+shevliak: folds 
+Uncalled bet ($30) returned to ilir3
+ilir3 collected $40.84 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $42.76 | Rake $1.92 
+Board [Th 5h 3d 9d Qh]
+Seat 1: Luthimir (button) folded before Flop (didn't bet)
+Seat 2: ilir3 (small blind) collected ($40.84)
+Seat 3: shevliak (big blind) folded on the River
+Seat 4: SaleH25 folded before Flop (didn't bet)
+Seat 5: pindrokk folded before Flop (didn't bet)
+Seat 6: Subv folded before Flop (didn't bet)
+
+
+PokerStars Game #102620494416:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:30:41 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Luthimir ($468.18 in chips) 
+Seat 2: ilir3 ($605.46 in chips) 
+Seat 3: shevliak ($242.89 in chips) 
+Seat 4: SaleH25 ($277.21 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($677.96 in chips) 
+SaleH25: posts small blind $3
+pindrokk: posts big blind $6
+*** HOLE CARDS ***
+SaleH25 said, "<'))><"
+Subv: folds 
+Luthimir: folds 
+ilir3: folds 
+shevliak: raises $6.90 to $12.90
+Luthimir said, "^^"
+SaleH25: folds 
+pindrokk: folds 
+Uncalled bet ($6.90) returned to shevliak
+shevliak collected $15 from pot
+shevliak: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Luthimir folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: shevliak (button) collected ($15)
+Seat 4: SaleH25 (small blind) folded before Flop
+Seat 5: pindrokk (big blind) folded before Flop
+Seat 6: Subv folded before Flop (didn't bet)
+
+
+PokerStars Game #102620524918:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:31:14 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Luthimir ($468.18 in chips) 
+Seat 2: ilir3 ($605.46 in chips) 
+Seat 3: shevliak ($251.89 in chips) 
+Seat 4: SaleH25 ($274.21 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($677.96 in chips) 
+pindrokk: posts small blind $3
+Subv: posts big blind $6
+*** HOLE CARDS ***
+Luthimir: folds 
+ilir3: folds 
+shevliak: raises $6.90 to $12.90
+SaleH25: calls $12.90
+pindrokk: calls $9.90
+Subv: folds 
+*** FLOP *** [2s Qh Ks]
+pindrokk: checks 
+shevliak: bets $32.10
+SaleH25: folds 
+pindrokk: folds 
+Uncalled bet ($32.10) returned to shevliak
+shevliak collected $42.69 from pot
+shevliak: doesn't show hand 
+*** SUMMARY ***
+Total pot $44.70 | Rake $2.01 
+Board [2s Qh Ks]
+Seat 1: Luthimir folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: shevliak collected ($42.69)
+Seat 4: SaleH25 (button) folded on the Flop
+Seat 5: pindrokk (small blind) folded on the Flop
+Seat 6: Subv (big blind) folded before Flop
+
+
+PokerStars Game #102620584040:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:32:19 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Luthimir ($468.18 in chips) 
+Seat 2: ilir3 ($605.46 in chips) 
+Seat 3: shevliak ($281.68 in chips) 
+Seat 4: SaleH25 ($261.31 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($671.96 in chips) 
+Subv: posts small blind $3
+Luthimir: posts big blind $6
+*** HOLE CARDS ***
+ilir3: raises $9 to $15
+shevliak: raises $22.80 to $37.80
+SaleH25: folds 
+pindrokk: folds 
+Subv: folds 
+Luthimir: folds 
+ilir3: calls $22.80
+*** FLOP *** [6s 8h 8d]
+ilir3: checks 
+shevliak: bets $32.72
+ilir3: calls $32.72
+*** TURN *** [6s 8h 8d] [9d]
+ilir3: checks 
+shevliak: checks 
+*** RIVER *** [6s 8h 8d 9d] [Jh]
+ilir3: bets $112
+shevliak: folds 
+Uncalled bet ($112) returned to ilir3
+ilir3 collected $147.24 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $150.04 | Rake $2.80 
+Board [6s 8h 8d 9d Jh]
+Seat 1: Luthimir (big blind) folded before Flop
+Seat 2: ilir3 collected ($147.24)
+Seat 3: shevliak folded on the River
+Seat 4: SaleH25 folded before Flop (didn't bet)
+Seat 5: pindrokk (button) folded before Flop (didn't bet)
+Seat 6: Subv (small blind) folded before Flop
+
+
+PokerStars Game #102620674256:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:33:58 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Luthimir ($462.18 in chips) 
+Seat 2: ilir3 ($682.18 in chips) 
+Seat 3: shevliak ($240 in chips) 
+Seat 4: SaleH25 ($261.31 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($668.96 in chips) 
+Luthimir: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+shevliak: folds 
+SaleH25: raises $6 to $12
+pindrokk: folds 
+Subv: calls $12
+Luthimir: folds 
+ilir3: calls $6
+*** FLOP *** [8s 5s Td]
+ilir3: checks 
+SaleH25: bets $12
+Subv: calls $12
+ilir3: calls $12
+*** TURN *** [8s 5s Td] [3s]
+ilir3: checks 
+SaleH25: bets $18
+Subv: folds 
+ilir3: calls $18
+*** RIVER *** [8s 5s Td 3s] [6h]
+ilir3: checks 
+SaleH25: checks 
+*** SHOW DOWN ***
+ilir3: shows [Th Js] (a pair of Tens)
+SaleH25: mucks hand 
+ilir3 collected $108.20 from pot
+*** SUMMARY ***
+Total pot $111 | Rake $2.80 
+Board [8s 5s Td 3s 6h]
+Seat 1: Luthimir (small blind) folded before Flop
+Seat 2: ilir3 (big blind) showed [Th Js] and won ($108.20) with a pair of Tens
+Seat 3: shevliak folded before Flop (didn't bet)
+Seat 4: SaleH25 mucked
+Seat 5: pindrokk folded before Flop (didn't bet)
+Seat 6: Subv (button) folded on the Turn
+
+
+PokerStars Game #102620281399:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:26:48 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Luthimir ($407.68 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: shevliak ($251.89 in chips) 
+Seat 4: SaleH25 ($313.21 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($696.26 in chips) 
+Luthimir: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+shevliak: folds 
+SaleH25: calls $6
+pindrokk: folds 
+Subv: raises $12.30 to $18.30
+Luthimir: raises $31.70 to $50
+ilir3: folds 
+SaleH25: folds 
+Subv: folds 
+Uncalled bet ($31.70) returned to Luthimir
+Luthimir collected $48.60 from pot
+Luthimir: doesn't show hand 
+*** SUMMARY ***
+Total pot $48.60 | Rake $0 
+Seat 1: Luthimir (small blind) collected ($48.60)
+Seat 2: ilir3 (big blind) folded before Flop
+Seat 3: shevliak folded before Flop (didn't bet)
+Seat 4: SaleH25 folded before Flop
+Seat 5: pindrokk folded before Flop (didn't bet)
+Seat 6: Subv (button) folded before Flop
+
+
+PokerStars Game #102620318207:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:27:28 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Luthimir ($437.98 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: shevliak ($251.89 in chips) 
+Seat 4: SaleH25 ($307.21 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($677.96 in chips) 
+ilir3: posts small blind $3
+shevliak: posts big blind $6
+*** HOLE CARDS ***
+SaleH25: folds 
+pindrokk: folds 
+Subv: folds 
+Luthimir: folds 
+ilir3: calls $3
+shevliak: checks 
+*** FLOP *** [9d 2c 3s]
+ilir3: bets $6
+shevliak: folds 
+Uncalled bet ($6) returned to ilir3
+ilir3 collected $11.46 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0.54 
+Board [9d 2c 3s]
+Seat 1: Luthimir (button) folded before Flop (didn't bet)
+Seat 2: ilir3 (small blind) collected ($11.46)
+Seat 3: shevliak (big blind) folded on the Flop
+Seat 4: SaleH25 folded before Flop (didn't bet)
+Seat 5: pindrokk folded before Flop (didn't bet)
+Seat 6: Subv folded before Flop (didn't bet)
+
+
+PokerStars Game #102620374495:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:28:30 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Luthimir ($437.98 in chips) 
+Seat 2: ilir3 ($605.46 in chips) 
+Seat 3: shevliak ($245.89 in chips) 
+Seat 4: SaleH25 ($307.21 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($677.96 in chips) 
+shevliak: posts small blind $3
+SaleH25: posts big blind $6
+*** HOLE CARDS ***
+pindrokk: folds 
+Subv: folds 
+Luthimir: raises $6 to $12
+ilir3: folds 
+shevliak: folds 
+SaleH25: calls $6
+*** FLOP *** [Ts 4d 2s]
+SaleH25: checks 
+Luthimir: bets $12
+SaleH25: calls $12
+*** TURN *** [Ts 4d 2s] [Td]
+SaleH25: checks 
+Luthimir: checks 
+*** RIVER *** [Ts 4d 2s Td] [Jc]
+SaleH25: bets $6
+Luthimir: raises $30 to $36
+SaleH25 said, "J?"
+SaleH25: folds 
+Uncalled bet ($30) returned to Luthimir
+Luthimir collected $60.20 from pot
+Luthimir: doesn't show hand 
+*** SUMMARY ***
+Total pot $63 | Rake $2.80 
+Board [Ts 4d 2s Td Jc]
+Seat 1: Luthimir collected ($60.20)
+Seat 2: ilir3 (button) folded before Flop (didn't bet)
+Seat 3: shevliak (small blind) folded before Flop
+Seat 4: SaleH25 (big blind) folded on the River
+Seat 5: pindrokk folded before Flop (didn't bet)
+Seat 6: Subv folded before Flop (didn't bet)
+
+
+PokerStars Game #102619924499:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:20:22 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Luthimir ($225.24 in chips) 
+Seat 2: ilir3 ($632.48 in chips) 
+Seat 3: shevliak ($287.22 in chips) 
+Seat 4: SaleH25 ($313.98 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($618 in chips) 
+shevliak: posts small blind $3
+SaleH25: posts big blind $6
+*** HOLE CARDS ***
+pindrokk: folds 
+Subv: raises $6.30 to $12.30
+Luthimir: folds 
+ilir3: folds 
+shevliak: folds 
+SaleH25: calls $6.30
+*** FLOP *** [Jd Jh 5h]
+SaleH25: checks 
+Subv: bets $18
+SaleH25: folds 
+Uncalled bet ($18) returned to Subv
+Subv collected $26.36 from pot
+Subv: doesn't show hand 
+*** SUMMARY ***
+Total pot $27.60 | Rake $1.24 
+Board [Jd Jh 5h]
+Seat 1: Luthimir folded before Flop (didn't bet)
+Seat 2: ilir3 (button) folded before Flop (didn't bet)
+Seat 3: shevliak (small blind) folded before Flop
+Seat 4: SaleH25 (big blind) folded on the Flop
+Seat 5: pindrokk folded before Flop (didn't bet)
+Seat 6: Subv collected ($26.36)
+
+
+PokerStars Game #102619970573:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:21:11 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Luthimir ($225.24 in chips) 
+Seat 2: ilir3 ($632.48 in chips) 
+Seat 3: shevliak ($284.22 in chips) 
+Seat 4: SaleH25 ($301.68 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($632.06 in chips) 
+SaleH25: posts small blind $3
+pindrokk: posts big blind $6
+*** HOLE CARDS ***
+Subv: folds 
+Luthimir: folds 
+ilir3: folds 
+shevliak: raises $6.90 to $12.90
+SaleH25: calls $9.90
+pindrokk: folds 
+*** FLOP *** [5h Kc 3h]
+SaleH25: checks 
+shevliak: bets $19.43
+SaleH25: calls $19.43
+*** TURN *** [5h Kc 3h] [6c]
+SaleH25: checks 
+shevliak: checks 
+*** RIVER *** [5h Kc 3h 6c] [8d]
+SaleH25: checks 
+shevliak: checks 
+*** SHOW DOWN ***
+SaleH25: shows [Ts Kd] (a pair of Kings)
+shevliak: mucks hand 
+SaleH25 collected $67.86 from pot
+*** SUMMARY ***
+Total pot $70.66 | Rake $2.80 
+Board [5h Kc 3h 6c 8d]
+Seat 1: Luthimir folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: shevliak (button) mucked
+Seat 4: SaleH25 (small blind) showed [Ts Kd] and won ($67.86) with a pair of Kings
+Seat 5: pindrokk (big blind) folded before Flop
+Seat 6: Subv folded before Flop (didn't bet)
+
+
+PokerStars Game #102620011159:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:21:55 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Luthimir ($225.24 in chips) 
+Seat 2: ilir3 ($632.48 in chips) 
+Seat 3: shevliak ($251.89 in chips) 
+Seat 4: SaleH25 ($337.21 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($632.06 in chips) 
+pindrokk: posts small blind $3
+Subv: posts big blind $6
+*** HOLE CARDS ***
+Luthimir: raises $10.50 to $16.50
+ilir3: raises $23.50 to $40
+shevliak: folds 
+SaleH25: folds 
+pindrokk: folds 
+Subv: folds 
+Luthimir: calls $23.50
+*** FLOP *** [9c Td 4s]
+Luthimir: checks 
+ilir3: bets $38
+Luthimir: calls $38
+*** TURN *** [9c Td 4s] [As]
+Luthimir: bets $108
+ilir3: raises $108 to $216
+Luthimir: calls $39.24 and is all-in
+Uncalled bet ($68.76) returned to ilir3
+*** FIRST RIVER *** [9c Td 4s As] [3s]
+*** SECOND RIVER *** [9c Td 4s As] [2s]
+*** FIRST SHOW DOWN ***
+Luthimir: shows [Qh Ad] (a pair of Aces)
+ilir3: shows [Ks Kd] (a pair of Kings)
+Luthimir collected $228.34 from pot
+*** SECOND SHOW DOWN ***
+Luthimir: shows [Qh Ad] (a pair of Aces)
+ilir3: shows [Ks Kd] (a pair of Kings)
+Luthimir collected $228.34 from pot
+*** SUMMARY ***
+Total pot $459.48 | Rake $2.80 
+Hand was run twice
+FIRST Board [9c Td 4s As 3s]
+SECOND Board [9c Td 4s As 2s]
+Seat 1: Luthimir showed [Qh Ad] and won ($228.34) with a pair of Aces, and won ($228.34) with a pair of Aces
+Seat 2: ilir3 showed [Ks Kd] and lost with a pair of Kings, and lost with a pair of Kings
+Seat 3: shevliak folded before Flop (didn't bet)
+Seat 4: SaleH25 (button) folded before Flop (didn't bet)
+Seat 5: pindrokk (small blind) folded before Flop
+Seat 6: Subv (big blind) folded before Flop
+
+
+PokerStars Game #102620131437:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:24:04 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Luthimir ($456.68 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: shevliak ($251.89 in chips) 
+Seat 4: SaleH25 ($337.21 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($626.06 in chips) 
+Subv: posts small blind $3
+ilir3 said, "o.o"
+Luthimir: posts big blind $6
+*** HOLE CARDS ***
+ilir3 said, "misclick flop?"
+ilir3: folds 
+shevliak: folds 
+SaleH25: calls $6
+pindrokk: folds 
+Subv: raises $18 to $24
+ilir3 said, "ah costa rica"
+ilir3 said, "explains a lot"
+Luthimir: calls $18
+SaleH25: calls $18
+*** FLOP *** [9c 3h 6c]
+Luthimir said, "^^"
+Subv: checks 
+Luthimir: bets $25
+SaleH25: folds 
+Subv: calls $25
+*** TURN *** [9c 3h 6c] [2s]
+Subv: checks 
+Luthimir: checks 
+*** RIVER *** [9c 3h 6c 2s] [3d]
+Subv: checks 
+Luthimir: checks 
+*** SHOW DOWN ***
+Subv: shows [7d 7c] (two pair, Sevens and Threes)
+Luthimir: mucks hand 
+Subv collected $119.20 from pot
+*** SUMMARY ***
+Total pot $122 | Rake $2.80 
+Board [9c 3h 6c 2s 3d]
+Seat 1: Luthimir (big blind) mucked
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: shevliak folded before Flop (didn't bet)
+Seat 4: SaleH25 folded on the Flop
+Seat 5: pindrokk (button) folded before Flop (didn't bet)
+Seat 6: Subv (small blind) showed [7d 7c] and won ($119.20) with two pair, Sevens and Threes
+
+
+PokerStars Game #102619633785:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:15:12 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Luthimir ($229.46 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: shevliak ($293.22 in chips) 
+Seat 4: SaleH25 ($340.98 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($618 in chips) 
+Luthimir: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+shevliak: folds 
+SaleH25: calls $6
+pindrokk: folds 
+Subv: folds 
+Luthimir: folds 
+ilir3: raises $12 to $18
+SaleH25: calls $12
+*** FLOP *** [2s 6c Td]
+ilir3: bets $22
+SaleH25: folds 
+Uncalled bet ($22) returned to ilir3
+ilir3 collected $37.24 from pot
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [2s 6c Td]
+Seat 1: Luthimir (small blind) folded before Flop
+Seat 2: ilir3 (big blind) collected ($37.24)
+Seat 3: shevliak folded before Flop (didn't bet)
+Seat 4: SaleH25 folded on the Flop
+Seat 5: pindrokk folded before Flop (didn't bet)
+Seat 6: Subv (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102619663532:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:15:44 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Luthimir ($226.46 in chips) 
+Seat 2: ilir3 ($619.24 in chips) 
+Seat 3: shevliak ($293.22 in chips) 
+Seat 4: SaleH25 ($322.98 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($618 in chips) 
+ilir3: posts small blind $3
+shevliak: posts big blind $6
+*** HOLE CARDS ***
+SaleH25: raises $12 to $18
+pindrokk: folds 
+Subv: folds 
+Luthimir: folds 
+ilir3: folds 
+shevliak: folds 
+Uncalled bet ($12) returned to SaleH25
+SaleH25 collected $15 from pot
+SaleH25: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Luthimir (button) folded before Flop (didn't bet)
+Seat 2: ilir3 (small blind) folded before Flop
+Seat 3: shevliak (big blind) folded before Flop
+Seat 4: SaleH25 collected ($15)
+Seat 5: pindrokk folded before Flop (didn't bet)
+Seat 6: Subv folded before Flop (didn't bet)
+
+
+PokerStars Game #102619679750:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:16:01 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Luthimir ($226.46 in chips) 
+Seat 2: ilir3 ($616.24 in chips) 
+Seat 3: shevliak ($287.22 in chips) 
+Seat 4: SaleH25 ($331.98 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($618 in chips) 
+shevliak: posts small blind $3
+SaleH25: posts big blind $6
+*** HOLE CARDS ***
+pindrokk: folds 
+Subv: folds 
+Luthimir: raises $6 to $12
+ilir3: calls $12
+shevliak: folds 
+SaleH25: calls $6
+*** FLOP *** [4h Jd 7s]
+SaleH25: checks 
+Luthimir: checks 
+ilir3: bets $24
+SaleH25: folds 
+Luthimir: folds 
+Uncalled bet ($24) returned to ilir3
+ilir3 collected $37.24 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [4h Jd 7s]
+Seat 1: Luthimir folded on the Flop
+Seat 2: ilir3 (button) collected ($37.24)
+Seat 3: shevliak (small blind) folded before Flop
+Seat 4: SaleH25 (big blind) folded on the Flop
+Seat 5: pindrokk folded before Flop (didn't bet)
+Seat 6: Subv folded before Flop (didn't bet)
+
+
+PokerStars Game #102619742351:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:17:08 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Luthimir ($214.46 in chips) 
+Seat 2: ilir3 ($641.48 in chips) 
+Seat 3: shevliak ($284.22 in chips) 
+Seat 4: SaleH25 ($319.98 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($618 in chips) 
+SaleH25: posts small blind $3
+pindrokk: posts big blind $6
+*** HOLE CARDS ***
+Subv: folds 
+Luthimir: folds 
+ilir3: folds 
+shevliak: folds 
+SaleH25: calls $3
+pindrokk: raises $9 to $15
+SaleH25: calls $9
+*** FLOP *** [8c 8d Ad]
+SaleH25: checks 
+pindrokk: bets $18
+SaleH25: folds 
+Uncalled bet ($18) returned to pindrokk
+pindrokk collected $28.65 from pot
+pindrokk: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [8c 8d Ad]
+Seat 1: Luthimir folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: shevliak (button) folded before Flop (didn't bet)
+Seat 4: SaleH25 (small blind) folded on the Flop
+Seat 5: pindrokk (big blind) collected ($28.65)
+Seat 6: Subv folded before Flop (didn't bet)
+
+
+PokerStars Game #102619781492:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:17:49 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Luthimir ($214.46 in chips) 
+Seat 2: ilir3 ($641.48 in chips) 
+Seat 3: shevliak ($284.22 in chips) 
+Seat 4: SaleH25 ($304.98 in chips) 
+Seat 5: pindrokk ($613.65 in chips) 
+Seat 6: Subv ($618 in chips) 
+pindrokk: posts small blind $3
+Subv: posts big blind $6
+*** HOLE CARDS ***
+Luthimir: folds 
+ilir3: folds 
+shevliak: folds 
+SaleH25: folds 
+pindrokk: folds 
+Uncalled bet ($3) returned to Subv
+Subv collected $6 from pot
+Subv: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Luthimir folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: shevliak folded before Flop (didn't bet)
+Seat 4: SaleH25 (button) folded before Flop (didn't bet)
+Seat 5: pindrokk (small blind) folded before Flop
+Seat 6: Subv (big blind) collected ($6)
+
+
+PokerStars Game #102619793167:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:18:02 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Luthimir ($214.46 in chips) 
+Seat 2: ilir3 ($641.48 in chips) 
+Seat 3: shevliak ($284.22 in chips) 
+Seat 4: SaleH25 ($304.98 in chips) 
+Seat 5: pindrokk ($610.65 in chips) 
+Seat 6: Subv ($621 in chips) 
+Subv: posts small blind $3
+Luthimir: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+shevliak: folds 
+SaleH25: folds 
+pindrokk: raises $6 to $12
+Subv: folds 
+Luthimir: calls $6
+*** FLOP *** [Ac 8h 9h]
+Luthimir: bets $9.42
+pindrokk: folds 
+Uncalled bet ($9.42) returned to Luthimir
+Luthimir collected $25.78 from pot
+Luthimir: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Ac 8h 9h]
+Seat 1: Luthimir (big blind) collected ($25.78)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: shevliak folded before Flop (didn't bet)
+Seat 4: SaleH25 folded before Flop (didn't bet)
+Seat 5: pindrokk (button) folded on the Flop
+Seat 6: Subv (small blind) folded before Flop
+
+
+PokerStars Game #102619851398:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:19:04 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Luthimir ($228.24 in chips) 
+Seat 2: ilir3 ($641.48 in chips) 
+Seat 3: shevliak ($284.22 in chips) 
+Seat 4: SaleH25 ($304.98 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($618 in chips) 
+Luthimir: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+shevliak: raises $6.90 to $12.90
+SaleH25: folds 
+pindrokk: folds 
+Subv: folds 
+Luthimir: folds 
+ilir3: folds 
+Uncalled bet ($6.90) returned to shevliak
+shevliak collected $15 from pot
+shevliak: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Luthimir (small blind) folded before Flop
+Seat 2: ilir3 (big blind) folded before Flop
+Seat 3: shevliak collected ($15)
+Seat 4: SaleH25 folded before Flop (didn't bet)
+Seat 5: pindrokk folded before Flop (didn't bet)
+Seat 6: Subv (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102619885493:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:19:40 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Luthimir ($225.24 in chips) 
+Seat 2: ilir3 ($635.48 in chips) 
+Seat 3: shevliak ($293.22 in chips) 
+Seat 4: SaleH25 ($304.98 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($618 in chips) 
+ilir3: posts small blind $3
+shevliak: posts big blind $6
+*** HOLE CARDS ***
+SaleH25: raises $12 to $18
+pindrokk: folds 
+Subv: folds 
+Luthimir: folds 
+ilir3: folds 
+shevliak: folds 
+Uncalled bet ($12) returned to SaleH25
+SaleH25 collected $15 from pot
+SaleH25: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Luthimir (button) folded before Flop (didn't bet)
+Seat 2: ilir3 (small blind) folded before Flop
+Seat 3: shevliak (big blind) folded before Flop
+Seat 4: SaleH25 collected ($15)
+Seat 5: pindrokk folded before Flop (didn't bet)
+Seat 6: Subv folded before Flop (didn't bet)
+
+
+PokerStars Game #102621004524:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:40:01 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Luthimir ($647.38 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: shevliak ($240 in chips) 
+Seat 4: SaleH25 ($201.01 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($655.88 in chips) 
+Subv: posts small blind $3
+Luthimir: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+shevliak: folds 
+SaleH25: folds 
+pindrokk: raises $6 to $12
+Subv: folds 
+Luthimir: raises $24 to $36
+pindrokk: folds 
+Uncalled bet ($24) returned to Luthimir
+Luthimir collected $27 from pot
+Luthimir: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 1: Luthimir (big blind) collected ($27)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: shevliak folded before Flop (didn't bet)
+Seat 4: SaleH25 folded before Flop (didn't bet)
+Seat 5: pindrokk (button) folded before Flop
+Seat 6: Subv (small blind) folded before Flop
+
+
+PokerStars Game #102621032701:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:40:33 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Luthimir ($662.38 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: shevliak ($240 in chips) 
+Seat 4: SaleH25 ($201.01 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($652.88 in chips) 
+Luthimir: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+shevliak: folds 
+SaleH25: calls $6
+pindrokk: folds 
+Subv: folds 
+Luthimir: folds 
+ilir3: checks 
+*** FLOP *** [2h Js 3c]
+ilir3: checks 
+SaleH25: bets $12
+ilir3: folds 
+Uncalled bet ($12) returned to SaleH25
+SaleH25 collected $14.32 from pot
+SaleH25: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.68 
+Board [2h Js 3c]
+Seat 1: Luthimir (small blind) folded before Flop
+Seat 2: ilir3 (big blind) folded on the Flop
+Seat 3: shevliak folded before Flop (didn't bet)
+Seat 4: SaleH25 collected ($14.32)
+Seat 5: pindrokk folded before Flop (didn't bet)
+Seat 6: Subv (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102621072440:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:41:17 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Luthimir ($659.38 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: shevliak ($240 in chips) 
+Seat 4: SaleH25 ($209.33 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($652.88 in chips) 
+ilir3: posts small blind $3
+shevliak: posts big blind $6
+*** HOLE CARDS ***
+SaleH25: folds 
+SaleH25 leaves the table
+pindrokk: folds 
+Subv: folds 
+Luthimir: folds 
+ilir3: calls $3
+shevliak: raises $12 to $18
+ilir3: folds 
+Uncalled bet ($12) returned to shevliak
+shevliak collected $12 from pot
+shevliak: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Luthimir (button) folded before Flop (didn't bet)
+Seat 2: ilir3 (small blind) folded before Flop
+Seat 3: shevliak (big blind) collected ($12)
+Seat 4: SaleH25 folded before Flop (didn't bet)
+Seat 5: pindrokk folded before Flop (didn't bet)
+Seat 6: Subv folded before Flop (didn't bet)
+
+
+PokerStars Game #102621117361:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:42:08 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Luthimir ($659.38 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: shevliak ($246 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($652.88 in chips) 
+shevliak: posts small blind $3
+pindrokk: posts big blind $6
+*** HOLE CARDS ***
+Subv: raises $6.30 to $12.30
+Luthimir: folds 
+ilir3: folds 
+shevliak: folds 
+pindrokk: calls $6.30
+*** FLOP *** [2d 9c 4d]
+pindrokk: checks 
+Subv: checks 
+*** TURN *** [2d 9c 4d] [6c]
+GregAndrek joins the table at seat #4 
+pindrokk: bets $20
+Subv: calls $20
+*** RIVER *** [2d 9c 4d 6c] [Ad]
+pindrokk: bets $50
+Subv: folds 
+Uncalled bet ($50) returned to pindrokk
+pindrokk collected $64.80 from pot
+pindrokk: doesn't show hand 
+*** SUMMARY ***
+Total pot $67.60 | Rake $2.80 
+Board [2d 9c 4d 6c Ad]
+Seat 1: Luthimir folded before Flop (didn't bet)
+Seat 2: ilir3 (button) folded before Flop (didn't bet)
+Seat 3: shevliak (small blind) folded before Flop
+Seat 5: pindrokk (big blind) collected ($64.80)
+Seat 6: Subv folded on the River
+
+
+PokerStars Game #102621217953:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:44:02 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Luthimir ($659.38 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: shevliak ($243 in chips) 
+Seat 5: pindrokk ($632.50 in chips) 
+Seat 6: Subv ($620.58 in chips) 
+GregAndrek will be allowed to play after the button
+pindrokk: posts small blind $3
+Subv: posts big blind $6
+*** HOLE CARDS ***
+Luthimir: folds 
+ilir3: raises $6 to $12
+shevliak: calls $12
+pindrokk: folds 
+Subv: calls $6
+*** FLOP *** [3h Qc Jh]
+Subv: checks 
+ilir3: bets $24
+shevliak: raises $34.09 to $58.09
+Subv: folds 
+ilir3: calls $34.09
+*** TURN *** [3h Qc Jh] [Th]
+ilir3: checks 
+shevliak: checks 
+*** RIVER *** [3h Qc Jh Th] [Kc]
+ilir3: bets $75
+shevliak: raises $97.91 to $172.91 and is all-in
+ilir3: folds 
+Uncalled bet ($97.91) returned to shevliak
+shevliak collected $302.38 from pot
+shevliak: doesn't show hand 
+*** SUMMARY ***
+Total pot $305.18 | Rake $2.80 
+Board [3h Qc Jh Th Kc]
+Seat 1: Luthimir folded before Flop (didn't bet)
+Seat 2: ilir3 folded on the River
+Seat 3: shevliak (button) collected ($302.38)
+Seat 5: pindrokk (small blind) folded before Flop
+Seat 6: Subv (big blind) folded on the Flop
+
+
+PokerStars Game #102620770595:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:35:44 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Luthimir ($459.18 in chips) 
+Seat 2: ilir3 ($748.38 in chips) 
+Seat 3: shevliak ($240 in chips) 
+Seat 4: SaleH25 ($219.31 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($644.96 in chips) 
+ilir3: posts small blind $3
+shevliak: posts big blind $6
+*** HOLE CARDS ***
+SaleH25: folds 
+pindrokk: folds 
+Subv: folds 
+Luthimir: folds 
+ilir3: calls $3
+shevliak: raises $12 to $18
+ilir3: raises $30 to $48
+shevliak: folds 
+Uncalled bet ($30) returned to ilir3
+ilir3 collected $36 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $0 
+Seat 1: Luthimir (button) folded before Flop (didn't bet)
+Seat 2: ilir3 (small blind) collected ($36)
+Seat 3: shevliak (big blind) folded before Flop
+Seat 4: SaleH25 folded before Flop (didn't bet)
+Seat 5: pindrokk folded before Flop (didn't bet)
+Seat 6: Subv folded before Flop (didn't bet)
+
+
+PokerStars Game #102620823105:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:36:41 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Luthimir ($459.18 in chips) 
+Seat 2: ilir3 ($766.38 in chips) 
+Seat 3: shevliak ($240 in chips) 
+Seat 4: SaleH25 ($219.31 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($644.96 in chips) 
+shevliak: posts small blind $3
+SaleH25: posts big blind $6
+*** HOLE CARDS ***
+pindrokk: folds 
+Subv: folds 
+Luthimir: raises $12 to $18
+ilir3: folds 
+SaleH25 said, "<'))><"
+shevliak: folds 
+SaleH25: folds 
+Uncalled bet ($12) returned to Luthimir
+Luthimir collected $15 from pot
+Luthimir: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Luthimir collected ($15)
+Seat 2: ilir3 (button) folded before Flop (didn't bet)
+Seat 3: shevliak (small blind) folded before Flop
+Seat 4: SaleH25 (big blind) folded before Flop
+Seat 5: pindrokk folded before Flop (didn't bet)
+Seat 6: Subv folded before Flop (didn't bet)
+
+
+PokerStars Game #102620852199:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:37:13 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Luthimir ($468.18 in chips) 
+Seat 2: ilir3 ($766.38 in chips) 
+Seat 3: shevliak ($240 in chips) 
+Seat 4: SaleH25 ($213.31 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($644.96 in chips) 
+SaleH25: posts small blind $3
+pindrokk: posts big blind $6
+*** HOLE CARDS ***
+Subv: raises $6.30 to $12.30
+Luthimir: folds 
+ilir3: folds 
+shevliak: folds 
+SaleH25: calls $9.30
+pindrokk: folds 
+*** FLOP *** [Qs 5s As]
+SaleH25: checks 
+Subv: bets $18
+SaleH25: folds 
+Uncalled bet ($18) returned to Subv
+Subv collected $29.22 from pot
+Subv: doesn't show hand 
+*** SUMMARY ***
+Total pot $30.60 | Rake $1.38 
+Board [Qs 5s As]
+Seat 1: Luthimir folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: shevliak (button) folded before Flop (didn't bet)
+Seat 4: SaleH25 (small blind) folded on the Flop
+Seat 5: pindrokk (big blind) folded before Flop
+Seat 6: Subv collected ($29.22)
+
+
+PokerStars Game #102620899400:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:38:05 ET
+Table 'Palinurus IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Luthimir ($468.18 in chips) 
+Seat 2: ilir3 ($766.38 in chips) 
+Seat 3: shevliak ($240 in chips) 
+Seat 4: SaleH25 ($201.01 in chips) 
+Seat 5: pindrokk ($600 in chips) 
+Seat 6: Subv ($661.88 in chips) 
+pindrokk: posts small blind $3
+Subv: posts big blind $6
+*** HOLE CARDS ***
+Luthimir: raises $12 to $18
+ilir3: calls $18
+shevliak: folds 
+SaleH25: folds 
+pindrokk: folds 
+Subv: folds 
+*** FLOP *** [9h 4s 7s]
+Luthimir: checks 
+ilir3: bets $30
+Luthimir: raises $45 to $75
+SaleH25 said, "<'))><"
+ilir3: raises $80 to $155
+Luthimir: raises $145 to $300
+ilir3: folds 
+Uncalled bet ($145) returned to Luthimir
+Luthimir collected $352.20 from pot
+Luthimir: doesn't show hand 
+*** SUMMARY ***
+Total pot $355 | Rake $2.80 
+Board [9h 4s 7s]
+Seat 1: Luthimir collected ($352.20)
+Seat 2: ilir3 folded on the Flop
+Seat 3: shevliak folded before Flop (didn't bet)
+Seat 4: SaleH25 (button) folded before Flop (didn't bet)
+Seat 5: pindrokk (small blind) folded before Flop
+Seat 6: Subv (big blind) folded before Flop

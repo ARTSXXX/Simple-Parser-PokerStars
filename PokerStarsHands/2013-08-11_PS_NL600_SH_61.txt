@@ -1,0 +1,961 @@
+
+
+PokerStars Game #102608088628:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:05:08 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #1 is the button
+Seat 1: elvn89 ($231 in chips) 
+Seat 2: shevliak ($240 in chips) 
+Seat 4: barrao ($225 in chips) 
+Seat 5: zazano ($810.20 in chips) 
+shevliak: posts small blind $3
+floriiiiider: is sitting out 
+barrao: posts big blind $6
+*** HOLE CARDS ***
+zazano: folds 
+floriiiiider leaves the table
+elvn89: raises $7.02 to $13.02
+shevliak: folds 
+barrao: raises $19.02 to $32.04
+elvn89: raises $19.02 to $51.06
+barrao: folds 
+Uncalled bet ($19.02) returned to elvn89
+elvn89 collected $67.08 from pot
+*** SUMMARY ***
+Total pot $67.08 | Rake $0 
+Seat 1: elvn89 (button) collected ($67.08)
+Seat 2: shevliak (small blind) folded before Flop
+Seat 4: barrao (big blind) folded before Flop
+Seat 5: zazano folded before Flop (didn't bet)
+
+
+PokerStars Game #102608116621:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:05:44 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #2 is the button
+Seat 1: elvn89 ($266.04 in chips) 
+Seat 2: shevliak ($240 in chips) 
+Seat 4: barrao ($240 in chips) 
+Seat 5: zazano ($810.20 in chips) 
+barrao: posts small blind $3
+zazano: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+shevliak: folds 
+barrao: raises $12 to $18
+floriiiiider joins the table at seat #3 
+zazano: folds 
+Uncalled bet ($12) returned to barrao
+barrao collected $12 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: elvn89 folded before Flop (didn't bet)
+Seat 2: shevliak (button) folded before Flop (didn't bet)
+Seat 4: barrao (small blind) collected ($12)
+Seat 5: zazano (big blind) folded before Flop
+
+
+PokerStars Game #102608128306:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:06:00 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #4 is the button
+Seat 1: elvn89 ($266.04 in chips) 
+Seat 2: shevliak ($240 in chips) 
+Seat 4: barrao ($246 in chips) 
+Seat 5: zazano ($804.20 in chips) 
+zazano: posts small blind $3
+elvn89: posts big blind $6
+floriiiiider: sits out 
+*** HOLE CARDS ***
+floriiiiider leaves the table
+vivecrew joins the table at seat #3 
+shevliak: folds 
+vivecrew leaves the table
+barrao: raises $6 to $12
+floriiiiider joins the table at seat #3 
+floriiiiider leaves the table
+zazano: calls $9
+elvn89: folds 
+*** FLOP *** [6c 2s Js]
+zazano: checks 
+barrao: checks 
+*** TURN *** [6c 2s Js] [Ts]
+zazano: bets $18
+barrao: folds 
+Uncalled bet ($18) returned to zazano
+zazano collected $28.65 from pot
+zazano: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [6c 2s Js Ts]
+Seat 1: elvn89 (big blind) folded before Flop
+Seat 2: shevliak folded before Flop (didn't bet)
+Seat 4: barrao (button) folded on the Turn
+Seat 5: zazano (small blind) collected ($28.65)
+
+
+PokerStars Game #102608177131:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:07:03 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #5 is the button
+Seat 1: elvn89 ($260.04 in chips) 
+Seat 2: shevliak ($240 in chips) 
+Seat 4: barrao ($234 in chips) 
+Seat 5: zazano ($820.85 in chips) 
+elvn89: posts small blind $3
+shevliak: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+zazano: raises $6 to $12
+elvn89: folds 
+shevliak: folds 
+Uncalled bet ($6) returned to zazano
+zazano collected $15 from pot
+zazano: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: elvn89 (small blind) folded before Flop
+Seat 2: shevliak (big blind) folded before Flop
+Seat 4: barrao folded before Flop (didn't bet)
+Seat 5: zazano (button) collected ($15)
+
+
+PokerStars Game #102608193181:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:07:24 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #1 is the button
+Seat 1: elvn89 ($257.04 in chips) 
+Seat 2: shevliak ($240 in chips) 
+Seat 4: barrao ($234 in chips) 
+Seat 5: zazano ($829.85 in chips) 
+shevliak: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+zazano: folds 
+elvn89: raises $7.02 to $13.02
+shevliak: folds 
+barrao: folds 
+Uncalled bet ($7.02) returned to elvn89
+elvn89 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: elvn89 (button) collected ($15)
+Seat 2: shevliak (small blind) folded before Flop
+Seat 4: barrao (big blind) folded before Flop
+Seat 5: zazano folded before Flop (didn't bet)
+
+
+PokerStars Game #102608222653:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:08:04 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #2 is the button
+Seat 1: elvn89 ($266.04 in chips) 
+Seat 2: shevliak ($240 in chips) 
+Seat 4: barrao ($228 in chips) 
+Seat 5: zazano ($829.85 in chips) 
+barrao: posts small blind $3
+zazano: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+shevliak: raises $6 to $12
+barrao: folds 
+zazano: raises $24 to $36
+shevliak: raises $24 to $60
+zazano: raises $769.85 to $829.85 and is all-in
+icrywhenipee joins the table at seat #3 
+shevliak: folds 
+Uncalled bet ($769.85) returned to zazano
+zazano collected $123 from pot
+zazano: doesn't show hand 
+*** SUMMARY ***
+Total pot $123 | Rake $0 
+Seat 1: elvn89 folded before Flop (didn't bet)
+Seat 2: shevliak (button) folded before Flop
+Seat 4: barrao (small blind) folded before Flop
+Seat 5: zazano (big blind) collected ($123)
+
+
+PokerStars Game #102608259193:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:08:53 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #4 is the button
+Seat 1: elvn89 ($266.04 in chips) 
+Seat 2: shevliak ($240 in chips) 
+Seat 3: icrywhenipee ($500 in chips) 
+Seat 4: barrao ($225 in chips) 
+Seat 5: zazano ($892.85 in chips) 
+zazano: posts small blind $3
+elvn89: posts big blind $6
+icrywhenipee: posts big blind $6
+*** HOLE CARDS ***
+shevliak: folds 
+icrywhenipee: checks 
+barrao: folds 
+zazano: folds 
+elvn89: checks 
+*** FLOP *** [4h 3d 5c]
+elvn89: checks 
+icrywhenipee: bets $6
+elvn89: folds 
+Uncalled bet ($6) returned to icrywhenipee
+icrywhenipee collected $14.32 from pot
+icrywhenipee: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.68 
+Board [4h 3d 5c]
+Seat 1: elvn89 (big blind) folded on the Flop
+Seat 2: shevliak folded before Flop (didn't bet)
+Seat 3: icrywhenipee collected ($14.32)
+Seat 4: barrao (button) folded before Flop (didn't bet)
+Seat 5: zazano (small blind) folded before Flop
+
+
+PokerStars Game #102608297508:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:09:44 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #5 is the button
+Seat 1: elvn89 ($260.04 in chips) 
+Seat 2: shevliak ($240 in chips) 
+Seat 3: icrywhenipee ($508.32 in chips) 
+Seat 4: barrao ($225 in chips) 
+Seat 5: zazano ($889.85 in chips) 
+elvn89: posts small blind $3
+shevliak: posts big blind $6
+*** HOLE CARDS ***
+icrywhenipee: folds 
+barrao: raises $9 to $15
+zazano: folds 
+elvn89: folds 
+shevliak: folds 
+Uncalled bet ($9) returned to barrao
+barrao collected $15 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: elvn89 (small blind) folded before Flop
+Seat 2: shevliak (big blind) folded before Flop
+Seat 3: icrywhenipee folded before Flop (didn't bet)
+Seat 4: barrao collected ($15)
+Seat 5: zazano (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102607781561:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:57:51 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #3 is the button
+Seat 1: elvn89 ($240 in chips) 
+Seat 2: uwbabe ($240 in chips) 
+Seat 3: dRobespierre ($240 in chips) 
+Seat 4: Luckbox1326 ($600 in chips) 
+Seat 5: zazano ($600 in chips) 
+Seat 6: Nemo & co ($400 in chips) 
+Luckbox1326: posts small blind $3
+zazano: posts big blind $6
+*** HOLE CARDS ***
+Nemo & co: folds 
+elvn89: folds 
+uwbabe: folds 
+dRobespierre: folds 
+Luckbox1326: raises $12 to $18
+zazano: calls $12
+*** FLOP *** [Td 6c 2s]
+Luckbox1326: bets $24
+zazano: calls $24
+*** TURN *** [Td 6c 2s] [Ks]
+dRobespierre leaves the table
+floriiiiider joins the table at seat #3 
+Luckbox1326: bets $60
+zazano: raises $99 to $159
+Luckbox1326: calls $99
+*** RIVER *** [Td 6c 2s Ks] [Ac]
+Luckbox1326: checks 
+zazano: bets $399 and is all-in
+Luckbox1326: folds 
+Uncalled bet ($399) returned to zazano
+zazano collected $399.20 from pot
+zazano: doesn't show hand 
+Luckbox1326 leaves the table
+*** SUMMARY ***
+Total pot $402 | Rake $2.80 
+Board [Td 6c 2s Ks Ac]
+Seat 1: elvn89 folded before Flop (didn't bet)
+Seat 2: uwbabe folded before Flop (didn't bet)
+Seat 3: dRobespierre (button) folded before Flop (didn't bet)
+Seat 4: Luckbox1326 (small blind) folded on the River
+Seat 5: zazano (big blind) collected ($399.20)
+Seat 6: Nemo & co folded before Flop (didn't bet)
+
+
+PokerStars Game #102607884322:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:00:40 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #5 is the button
+Seat 1: elvn89 ($240 in chips) 
+Seat 2: uwbabe ($240 in chips) 
+Seat 5: zazano ($798.20 in chips) 
+Seat 6: Nemo & co ($400 in chips) 
+Nemo & co: posts small blind $3
+elvn89: posts big blind $6
+floriiiiider: sits out 
+*** HOLE CARDS ***
+uwbabe: folds 
+barrao joins the table at seat #4 
+zazano: raises $6 to $12
+Nemo & co: folds 
+elvn89: folds 
+Uncalled bet ($6) returned to zazano
+zazano collected $15 from pot
+zazano: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: elvn89 (big blind) folded before Flop
+Seat 2: uwbabe folded before Flop (didn't bet)
+Seat 5: zazano (button) collected ($15)
+Seat 6: Nemo & co (small blind) folded before Flop
+
+
+PokerStars Game #102607894820:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:00:55 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #6 is the button
+Seat 1: elvn89 ($234 in chips) 
+Seat 2: uwbabe ($240 in chips) 
+Seat 5: zazano ($807.20 in chips) 
+Seat 6: Nemo & co ($397 in chips) 
+elvn89: posts small blind $3
+uwbabe: posts big blind $6
+floriiiiider: sits out 
+barrao: sits out 
+*** HOLE CARDS ***
+zazano: folds 
+Nemo & co: folds 
+elvn89: raises $7.02 to $13.02
+uwbabe: folds 
+Uncalled bet ($7.02) returned to elvn89
+elvn89 collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: elvn89 (small blind) collected ($12)
+Seat 2: uwbabe (big blind) folded before Flop
+Seat 5: zazano folded before Flop (didn't bet)
+Seat 6: Nemo & co (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102607909039:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:01:15 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #1 is the button
+Seat 1: elvn89 ($240 in chips) 
+Seat 2: uwbabe ($234 in chips) 
+Seat 3: floriiiiider ($600 in chips) 
+Seat 5: zazano ($807.20 in chips) 
+Seat 6: Nemo & co ($397 in chips) 
+uwbabe: posts small blind $3
+floriiiiider: posts big blind $6
+barrao: sits out 
+*** HOLE CARDS ***
+zazano: folds 
+Nemo & co: folds 
+elvn89: folds 
+uwbabe: raises $6 to $12
+floriiiiider: folds 
+Uncalled bet ($6) returned to uwbabe
+uwbabe collected $12 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: elvn89 (button) folded before Flop (didn't bet)
+Seat 2: uwbabe (small blind) collected ($12)
+Seat 3: floriiiiider (big blind) folded before Flop
+Seat 5: zazano folded before Flop (didn't bet)
+Seat 6: Nemo & co folded before Flop (didn't bet)
+
+
+PokerStars Game #102607924052:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:01:36 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #2 is the button
+Seat 1: elvn89 ($240 in chips) 
+Seat 2: uwbabe ($240 in chips) 
+Seat 3: floriiiiider ($600 in chips) 
+Seat 4: barrao ($240 in chips) 
+Seat 5: zazano ($807.20 in chips) 
+Seat 6: Nemo & co ($397 in chips) 
+floriiiiider: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+zazano: folds 
+Nemo & co is disconnected 
+Nemo & co has timed out while disconnected
+Nemo & co: folds 
+elvn89: folds 
+uwbabe: raises $6 to $12
+floriiiiider: folds 
+barrao: folds 
+Uncalled bet ($6) returned to uwbabe
+uwbabe collected $15 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: elvn89 folded before Flop (didn't bet)
+Seat 2: uwbabe (button) collected ($15)
+Seat 3: floriiiiider (small blind) folded before Flop
+Seat 4: barrao (big blind) folded before Flop
+Seat 5: zazano folded before Flop (didn't bet)
+Seat 6: Nemo & co folded before Flop (didn't bet)
+
+
+PokerStars Game #102607962870:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:02:26 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #3 is the button
+Seat 1: elvn89 ($240 in chips) 
+Seat 2: uwbabe ($249 in chips) 
+Seat 3: floriiiiider ($600 in chips) 
+Seat 4: barrao ($234 in chips) 
+Seat 5: zazano ($807.20 in chips) 
+barrao: posts small blind $3
+zazano: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+uwbabe: raises $12 to $18
+floriiiiider: folds 
+barrao: folds 
+zazano: folds 
+Uncalled bet ($12) returned to uwbabe
+uwbabe collected $15 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: elvn89 folded before Flop (didn't bet)
+Seat 2: uwbabe collected ($15)
+Seat 3: floriiiiider (button) folded before Flop (didn't bet)
+Seat 4: barrao (small blind) folded before Flop
+Seat 5: zazano (big blind) folded before Flop
+
+
+PokerStars Game #102607981977:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:02:51 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #4 is the button
+Seat 1: elvn89 ($240 in chips) 
+Seat 2: uwbabe ($258 in chips) 
+Seat 3: floriiiiider ($600 in chips) 
+Seat 4: barrao ($231 in chips) 
+Seat 5: zazano ($801.20 in chips) 
+zazano: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+floriiiiider: folds 
+barrao: raises $24 to $36
+zazano: folds 
+elvn89: folds 
+uwbabe: folds 
+Uncalled bet ($24) returned to barrao
+barrao collected $33 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $0 
+Seat 1: elvn89 (big blind) folded before Flop
+Seat 2: uwbabe folded before Flop
+Seat 3: floriiiiider folded before Flop (didn't bet)
+Seat 4: barrao (button) collected ($33)
+Seat 5: zazano (small blind) folded before Flop
+
+
+PokerStars Game #102608002333:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:03:18 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #5 is the button
+Seat 1: elvn89 ($234 in chips) 
+Seat 3: floriiiiider ($600 in chips) 
+Seat 4: barrao ($252 in chips) 
+Seat 5: zazano ($798.20 in chips) 
+elvn89: posts small blind $3
+uwbabe: is sitting out 
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+uwbabe leaves the table
+barrao: folds 
+zazano: folds 
+Nemo & co is disconnected 
+elvn89: raises $7.02 to $13.02
+floriiiiider: folds 
+Uncalled bet ($7.02) returned to elvn89
+elvn89 collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: elvn89 (small blind) collected ($12)
+Seat 3: floriiiiider (big blind) folded before Flop
+Seat 4: barrao folded before Flop (didn't bet)
+Seat 5: zazano (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102608016292:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:03:35 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #1 is the button
+Seat 1: elvn89 ($240 in chips) 
+Seat 3: floriiiiider ($600 in chips) 
+Seat 4: barrao ($252 in chips) 
+Seat 5: zazano ($798.20 in chips) 
+floriiiiider: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+zazano: folds 
+elvn89: folds 
+floriiiiider: folds 
+Uncalled bet ($3) returned to barrao
+barrao collected $6 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: floriiiiider (small blind) folded before Flop
+Seat 4: barrao (big blind) collected ($6)
+Seat 5: zazano folded before Flop (didn't bet)
+
+
+PokerStars Game #102608024248:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:03:46 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #3 is the button
+Seat 1: elvn89 ($240 in chips) 
+Seat 3: floriiiiider ($600 in chips) 
+Seat 4: barrao ($255 in chips) 
+Seat 5: zazano ($798.20 in chips) 
+barrao: posts small blind $3
+zazano: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+floriiiiider: raises $6 to $12
+barrao: folds 
+zazano: raises $36 to $48
+floriiiiider: folds 
+Uncalled bet ($36) returned to zazano
+zazano collected $27 from pot
+zazano: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 1: elvn89 folded before Flop (didn't bet)
+Seat 3: floriiiiider (button) folded before Flop
+Seat 4: barrao (small blind) folded before Flop
+Seat 5: zazano (big blind) collected ($27)
+
+
+PokerStars Game #102608038709:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:04:05 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #4 is the button
+Seat 1: elvn89 ($240 in chips) 
+Seat 3: floriiiiider ($600 in chips) 
+Seat 4: barrao ($252 in chips) 
+Seat 5: zazano ($813.20 in chips) 
+zazano: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider: raises $9 to $15
+barrao: raises $21 to $36
+zazano: folds 
+vivecrew joins the table at seat #2 
+elvn89: folds 
+vivecrew leaves the table
+floriiiiider: raises $39 to $75
+barrao: folds 
+Uncalled bet ($39) returned to floriiiiider
+floriiiiider collected $81 from pot
+floriiiiider: doesn't show hand 
+shevliak joins the table at seat #2 
+*** SUMMARY ***
+Total pot $81 | Rake $0 
+Seat 1: elvn89 (big blind) folded before Flop
+Seat 3: floriiiiider collected ($81)
+Seat 4: barrao (button) folded before Flop
+Seat 5: zazano (small blind) folded before Flop
+
+
+PokerStars Game #102608068690:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:04:43 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #5 is the button
+Seat 1: elvn89 ($234 in chips) 
+Seat 2: shevliak ($240 in chips) 
+Seat 3: floriiiiider ($645 in chips) 
+Seat 4: barrao ($216 in chips) 
+Seat 5: zazano ($810.20 in chips) 
+Nemo & co will be allowed to play after the button
+elvn89: posts small blind $3
+shevliak: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider: folds 
+barrao: raises $9 to $15
+zazano: folds 
+elvn89: folds 
+shevliak: folds 
+Uncalled bet ($9) returned to barrao
+barrao collected $15 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: elvn89 (small blind) folded before Flop
+Seat 2: shevliak (big blind) folded before Flop
+Seat 3: floriiiiider folded before Flop (didn't bet)
+Seat 4: barrao collected ($15)
+Seat 5: zazano (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102608542272:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:15:17 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #6 is the button
+Seat 1: elvn89 ($251.04 in chips) 
+Seat 2: shevliak ($254.90 in chips) 
+Seat 3: icrywhenipee ($552.44 in chips) 
+Seat 4: barrao ($315.20 in chips) 
+Seat 5: JMBigJoe ($600 in chips) 
+Seat 6: LuckyBiitch ($600 in chips) 
+elvn89: posts small blind $3
+shevliak: posts big blind $6
+*** HOLE CARDS ***
+icrywhenipee: raises $6 to $12
+barrao: folds 
+JMBigJoe: folds 
+LuckyBiitch: calls $12
+elvn89: folds 
+shevliak: folds 
+*** FLOP *** [Ks Qc 3d]
+icrywhenipee: checks 
+LuckyBiitch: checks 
+*** TURN *** [Ks Qc 3d] [7c]
+icrywhenipee: checks 
+LuckyBiitch: bets $27
+icrywhenipee: folds 
+Uncalled bet ($27) returned to LuckyBiitch
+LuckyBiitch collected $31.52 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $1.48 
+Board [Ks Qc 3d 7c]
+Seat 1: elvn89 (small blind) folded before Flop
+Seat 2: shevliak (big blind) folded before Flop
+Seat 3: icrywhenipee folded on the Turn
+Seat 4: barrao folded before Flop (didn't bet)
+Seat 5: JMBigJoe folded before Flop (didn't bet)
+Seat 6: LuckyBiitch (button) collected ($31.52)
+
+
+PokerStars Game #102608572759:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:15:59 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #1 is the button
+Seat 1: elvn89 ($248.04 in chips) 
+Seat 2: shevliak ($248.90 in chips) 
+Seat 3: icrywhenipee ($540.44 in chips) 
+Seat 4: barrao ($315.20 in chips) 
+Seat 5: JMBigJoe ($600 in chips) 
+Seat 6: LuckyBiitch ($619.52 in chips) 
+shevliak: posts small blind $3
+icrywhenipee: posts big blind $6
+*** HOLE CARDS ***
+barrao: raises $12 to $18
+JMBigJoe: folds 
+LuckyBiitch: calls $18
+elvn89: folds 
+shevliak: folds 
+icrywhenipee: folds 
+*** FLOP *** [4h Ac 6c]
+icrywhenipee leaves the table
+barrao: bets $30
+LuckyBiitch: calls $30
+*** TURN *** [4h Ac 6c] [2d]
+barrao: bets $63
+LuckyBiitch: calls $63
+*** RIVER *** [4h Ac 6c 2d] [5s]
+barrao: checks 
+LuckyBiitch: bets $125
+barrao: folds 
+Uncalled bet ($125) returned to LuckyBiitch
+LuckyBiitch collected $228.20 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $231 | Rake $2.80 
+Board [4h Ac 6c 2d 5s]
+Seat 1: elvn89 (button) folded before Flop (didn't bet)
+Seat 2: shevliak (small blind) folded before Flop
+Seat 3: icrywhenipee (big blind) folded before Flop
+Seat 4: barrao folded on the River
+Seat 5: JMBigJoe folded before Flop (didn't bet)
+Seat 6: LuckyBiitch collected ($228.20)
+
+
+PokerStars Game #102608607222:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:16:47 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #2 is the button
+Seat 1: elvn89 ($248.04 in chips) 
+Seat 2: shevliak ($245.90 in chips) 
+Seat 4: barrao ($240 in chips) 
+Seat 5: JMBigJoe ($600 in chips) 
+Seat 6: LuckyBiitch ($736.72 in chips) 
+barrao: posts small blind $3
+JMBigJoe: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+elvn89: folds 
+shevliak: folds 
+barrao: raises $9 to $15
+JMBigJoe: calls $9
+*** FLOP *** [8d 3c 7s]
+barrao: checks 
+Nahar joins the table at seat #3 
+Nahar leaves the table
+JMBigJoe: checks 
+*** TURN *** [8d 3c 7s] [Ad]
+barrao: bets $18
+JMBigJoe: calls $18
+*** RIVER *** [8d 3c 7s Ad] [4c]
+barrao: bets $84
+JMBigJoe: folds 
+Uncalled bet ($84) returned to barrao
+barrao collected $63.20 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $66 | Rake $2.80 
+Board [8d 3c 7s Ad 4c]
+Seat 1: elvn89 folded before Flop (didn't bet)
+Seat 2: shevliak (button) folded before Flop (didn't bet)
+Seat 4: barrao (small blind) collected ($63.20)
+Seat 5: JMBigJoe (big blind) folded on the River
+Seat 6: LuckyBiitch folded before Flop (didn't bet)
+
+
+PokerStars Game #102608311297:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:10:02 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #1 is the button
+Seat 1: elvn89 ($257.04 in chips) 
+Seat 2: shevliak ($240 in chips) 
+Seat 3: icrywhenipee ($508.32 in chips) 
+Seat 4: barrao ($234 in chips) 
+Seat 5: zazano ($889.85 in chips) 
+shevliak: posts small blind $3
+icrywhenipee: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+zazano: raises $12 to $18
+elvn89: folds 
+shevliak: folds 
+icrywhenipee: folds 
+Uncalled bet ($12) returned to zazano
+zazano collected $15 from pot
+zazano: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: elvn89 (button) folded before Flop (didn't bet)
+Seat 2: shevliak (small blind) folded before Flop
+Seat 3: icrywhenipee (big blind) folded before Flop
+Seat 4: barrao folded before Flop (didn't bet)
+Seat 5: zazano collected ($15)
+
+
+PokerStars Game #102608320607:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:10:15 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #2 is the button
+Seat 1: elvn89 ($257.04 in chips) 
+Seat 2: shevliak ($240 in chips) 
+Seat 3: icrywhenipee ($502.32 in chips) 
+Seat 4: barrao ($234 in chips) 
+Seat 5: zazano ($898.85 in chips) 
+icrywhenipee: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+zazano: folds 
+elvn89: folds 
+shevliak: raises $6 to $12
+icrywhenipee: folds 
+barrao: raises $18 to $30
+shevliak: raises $21 to $51
+barrao: calls $21
+*** FLOP *** [5s Kh 8h]
+barrao: checks 
+shevliak: bets $33
+barrao: calls $33
+*** TURN *** [5s Kh 8h] [3d]
+barrao: checks 
+shevliak: checks 
+*** RIVER *** [5s Kh 8h 3d] [2h]
+barrao: bets $150 and is all-in
+shevliak: folds 
+Uncalled bet ($150) returned to barrao
+barrao collected $168.20 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $171 | Rake $2.80 
+Board [5s Kh 8h 3d 2h]
+Seat 1: elvn89 folded before Flop (didn't bet)
+Seat 2: shevliak (button) folded on the River
+Seat 3: icrywhenipee (small blind) folded before Flop
+Seat 4: barrao (big blind) collected ($168.20)
+Seat 5: zazano folded before Flop (didn't bet)
+
+
+PokerStars Game #102608363347:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:11:13 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #3 is the button
+Seat 1: elvn89 ($257.04 in chips) 
+Seat 2: shevliak ($240 in chips) 
+Seat 3: icrywhenipee ($499.32 in chips) 
+Seat 4: barrao ($318.20 in chips) 
+barrao: posts small blind $3
+zazano: is sitting out 
+zazano leaves the table
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+shevliak: raises $6 to $12
+icrywhenipee: folds 
+barrao: folds 
+JMBigJoe joins the table at seat #5 
+elvn89: folds 
+Uncalled bet ($6) returned to shevliak
+shevliak collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: elvn89 (big blind) folded before Flop
+Seat 2: shevliak collected ($15)
+Seat 3: icrywhenipee (button) folded before Flop (didn't bet)
+Seat 4: barrao (small blind) folded before Flop
+
+
+PokerStars Game #102608374231:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:11:27 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #4 is the button
+Seat 1: elvn89 ($251.04 in chips) 
+Seat 2: shevliak ($249 in chips) 
+Seat 3: icrywhenipee ($499.32 in chips) 
+Seat 4: barrao ($315.20 in chips) 
+JMBigJoe will be allowed to play after the button
+Nemo & co was removed from the table for failing to post
+elvn89: posts small blind $3
+shevliak: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch joins the table at seat #6 
+icrywhenipee: raises $6 to $12
+barrao: folds 
+elvn89: folds 
+shevliak: folds 
+Uncalled bet ($6) returned to icrywhenipee
+icrywhenipee collected $15 from pot
+icrywhenipee: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: elvn89 (small blind) folded before Flop
+Seat 2: shevliak (big blind) folded before Flop
+Seat 3: icrywhenipee collected ($15)
+Seat 4: barrao (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102608395137:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:11:56 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #1 is the button
+Seat 1: elvn89 ($248.04 in chips) 
+Seat 2: shevliak ($243 in chips) 
+Seat 3: icrywhenipee ($508.32 in chips) 
+Seat 4: barrao ($315.20 in chips) 
+shevliak: posts small blind $3
+icrywhenipee: posts big blind $6
+JMBigJoe: sits out 
+LuckyBiitch: sits out 
+*** HOLE CARDS ***
+barrao: folds 
+elvn89: folds 
+shevliak: raises $7.08 to $13.08
+icrywhenipee: calls $7.08
+*** FLOP *** [4s 2d 8c]
+shevliak: bets $15.98
+icrywhenipee: folds 
+Uncalled bet ($15.98) returned to shevliak
+shevliak collected $24.98 from pot
+shevliak: doesn't show hand 
+*** SUMMARY ***
+Total pot $26.16 | Rake $1.18 
+Board [4s 2d 8c]
+Seat 1: elvn89 (button) folded before Flop (didn't bet)
+Seat 2: shevliak (small blind) collected ($24.98)
+Seat 3: icrywhenipee (big blind) folded on the Flop
+Seat 4: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102608416013:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:12:24 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #2 is the button
+Seat 1: elvn89 ($248.04 in chips) 
+Seat 2: shevliak ($254.90 in chips) 
+Seat 3: icrywhenipee ($495.24 in chips) 
+Seat 4: barrao ($315.20 in chips) 
+icrywhenipee: posts small blind $3
+barrao: posts big blind $6
+JMBigJoe: sits out 
+LuckyBiitch: sits out 
+*** HOLE CARDS ***
+elvn89: raises $7.02 to $13.02
+shevliak: folds 
+icrywhenipee: folds 
+barrao: folds 
+Uncalled bet ($7.02) returned to elvn89
+elvn89 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: elvn89 collected ($15)
+Seat 2: shevliak (button) folded before Flop (didn't bet)
+Seat 3: icrywhenipee (small blind) folded before Flop
+Seat 4: barrao (big blind) folded before Flop
+
+
+PokerStars Game #102608440151:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:12:58 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #3 is the button
+Seat 1: elvn89 ($257.04 in chips) 
+Seat 2: shevliak ($254.90 in chips) 
+Seat 3: icrywhenipee ($492.24 in chips) 
+Seat 4: barrao ($309.20 in chips) 
+Seat 5: JMBigJoe ($600 in chips) 
+barrao: posts small blind $3
+JMBigJoe: posts big blind $6
+LuckyBiitch: sits out 
+*** HOLE CARDS ***
+elvn89: folds 
+shevliak: folds 
+icrywhenipee: folds 
+barrao: raises $9 to $15
+JMBigJoe: folds 
+Uncalled bet ($9) returned to barrao
+barrao collected $12 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: elvn89 folded before Flop (didn't bet)
+Seat 2: shevliak folded before Flop (didn't bet)
+Seat 3: icrywhenipee (button) folded before Flop (didn't bet)
+Seat 4: barrao (small blind) collected ($12)
+Seat 5: JMBigJoe (big blind) folded before Flop
+
+
+PokerStars Game #102608456733:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:13:21 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #4 is the button
+Seat 1: elvn89 ($257.04 in chips) 
+Seat 2: shevliak ($254.90 in chips) 
+Seat 3: icrywhenipee ($492.24 in chips) 
+Seat 4: barrao ($315.20 in chips) 
+Seat 5: JMBigJoe ($600 in chips) 
+Seat 6: LuckyBiitch ($600 in chips) 
+JMBigJoe: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+shevliak: folds 
+icrywhenipee: raises $12 to $18
+barrao: folds 
+JMBigJoe: folds 
+LuckyBiitch: folds 
+Uncalled bet ($12) returned to icrywhenipee
+icrywhenipee collected $15 from pot
+icrywhenipee: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: elvn89 folded before Flop (didn't bet)
+Seat 2: shevliak folded before Flop (didn't bet)
+Seat 3: icrywhenipee collected ($15)
+Seat 4: barrao (button) folded before Flop (didn't bet)
+Seat 5: JMBigJoe (small blind) folded before Flop
+Seat 6: LuckyBiitch (big blind) folded before Flop
+
+
+PokerStars Game #102608478388:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:13:50 ET
+Table 'Brunonia 40-100 bb' 6-max Seat #5 is the button
+Seat 1: elvn89 ($257.04 in chips) 
+Seat 2: shevliak ($254.90 in chips) 
+Seat 3: icrywhenipee ($501.24 in chips) 
+Seat 4: barrao ($315.20 in chips) 
+Seat 5: JMBigJoe ($600 in chips) 
+Seat 6: LuckyBiitch ($600 in chips) 
+LuckyBiitch: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+shevliak: folds 
+icrywhenipee: calls $6
+barrao: folds 
+icrywhenipee said, "ty"
+JMBigJoe: raises $15 to $21
+LuckyBiitch: folds 
+elvn89: folds 
+icrywhenipee: calls $15
+*** FLOP *** [9c Td 6h]
+icrywhenipee: checks 
+JMBigJoe: bets $24
+icrywhenipee: calls $24
+*** TURN *** [9c Td 6h] [Ac]
+icrywhenipee: checks 
+JMBigJoe: checks 
+*** RIVER *** [9c Td 6h Ac] [9s]
+icrywhenipee: bets $30
+JMBigJoe: folds 
+Uncalled bet ($30) returned to icrywhenipee
+icrywhenipee collected $96.20 from pot
+icrywhenipee: doesn't show hand 
+*** SUMMARY ***
+Total pot $99 | Rake $2.80 
+Board [9c Td 6h Ac 9s]
+Seat 1: elvn89 (big blind) folded before Flop
+Seat 2: shevliak folded before Flop (didn't bet)
+Seat 3: icrywhenipee collected ($96.20)
+Seat 4: barrao folded before Flop (didn't bet)
+Seat 5: JMBigJoe (button) folded on the River
+Seat 6: LuckyBiitch (small blind) folded before Flop

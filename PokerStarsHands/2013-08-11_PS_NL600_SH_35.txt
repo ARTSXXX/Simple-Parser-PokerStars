@@ -1,0 +1,4066 @@
+
+
+PokerStars Game #102612142335:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:40:07 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: infinity499 ($387.32 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: neomorf ($658.84 in chips) 
+Seat 4: teunuss ($712.18 in chips) 
+Seat 5: DeluxeSamy ($719.24 in chips) 
+Seat 6: Nahar ($240 in chips) 
+teunuss: posts small blind $3
+DeluxeSamy: posts big blind $6
+*** HOLE CARDS ***
+Nahar: raises $9 to $15
+infinity499: calls $15
+ilir3: folds 
+neomorf: folds 
+teunuss: folds 
+DeluxeSamy: calls $9
+*** FLOP *** [7s Ac Qc]
+DeluxeSamy: checks 
+Nahar: bets $24
+infinity499: calls $24
+DeluxeSamy: calls $24
+*** TURN *** [7s Ac Qc] [4h]
+DeluxeSamy: checks 
+Nahar: bets $60
+infinity499: folds 
+DeluxeSamy: folds 
+Uncalled bet ($60) returned to Nahar
+Nahar collected $117.20 from pot
+*** SUMMARY ***
+Total pot $120 | Rake $2.80 
+Board [7s Ac Qc 4h]
+Seat 1: infinity499 folded on the Turn
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: neomorf (button) folded before Flop (didn't bet)
+Seat 4: teunuss (small blind) folded before Flop
+Seat 5: DeluxeSamy (big blind) folded on the Turn
+Seat 6: Nahar collected ($117.20)
+
+
+PokerStars Game #102612198484:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:41:22 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: infinity499 ($348.32 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: neomorf ($658.84 in chips) 
+Seat 4: teunuss ($709.18 in chips) 
+Seat 5: DeluxeSamy ($680.24 in chips) 
+Seat 6: Nahar ($318.20 in chips) 
+DeluxeSamy: posts small blind $3
+Nahar: posts big blind $6
+*** HOLE CARDS ***
+infinity499: folds 
+ilir3: folds 
+neomorf: folds 
+teunuss: folds 
+DeluxeSamy: raises $6 to $12
+Nahar: raises $24 to $36
+DeluxeSamy: folds 
+Uncalled bet ($24) returned to Nahar
+Nahar collected $24 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: infinity499 folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: neomorf folded before Flop (didn't bet)
+Seat 4: teunuss (button) folded before Flop (didn't bet)
+Seat 5: DeluxeSamy (small blind) folded before Flop
+Seat 6: Nahar (big blind) collected ($24)
+
+
+PokerStars Game #102612223461:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:41:54 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: infinity499 ($348.32 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: neomorf ($658.84 in chips) 
+Seat 4: teunuss ($709.18 in chips) 
+Seat 5: DeluxeSamy ($668.24 in chips) 
+Seat 6: Nahar ($330.20 in chips) 
+Nahar: posts small blind $3
+infinity499: posts big blind $6
+*** HOLE CARDS ***
+ilir3: raises $9 to $15
+neomorf: folds 
+teunuss: folds 
+DeluxeSamy: folds 
+Nahar: folds 
+infinity499: folds 
+Uncalled bet ($9) returned to ilir3
+ilir3 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: infinity499 (big blind) folded before Flop
+Seat 2: ilir3 collected ($15)
+Seat 3: neomorf folded before Flop (didn't bet)
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 5: DeluxeSamy (button) folded before Flop (didn't bet)
+Seat 6: Nahar (small blind) folded before Flop
+
+
+PokerStars Game #102612248831:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:42:28 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: infinity499 ($342.32 in chips) 
+Seat 2: ilir3 ($609 in chips) 
+Seat 3: neomorf ($658.84 in chips) 
+Seat 4: teunuss ($709.18 in chips) 
+Seat 5: DeluxeSamy ($668.24 in chips) 
+Seat 6: Nahar ($327.20 in chips) 
+infinity499: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+neomorf: folds 
+teunuss: folds 
+DeluxeSamy: folds 
+Nahar: folds 
+infinity499: folds 
+Uncalled bet ($3) returned to ilir3
+ilir3 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: infinity499 (small blind) folded before Flop
+Seat 2: ilir3 (big blind) collected ($6)
+Seat 3: neomorf folded before Flop (didn't bet)
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 5: DeluxeSamy folded before Flop (didn't bet)
+Seat 6: Nahar (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102612265016:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:42:49 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: infinity499 ($339.32 in chips) 
+Seat 2: ilir3 ($612 in chips) 
+Seat 3: neomorf ($658.84 in chips) 
+Seat 4: teunuss ($709.18 in chips) 
+Seat 5: DeluxeSamy ($668.24 in chips) 
+Seat 6: Nahar ($327.20 in chips) 
+ilir3: posts small blind $3
+neomorf: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+DeluxeSamy: raises $6 to $12
+Nahar: folds 
+infinity499: folds 
+ilir3: folds 
+neomorf: folds 
+Uncalled bet ($6) returned to DeluxeSamy
+DeluxeSamy collected $15 from pot
+DeluxeSamy: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: infinity499 (button) folded before Flop (didn't bet)
+Seat 2: ilir3 (small blind) folded before Flop
+Seat 3: neomorf (big blind) folded before Flop
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 5: DeluxeSamy collected ($15)
+Seat 6: Nahar folded before Flop (didn't bet)
+
+
+PokerStars Game #102612281183:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:43:10 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: infinity499 ($339.32 in chips) 
+Seat 2: ilir3 ($609 in chips) 
+Seat 3: neomorf ($652.84 in chips) 
+Seat 4: teunuss ($709.18 in chips) 
+Seat 5: DeluxeSamy ($677.24 in chips) 
+Seat 6: Nahar ($327.20 in chips) 
+neomorf: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+DeluxeSamy: folds 
+Nahar: raises $9 to $15
+infinity499: folds 
+ilir3: folds 
+neomorf: folds 
+teunuss: raises $33 to $48
+Nahar: folds 
+Uncalled bet ($33) returned to teunuss
+teunuss collected $33 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $0 
+Seat 1: infinity499 folded before Flop (didn't bet)
+Seat 2: ilir3 (button) folded before Flop (didn't bet)
+Seat 3: neomorf (small blind) folded before Flop
+Seat 4: teunuss (big blind) collected ($33)
+Seat 5: DeluxeSamy folded before Flop (didn't bet)
+Seat 6: Nahar folded before Flop
+
+
+PokerStars Game #102612312714:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:43:52 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: infinity499 ($339.32 in chips) 
+Seat 2: ilir3 ($609 in chips) 
+Seat 3: neomorf ($649.84 in chips) 
+Seat 4: teunuss ($727.18 in chips) 
+Seat 5: DeluxeSamy ($677.24 in chips) 
+Seat 6: Nahar ($312.20 in chips) 
+teunuss: posts small blind $3
+DeluxeSamy: posts big blind $6
+*** HOLE CARDS ***
+Nahar: folds 
+infinity499: folds 
+ilir3: raises $6 to $12
+neomorf: folds 
+teunuss: folds 
+DeluxeSamy: folds 
+Uncalled bet ($6) returned to ilir3
+ilir3 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: infinity499 folded before Flop (didn't bet)
+Seat 2: ilir3 collected ($15)
+Seat 3: neomorf (button) folded before Flop (didn't bet)
+Seat 4: teunuss (small blind) folded before Flop
+Seat 5: DeluxeSamy (big blind) folded before Flop
+Seat 6: Nahar folded before Flop (didn't bet)
+
+
+PokerStars Game #102612332468:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:44:18 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: infinity499 ($339.32 in chips) 
+Seat 2: ilir3 ($618 in chips) 
+Seat 3: neomorf ($649.84 in chips) 
+Seat 4: teunuss ($724.18 in chips) 
+Seat 5: DeluxeSamy ($671.24 in chips) 
+Seat 6: Nahar ($312.20 in chips) 
+DeluxeSamy: posts small blind $3
+Nahar: posts big blind $6
+*** HOLE CARDS ***
+infinity499: folds 
+ilir3: raises $9 to $15
+neomorf: folds 
+teunuss: folds 
+DeluxeSamy: folds 
+Nahar: folds 
+Uncalled bet ($9) returned to ilir3
+ilir3 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: infinity499 folded before Flop (didn't bet)
+Seat 2: ilir3 collected ($15)
+Seat 3: neomorf folded before Flop (didn't bet)
+Seat 4: teunuss (button) folded before Flop (didn't bet)
+Seat 5: DeluxeSamy (small blind) folded before Flop
+Seat 6: Nahar (big blind) folded before Flop
+
+
+PokerStars Game #102612354670:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:44:47 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: infinity499 ($339.32 in chips) 
+Seat 2: ilir3 ($627 in chips) 
+Seat 3: neomorf ($649.84 in chips) 
+Seat 4: teunuss ($724.18 in chips) 
+Seat 5: DeluxeSamy ($668.24 in chips) 
+Seat 6: Nahar ($306.20 in chips) 
+Nahar: posts small blind $3
+infinity499: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+neomorf: raises $6.24 to $12.24
+teunuss: calls $12.24
+DeluxeSamy: folds 
+Nahar: folds 
+infinity499: raises $23.76 to $36
+neomorf: folds 
+teunuss: calls $23.76
+*** FLOP *** [Kh 9s Kc]
+infinity499: checks 
+teunuss: checks 
+*** TURN *** [Kh 9s Kc] [7c]
+infinity499: checks 
+teunuss: checks 
+*** RIVER *** [Kh 9s Kc 7c] [Js]
+infinity499: checks 
+teunuss: checks 
+*** SHOW DOWN ***
+infinity499: shows [Th Ac] (a pair of Kings)
+teunuss: shows [2h 2s] (two pair, Kings and Deuces)
+teunuss collected $84.44 from pot
+*** SUMMARY ***
+Total pot $87.24 | Rake $2.80 
+Board [Kh 9s Kc 7c Js]
+Seat 1: infinity499 (big blind) showed [Th Ac] and lost with a pair of Kings
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: neomorf folded before Flop
+Seat 4: teunuss showed [2h 2s] and won ($84.44) with two pair, Kings and Deuces
+Seat 5: DeluxeSamy (button) folded before Flop (didn't bet)
+Seat 6: Nahar (small blind) folded before Flop
+
+
+PokerStars Game #102611911579:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:35:04 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: infinity499 ($175.46 in chips) 
+Seat 2: ilir3 ($626.23 in chips) 
+Seat 3: neomorf ($632.97 in chips) 
+Seat 4: teunuss ($718.18 in chips) 
+Seat 6: Nahar ($258 in chips) 
+ilir3: posts small blind $3
+neomorf: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $12 to $18
+Nahar: folds 
+infinity499: folds 
+ilir3: folds 
+neomorf: folds 
+Uncalled bet ($12) returned to teunuss
+teunuss collected $15 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: infinity499 (button) folded before Flop (didn't bet)
+Seat 2: ilir3 (small blind) folded before Flop
+Seat 3: neomorf (big blind) folded before Flop
+Seat 4: teunuss collected ($15)
+Seat 6: Nahar folded before Flop (didn't bet)
+
+
+PokerStars Game #102611934647:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:35:35 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: infinity499 ($175.46 in chips) 
+Seat 2: ilir3 ($623.23 in chips) 
+Seat 3: neomorf ($626.97 in chips) 
+Seat 4: teunuss ($727.18 in chips) 
+Seat 6: Nahar ($258 in chips) 
+neomorf: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+Nahar: raises $9 to $15
+infinity499: folds 
+ilir3: folds 
+neomorf: folds 
+teunuss: folds 
+Uncalled bet ($9) returned to Nahar
+Nahar collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: infinity499 folded before Flop (didn't bet)
+Seat 2: ilir3 (button) folded before Flop (didn't bet)
+Seat 3: neomorf (small blind) folded before Flop
+Seat 4: teunuss (big blind) folded before Flop
+Seat 6: Nahar collected ($15)
+
+
+PokerStars Game #102611953568:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:36:00 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: infinity499 ($175.46 in chips) 
+Seat 2: ilir3 ($623.23 in chips) 
+Seat 3: neomorf ($623.97 in chips) 
+Seat 4: teunuss ($721.18 in chips) 
+Seat 6: Nahar ($267 in chips) 
+teunuss: posts small blind $3
+Nahar: posts big blind $6
+*** HOLE CARDS ***
+infinity499: folds 
+ilir3: raises $6 to $12
+neomorf: folds 
+teunuss: folds 
+Nahar: folds 
+Uncalled bet ($6) returned to ilir3
+ilir3 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: infinity499 folded before Flop (didn't bet)
+Seat 2: ilir3 collected ($15)
+Seat 3: neomorf (button) folded before Flop (didn't bet)
+Seat 4: teunuss (small blind) folded before Flop
+Seat 6: Nahar (big blind) folded before Flop
+
+
+PokerStars Game #102611964790:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:36:14 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: infinity499 ($175.46 in chips) 
+Seat 2: ilir3 ($632.23 in chips) 
+Seat 3: neomorf ($623.97 in chips) 
+Seat 4: teunuss ($718.18 in chips) 
+Seat 6: Nahar ($261 in chips) 
+Nahar: posts small blind $3
+infinity499: posts big blind $6
+*** HOLE CARDS ***
+ilir3: raises $9 to $15
+neomorf: folds 
+teunuss: folds 
+Nahar: folds 
+infinity499: raises $33 to $48
+ilir3: raises $584.23 to $632.23 and is all-in
+infinity499: calls $127.46 and is all-in
+Uncalled bet ($456.77) returned to ilir3
+*** FLOP *** [As 4c Ad]
+*** TURN *** [As 4c Ad] [3d]
+*** RIVER *** [As 4c Ad 3d] [Qc]
+*** SHOW DOWN ***
+infinity499: shows [Td Th] (two pair, Aces and Tens)
+ilir3: shows [7d 7s] (two pair, Aces and Sevens)
+infinity499 collected $351.12 from pot
+*** SUMMARY ***
+Total pot $353.92 | Rake $2.80 
+Board [As 4c Ad 3d Qc]
+Seat 1: infinity499 (big blind) showed [Td Th] and won ($351.12) with two pair, Aces and Tens
+Seat 2: ilir3 showed [7d 7s] and lost with two pair, Aces and Sevens
+Seat 3: neomorf folded before Flop (didn't bet)
+Seat 4: teunuss (button) folded before Flop (didn't bet)
+Seat 6: Nahar (small blind) folded before Flop
+
+
+PokerStars Game #102612005643:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:37:08 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: infinity499 ($351.12 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: neomorf ($623.97 in chips) 
+Seat 4: teunuss ($718.18 in chips) 
+Seat 6: Nahar ($258 in chips) 
+infinity499: posts small blind $3
+ilir3: posts big blind $6
+DeluxeSamy: sits out 
+*** HOLE CARDS ***
+neomorf: folds 
+teunuss: folds 
+Nahar: raises $9 to $15
+infinity499: calls $12
+ilir3: folds 
+*** FLOP *** [4d Ks 4h]
+infinity499: checks 
+Nahar: bets $18
+infinity499: calls $18
+*** TURN *** [4d Ks 4h] [7c]
+infinity499: checks 
+Nahar: checks 
+*** RIVER *** [4d Ks 4h 7c] [6c]
+infinity499: bets $63
+Nahar: folds 
+Uncalled bet ($63) returned to infinity499
+infinity499 collected $69.20 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $2.80 
+Board [4d Ks 4h 7c 6c]
+Seat 1: infinity499 (small blind) collected ($69.20)
+Seat 2: ilir3 (big blind) folded before Flop
+Seat 3: neomorf folded before Flop (didn't bet)
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 6: Nahar (button) folded on the River
+
+
+PokerStars Game #102612073545:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:38:37 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: infinity499 ($387.32 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: neomorf ($623.97 in chips) 
+Seat 4: teunuss ($718.18 in chips) 
+Seat 6: Nahar ($240 in chips) 
+ilir3: posts small blind $3
+neomorf: posts big blind $6
+DeluxeSamy: sits out 
+*** HOLE CARDS ***
+teunuss: folds 
+Nahar: folds 
+infinity499: folds 
+ilir3: calls $3
+neomorf: raises $9.24 to $15.24
+ilir3: calls $9.24
+*** FLOP *** [Js 3h 8s]
+ilir3: checks 
+neomorf: bets $21.83
+ilir3: folds 
+Uncalled bet ($21.83) returned to neomorf
+neomorf collected $29.11 from pot
+neomorf: doesn't show hand 
+*** SUMMARY ***
+Total pot $30.48 | Rake $1.37 
+Board [Js 3h 8s]
+Seat 1: infinity499 (button) folded before Flop (didn't bet)
+Seat 2: ilir3 (small blind) folded on the Flop
+Seat 3: neomorf (big blind) collected ($29.11)
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 6: Nahar folded before Flop (didn't bet)
+
+
+PokerStars Game #102612109388:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:39:24 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: infinity499 ($387.32 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: neomorf ($637.84 in chips) 
+Seat 4: teunuss ($718.18 in chips) 
+Seat 6: Nahar ($240 in chips) 
+neomorf: posts small blind $3
+teunuss: posts big blind $6
+DeluxeSamy: sits out 
+*** HOLE CARDS ***
+Nahar: raises $9 to $15
+infinity499: folds 
+ilir3: folds 
+neomorf: raises $30 to $45
+teunuss: folds 
+Nahar: folds 
+Uncalled bet ($30) returned to neomorf
+neomorf collected $36 from pot
+neomorf: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $0 
+Seat 1: infinity499 folded before Flop (didn't bet)
+Seat 2: ilir3 (button) folded before Flop (didn't bet)
+Seat 3: neomorf (small blind) collected ($36)
+Seat 4: teunuss (big blind) folded before Flop
+Seat 6: Nahar folded before Flop
+
+
+PokerStars Game #102611685995:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:30:08 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: infinity499 ($160.50 in chips) 
+Seat 2: ilir3 ($632.23 in chips) 
+Seat 3: neomorf ($627.97 in chips) 
+Seat 4: teunuss ($705.20 in chips) 
+Seat 5: DeluxeSamy ($755.24 in chips) 
+Seat 6: Nahar ($240 in chips) 
+infinity499: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+neomorf: folds 
+teunuss: raises $9 to $15
+DeluxeSamy: folds 
+Nahar: folds 
+infinity499: folds 
+ilir3: folds 
+Uncalled bet ($9) returned to teunuss
+teunuss collected $15 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: infinity499 (small blind) folded before Flop
+Seat 2: ilir3 (big blind) folded before Flop
+Seat 3: neomorf folded before Flop (didn't bet)
+Seat 4: teunuss collected ($15)
+Seat 5: DeluxeSamy folded before Flop (didn't bet)
+Seat 6: Nahar (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102611699390:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:30:26 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: infinity499 ($157.50 in chips) 
+Seat 2: ilir3 ($626.23 in chips) 
+Seat 3: neomorf ($627.97 in chips) 
+Seat 4: teunuss ($714.20 in chips) 
+Seat 5: DeluxeSamy ($755.24 in chips) 
+Seat 6: Nahar ($240 in chips) 
+ilir3: posts small blind $3
+neomorf: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+DeluxeSamy: folds 
+Nahar: folds 
+infinity499: raises $9 to $15
+ilir3: folds 
+neomorf: folds 
+Uncalled bet ($9) returned to infinity499
+infinity499 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: infinity499 (button) collected ($15)
+Seat 2: ilir3 (small blind) folded before Flop
+Seat 3: neomorf (big blind) folded before Flop
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 5: DeluxeSamy folded before Flop (didn't bet)
+Seat 6: Nahar folded before Flop (didn't bet)
+
+
+PokerStars Game #102611721512:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:30:55 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: infinity499 ($166.50 in chips) 
+Seat 2: ilir3 ($623.23 in chips) 
+Seat 3: neomorf ($621.97 in chips) 
+Seat 4: teunuss ($714.20 in chips) 
+Seat 5: DeluxeSamy ($755.24 in chips) 
+Seat 6: Nahar ($240 in chips) 
+neomorf: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+DeluxeSamy: folds 
+Nahar: folds 
+infinity499: folds 
+ilir3: raises $6 to $12
+neomorf: folds 
+teunuss: folds 
+Uncalled bet ($6) returned to ilir3
+ilir3 collected $15 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: infinity499 folded before Flop (didn't bet)
+Seat 2: ilir3 (button) collected ($15)
+Seat 3: neomorf (small blind) folded before Flop
+Seat 4: teunuss (big blind) folded before Flop
+Seat 5: DeluxeSamy folded before Flop (didn't bet)
+Seat 6: Nahar folded before Flop (didn't bet)
+
+
+PokerStars Game #102611732537:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:31:09 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: infinity499 ($166.50 in chips) 
+Seat 2: ilir3 ($632.23 in chips) 
+Seat 3: neomorf ($618.97 in chips) 
+Seat 4: teunuss ($708.20 in chips) 
+Seat 5: DeluxeSamy ($755.24 in chips) 
+Seat 6: Nahar ($240 in chips) 
+teunuss: posts small blind $3
+DeluxeSamy: posts big blind $6
+*** HOLE CARDS ***
+Nahar: folds 
+infinity499: raises $9 to $15
+ilir3: folds 
+neomorf: folds 
+teunuss: folds 
+DeluxeSamy: calls $9
+*** FLOP *** [Qc Qd 2h]
+DeluxeSamy: checks 
+infinity499: checks 
+*** TURN *** [Qc Qd 2h] [Jc]
+DeluxeSamy: bets $18
+infinity499: calls $18
+*** RIVER *** [Qc Qd 2h Jc] [6h]
+DeluxeSamy: checks 
+infinity499: checks 
+*** SHOW DOWN ***
+DeluxeSamy: shows [Ad 5d] (a pair of Queens)
+infinity499: shows [Kh Ac] (a pair of Queens - Ace+King kicker)
+infinity499 collected $66.20 from pot
+*** SUMMARY ***
+Total pot $69 | Rake $2.80 
+Board [Qc Qd 2h Jc 6h]
+Seat 1: infinity499 showed [Kh Ac] and won ($66.20) with a pair of Queens
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: neomorf (button) folded before Flop (didn't bet)
+Seat 4: teunuss (small blind) folded before Flop
+Seat 5: DeluxeSamy (big blind) showed [Ad 5d] and lost with a pair of Queens
+Seat 6: Nahar folded before Flop (didn't bet)
+
+
+PokerStars Game #102611766872:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:31:54 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: infinity499 ($199.70 in chips) 
+Seat 2: ilir3 ($632.23 in chips) 
+Seat 3: neomorf ($618.97 in chips) 
+Seat 4: teunuss ($705.20 in chips) 
+Seat 5: DeluxeSamy ($722.24 in chips) 
+Seat 6: Nahar ($240 in chips) 
+DeluxeSamy: posts small blind $3
+Nahar: posts big blind $6
+*** HOLE CARDS ***
+infinity499: raises $6 to $12
+ilir3: folds 
+neomorf: folds 
+teunuss: folds 
+DeluxeSamy: folds 
+Nahar: folds 
+Uncalled bet ($6) returned to infinity499
+infinity499 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: infinity499 collected ($15)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: neomorf folded before Flop (didn't bet)
+Seat 4: teunuss (button) folded before Flop (didn't bet)
+Seat 5: DeluxeSamy (small blind) folded before Flop
+Seat 6: Nahar (big blind) folded before Flop
+
+
+PokerStars Game #102611788041:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:32:22 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: infinity499 ($208.70 in chips) 
+Seat 2: ilir3 ($632.23 in chips) 
+Seat 3: neomorf ($618.97 in chips) 
+Seat 4: teunuss ($705.20 in chips) 
+Seat 5: DeluxeSamy ($719.24 in chips) 
+Seat 6: Nahar ($240 in chips) 
+Nahar: posts small blind $3
+infinity499: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+neomorf: raises $6.24 to $12.24
+teunuss: folds 
+DeluxeSamy: folds 
+Nahar: folds 
+infinity499: calls $6.24
+*** FLOP *** [Qc 2s 2c]
+infinity499: checks 
+neomorf: bets $17.84
+infinity499: folds 
+Uncalled bet ($17.84) returned to neomorf
+neomorf collected $26.24 from pot
+neomorf: doesn't show hand 
+*** SUMMARY ***
+Total pot $27.48 | Rake $1.24 
+Board [Qc 2s 2c]
+Seat 1: infinity499 (big blind) folded on the Flop
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: neomorf collected ($26.24)
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 5: DeluxeSamy (button) folded before Flop (didn't bet)
+Seat 6: Nahar (small blind) folded before Flop
+
+
+PokerStars Game #102611804683:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:32:44 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: infinity499 ($196.46 in chips) 
+Seat 2: ilir3 ($632.23 in chips) 
+Seat 3: neomorf ($632.97 in chips) 
+Seat 4: teunuss ($705.20 in chips) 
+Seat 5: DeluxeSamy ($719.24 in chips) 
+Seat 6: Nahar ($240 in chips) 
+infinity499: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+neomorf: folds 
+teunuss: folds 
+DeluxeSamy: folds 
+Nahar: folds 
+infinity499: folds 
+Uncalled bet ($3) returned to ilir3
+ilir3 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: infinity499 (small blind) folded before Flop
+Seat 2: ilir3 (big blind) collected ($6)
+Seat 3: neomorf folded before Flop (didn't bet)
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 5: DeluxeSamy folded before Flop (didn't bet)
+Seat 6: Nahar (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102611816508:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:33:00 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: infinity499 ($193.46 in chips) 
+Seat 2: ilir3 ($635.23 in chips) 
+Seat 3: neomorf ($632.97 in chips) 
+Seat 4: teunuss ($705.20 in chips) 
+Seat 5: DeluxeSamy ($719.24 in chips) 
+Seat 6: Nahar ($240 in chips) 
+ilir3: posts small blind $3
+neomorf: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $12 to $18
+DeluxeSamy: folds 
+Nahar: folds 
+infinity499: calls $18
+ilir3: folds 
+neomorf: folds 
+*** FLOP *** [9h 7c Ac]
+teunuss: bets $30
+infinity499: folds 
+Uncalled bet ($30) returned to teunuss
+teunuss collected $42.98 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $2.02 
+Board [9h 7c Ac]
+Seat 1: infinity499 (button) folded on the Flop
+Seat 2: ilir3 (small blind) folded before Flop
+Seat 3: neomorf (big blind) folded before Flop
+Seat 4: teunuss collected ($42.98)
+Seat 5: DeluxeSamy folded before Flop (didn't bet)
+Seat 6: Nahar folded before Flop (didn't bet)
+
+
+PokerStars Game #102611851430:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:33:45 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: infinity499 ($175.46 in chips) 
+Seat 2: ilir3 ($632.23 in chips) 
+Seat 3: neomorf ($626.97 in chips) 
+Seat 4: teunuss ($730.18 in chips) 
+Seat 6: Nahar ($240 in chips) 
+neomorf: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+Nahar: folds 
+infinity499: folds 
+ilir3: folds 
+neomorf: folds 
+Uncalled bet ($3) returned to teunuss
+teunuss collected $6 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: infinity499 folded before Flop (didn't bet)
+Seat 2: ilir3 (button) folded before Flop (didn't bet)
+Seat 3: neomorf (small blind) folded before Flop
+Seat 4: teunuss (big blind) collected ($6)
+Seat 6: Nahar folded before Flop (didn't bet)
+
+
+PokerStars Game #102611859343:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:33:56 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: infinity499 ($175.46 in chips) 
+Seat 2: ilir3 ($632.23 in chips) 
+Seat 3: neomorf ($623.97 in chips) 
+Seat 4: teunuss ($733.18 in chips) 
+Seat 6: Nahar ($240 in chips) 
+teunuss: posts small blind $3
+Nahar: posts big blind $6
+*** HOLE CARDS ***
+infinity499: raises $9 to $15
+ilir3: folds 
+neomorf: folds 
+teunuss: folds 
+Nahar: folds 
+Uncalled bet ($9) returned to infinity499
+infinity499 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: infinity499 collected ($15)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: neomorf (button) folded before Flop (didn't bet)
+Seat 4: teunuss (small blind) folded before Flop
+Seat 6: Nahar (big blind) folded before Flop
+
+
+PokerStars Game #102611874647:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:34:16 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: infinity499 ($184.46 in chips) 
+Seat 2: ilir3 ($632.23 in chips) 
+Seat 3: neomorf ($623.97 in chips) 
+Seat 4: teunuss ($730.18 in chips) 
+Seat 6: Nahar ($240 in chips) 
+Nahar: posts small blind $3
+infinity499: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+neomorf: folds 
+teunuss: raises $6 to $12
+Nahar: raises $24 to $36
+infinity499: folds 
+teunuss: folds 
+Uncalled bet ($24) returned to Nahar
+Nahar collected $30 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: infinity499 (big blind) folded before Flop
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: neomorf folded before Flop (didn't bet)
+Seat 4: teunuss (button) folded before Flop
+Seat 6: Nahar (small blind) collected ($30)
+
+
+PokerStars Game #102611899643:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:34:49 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: infinity499 ($178.46 in chips) 
+Seat 2: ilir3 ($632.23 in chips) 
+Seat 3: neomorf ($623.97 in chips) 
+Seat 4: teunuss ($718.18 in chips) 
+Seat 6: Nahar ($258 in chips) 
+infinity499: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+neomorf: raises $12 to $18
+teunuss: folds 
+Nahar: folds 
+infinity499: folds 
+ilir3: folds 
+Uncalled bet ($12) returned to neomorf
+neomorf collected $15 from pot
+neomorf: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: infinity499 (small blind) folded before Flop
+Seat 2: ilir3 (big blind) folded before Flop
+Seat 3: neomorf collected ($15)
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 6: Nahar (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102611474814:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:25:17 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: infinity499 ($211.50 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: neomorf ($666 in chips) 
+Seat 4: teunuss ($714.20 in chips) 
+Seat 5: DeluxeSamy ($429.02 in chips) 
+Seat 6: Nahar ($261.84 in chips) 
+infinity499: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+neomorf: folds 
+teunuss: folds 
+DeluxeSamy: folds 
+Nahar: folds 
+infinity499: raises $9 to $15
+ilir3: folds 
+Uncalled bet ($9) returned to infinity499
+infinity499 collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: infinity499 (small blind) collected ($12)
+Seat 2: ilir3 (big blind) folded before Flop
+Seat 3: neomorf folded before Flop (didn't bet)
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 5: DeluxeSamy folded before Flop (didn't bet)
+Seat 6: Nahar (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102611495525:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:25:45 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: infinity499 ($217.50 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: neomorf ($666 in chips) 
+Seat 4: teunuss ($714.20 in chips) 
+Seat 5: DeluxeSamy ($429.02 in chips) 
+Seat 6: Nahar ($261.84 in chips) 
+ilir3: posts small blind $3
+neomorf: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+DeluxeSamy: folds 
+Nahar: folds 
+infinity499: folds 
+ilir3: calls $3
+neomorf: raises $9.24 to $15.24
+ilir3: calls $9.24
+*** FLOP *** [Ah 4c 3s]
+ilir3: checks 
+neomorf: bets $19.79
+ilir3: calls $19.79
+*** TURN *** [Ah 4c 3s] [4h]
+ilir3: checks 
+neomorf: checks 
+*** RIVER *** [Ah 4c 3s 4h] [2s]
+ilir3: checks 
+neomorf: checks 
+*** SHOW DOWN ***
+ilir3: shows [Td Tc] (two pair, Tens and Fours)
+neomorf: mucks hand 
+ilir3 collected $67.26 from pot
+*** SUMMARY ***
+Total pot $70.06 | Rake $2.80 
+Board [Ah 4c 3s 4h 2s]
+Seat 1: infinity499 (button) folded before Flop (didn't bet)
+Seat 2: ilir3 (small blind) showed [Td Tc] and won ($67.26) with two pair, Tens and Fours
+Seat 3: neomorf (big blind) mucked
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 5: DeluxeSamy folded before Flop (didn't bet)
+Seat 6: Nahar folded before Flop (didn't bet)
+
+
+PokerStars Game #102611533700:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:26:38 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: infinity499 ($217.50 in chips) 
+Seat 2: ilir3 ($632.23 in chips) 
+Seat 3: neomorf ($630.97 in chips) 
+Seat 4: teunuss ($714.20 in chips) 
+Seat 5: DeluxeSamy ($429.02 in chips) 
+Seat 6: Nahar ($261.84 in chips) 
+neomorf: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+DeluxeSamy: raises $6 to $12
+Nahar: calls $12
+infinity499: calls $12
+ilir3: folds 
+neomorf: folds 
+teunuss: folds 
+*** FLOP *** [6c Th 5d]
+DeluxeSamy: checks 
+Nahar: bets $24
+infinity499: folds 
+DeluxeSamy: folds 
+Uncalled bet ($24) returned to Nahar
+Nahar collected $42.98 from pot
+*** SUMMARY ***
+Total pot $45 | Rake $2.02 
+Board [6c Th 5d]
+Seat 1: infinity499 folded on the Flop
+Seat 2: ilir3 (button) folded before Flop (didn't bet)
+Seat 3: neomorf (small blind) folded before Flop
+Seat 4: teunuss (big blind) folded before Flop
+Seat 5: DeluxeSamy folded on the Flop
+Seat 6: Nahar collected ($42.98)
+
+
+PokerStars Game #102611568970:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:27:26 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: infinity499 ($205.50 in chips) 
+Seat 2: ilir3 ($632.23 in chips) 
+Seat 3: neomorf ($627.97 in chips) 
+Seat 4: teunuss ($708.20 in chips) 
+Seat 5: DeluxeSamy ($417.02 in chips) 
+Seat 6: Nahar ($292.82 in chips) 
+teunuss: posts small blind $3
+DeluxeSamy: posts big blind $6
+*** HOLE CARDS ***
+Nahar: folds 
+infinity499: folds 
+ilir3: folds 
+neomorf: folds 
+teunuss: folds 
+Uncalled bet ($3) returned to DeluxeSamy
+DeluxeSamy collected $6 from pot
+DeluxeSamy: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: infinity499 folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: neomorf (button) folded before Flop (didn't bet)
+Seat 4: teunuss (small blind) folded before Flop
+Seat 5: DeluxeSamy (big blind) collected ($6)
+Seat 6: Nahar folded before Flop (didn't bet)
+
+
+PokerStars Game #102611582849:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:27:46 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: infinity499 ($205.50 in chips) 
+Seat 2: ilir3 ($632.23 in chips) 
+Seat 3: neomorf ($627.97 in chips) 
+Seat 4: teunuss ($705.20 in chips) 
+Seat 5: DeluxeSamy ($420.02 in chips) 
+Seat 6: Nahar ($292.82 in chips) 
+DeluxeSamy: posts small blind $3
+Nahar: posts big blind $6
+*** HOLE CARDS ***
+infinity499: folds 
+ilir3: folds 
+neomorf: folds 
+teunuss: folds 
+DeluxeSamy: raises $9 to $15
+Nahar: raises $30 to $45
+DeluxeSamy: raises $30 to $75
+Nahar: raises $217.82 to $292.82 and is all-in
+DeluxeSamy: calls $217.82
+*** FIRST FLOP *** [Kd Js Ah]
+*** FIRST TURN *** [Kd Js Ah] [Ks]
+*** FIRST RIVER *** [Kd Js Ah Ks] [Td]
+*** SECOND FLOP *** [8h 7s 5d]
+*** SECOND TURN *** [8h 7s 5d] [8d]
+*** SECOND RIVER *** [8h 7s 5d 8d] [7h]
+*** FIRST SHOW DOWN ***
+DeluxeSamy: shows [Ac Qs] (a straight, Ten to Ace)
+Nahar: mucks hand 
+DeluxeSamy collected $291.42 from pot
+*** SECOND SHOW DOWN ***
+DeluxeSamy: shows [Ac Qs] (two pair, Eights and Sevens)
+Nahar: mucks hand 
+DeluxeSamy collected $291.42 from pot
+*** SUMMARY ***
+Total pot $585.64 | Rake $2.80 
+Hand was run twice
+FIRST Board [Kd Js Ah Ks Td]
+SECOND Board [8h 7s 5d 8d 7h]
+Seat 1: infinity499 folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: neomorf folded before Flop (didn't bet)
+Seat 4: teunuss (button) folded before Flop (didn't bet)
+Seat 5: DeluxeSamy (small blind) showed [Ac Qs] and won ($291.42) with a straight, Ten to Ace, and won ($291.42) with two pair, Eights and Sevens
+Seat 6: Nahar (big blind) mucked
+
+
+PokerStars Game #102611634755:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:28:58 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: infinity499 ($205.50 in chips) 
+Seat 2: ilir3 ($632.23 in chips) 
+Seat 3: neomorf ($627.97 in chips) 
+Seat 4: teunuss ($705.20 in chips) 
+Seat 5: DeluxeSamy ($710.04 in chips) 
+Seat 6: Nahar ($240 in chips) 
+Nahar: posts small blind $3
+infinity499: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+neomorf: folds 
+teunuss: folds 
+DeluxeSamy: raises $6 to $12
+Nahar: folds 
+infinity499: calls $6
+*** FLOP *** [As 7h 8h]
+infinity499: checks 
+DeluxeSamy: bets $15
+infinity499: raises $18 to $33
+DeluxeSamy: calls $18
+*** TURN *** [As 7h 8h] [9s]
+infinity499: checks 
+DeluxeSamy: bets $66
+infinity499: folds 
+Uncalled bet ($66) returned to DeluxeSamy
+DeluxeSamy collected $90.20 from pot
+DeluxeSamy: doesn't show hand 
+*** SUMMARY ***
+Total pot $93 | Rake $2.80 
+Board [As 7h 8h 9s]
+Seat 1: infinity499 (big blind) folded on the Turn
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: neomorf folded before Flop (didn't bet)
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 5: DeluxeSamy (button) collected ($90.20)
+Seat 6: Nahar (small blind) folded before Flop
+
+
+PokerStars Game #102611268202:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:20:33 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: infinity499 ($325.50 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 4: teunuss ($600 in chips) 
+Seat 5: DeluxeSamy ($265.50 in chips) 
+Seat 6: Nahar ($240 in chips) 
+infinity499: posts small blind $3
+ilir3: posts big blind $6
+neomorf: sits out 
+*** HOLE CARDS ***
+teunuss: raises $9 to $15
+DeluxeSamy: folds 
+Nahar: folds 
+infinity499: calls $12
+ilir3: folds 
+*** FLOP *** [3s 3d Qh]
+infinity499: checks 
+teunuss: bets $30
+infinity499: raises $36 to $66
+teunuss: calls $36
+*** TURN *** [3s 3d Qh] [Ac]
+infinity499: checks 
+teunuss: bets $30
+infinity499: folds 
+Uncalled bet ($30) returned to teunuss
+teunuss collected $165.20 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $168 | Rake $2.80 
+Board [3s 3d Qh Ac]
+Seat 1: infinity499 (small blind) folded on the Turn
+Seat 2: ilir3 (big blind) folded before Flop
+Seat 4: teunuss collected ($165.20)
+Seat 5: DeluxeSamy folded before Flop (didn't bet)
+Seat 6: Nahar (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102611325976:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:21:52 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: infinity499 ($244.50 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: neomorf ($600 in chips) 
+Seat 4: teunuss ($684.20 in chips) 
+Seat 5: DeluxeSamy ($265.50 in chips) 
+Seat 6: Nahar ($240 in chips) 
+ilir3: posts small blind $3
+neomorf: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+DeluxeSamy: raises $6 to $12
+Nahar: folds 
+infinity499: calls $12
+ilir3: folds 
+neomorf: folds 
+*** FLOP *** [Qh Ts Ks]
+DeluxeSamy: checks 
+infinity499: checks 
+*** TURN *** [Qh Ts Ks] [4h]
+DeluxeSamy: bets $21
+infinity499: folds 
+Uncalled bet ($21) returned to DeluxeSamy
+DeluxeSamy collected $31.52 from pot
+DeluxeSamy: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $1.48 
+Board [Qh Ts Ks 4h]
+Seat 1: infinity499 (button) folded on the Turn
+Seat 2: ilir3 (small blind) folded before Flop
+Seat 3: neomorf (big blind) folded before Flop
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 5: DeluxeSamy collected ($31.52)
+Seat 6: Nahar folded before Flop (didn't bet)
+
+
+PokerStars Game #102611360075:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:22:39 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: infinity499 ($232.50 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: neomorf ($600 in chips) 
+Seat 4: teunuss ($684.20 in chips) 
+Seat 5: DeluxeSamy ($285.02 in chips) 
+Seat 6: Nahar ($240 in chips) 
+neomorf: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+DeluxeSamy: folds 
+Nahar: raises $9 to $15
+infinity499: calls $15
+ilir3: folds 
+neomorf: folds 
+teunuss: calls $9
+*** FLOP *** [Jd 2c 3c]
+teunuss: checks 
+Nahar: bets $36
+infinity499: folds 
+teunuss: folds 
+Uncalled bet ($36) returned to Nahar
+Nahar collected $45.84 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $2.16 
+Board [Jd 2c 3c]
+Seat 1: infinity499 folded on the Flop
+Seat 2: ilir3 (button) folded before Flop (didn't bet)
+Seat 3: neomorf (small blind) folded before Flop
+Seat 4: teunuss (big blind) folded on the Flop
+Seat 5: DeluxeSamy folded before Flop (didn't bet)
+Seat 6: Nahar collected ($45.84)
+
+
+PokerStars Game #102611384194:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:23:12 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: infinity499 ($217.50 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: neomorf ($600 in chips) 
+Seat 4: teunuss ($669.20 in chips) 
+Seat 5: DeluxeSamy ($285.02 in chips) 
+Seat 6: Nahar ($270.84 in chips) 
+teunuss: posts small blind $3
+DeluxeSamy: posts big blind $6
+*** HOLE CARDS ***
+Nahar: folds 
+infinity499: folds 
+ilir3: folds 
+neomorf: raises $6 to $12
+teunuss: calls $9
+DeluxeSamy: raises $42 to $54
+neomorf: raises $42 to $96
+teunuss: folds 
+DeluxeSamy: folds 
+Uncalled bet ($42) returned to neomorf
+neomorf collected $120 from pot
+neomorf: doesn't show hand 
+*** SUMMARY ***
+Total pot $120 | Rake $0 
+Seat 1: infinity499 folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: neomorf (button) collected ($120)
+Seat 4: teunuss (small blind) folded before Flop
+Seat 5: DeluxeSamy (big blind) folded before Flop
+Seat 6: Nahar folded before Flop (didn't bet)
+
+
+PokerStars Game #102611418238:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:23:59 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: infinity499 ($217.50 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: neomorf ($666 in chips) 
+Seat 4: teunuss ($657.20 in chips) 
+Seat 5: DeluxeSamy ($231.02 in chips) 
+Seat 6: Nahar ($270.84 in chips) 
+DeluxeSamy: posts small blind $3
+Nahar: posts big blind $6
+*** HOLE CARDS ***
+infinity499: folds 
+ilir3: folds 
+neomorf: folds 
+teunuss: raises $6 to $12
+DeluxeSamy: raises $30 to $42
+Nahar: folds 
+teunuss: raises $615.20 to $657.20 and is all-in
+DeluxeSamy: folds 
+Uncalled bet ($615.20) returned to teunuss
+teunuss collected $90 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $90 | Rake $0 
+Seat 1: infinity499 folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: neomorf folded before Flop (didn't bet)
+Seat 4: teunuss (button) collected ($90)
+Seat 5: DeluxeSamy (small blind) folded before Flop
+Seat 6: Nahar (big blind) folded before Flop
+
+
+PokerStars Game #102611440212:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:24:29 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: infinity499 ($217.50 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: neomorf ($666 in chips) 
+Seat 4: teunuss ($705.20 in chips) 
+Seat 5: DeluxeSamy ($429.02 in chips) 
+Seat 6: Nahar ($264.84 in chips) 
+Nahar: posts small blind $3
+infinity499: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+neomorf: folds 
+teunuss: raises $9 to $15
+DeluxeSamy: folds 
+Nahar: folds 
+infinity499: folds 
+Uncalled bet ($9) returned to teunuss
+teunuss collected $15 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: infinity499 (big blind) folded before Flop
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: neomorf folded before Flop (didn't bet)
+Seat 4: teunuss collected ($15)
+Seat 5: DeluxeSamy (button) folded before Flop (didn't bet)
+Seat 6: Nahar (small blind) folded before Flop
+
+
+PokerStars Game #102611198757:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:18:59 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: infinity499 ($297 in chips) 
+Seat 4: teunuss ($603 in chips) 
+Seat 5: DeluxeSamy ($240 in chips) 
+ilir3 will be allowed to play after the button
+teunuss: posts small blind $3
+DeluxeSamy: posts big blind $6
+Nahar: sits out 
+*** HOLE CARDS ***
+infinity499: folds 
+teunuss: folds 
+Uncalled bet ($3) returned to DeluxeSamy
+DeluxeSamy collected $6 from pot
+DeluxeSamy: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: infinity499 (button) folded before Flop (didn't bet)
+Seat 4: teunuss (small blind) folded before Flop
+Seat 5: DeluxeSamy (big blind) collected ($6)
+
+
+PokerStars Game #102611203829:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:19:06 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: infinity499 ($297 in chips) 
+Seat 4: teunuss ($600 in chips) 
+Seat 5: DeluxeSamy ($243 in chips) 
+Seat 6: Nahar ($240 in chips) 
+DeluxeSamy: posts small blind $3
+Nahar: posts big blind $6
+ilir3: sits out 
+*** HOLE CARDS ***
+infinity499: folds 
+teunuss: raises $6 to $12
+DeluxeSamy: raises $33 to $45
+Nahar: folds 
+teunuss: calls $33
+*** FLOP *** [Td 4d 3s]
+DeluxeSamy: bets $54
+teunuss: folds 
+Uncalled bet ($54) returned to DeluxeSamy
+DeluxeSamy collected $94.50 from pot
+DeluxeSamy: doesn't show hand 
+*** SUMMARY ***
+Total pot $96 | Rake $1.50 
+Board [Td 4d 3s]
+Seat 1: infinity499 folded before Flop (didn't bet)
+Seat 4: teunuss (button) folded on the Flop
+Seat 5: DeluxeSamy (small blind) collected ($94.50)
+Seat 6: Nahar (big blind) folded before Flop
+
+
+PokerStars Game #102611231644:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:19:43 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: infinity499 ($297 in chips) 
+Seat 4: teunuss ($600 in chips) 
+Seat 5: DeluxeSamy ($292.50 in chips) 
+Seat 6: Nahar ($240 in chips) 
+Nahar: posts small blind $3
+infinity499: posts big blind $6
+ilir3: sits out 
+*** HOLE CARDS ***
+teunuss: folds 
+DeluxeSamy: raises $6 to $12
+Nahar: folds 
+infinity499: calls $6
+*** FLOP *** [Qh 2h Ad]
+infinity499: checks 
+patapong leaves the table
+DeluxeSamy: bets $15
+infinity499: calls $15
+*** TURN *** [Qh 2h Ad] [2d]
+neomorf joins the table at seat #3 
+infinity499: checks 
+DeluxeSamy: checks 
+*** RIVER *** [Qh 2h Ad 2d] [Kh]
+infinity499: checks 
+DeluxeSamy: checks 
+*** SHOW DOWN ***
+infinity499: shows [Jc Ks] (two pair, Kings and Deuces)
+DeluxeSamy: mucks hand 
+infinity499 collected $55.50 from pot
+*** SUMMARY ***
+Total pot $57 | Rake $1.50 
+Board [Qh 2h Ad 2d Kh]
+Seat 1: infinity499 (big blind) showed [Jc Ks] and won ($55.50) with two pair, Kings and Deuces
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 5: DeluxeSamy (button) mucked
+Seat 6: Nahar (small blind) folded before Flop
+
+
+PokerStars Game #102611190923:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:18:48 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: infinity499 ($300 in chips) 
+Seat 4: teunuss ($600 in chips) 
+Nahar joins the table at seat #6 
+infinity499: posts small blind $3
+ilir3 joins the table at seat #2 
+DeluxeSamy joins the table at seat #5 
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+infinity499: folds 
+Uncalled bet ($3) returned to teunuss
+teunuss collected $6 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: infinity499 (button) (small blind) folded before Flop
+Seat 4: teunuss (big blind) collected ($6)
+
+
+PokerStars Game #102613201057:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:05:09 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: DeluxeSamy ($919.91 in chips) 
+Seat 2: teunuss ($694.32 in chips) 
+Seat 5: borntotilt ($626.50 in chips) 
+Seat 6: LiveTogether ($240 in chips) 
+LiveTogether: posts small blind $3
+DeluxeSamy: posts big blind $6
+TTSIP: sits out 
+KrisBj: sits out 
+*** HOLE CARDS ***
+teunuss: folds 
+borntotilt: folds 
+LiveTogether: raises $6 to $12
+DeluxeSamy: raises $18 to $30
+LiveTogether: folds 
+Uncalled bet ($18) returned to DeluxeSamy
+DeluxeSamy collected $24 from pot
+DeluxeSamy: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: DeluxeSamy (big blind) collected ($24)
+Seat 2: teunuss folded before Flop (didn't bet)
+Seat 5: borntotilt (button) folded before Flop (didn't bet)
+Seat 6: LiveTogether (small blind) folded before Flop
+
+
+PokerStars Game #102613223895:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:05:38 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: DeluxeSamy ($931.91 in chips) 
+Seat 2: teunuss ($694.32 in chips) 
+Seat 5: borntotilt ($626.50 in chips) 
+Seat 6: LiveTogether ($240 in chips) 
+DeluxeSamy: posts small blind $3
+teunuss: posts big blind $6
+TTSIP: sits out 
+KrisBj: sits out 
+*** HOLE CARDS ***
+borntotilt: folds 
+LiveTogether: folds 
+DeluxeSamy: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [9h 9d 5s]
+DeluxeSamy: checks 
+teunuss: bets $15
+DeluxeSamy: calls $15
+*** TURN *** [9h 9d 5s] [6h]
+DeluxeSamy: checks 
+teunuss: checks 
+*** RIVER *** [9h 9d 5s 6h] [2d]
+DeluxeSamy: bets $21
+teunuss: calls $21
+*** SHOW DOWN ***
+DeluxeSamy: shows [9c Ad] (three of a kind, Nines)
+teunuss: mucks hand 
+DeluxeSamy collected $94.50 from pot
+*** SUMMARY ***
+Total pot $96 | Rake $1.50 
+Board [9h 9d 5s 6h 2d]
+Seat 1: DeluxeSamy (small blind) showed [9c Ad] and won ($94.50) with three of a kind, Nines
+Seat 2: teunuss (big blind) mucked
+Seat 5: borntotilt folded before Flop (didn't bet)
+Seat 6: LiveTogether (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102613264636:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:06:30 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: DeluxeSamy ($978.41 in chips) 
+Seat 2: teunuss ($646.32 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 5: borntotilt ($626.50 in chips) 
+Seat 6: LiveTogether ($240 in chips) 
+teunuss: posts small blind $3
+TTSIP: posts big blind $6
+KrisBj: sits out 
+*** HOLE CARDS ***
+borntotilt has timed out
+borntotilt: folds 
+LiveTogether: folds 
+DeluxeSamy: raises $6 to $12
+teunuss: folds 
+TTSIP: calls $6
+*** FLOP *** [2s 6h 2h]
+TTSIP: checks 
+DeluxeSamy: bets $18
+TTSIP: calls $18
+*** TURN *** [2s 6h 2h] [Ac]
+TTSIP: checks 
+DeluxeSamy: bets $45
+TTSIP: calls $45
+*** RIVER *** [2s 6h 2h Ac] [3d]
+TTSIP: checks 
+DeluxeSamy: bets $114
+TTSIP: calls $114
+*** SHOW DOWN ***
+DeluxeSamy: shows [2d Ks] (three of a kind, Deuces)
+TTSIP: mucks hand 
+DeluxeSamy collected $378.20 from pot
+*** SUMMARY ***
+Total pot $381 | Rake $2.80 
+Board [2s 6h 2h Ac 3d]
+Seat 1: DeluxeSamy (button) showed [2d Ks] and won ($378.20) with three of a kind, Deuces
+Seat 2: teunuss (small blind) folded before Flop
+Seat 3: TTSIP (big blind) mucked
+Seat 5: borntotilt folded before Flop (didn't bet)
+Seat 6: LiveTogether folded before Flop (didn't bet)
+
+
+PokerStars Game #102613318808:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:07:39 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: DeluxeSamy ($1167.61 in chips) 
+Seat 2: teunuss ($643.32 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 4: KrisBj ($600 in chips) 
+Seat 5: borntotilt ($626.50 in chips) 
+Seat 6: LiveTogether ($240 in chips) 
+TTSIP: posts small blind $3
+KrisBj: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: folds 
+LiveTogether: folds 
+DeluxeSamy: folds 
+teunuss: raises $6 to $12
+TTSIP: folds 
+KrisBj: calls $6
+*** FLOP *** [As Qs 9s]
+KrisBj: checks 
+teunuss: checks 
+*** TURN *** [As Qs 9s] [8s]
+KrisBj: checks 
+teunuss: checks 
+*** RIVER *** [As Qs 9s 8s] [3d]
+KrisBj: bets $12
+teunuss: folds 
+Uncalled bet ($12) returned to KrisBj
+KrisBj collected $25.78 from pot
+KrisBj: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [As Qs 9s 8s 3d]
+Seat 1: DeluxeSamy folded before Flop (didn't bet)
+Seat 2: teunuss (button) folded on the River
+Seat 3: TTSIP (small blind) folded before Flop
+Seat 4: KrisBj (big blind) collected ($25.78)
+Seat 5: borntotilt folded before Flop (didn't bet)
+Seat 6: LiveTogether folded before Flop (didn't bet)
+
+
+PokerStars Game #102613348304:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:08:16 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: DeluxeSamy ($1167.61 in chips) 
+Seat 2: teunuss ($631.32 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 4: KrisBj ($613.78 in chips) 
+Seat 5: borntotilt ($626.50 in chips) 
+Seat 6: LiveTogether ($240 in chips) 
+KrisBj: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+LiveTogether: folds 
+DeluxeSamy: raises $9 to $15
+teunuss: folds 
+TTSIP: folds 
+KrisBj: folds 
+borntotilt: folds 
+Uncalled bet ($9) returned to DeluxeSamy
+DeluxeSamy collected $15 from pot
+DeluxeSamy: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: DeluxeSamy collected ($15)
+Seat 2: teunuss folded before Flop (didn't bet)
+Seat 3: TTSIP (button) folded before Flop (didn't bet)
+Seat 4: KrisBj (small blind) folded before Flop
+Seat 5: borntotilt (big blind) folded before Flop
+Seat 6: LiveTogether folded before Flop (didn't bet)
+
+
+PokerStars Game #102613379117:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:08:55 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: DeluxeSamy ($1176.61 in chips) 
+Seat 2: teunuss ($631.32 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 4: KrisBj ($610.78 in chips) 
+Seat 5: borntotilt ($620.50 in chips) 
+Seat 6: LiveTogether ($240 in chips) 
+borntotilt: posts small blind $3
+LiveTogether: posts big blind $6
+*** HOLE CARDS ***
+DeluxeSamy: raises $12 to $18
+teunuss: folds 
+TTSIP: folds 
+KrisBj: raises $33 to $51
+borntotilt: folds 
+LiveTogether: folds 
+DeluxeSamy: raises $63 to $114
+KrisBj: calls $63
+*** FLOP *** [7d Qd 5c]
+DeluxeSamy: bets $57
+KrisBj: calls $57
+*** TURN *** [7d Qd 5c] [Ac]
+DeluxeSamy: bets $114
+KrisBj: calls $114
+*** RIVER *** [7d Qd 5c Ac] [3h]
+DeluxeSamy: bets $489
+KrisBj: calls $325.78 and is all-in
+Uncalled bet ($163.22) returned to DeluxeSamy
+*** SHOW DOWN ***
+DeluxeSamy: shows [Qh Qc] (three of a kind, Queens)
+KrisBj: mucks hand 
+DeluxeSamy collected $1227.76 from pot
+*** SUMMARY ***
+Total pot $1230.56 | Rake $2.80 
+Board [7d Qd 5c Ac 3h]
+Seat 1: DeluxeSamy showed [Qh Qc] and won ($1227.76) with three of a kind, Queens
+Seat 2: teunuss folded before Flop (didn't bet)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: KrisBj (button) mucked
+Seat 5: borntotilt (small blind) folded before Flop
+Seat 6: LiveTogether (big blind) folded before Flop
+
+
+PokerStars Game #102613192606:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:04:59 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($685.32 in chips) 
+Seat 5: borntotilt ($629.50 in chips) 
+Seat 6: LiveTogether ($240 in chips) 
+TTSIP will be allowed to play after the button
+KrisBj will be allowed to play after the button
+borntotilt: posts small blind $3
+LiveTogether: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+DeluxeSamy joins the table at seat #1 
+borntotilt: folds 
+LiveTogether: folds 
+Uncalled bet ($6) returned to teunuss
+teunuss collected $15 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: teunuss (button) collected ($15)
+Seat 5: borntotilt (small blind) folded before Flop
+Seat 6: LiveTogether (big blind) folded before Flop
+
+
+PokerStars Game #102613131738:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:03:42 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($688.82 in chips) 
+Seat 5: borntotilt ($600 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [9s Td 2s]
+teunuss: checks 
+borntotilt: checks 
+*** TURN *** [9s Td 2s] [5s]
+teunuss: bets $15
+borntotilt: calls $15
+*** RIVER *** [9s Td 2s 5s] [Jd]
+teunuss: checks 
+borntotilt: checks 
+*** SHOW DOWN ***
+teunuss: shows [9c Ac] (a pair of Nines)
+borntotilt: mucks hand 
+teunuss collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50 
+Board [9s Td 2s 5s Jd]
+Seat 2: teunuss (big blind) showed [9c Ac] and won ($53.50) with a pair of Nines
+Seat 5: borntotilt (button) (small blind) mucked
+
+
+PokerStars Game #102613165349:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:04:24 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($715.32 in chips) 
+Seat 5: borntotilt ($600 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: calls $6
+*** FLOP *** [5s 9s 4c]
+KrisBj joins the table at seat #4 
+borntotilt: checks 
+teunuss: checks 
+*** TURN *** [5s 9s 4c] [8s]
+borntotilt: checks 
+TTSIP joins the table at seat #3 
+teunuss: checks 
+*** RIVER *** [5s 9s 4c 8s] [7h]
+LiveTogether joins the table at seat #6 
+borntotilt: bets $18
+teunuss: calls $18
+*** SHOW DOWN ***
+borntotilt: shows [5h 6c] (a straight, Five to Nine)
+teunuss: mucks hand 
+borntotilt collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50 
+Board [5s 9s 4c 8s 7h]
+Seat 2: teunuss (button) (small blind) mucked
+Seat 5: borntotilt (big blind) showed [5h 6c] and won ($59.50) with a straight, Five to Nine
+
+
+PokerStars Game #102612594977:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:50:03 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Sir_Fuj1 ($240 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: neomorf ($658.34 in chips) 
+Seat 4: teunuss ($808.82 in chips) 
+Seat 5: DeluxeSamy ($934.91 in chips) 
+Seat 6: Nahar ($297.20 in chips) 
+Nahar: posts small blind $3
+Sir_Fuj1: posts big blind $6
+*** HOLE CARDS ***
+ilir3: raises $9 to $15
+neomorf: folds 
+teunuss: calls $15
+DeluxeSamy: calls $15
+Nahar: folds 
+Sir_Fuj1: folds 
+*** FLOP *** [Jh Qc 2c]
+ilir3: bets $36
+teunuss: calls $36
+DeluxeSamy: folds 
+*** TURN *** [Jh Qc 2c] [8h]
+ilir3: bets $90
+teunuss: calls $90
+*** RIVER *** [Jh Qc 2c 8h] [7d]
+ilir3: bets $228
+teunuss: folds 
+Uncalled bet ($228) returned to ilir3
+ilir3 collected $303.20 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $306 | Rake $2.80 
+Board [Jh Qc 2c 8h 7d]
+Seat 1: Sir_Fuj1 (big blind) folded before Flop
+Seat 2: ilir3 collected ($303.20)
+Seat 3: neomorf folded before Flop (didn't bet)
+Seat 4: teunuss folded on the River
+Seat 5: DeluxeSamy (button) folded on the Flop
+Seat 6: Nahar (small blind) folded before Flop
+
+
+PokerStars Game #102612630071:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:50:49 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Sir_Fuj1 ($234 in chips) 
+Seat 2: ilir3 ($762.20 in chips) 
+Seat 3: neomorf ($658.34 in chips) 
+Seat 4: teunuss ($667.82 in chips) 
+Seat 5: DeluxeSamy ($919.91 in chips) 
+Seat 6: Nahar ($294.20 in chips) 
+Sir_Fuj1: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+neomorf: folds 
+teunuss: folds 
+DeluxeSamy: folds 
+Nahar: folds 
+Sir_Fuj1: raises $9 to $15
+ilir3: folds 
+Uncalled bet ($9) returned to Sir_Fuj1
+Sir_Fuj1 collected $12 from pot
+Sir_Fuj1: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Sir_Fuj1 (small blind) collected ($12)
+Seat 2: ilir3 (big blind) folded before Flop
+Seat 3: neomorf folded before Flop (didn't bet)
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 5: DeluxeSamy folded before Flop (didn't bet)
+Seat 6: Nahar (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102612664929:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:51:35 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Sir_Fuj1 ($240 in chips) 
+Seat 2: ilir3 ($756.20 in chips) 
+Seat 3: neomorf ($658.34 in chips) 
+Seat 4: teunuss ($667.82 in chips) 
+Seat 5: DeluxeSamy ($919.91 in chips) 
+Seat 6: Nahar ($294.20 in chips) 
+ilir3: posts small blind $3
+neomorf: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+DeluxeSamy: folds 
+Nahar: raises $9 to $15
+Sir_Fuj1: calls $15
+ilir3: calls $12
+neomorf: raises $57 to $72
+Nahar: folds 
+Sir_Fuj1: folds 
+ilir3: folds 
+Uncalled bet ($57) returned to neomorf
+neomorf collected $60 from pot
+neomorf: doesn't show hand 
+*** SUMMARY ***
+Total pot $60 | Rake $0 
+Seat 1: Sir_Fuj1 (button) folded before Flop
+Seat 2: ilir3 (small blind) folded before Flop
+Seat 3: neomorf (big blind) collected ($60)
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 5: DeluxeSamy folded before Flop (didn't bet)
+Seat 6: Nahar folded before Flop
+
+
+PokerStars Game #102612709824:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:52:35 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Sir_Fuj1 ($225 in chips) 
+Seat 2: ilir3 ($741.20 in chips) 
+Seat 3: neomorf ($703.34 in chips) 
+Seat 4: teunuss ($667.82 in chips) 
+Seat 5: DeluxeSamy ($919.91 in chips) 
+Seat 6: Nahar ($279.20 in chips) 
+neomorf: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+DeluxeSamy: folds 
+Nahar: folds 
+DeluxeSamy leaves the table
+Sir_Fuj1: folds 
+ilir3: raises $6 to $12
+neomorf: calls $9
+teunuss: raises $54 to $66
+ilir3: folds 
+neomorf: folds 
+Uncalled bet ($54) returned to teunuss
+teunuss collected $36 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $0 
+Seat 1: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 2: ilir3 (button) folded before Flop
+Seat 3: neomorf (small blind) folded before Flop
+Seat 4: teunuss (big blind) collected ($36)
+Seat 5: DeluxeSamy folded before Flop (didn't bet)
+Seat 6: Nahar folded before Flop (didn't bet)
+
+
+PokerStars Game #102612732113:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:53:04 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Sir_Fuj1 ($225 in chips) 
+Seat 2: ilir3 ($729.20 in chips) 
+Seat 3: neomorf ($691.34 in chips) 
+Seat 4: teunuss ($691.82 in chips) 
+Seat 6: Nahar ($279.20 in chips) 
+teunuss: posts small blind $3
+Nahar: posts big blind $6
+*** HOLE CARDS ***
+Sir_Fuj1: raises $12 to $18
+borntotilt joins the table at seat #5 
+ilir3: calls $18
+neomorf: folds 
+teunuss: folds 
+Nahar: folds 
+*** FLOP *** [8d 3c Jh]
+Sir_Fuj1: checks 
+ilir3: bets $28
+Sir_Fuj1: folds 
+Uncalled bet ($28) returned to ilir3
+ilir3 collected $42.98 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $2.02 
+Board [8d 3c Jh]
+Seat 1: Sir_Fuj1 folded on the Flop
+Seat 2: ilir3 collected ($42.98)
+Seat 3: neomorf (button) folded before Flop (didn't bet)
+Seat 4: teunuss (small blind) folded before Flop
+Seat 6: Nahar (big blind) folded before Flop
+
+
+PokerStars Game #102612759575:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:53:40 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Sir_Fuj1 ($240 in chips) 
+Seat 2: ilir3 ($754.18 in chips) 
+Seat 3: neomorf ($691.34 in chips) 
+Seat 4: teunuss ($688.82 in chips) 
+Seat 6: Nahar ($273.20 in chips) 
+borntotilt will be allowed to play after the button
+Nahar: posts small blind $3
+Sir_Fuj1: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+ilir3 leaves the table
+neomorf: raises $6.24 to $12.24
+teunuss: folds 
+floriiiiider joins the table at seat #2 
+Nahar: folds 
+floriiiiider leaves the table
+Sir_Fuj1: folds 
+Uncalled bet ($6.24) returned to neomorf
+neomorf collected $15 from pot
+neomorf: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Sir_Fuj1 (big blind) folded before Flop
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: neomorf collected ($15)
+Seat 4: teunuss (button) folded before Flop (didn't bet)
+Seat 6: Nahar (small blind) folded before Flop
+
+
+PokerStars Game #102612770517:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:53:55 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Sir_Fuj1 ($234 in chips) 
+Seat 3: neomorf ($700.34 in chips) 
+Seat 4: teunuss ($688.82 in chips) 
+Seat 6: Nahar ($270.20 in chips) 
+Sir_Fuj1: posts small blind $3
+neomorf: posts big blind $6
+borntotilt: sits out 
+*** HOLE CARDS ***
+teunuss: folds 
+Nahar: raises $9 to $15
+Sir_Fuj1: folds 
+neomorf: folds 
+Uncalled bet ($9) returned to Nahar
+Nahar collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Sir_Fuj1 (small blind) folded before Flop
+Seat 3: neomorf (big blind) folded before Flop
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 6: Nahar (button) collected ($15)
+
+
+PokerStars Game #102612780252:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:54:08 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Sir_Fuj1 ($231 in chips) 
+Seat 3: neomorf ($694.34 in chips) 
+Seat 5: borntotilt ($600 in chips) 
+Seat 6: Nahar ($279.20 in chips) 
+neomorf: posts small blind $3
+teunuss: is sitting out 
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+Nahar: folds 
+Sir_Fuj1: raises $9 to $15
+neomorf: raises $30 to $45
+borntotilt: folds 
+Sir_Fuj1: raises $186 to $231 and is all-in
+neomorf: folds 
+Uncalled bet ($186) returned to Sir_Fuj1
+Sir_Fuj1 collected $96 from pot
+Sir_Fuj1: doesn't show hand 
+*** SUMMARY ***
+Total pot $96 | Rake $0 
+Seat 1: Sir_Fuj1 (button) collected ($96)
+Seat 3: neomorf (small blind) folded before Flop
+Seat 5: borntotilt (big blind) folded before Flop
+Seat 6: Nahar folded before Flop (didn't bet)
+
+
+PokerStars Game #102612400417:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:45:47 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: infinity499 ($303.32 in chips) 
+Seat 2: ilir3 ($627 in chips) 
+Seat 3: neomorf ($637.60 in chips) 
+Seat 4: teunuss ($772.62 in chips) 
+Seat 5: DeluxeSamy ($668.24 in chips) 
+Seat 6: Nahar ($303.20 in chips) 
+infinity499: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+neomorf: folds 
+teunuss: folds 
+DeluxeSamy: raises $6 to $12
+Nahar: folds 
+infinity499: folds 
+ilir3: raises $36 to $48
+DeluxeSamy: raises $36 to $84
+ilir3: calls $36
+*** FLOP *** [2s 3c Kd]
+ilir3: checks 
+DeluxeSamy: bets $50
+ilir3: calls $50
+*** TURN *** [2s 3c Kd] [9h]
+ilir3: checks 
+DeluxeSamy: checks 
+*** RIVER *** [2s 3c Kd 9h] [Qh]
+ilir3: bets $165
+DeluxeSamy: calls $165
+*** SHOW DOWN ***
+ilir3: shows [Js Ah] (high card Ace)
+DeluxeSamy: shows [Td Th] (a pair of Tens)
+DeluxeSamy collected $598.20 from pot
+*** SUMMARY ***
+Total pot $601 | Rake $2.80 
+Board [2s 3c Kd 9h Qh]
+Seat 1: infinity499 (small blind) folded before Flop
+Seat 2: ilir3 (big blind) showed [Js Ah] and lost with high card Ace
+Seat 3: neomorf folded before Flop (didn't bet)
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 5: DeluxeSamy showed [Td Th] and won ($598.20) with a pair of Tens
+Seat 6: Nahar (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102612460937:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:47:06 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: infinity499 ($300.32 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: neomorf ($637.60 in chips) 
+Seat 4: teunuss ($772.62 in chips) 
+Seat 5: DeluxeSamy ($967.44 in chips) 
+Seat 6: Nahar ($303.20 in chips) 
+ilir3: posts small blind $3
+neomorf: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+DeluxeSamy: folds 
+Nahar: folds 
+infinity499: folds 
+ilir3: calls $3
+neomorf: checks 
+*** FLOP *** [Ac 2h Th]
+ilir3: bets $6
+neomorf: folds 
+Uncalled bet ($6) returned to ilir3
+ilir3 collected $11.46 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.54 
+Board [Ac 2h Th]
+Seat 1: infinity499 (button) folded before Flop (didn't bet)
+Seat 2: ilir3 (small blind) collected ($11.46)
+Seat 3: neomorf (big blind) folded on the Flop
+Seat 4: teunuss folded before Flop (didn't bet)
+Seat 5: DeluxeSamy folded before Flop (didn't bet)
+Seat 6: Nahar folded before Flop (didn't bet)
+
+
+PokerStars Game #102612491073:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:47:45 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: infinity499 ($300.32 in chips) 
+Seat 2: ilir3 ($605.46 in chips) 
+Seat 3: neomorf ($631.60 in chips) 
+Seat 4: teunuss ($772.62 in chips) 
+Seat 5: DeluxeSamy ($967.44 in chips) 
+Seat 6: Nahar ($303.20 in chips) 
+neomorf: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+DeluxeSamy: folds 
+Nahar: folds 
+infinity499: raises $9 to $15
+ilir3: folds 
+neomorf: folds 
+teunuss: folds 
+Uncalled bet ($9) returned to infinity499
+infinity499 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: infinity499 collected ($15)
+Seat 2: ilir3 (button) folded before Flop (didn't bet)
+Seat 3: neomorf (small blind) folded before Flop
+Seat 4: teunuss (big blind) folded before Flop
+Seat 5: DeluxeSamy folded before Flop (didn't bet)
+Seat 6: Nahar folded before Flop (didn't bet)
+
+
+PokerStars Game #102612509114:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:48:09 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: infinity499 ($309.32 in chips) 
+Seat 2: ilir3 ($605.46 in chips) 
+Seat 3: neomorf ($628.60 in chips) 
+Seat 4: teunuss ($766.62 in chips) 
+Seat 5: DeluxeSamy ($967.44 in chips) 
+Seat 6: Nahar ($303.20 in chips) 
+teunuss: posts small blind $3
+DeluxeSamy: posts big blind $6
+*** HOLE CARDS ***
+Nahar: folds 
+infinity499: folds 
+ilir3: folds 
+neomorf: raises $6 to $12
+teunuss: folds 
+DeluxeSamy: calls $6
+*** FLOP *** [4s Js 3c]
+DeluxeSamy: checks 
+neomorf: bets $17.53
+DeluxeSamy: calls $17.53
+*** TURN *** [4s Js 3c] [7h]
+DeluxeSamy: checks 
+infinity499 leaves the table
+Sir_Fuj1 joins the table at seat #1 
+neomorf: bets $44.45
+DeluxeSamy: folds 
+Uncalled bet ($44.45) returned to neomorf
+neomorf collected $59.27 from pot
+neomorf: doesn't show hand 
+*** SUMMARY ***
+Total pot $62.06 | Rake $2.79 
+Board [4s Js 3c 7h]
+Seat 1: infinity499 folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: neomorf (button) collected ($59.27)
+Seat 4: teunuss (small blind) folded before Flop
+Seat 5: DeluxeSamy (big blind) folded on the Turn
+Seat 6: Nahar folded before Flop (didn't bet)
+
+
+PokerStars Game #102612561416:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 12:49:18 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #4 is the button
+Seat 2: ilir3 ($605.46 in chips) 
+Seat 3: neomorf ($658.34 in chips) 
+Seat 4: teunuss ($763.62 in chips) 
+Seat 5: DeluxeSamy ($937.91 in chips) 
+Seat 6: Nahar ($303.20 in chips) 
+DeluxeSamy: posts small blind $3
+Nahar: posts big blind $6
+Sir_Fuj1: sits out 
+*** HOLE CARDS ***
+ilir3: raises $9 to $15
+neomorf: folds 
+teunuss: calls $15
+DeluxeSamy: folds 
+Nahar: folds 
+*** FLOP *** [3h 9c 3d]
+ilir3: bets $24
+teunuss: calls $24
+*** TURN *** [3h 9c 3d] [2c]
+ilir3: checks 
+teunuss: bets $60
+ilir3: folds 
+Uncalled bet ($60) returned to teunuss
+teunuss collected $84.20 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $87 | Rake $2.80 
+Board [3h 9c 3d 2c]
+Seat 2: ilir3 folded on the Turn
+Seat 3: neomorf folded before Flop (didn't bet)
+Seat 4: teunuss (button) collected ($84.20)
+Seat 5: DeluxeSamy (small blind) folded before Flop
+Seat 6: Nahar (big blind) folded before Flop
+
+
+PokerStars Game #102614173193:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:25:42 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($766.50 in chips) 
+Seat 5: borntotilt ($600 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: raises $36 to $48
+teunuss: folds 
+Uncalled bet ($36) returned to borntotilt
+borntotilt collected $24 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: teunuss (button) (small blind) folded before Flop
+Seat 5: borntotilt (big blind) collected ($24)
+
+
+PokerStars Game #102614184519:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:25:56 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($754.50 in chips) 
+Seat 5: borntotilt ($612 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [Ad 8c 8s]
+teunuss: checks 
+borntotilt: bets $20
+teunuss: folds 
+Uncalled bet ($20) returned to borntotilt
+borntotilt collected $23.50 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Ad 8c 8s]
+Seat 2: teunuss (big blind) folded on the Flop
+Seat 5: borntotilt (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102614209207:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:26:28 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($742.50 in chips) 
+Seat 5: borntotilt ($623.50 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: raises $36 to $48
+teunuss: calls $36
+*** FLOP *** [Kc Ac 3h]
+borntotilt: bets $56
+teunuss: calls $56
+*** TURN *** [Kc Ac 3h] [2c]
+borntotilt: checks 
+teunuss: checks 
+*** RIVER *** [Kc Ac 3h 2c] [Qs]
+borntotilt: checks 
+teunuss: checks 
+*** SHOW DOWN ***
+borntotilt: shows [2s Ts] (a pair of Deuces)
+teunuss: shows [Kd 6d] (a pair of Kings)
+teunuss collected $207.50 from pot
+*** SUMMARY ***
+Total pot $208 | Rake $0.50 
+Board [Kc Ac 3h 2c Qs]
+Seat 2: teunuss (button) (small blind) showed [Kd 6d] and won ($207.50) with a pair of Kings
+Seat 5: borntotilt (big blind) showed [2s Ts] and lost with a pair of Deuces
+
+
+PokerStars Game #102614269099:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:27:45 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($846 in chips) 
+Seat 5: borntotilt ($600 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $12 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (big blind) folded before Flop
+Seat 5: borntotilt (button) (small blind) collected ($12)
+
+
+PokerStars Game #102614275983:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:27:54 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($840 in chips) 
+Seat 5: borntotilt ($606 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: calls $6
+*** FLOP *** [2s Th Ks]
+borntotilt: checks 
+teunuss: bets $15
+borntotilt: calls $15
+*** TURN *** [2s Th Ks] [4c]
+borntotilt: checks 
+teunuss: bets $39
+borntotilt: calls $39
+*** RIVER *** [2s Th Ks 4c] [5c]
+borntotilt: checks 
+teunuss: checks 
+*** SHOW DOWN ***
+borntotilt: shows [3c Kd] (a pair of Kings)
+teunuss: mucks hand 
+borntotilt collected $131.50 from pot
+*** SUMMARY ***
+Total pot $132 | Rake $0.50 
+Board [2s Th Ks 4c 5c]
+Seat 2: teunuss (button) (small blind) mucked
+Seat 5: borntotilt (big blind) showed [3c Kd] and won ($131.50) with a pair of Kings
+
+
+PokerStars Game #102614314821:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:28:43 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($774 in chips) 
+Seat 5: borntotilt ($671.50 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $12 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (big blind) folded before Flop
+Seat 5: borntotilt (button) (small blind) collected ($12)
+
+
+PokerStars Game #102614319204:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:28:49 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($768 in chips) 
+Seat 5: borntotilt ($677.50 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: folds 
+Uncalled bet ($6) returned to teunuss
+teunuss collected $12 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (button) (small blind) collected ($12)
+Seat 5: borntotilt (big blind) folded before Flop
+
+
+PokerStars Game #102614324313:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:28:56 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($774 in chips) 
+Seat 5: borntotilt ($671.50 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [Tc 7h 7s]
+teunuss: checks 
+borntotilt: bets $18
+teunuss: folds 
+Uncalled bet ($18) returned to borntotilt
+borntotilt collected $23.50 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Tc 7h 7s]
+Seat 2: teunuss (big blind) folded on the Flop
+Seat 5: borntotilt (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102614338906:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:29:15 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($762 in chips) 
+Seat 5: borntotilt ($683 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: raises $36 to $48
+teunuss: folds 
+Uncalled bet ($36) returned to borntotilt
+borntotilt collected $24 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: teunuss (button) (small blind) folded before Flop
+Seat 5: borntotilt (big blind) collected ($24)
+
+
+PokerStars Game #102614355279:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:29:36 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($750 in chips) 
+Seat 5: borntotilt ($695 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [8h 3d 3c]
+teunuss: checks 
+borntotilt: bets $18
+teunuss: calls $18
+*** TURN *** [8h 3d 3c] [6s]
+teunuss: checks 
+borntotilt: bets $48
+teunuss: calls $48
+*** RIVER *** [8h 3d 3c 6s] [Ts]
+teunuss: checks 
+borntotilt: bets $132
+teunuss: calls $132
+*** SHOW DOWN ***
+borntotilt: shows [Jd 8s] (two pair, Eights and Threes)
+teunuss: mucks hand 
+borntotilt collected $419.50 from pot
+*** SUMMARY ***
+Total pot $420 | Rake $0.50 
+Board [8h 3d 3c 6s Ts]
+Seat 2: teunuss (big blind) mucked
+Seat 5: borntotilt (button) (small blind) showed [Jd 8s] and won ($419.50) with two pair, Eights and Threes
+
+
+PokerStars Game #102613907130:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:20:02 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($620.50 in chips) 
+Seat 5: borntotilt ($600 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: folds 
+Uncalled bet ($6) returned to teunuss
+teunuss collected $12 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (button) (small blind) collected ($12)
+Seat 5: borntotilt (big blind) folded before Flop
+
+
+PokerStars Game #102613912187:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:20:09 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($626.50 in chips) 
+Seat 5: borntotilt ($600 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $12 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (big blind) folded before Flop
+Seat 5: borntotilt (button) (small blind) collected ($12)
+
+
+PokerStars Game #102613916457:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:20:15 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($620.50 in chips) 
+Seat 5: borntotilt ($606 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Uncalled bet ($3) returned to borntotilt
+borntotilt collected $6 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: teunuss (button) (small blind) folded before Flop
+Seat 5: borntotilt (big blind) collected ($6)
+
+
+PokerStars Game #102613923128:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:20:23 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($617.50 in chips) 
+Seat 5: borntotilt ($609 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $12 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (big blind) folded before Flop
+Seat 5: borntotilt (button) (small blind) collected ($12)
+
+
+PokerStars Game #102613928084:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:20:29 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($611.50 in chips) 
+Seat 5: borntotilt ($615 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: folds 
+Uncalled bet ($6) returned to teunuss
+teunuss collected $12 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (button) (small blind) collected ($12)
+Seat 5: borntotilt (big blind) folded before Flop
+
+
+PokerStars Game #102613936344:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:20:40 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($617.50 in chips) 
+Seat 5: borntotilt ($609 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $12 from pot
+maloyd leaves the table
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (big blind) folded before Flop
+Seat 5: borntotilt (button) (small blind) collected ($12)
+
+
+PokerStars Game #102613941896:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:20:47 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($611.50 in chips) 
+Seat 5: borntotilt ($615 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Uncalled bet ($3) returned to borntotilt
+borntotilt collected $6 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: teunuss (button) (small blind) folded before Flop
+Seat 5: borntotilt (big blind) collected ($6)
+
+
+PokerStars Game #102613947450:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:20:54 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($608.50 in chips) 
+Seat 5: borntotilt ($618 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $12 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (big blind) folded before Flop
+Seat 5: borntotilt (button) (small blind) collected ($12)
+
+
+PokerStars Game #102613958861:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:21:08 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($602.50 in chips) 
+Seat 5: borntotilt ($624 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: raises $36 to $48
+teunuss: folds 
+Uncalled bet ($36) returned to borntotilt
+borntotilt collected $24 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: teunuss (button) (small blind) folded before Flop
+Seat 5: borntotilt (big blind) collected ($24)
+
+
+PokerStars Game #102613969158:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:21:21 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($600 in chips) 
+Seat 5: borntotilt ($636 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $12 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (big blind) folded before Flop
+Seat 5: borntotilt (button) (small blind) collected ($12)
+
+
+PokerStars Game #102613974638:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:21:28 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($600 in chips) 
+Seat 5: borntotilt ($642 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: raises $36 to $48
+teunuss: calls $36
+*** FLOP *** [Kd Th 4d]
+borntotilt: checks 
+teunuss: checks 
+*** TURN *** [Kd Th 4d] [Kc]
+borntotilt: checks 
+teunuss: checks 
+*** RIVER *** [Kd Th 4d Kc] [6h]
+borntotilt: checks 
+teunuss: bets $60
+borntotilt: calls $60
+*** SHOW DOWN ***
+teunuss: shows [7c 7d] (two pair, Kings and Sevens)
+borntotilt: mucks hand 
+teunuss collected $215.50 from pot
+*** SUMMARY ***
+Total pot $216 | Rake $0.50 
+Board [Kd Th 4d Kc 6h]
+Seat 2: teunuss (button) (small blind) showed [7c 7d] and won ($215.50) with two pair, Kings and Sevens
+Seat 5: borntotilt (big blind) mucked
+
+
+PokerStars Game #102614039861:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:22:52 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($707.50 in chips) 
+Seat 5: borntotilt ($600 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $12 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (big blind) folded before Flop
+Seat 5: borntotilt (button) (small blind) collected ($12)
+
+
+PokerStars Game #102614047377:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:23:01 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($701.50 in chips) 
+Seat 5: borntotilt ($606 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: calls $6
+*** FLOP *** [6s 3d Ad]
+borntotilt: checks 
+teunuss: bets $15
+borntotilt: folds 
+Uncalled bet ($15) returned to teunuss
+teunuss collected $23.50 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [6s 3d Ad]
+Seat 2: teunuss (button) (small blind) collected ($23.50)
+Seat 5: borntotilt (big blind) folded on the Flop
+
+
+PokerStars Game #102614056429:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:23:13 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($713 in chips) 
+Seat 5: borntotilt ($600 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: raises $33 to $45
+borntotilt: folds 
+Uncalled bet ($33) returned to teunuss
+teunuss collected $24 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: teunuss (big blind) collected ($24)
+Seat 5: borntotilt (button) (small blind) folded before Flop
+
+
+PokerStars Game #102614066300:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:23:25 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($725 in chips) 
+Seat 5: borntotilt ($600 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: calls $6
+*** FLOP *** [4c Js 9h]
+borntotilt: checks 
+teunuss: bets $15
+borntotilt: calls $15
+*** TURN *** [4c Js 9h] [As]
+borntotilt: checks 
+teunuss: checks 
+*** RIVER *** [4c Js 9h As] [Qs]
+borntotilt: checks 
+teunuss: checks 
+*** SHOW DOWN ***
+borntotilt: shows [Ks 9d] (a pair of Nines)
+teunuss: mucks hand 
+borntotilt collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50 
+Board [4c Js 9h As Qs]
+Seat 2: teunuss (button) (small blind) mucked
+Seat 5: borntotilt (big blind) showed [Ks 9d] and won ($53.50) with a pair of Nines
+
+
+PokerStars Game #102614094258:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:24:00 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($698 in chips) 
+Seat 5: borntotilt ($626.50 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: folds 
+Uncalled bet ($3) returned to teunuss
+teunuss collected $6 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: teunuss (big blind) collected ($6)
+Seat 5: borntotilt (button) (small blind) folded before Flop
+
+
+PokerStars Game #102614100161:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:24:08 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($701 in chips) 
+Seat 5: borntotilt ($623.50 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: calls $6
+*** FLOP *** [8c Ts 3c]
+borntotilt: checks 
+teunuss: checks 
+*** TURN *** [8c Ts 3c] [Td]
+borntotilt: bets $20
+teunuss: folds 
+Uncalled bet ($20) returned to borntotilt
+borntotilt collected $23.50 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [8c Ts 3c Td]
+Seat 2: teunuss (button) (small blind) folded on the Turn
+Seat 5: borntotilt (big blind) collected ($23.50)
+
+
+PokerStars Game #102614127263:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:24:42 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($689 in chips) 
+Seat 5: borntotilt ($635 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [4s 9s 7s]
+teunuss: checks 
+borntotilt: bets $18
+teunuss: calls $18
+*** TURN *** [4s 9s 7s] [6c]
+teunuss: checks 
+borntotilt: bets $48
+teunuss: raises $111 to $159
+borntotilt: folds 
+Uncalled bet ($111) returned to teunuss
+teunuss collected $155.50 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $156 | Rake $0.50 
+Board [4s 9s 7s 6c]
+Seat 2: teunuss (big blind) collected ($155.50)
+Seat 5: borntotilt (button) (small blind) folded on the Turn
+
+
+PokerStars Game #102613674700:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:15:12 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: BKA12 ($600 in chips) 
+Seat 2: teunuss ($600 in chips) 
+Seat 5: borntotilt ($680 in chips) 
+Seat 6: floriiiiider ($613.78 in chips) 
+floriiiiider: posts small blind $3
+BKA12: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+borntotilt: raises $6 to $12
+floriiiiider: folds 
+BKA12: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $15 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: BKA12 (big blind) folded before Flop
+Seat 2: teunuss folded before Flop (didn't bet)
+Seat 5: borntotilt (button) collected ($15)
+Seat 6: floriiiiider (small blind) folded before Flop
+
+
+PokerStars Game #102613690929:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:15:32 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: BKA12 ($600 in chips) 
+Seat 2: teunuss ($600 in chips) 
+Seat 5: borntotilt ($689 in chips) 
+Seat 6: floriiiiider ($610.78 in chips) 
+BKA12: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+Hristo008 leaves the table
+borntotilt: raises $12 to $18
+floriiiiider: folds 
+maloyd joins the table at seat #4 
+BKA12: folds 
+teunuss: calls $12
+*** FLOP *** [2c Jc As]
+teunuss: checks 
+borntotilt: bets $32
+teunuss: folds 
+Uncalled bet ($32) returned to borntotilt
+borntotilt collected $37.50 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $1.50 
+Board [2c Jc As]
+Seat 1: BKA12 (small blind) folded before Flop
+Seat 2: teunuss (big blind) folded on the Flop
+Seat 5: borntotilt collected ($37.50)
+Seat 6: floriiiiider (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102613738327:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:16:31 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: BKA12 ($600 in chips) 
+Seat 2: teunuss ($600 in chips) 
+Seat 5: borntotilt ($708.50 in chips) 
+Seat 6: floriiiiider ($610.78 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider: folds 
+BKA12: raises $6 to $12
+teunuss: folds 
+TTSIP leaves the table
+borntotilt: raises $36 to $48
+BKA12: calls $36
+*** FLOP *** [3s 6s 2h]
+borntotilt: bets $56
+BKA12: calls $56
+*** TURN *** [3s 6s 2h] [5c]
+borntotilt: checks 
+BKA12: bets $129
+borntotilt: calls $129
+*** RIVER *** [3s 6s 2h 5c] [Jc]
+borntotilt: checks 
+BKA12: bets $367 and is all-in
+borntotilt: calls $367
+*** SHOW DOWN ***
+BKA12: shows [4s 4d] (a straight, Deuce to Six)
+borntotilt: shows [6c 3c] (two pair, Sixes and Threes)
+BKA12 collected $1201.50 from pot
+*** SUMMARY ***
+Total pot $1203 | Rake $1.50 
+Board [3s 6s 2h 5c Jc]
+Seat 1: BKA12 (button) showed [4s 4d] and won ($1201.50) with a straight, Deuce to Six
+Seat 2: teunuss (small blind) folded before Flop
+Seat 5: borntotilt (big blind) showed [6c 3c] and lost with two pair, Sixes and Threes
+Seat 6: floriiiiider folded before Flop (didn't bet)
+
+
+PokerStars Game #102613845839:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:18:45 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($600 in chips) 
+Seat 5: borntotilt ($600 in chips) 
+borntotilt: posts small blind $3
+floriiiiider: is sitting out 
+BKA12: is sitting out 
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: folds 
+Uncalled bet ($3) returned to teunuss
+BKA12 leaves the table
+teunuss collected $6 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: teunuss (big blind) collected ($6)
+Seat 5: borntotilt (button) (small blind) folded before Flop
+
+
+PokerStars Game #102613851702:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:18:53 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($603 in chips) 
+Seat 5: borntotilt ($600 in chips) 
+teunuss: posts small blind $3
+BigGOGl joins the table at seat #1 
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+BigGOGl leaves the table
+floriiiiider leaves the table
+teunuss: raises $6 to $12
+borntotilt: folds 
+Uncalled bet ($6) returned to teunuss
+teunuss collected $12 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (button) (small blind) collected ($12)
+Seat 5: borntotilt (big blind) folded before Flop
+
+
+PokerStars Game #102613866253:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:19:11 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($609 in chips) 
+Seat 5: borntotilt ($600 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [Jd Tc 8d]
+teunuss: checks 
+borntotilt: checks 
+*** TURN *** [Jd Tc 8d] [7d]
+teunuss: checks 
+borntotilt: checks 
+*** RIVER *** [Jd Tc 8d 7d] [5s]
+teunuss: bets $18
+borntotilt: folds 
+Uncalled bet ($18) returned to teunuss
+teunuss collected $23.50 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Jd Tc 8d 7d 5s]
+Seat 2: teunuss (big blind) collected ($23.50)
+Seat 5: borntotilt (button) (small blind) folded on the River
+
+
+PokerStars Game #102613499601:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:11:29 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: DeluxeSamy ($1793.59 in chips) 
+Seat 2: teunuss ($631.32 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 5: borntotilt ($617.50 in chips) 
+Seat 6: LiveTogether ($240 in chips) 
+LiveTogether: posts small blind $3
+DeluxeSamy: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+TTSIP: folds 
+KrisBj leaves the table
+borntotilt: folds 
+LiveTogether: folds 
+Uncalled bet ($3) returned to DeluxeSamy
+DeluxeSamy collected $6 from pot
+DeluxeSamy: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: DeluxeSamy (big blind) collected ($6)
+Seat 2: teunuss folded before Flop (didn't bet)
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 5: borntotilt (button) folded before Flop (didn't bet)
+Seat 6: LiveTogether (small blind) folded before Flop
+
+
+PokerStars Game #102613517433:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:11:52 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: DeluxeSamy ($1796.59 in chips) 
+Seat 2: teunuss ($631.32 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 5: borntotilt ($617.50 in chips) 
+Seat 6: LiveTogether ($240 in chips) 
+DeluxeSamy: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: folds 
+borntotilt: folds 
+LiveTogether: folds 
+DeluxeSamy: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [9h 2h Kd]
+TTSIP leaves the table
+BKA12 joins the table at seat #3 
+BKA12 leaves the table
+DeluxeSamy: bets $12
+teunuss: calls $12
+*** TURN *** [9h 2h Kd] [7d]
+DeluxeSamy: checks 
+teunuss: bets $33
+DeluxeSamy: raises $63 to $96
+teunuss: folds 
+Uncalled bet ($63) returned to DeluxeSamy
+DeluxeSamy collected $111.20 from pot
+DeluxeSamy: doesn't show hand 
+*** SUMMARY ***
+Total pot $114 | Rake $2.80 
+Board [9h 2h Kd 7d]
+Seat 1: DeluxeSamy (small blind) collected ($111.20)
+Seat 2: teunuss (big blind) folded on the Turn
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 5: borntotilt folded before Flop (didn't bet)
+Seat 6: LiveTogether (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102613585008:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:13:19 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: DeluxeSamy ($1850.79 in chips) 
+Seat 2: teunuss ($600 in chips) 
+Seat 5: borntotilt ($617.50 in chips) 
+Seat 6: LiveTogether ($240 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+LiveTogether: folds 
+LiveTogether leaves the table
+DeluxeSamy: folds 
+DeluxeSamy leaves the table
+teunuss: folds 
+Uncalled bet ($3) returned to borntotilt
+borntotilt collected $6 from pot
+maloyd joins the table at seat #1 
+borntotilt: doesn't show hand 
+maloyd leaves the table
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: DeluxeSamy (button) folded before Flop (didn't bet)
+Seat 2: teunuss (small blind) folded before Flop
+Seat 5: borntotilt (big blind) collected ($6)
+Seat 6: LiveTogether folded before Flop (didn't bet)
+
+
+PokerStars Game #102613647696:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:14:38 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($600 in chips) 
+Seat 5: borntotilt ($683 in chips) 
+Seat 6: floriiiiider ($600 in chips) 
+borntotilt: posts small blind $3
+floriiiiider: posts big blind $6
+BKA12: sits out 
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: folds 
+floriiiiider: calls $6
+*** FLOP *** [2d 8h 2h]
+floriiiiider: checks 
+teunuss: checks 
+*** TURN *** [2d 8h 2h] [6d]
+floriiiiider: bets $18
+teunuss: folds 
+Uncalled bet ($18) returned to floriiiiider
+floriiiiider collected $25.78 from pot
+floriiiiider: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [2d 8h 2h 6d]
+Seat 2: teunuss (button) folded on the Turn
+Seat 5: borntotilt (small blind) folded before Flop
+Seat 6: floriiiiider (big blind) collected ($25.78)
+
+
+PokerStars Game #102613593310:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:13:29 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($600 in chips) 
+Seat 5: borntotilt ($620.50 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+Hristo008 joins the table at seat #4 
+borntotilt: folds 
+Uncalled bet ($3) returned to teunuss
+teunuss collected $6 from pot
+teunuss: doesn't show hand 
+floriiiiider joins the table at seat #6 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: teunuss (big blind) collected ($6)
+Seat 5: borntotilt (button) (small blind) folded before Flop
+
+
+PokerStars Game #102613604599:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:13:44 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($603 in chips) 
+Seat 5: borntotilt ($617.50 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: calls $6
+*** FLOP *** [Jd Ad 7d]
+borntotilt: checks 
+BKA12 joins the table at seat #1 
+teunuss: bets $15
+borntotilt: calls $15
+*** TURN *** [Jd Ad 7d] [3h]
+borntotilt: checks 
+teunuss: bets $39
+TTSIP joins the table at seat #3 
+borntotilt: raises $99 to $138
+teunuss: folds 
+Uncalled bet ($99) returned to borntotilt
+borntotilt collected $131.50 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $132 | Rake $0.50 
+Board [Jd Ad 7d 3h]
+Seat 2: teunuss (button) (small blind) folded on the Turn
+Seat 5: borntotilt (big blind) collected ($131.50)
+
+
+PokerStars Game #102615144632:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:45:25 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($639 in chips) 
+Seat 5: borntotilt ($886 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: raises $36 to $48
+teunuss: folds 
+Uncalled bet ($36) returned to borntotilt
+borntotilt collected $24 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: teunuss (button) (small blind) folded before Flop
+Seat 5: borntotilt (big blind) collected ($24)
+
+
+PokerStars Game #102615155091:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:45:38 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($627 in chips) 
+Seat 5: borntotilt ($898 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [Td Tc 3s]
+teunuss: checks 
+borntotilt: bets $18
+teunuss: folds 
+Uncalled bet ($18) returned to borntotilt
+borntotilt collected $23.50 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Td Tc 3s]
+Seat 2: teunuss (big blind) folded on the Flop
+Seat 5: borntotilt (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102615171563:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:45:58 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($615 in chips) 
+Seat 5: borntotilt ($909.50 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Uncalled bet ($3) returned to borntotilt
+borntotilt collected $6 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: teunuss (button) (small blind) folded before Flop
+Seat 5: borntotilt (big blind) collected ($6)
+
+
+PokerStars Game #102615175074:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:46:02 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($612 in chips) 
+Seat 5: borntotilt ($912.50 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: folds 
+Uncalled bet ($3) returned to teunuss
+teunuss collected $6 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: teunuss (big blind) collected ($6)
+Seat 5: borntotilt (button) (small blind) folded before Flop
+
+
+PokerStars Game #102615184480:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:46:13 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($615 in chips) 
+Seat 5: borntotilt ($909.50 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: raises $36 to $48
+teunuss: calls $36
+*** FLOP *** [5c Qs 5d]
+borntotilt: bets $54
+teunuss: folds 
+Uncalled bet ($54) returned to borntotilt
+borntotilt collected $95.50 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $96 | Rake $0.50 
+Board [5c Qs 5d]
+Seat 2: teunuss (button) (small blind) folded on the Flop
+Seat 5: borntotilt (big blind) collected ($95.50)
+
+
+PokerStars Game #102615203410:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:46:35 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($600 in chips) 
+Seat 5: borntotilt ($957 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: folds 
+Uncalled bet ($3) returned to teunuss
+teunuss collected $6 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: teunuss (big blind) collected ($6)
+Seat 5: borntotilt (button) (small blind) folded before Flop
+
+
+PokerStars Game #102615209448:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:46:43 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($603 in chips) 
+Seat 5: borntotilt ($954 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: raises $36 to $48
+teunuss: folds 
+Uncalled bet ($36) returned to borntotilt
+borntotilt collected $24 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: teunuss (button) (small blind) folded before Flop
+Seat 5: borntotilt (big blind) collected ($24)
+
+
+PokerStars Game #102615224412:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:47:01 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($600 in chips) 
+Seat 5: borntotilt ($966 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $12 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (big blind) folded before Flop
+Seat 5: borntotilt (button) (small blind) collected ($12)
+
+
+PokerStars Game #102615236281:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:47:15 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($600 in chips) 
+Seat 5: borntotilt ($972 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: folds 
+Uncalled bet ($6) returned to teunuss
+teunuss collected $12 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (button) (small blind) collected ($12)
+Seat 5: borntotilt (big blind) folded before Flop
+
+
+PokerStars Game #102615242230:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:47:22 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($606 in chips) 
+Seat 5: borntotilt ($966 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [3c 9d 4h]
+teunuss: checks 
+borntotilt: bets $18
+teunuss: calls $18
+*** TURN *** [3c 9d 4h] [7c]
+teunuss: checks 
+borntotilt: bets $48
+teunuss: calls $48
+*** RIVER *** [3c 9d 4h 7c] [6d]
+teunuss: checks 
+borntotilt: bets $144
+teunuss: calls $144
+*** SHOW DOWN ***
+borntotilt: shows [5s Jc] (a straight, Three to Seven)
+teunuss: shows [5h 5c] (a straight, Three to Seven)
+teunuss collected $221.75 from pot
+borntotilt collected $221.75 from pot
+*** SUMMARY ***
+Total pot $444 | Rake $0.50 
+Board [3c 9d 4h 7c 6d]
+Seat 2: teunuss (big blind) showed [5h 5c] and won ($221.75) with a straight, Three to Seven
+Seat 5: borntotilt (button) (small blind) showed [5s Jc] and won ($221.75) with a straight, Three to Seven
+
+
+PokerStars Game #102615293736:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:48:24 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($605.75 in chips) 
+Seat 5: borntotilt ($965.75 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: raises $36 to $48
+teunuss: folds 
+Uncalled bet ($36) returned to borntotilt
+borntotilt collected $24 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: teunuss (button) (small blind) folded before Flop
+Seat 5: borntotilt (big blind) collected ($24)
+
+
+PokerStars Game #102615310379:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:48:44 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($600 in chips) 
+Seat 5: borntotilt ($977.75 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $12 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (big blind) folded before Flop
+Seat 5: borntotilt (button) (small blind) collected ($12)
+
+
+PokerStars Game #102615316982:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:48:52 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($600 in chips) 
+Seat 5: borntotilt ($983.75 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: calls $6
+*** FLOP *** [3s 4h 2s]
+borntotilt: checks 
+teunuss: bets $15
+borntotilt: folds 
+Uncalled bet ($15) returned to teunuss
+teunuss collected $23.50 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [3s 4h 2s]
+Seat 2: teunuss (button) (small blind) collected ($23.50)
+Seat 5: borntotilt (big blind) folded on the Flop
+
+
+PokerStars Game #102614887295:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:40:14 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($655 in chips) 
+Seat 5: borntotilt ($873 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: calls $6
+*** FLOP *** [6d 8s Qs]
+borntotilt: checks 
+teunuss: checks 
+*** TURN *** [6d 8s Qs] [2s]
+borntotilt: bets $20
+teunuss: folds 
+Uncalled bet ($20) returned to borntotilt
+borntotilt collected $23.50 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [6d 8s Qs 2s]
+Seat 2: teunuss (button) (small blind) folded on the Turn
+Seat 5: borntotilt (big blind) collected ($23.50)
+
+
+PokerStars Game #102614906113:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:40:37 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($643 in chips) 
+Seat 5: borntotilt ($884.50 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $12 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (big blind) folded before Flop
+Seat 5: borntotilt (button) (small blind) collected ($12)
+
+
+PokerStars Game #102614922690:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:40:57 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($637 in chips) 
+Seat 5: borntotilt ($890.50 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: raises $36 to $48
+teunuss: calls $36
+*** FLOP *** [7h Jh 5c]
+borntotilt: checks 
+teunuss: bets $54
+borntotilt: calls $54
+*** TURN *** [7h Jh 5c] [7c]
+borntotilt: checks 
+teunuss: bets $120
+borntotilt: folds 
+Uncalled bet ($120) returned to teunuss
+teunuss collected $203.50 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $204 | Rake $0.50 
+Board [7h Jh 5c 7c]
+Seat 2: teunuss (button) (small blind) collected ($203.50)
+Seat 5: borntotilt (big blind) folded on the Turn
+
+
+PokerStars Game #102614973758:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:41:58 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($738.50 in chips) 
+Seat 5: borntotilt ($788.50 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [5s 2h 7s]
+teunuss: checks 
+borntotilt: bets $18
+teunuss: folds 
+Uncalled bet ($18) returned to borntotilt
+borntotilt collected $23.50 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [5s 2h 7s]
+Seat 2: teunuss (big blind) folded on the Flop
+Seat 5: borntotilt (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102615001056:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:42:32 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($726.50 in chips) 
+Seat 5: borntotilt ($800 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Uncalled bet ($3) returned to borntotilt
+borntotilt collected $6 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: teunuss (button) (small blind) folded before Flop
+Seat 5: borntotilt (big blind) collected ($6)
+
+
+PokerStars Game #102615009361:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:42:42 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($723.50 in chips) 
+Seat 5: borntotilt ($803 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [7h Js Kc]
+teunuss: checks 
+borntotilt: bets $18
+teunuss: calls $18
+*** TURN *** [7h Js Kc] [4d]
+teunuss: checks 
+borntotilt: checks 
+*** RIVER *** [7h Js Kc 4d] [3c]
+teunuss: checks 
+borntotilt: checks 
+*** SHOW DOWN ***
+teunuss: shows [9c Qh] (high card King)
+borntotilt: mucks hand 
+teunuss collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50 
+Board [7h Js Kc 4d 3c]
+Seat 2: teunuss (big blind) showed [9c Qh] and won ($59.50) with high card King
+Seat 5: borntotilt (button) (small blind) mucked
+
+
+PokerStars Game #102615042085:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:43:21 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($753 in chips) 
+Seat 5: borntotilt ($773 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: folds 
+Uncalled bet ($6) returned to teunuss
+teunuss collected $12 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (button) (small blind) collected ($12)
+Seat 5: borntotilt (big blind) folded before Flop
+
+
+PokerStars Game #102615060201:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:43:43 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($759 in chips) 
+Seat 5: borntotilt ($767 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [Jh 7s Tc]
+teunuss: checks 
+borntotilt: bets $6
+teunuss: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $23.50 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Jh 7s Tc]
+Seat 2: teunuss (big blind) folded on the Flop
+Seat 5: borntotilt (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102615087589:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:44:17 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($747 in chips) 
+Seat 5: borntotilt ($778.50 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: raises $36 to $48
+teunuss: folds 
+Uncalled bet ($36) returned to borntotilt
+borntotilt collected $24 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: teunuss (button) (small blind) folded before Flop
+Seat 5: borntotilt (big blind) collected ($24)
+
+
+PokerStars Game #102615094740:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:44:26 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($735 in chips) 
+Seat 5: borntotilt ($790.50 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: raises $33 to $45
+borntotilt: calls $33
+*** FLOP *** [5d 5s Qh]
+teunuss: bets $51
+borntotilt: calls $51
+*** TURN *** [5d 5s Qh] [Qd]
+teunuss: checks 
+borntotilt: bets $132
+teunuss: folds 
+Uncalled bet ($132) returned to borntotilt
+borntotilt collected $191.50 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $192 | Rake $0.50 
+Board [5d 5s Qh Qd]
+Seat 2: teunuss (big blind) folded on the Turn
+Seat 5: borntotilt (button) (small blind) collected ($191.50)
+
+
+PokerStars Game #102614633103:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:35:08 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($600 in chips) 
+Seat 5: borntotilt ($930.50 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [4s 3s 3h]
+teunuss: checks 
+borntotilt: checks 
+*** TURN *** [4s 3s 3h] [As]
+teunuss: checks 
+borntotilt: checks 
+*** RIVER *** [4s 3s 3h As] [Td]
+teunuss: checks 
+borntotilt: checks 
+*** SHOW DOWN ***
+teunuss: shows [Js 9s] (a flush, Ace high)
+borntotilt: mucks hand 
+teunuss collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [4s 3s 3h As Td]
+Seat 2: teunuss (big blind) showed [Js 9s] and won ($23.50) with a flush, Ace high
+Seat 5: borntotilt (button) (small blind) mucked
+
+
+PokerStars Game #102614660082:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:35:40 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($611.50 in chips) 
+Seat 5: borntotilt ($918.50 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: calls $6
+*** FLOP *** [3h Kc 2s]
+borntotilt: checks 
+teunuss: bets $15
+borntotilt: folds 
+Uncalled bet ($15) returned to teunuss
+teunuss collected $23.50 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [3h Kc 2s]
+Seat 2: teunuss (button) (small blind) collected ($23.50)
+Seat 5: borntotilt (big blind) folded on the Flop
+
+
+PokerStars Game #102614679164:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:36:03 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($623 in chips) 
+Seat 5: borntotilt ($906.50 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $12 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (big blind) folded before Flop
+Seat 5: borntotilt (button) (small blind) collected ($12)
+
+
+PokerStars Game #102614687003:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:36:12 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($617 in chips) 
+Seat 5: borntotilt ($912.50 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: folds 
+Uncalled bet ($6) returned to teunuss
+teunuss collected $12 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (button) (small blind) collected ($12)
+Seat 5: borntotilt (big blind) folded before Flop
+
+
+PokerStars Game #102614702003:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:36:30 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($623 in chips) 
+Seat 5: borntotilt ($906.50 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $12 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (big blind) folded before Flop
+Seat 5: borntotilt (button) (small blind) collected ($12)
+
+
+PokerStars Game #102614720482:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:36:52 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($617 in chips) 
+Seat 5: borntotilt ($912.50 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Uncalled bet ($3) returned to borntotilt
+borntotilt collected $6 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: teunuss (button) (small blind) folded before Flop
+Seat 5: borntotilt (big blind) collected ($6)
+
+
+PokerStars Game #102614729797:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:37:03 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($614 in chips) 
+Seat 5: borntotilt ($915.50 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [As Jc Qc]
+teunuss: checks 
+borntotilt: checks 
+*** TURN *** [As Jc Qc] [9d]
+teunuss: bets $15
+borntotilt: folds 
+Uncalled bet ($15) returned to teunuss
+teunuss collected $23.50 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [As Jc Qc 9d]
+Seat 2: teunuss (big blind) collected ($23.50)
+Seat 5: borntotilt (button) (small blind) folded on the Turn
+
+
+PokerStars Game #102614770034:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:37:52 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($625.50 in chips) 
+Seat 5: borntotilt ($903.50 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: folds 
+Uncalled bet ($6) returned to teunuss
+teunuss collected $12 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (button) (small blind) collected ($12)
+Seat 5: borntotilt (big blind) folded before Flop
+
+
+PokerStars Game #102614782767:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:38:07 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($631.50 in chips) 
+Seat 5: borntotilt ($897.50 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: folds 
+Uncalled bet ($3) returned to teunuss
+teunuss collected $6 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: teunuss (big blind) collected ($6)
+Seat 5: borntotilt (button) (small blind) folded before Flop
+
+
+PokerStars Game #102614794691:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:38:21 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($634.50 in chips) 
+Seat 5: borntotilt ($894.50 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: folds 
+Uncalled bet ($6) returned to teunuss
+teunuss collected $12 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (button) (small blind) collected ($12)
+Seat 5: borntotilt (big blind) folded before Flop
+
+
+PokerStars Game #102614803826:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:38:32 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($640.50 in chips) 
+Seat 5: borntotilt ($888.50 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [3d Qd 7h]
+teunuss: checks 
+borntotilt: bets $18
+teunuss: folds 
+Uncalled bet ($18) returned to borntotilt
+borntotilt collected $23.50 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [3d Qd 7h]
+Seat 2: teunuss (big blind) folded on the Flop
+Seat 5: borntotilt (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102614833688:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:39:09 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($628.50 in chips) 
+Seat 5: borntotilt ($900 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Uncalled bet ($3) returned to borntotilt
+borntotilt collected $6 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: teunuss (button) (small blind) folded before Flop
+Seat 5: borntotilt (big blind) collected ($6)
+
+
+PokerStars Game #102614841263:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:39:18 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($625.50 in chips) 
+Seat 5: borntotilt ($903 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [5s 9d 7d]
+teunuss: checks 
+borntotilt: bets $18
+teunuss: raises $42 to $60
+borntotilt: folds 
+Uncalled bet ($42) returned to teunuss
+teunuss collected $59.50 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $60 | Rake $0.50 
+Board [5s 9d 7d]
+Seat 2: teunuss (big blind) collected ($59.50)
+Seat 5: borntotilt (button) (small blind) folded on the Flop
+
+
+PokerStars Game #102614413268:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:30:45 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($600 in chips) 
+Seat 5: borntotilt ($904.50 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Uncalled bet ($3) returned to borntotilt
+borntotilt collected $6 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: teunuss (button) (small blind) folded before Flop
+Seat 5: borntotilt (big blind) collected ($6)
+
+
+PokerStars Game #102614419906:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:30:53 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($600 in chips) 
+Seat 5: borntotilt ($907.50 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $12 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: teunuss (big blind) folded before Flop
+Seat 5: borntotilt (button) (small blind) collected ($12)
+
+
+PokerStars Game #102614429141:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:31:05 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($600 in chips) 
+Seat 5: borntotilt ($913.50 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Uncalled bet ($3) returned to borntotilt
+borntotilt collected $6 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: teunuss (button) (small blind) folded before Flop
+Seat 5: borntotilt (big blind) collected ($6)
+
+
+PokerStars Game #102614434143:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:31:11 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($600 in chips) 
+Seat 5: borntotilt ($916.50 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [8s Ad 2h]
+teunuss: checks 
+borntotilt: bets $18
+teunuss: folds 
+Uncalled bet ($18) returned to borntotilt
+borntotilt collected $23.50 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [8s Ad 2h]
+Seat 2: teunuss (big blind) folded on the Flop
+Seat 5: borntotilt (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102614477232:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:32:02 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($600 in chips) 
+Seat 5: borntotilt ($928 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Uncalled bet ($3) returned to borntotilt
+borntotilt collected $6 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: teunuss (button) (small blind) folded before Flop
+Seat 5: borntotilt (big blind) collected ($6)
+
+
+PokerStars Game #102614482689:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:32:09 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($600 in chips) 
+Seat 5: borntotilt ($931 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [6s 5d Jh]
+teunuss: checks 
+borntotilt: checks 
+*** TURN *** [6s 5d Jh] [Tc]
+teunuss: checks 
+borntotilt: checks 
+*** RIVER *** [6s 5d Jh Tc] [Ac]
+teunuss: checks 
+borntotilt: checks 
+*** SHOW DOWN ***
+teunuss: shows [4d Ah] (a pair of Aces)
+borntotilt: mucks hand 
+teunuss collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [6s 5d Jh Tc Ac]
+Seat 2: teunuss (big blind) showed [4d Ah] and won ($23.50) with a pair of Aces
+Seat 5: borntotilt (button) (small blind) mucked
+
+
+PokerStars Game #102614533945:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:33:09 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($611.50 in chips) 
+Seat 5: borntotilt ($919 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: calls $6
+*** FLOP *** [Kc Ah 9c]
+borntotilt: checks 
+teunuss: checks 
+*** TURN *** [Kc Ah 9c] [5s]
+borntotilt: checks 
+teunuss: checks 
+*** RIVER *** [Kc Ah 9c 5s] [9d]
+borntotilt: checks 
+teunuss: checks 
+*** SHOW DOWN ***
+borntotilt: shows [Qh 3h] (a pair of Nines)
+teunuss: shows [Jd 5d] (two pair, Nines and Fives)
+teunuss collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Kc Ah 9c 5s 9d]
+Seat 2: teunuss (button) (small blind) showed [Jd 5d] and won ($23.50) with two pair, Nines and Fives
+Seat 5: borntotilt (big blind) showed [Qh 3h] and lost with a pair of Nines
+
+
+PokerStars Game #102614589220:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:34:15 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($623 in chips) 
+Seat 5: borntotilt ($907 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [4c 9c 8c]
+teunuss: checks 
+borntotilt: bets $18
+teunuss: folds 
+Uncalled bet ($18) returned to borntotilt
+borntotilt collected $23.50 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [4c 9c 8c]
+Seat 2: teunuss (big blind) folded on the Flop
+Seat 5: borntotilt (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102614612423:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:34:43 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($611 in chips) 
+Seat 5: borntotilt ($918.50 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Uncalled bet ($3) returned to borntotilt
+borntotilt collected $6 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: teunuss (button) (small blind) folded before Flop
+Seat 5: borntotilt (big blind) collected ($6)
+
+
+PokerStars Game #102614617143:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:34:49 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: teunuss ($608 in chips) 
+Seat 5: borntotilt ($921.50 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: folds 
+Uncalled bet ($3) returned to teunuss
+teunuss collected $6 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: teunuss (big blind) collected ($6)
+Seat 5: borntotilt (button) (small blind) folded before Flop
+
+
+PokerStars Game #102614622118:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:34:55 ET
+Table 'Arago VI 40-100 bb' 6-max Seat #2 is the button
+Seat 2: teunuss ($611 in chips) 
+Seat 5: borntotilt ($918.50 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: raises $36 to $48
+teunuss: folds 
+Uncalled bet ($36) returned to borntotilt
+borntotilt collected $24 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 2: teunuss (button) (small blind) folded before Flop
+Seat 5: borntotilt (big blind) collected ($24)

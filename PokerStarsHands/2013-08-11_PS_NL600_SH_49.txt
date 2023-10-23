@@ -1,0 +1,1436 @@
+
+
+PokerStars Game #102614179488:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:25:50 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: JMBigJoe ($933.42 in chips) 
+Seat 2: shenghu ($292.24 in chips) 
+Seat 3: LiveTogether ($240 in chips) 
+Seat 4: borntotilt ($631.50 in chips) 
+Seat 5: mojocska ($600 in chips) 
+Seat 6: teunuss ($647.47 in chips) 
+borntotilt: posts small blind $3
+mojocska: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $12 to $18
+JMBigJoe: folds 
+shenghu: calls $18
+LiveTogether: folds 
+borntotilt: folds 
+mojocska: folds 
+*** FLOP *** [Td 9h Jh]
+teunuss: checks 
+shenghu: bets $18
+teunuss: folds 
+Uncalled bet ($18) returned to shenghu
+shenghu collected $42.98 from pot
+*** SUMMARY ***
+Total pot $45 | Rake $2.02 
+Board [Td 9h Jh]
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: shenghu collected ($42.98)
+Seat 3: LiveTogether (button) folded before Flop (didn't bet)
+Seat 4: borntotilt (small blind) folded before Flop
+Seat 5: mojocska (big blind) folded before Flop
+Seat 6: teunuss folded on the Flop
+
+
+PokerStars Game #102614234973:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:27:01 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: JMBigJoe ($933.42 in chips) 
+Seat 2: shenghu ($317.22 in chips) 
+Seat 3: LiveTogether ($240 in chips) 
+Seat 4: borntotilt ($628.50 in chips) 
+Seat 5: mojocska ($600 in chips) 
+Seat 6: teunuss ($629.47 in chips) 
+mojocska: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+JMBigJoe: raises $12 to $18
+shenghu: folds 
+LiveTogether: folds 
+borntotilt: folds 
+mojocska: folds 
+teunuss: folds 
+Uncalled bet ($12) returned to JMBigJoe
+JMBigJoe collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: JMBigJoe collected ($15)
+Seat 2: shenghu folded before Flop (didn't bet)
+Seat 3: LiveTogether folded before Flop (didn't bet)
+Seat 4: borntotilt (button) folded before Flop (didn't bet)
+Seat 5: mojocska (small blind) folded before Flop
+Seat 6: teunuss (big blind) folded before Flop
+
+
+PokerStars Game #102614253036:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:27:24 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: JMBigJoe ($942.42 in chips) 
+Seat 2: shenghu ($317.22 in chips) 
+Seat 3: LiveTogether ($240 in chips) 
+Seat 4: borntotilt ($628.50 in chips) 
+Seat 5: mojocska ($600 in chips) 
+Seat 6: teunuss ($623.47 in chips) 
+teunuss: posts small blind $3
+JMBigJoe: posts big blind $6
+*** HOLE CARDS ***
+shenghu: raises $12 to $18
+LiveTogether: folds 
+borntotilt: calls $18
+mojocska: folds 
+teunuss: folds 
+JMBigJoe: folds 
+*** FLOP *** [Ad Kc 7h]
+shenghu: bets $18
+borntotilt: calls $18
+*** TURN *** [Ad Kc 7h] [6h]
+shenghu: checks 
+borntotilt: bets $40
+shenghu: calls $40
+*** RIVER *** [Ad Kc 7h 6h] [4d]
+shenghu: checks 
+borntotilt: checks 
+*** SHOW DOWN ***
+shenghu: shows [Ts Ks] (a pair of Kings)
+borntotilt: mucks hand 
+shenghu collected $158.20 from pot
+*** SUMMARY ***
+Total pot $161 | Rake $2.80 
+Board [Ad Kc 7h 6h 4d]
+Seat 1: JMBigJoe (big blind) folded before Flop
+Seat 2: shenghu showed [Ts Ks] and won ($158.20) with a pair of Kings
+Seat 3: LiveTogether folded before Flop (didn't bet)
+Seat 4: borntotilt mucked
+Seat 5: mojocska (button) folded before Flop (didn't bet)
+Seat 6: teunuss (small blind) folded before Flop
+
+
+PokerStars Game #102614321178:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:28:52 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: JMBigJoe ($936.42 in chips) 
+Seat 2: shenghu ($399.42 in chips) 
+Seat 3: LiveTogether ($240 in chips) 
+Seat 4: borntotilt ($600 in chips) 
+Seat 5: mojocska ($600 in chips) 
+Seat 6: teunuss ($620.47 in chips) 
+JMBigJoe: posts small blind $3
+shenghu: posts big blind $6
+*** HOLE CARDS ***
+LiveTogether: folds 
+borntotilt: folds 
+LiveTogether leaves the table
+TTSIP joins the table at seat #3 
+mojocska: folds 
+teunuss: raises $6 to $12
+JMBigJoe: folds 
+shenghu: calls $6
+*** FLOP *** [8h 9c Th]
+shenghu: bets $12
+teunuss: calls $12
+*** TURN *** [8h 9c Th] [6d]
+shenghu: checks 
+teunuss: checks 
+*** RIVER *** [8h 9c Th 6d] [9d]
+shenghu: bets $18
+teunuss: folds 
+Uncalled bet ($18) returned to shenghu
+shenghu collected $48.70 from pot
+*** SUMMARY ***
+Total pot $51 | Rake $2.30 
+Board [8h 9c Th 6d 9d]
+Seat 1: JMBigJoe (small blind) folded before Flop
+Seat 2: shenghu (big blind) collected ($48.70)
+Seat 3: LiveTogether folded before Flop (didn't bet)
+Seat 4: borntotilt folded before Flop (didn't bet)
+Seat 5: mojocska folded before Flop (didn't bet)
+Seat 6: teunuss (button) folded on the River
+
+
+PokerStars Game #102614370023:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:29:52 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: JMBigJoe ($933.42 in chips) 
+Seat 2: shenghu ($424.12 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 4: borntotilt ($600 in chips) 
+Seat 5: mojocska ($600 in chips) 
+Seat 6: teunuss ($600 in chips) 
+shenghu: posts small blind $3
+TTSIP: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: folds 
+mojocska: raises $6 to $12
+teunuss: folds 
+JMBigJoe: folds 
+shenghu: calls $9
+TTSIP: folds 
+*** FLOP *** [6h 4c 2d]
+shenghu: bets $12
+mojocska: calls $12
+*** TURN *** [6h 4c 2d] [8d]
+shenghu: checks 
+mojocska: checks 
+*** RIVER *** [6h 4c 2d 8d] [Kh]
+shenghu: checks 
+mojocska: bets $36
+shenghu: folds 
+Uncalled bet ($36) returned to mojocska
+mojocska collected $51.57 from pot
+mojocska: doesn't show hand 
+*** SUMMARY ***
+Total pot $54 | Rake $2.43 
+Board [6h 4c 2d 8d Kh]
+Seat 1: JMBigJoe (button) folded before Flop (didn't bet)
+Seat 2: shenghu (small blind) folded on the River
+Seat 3: TTSIP (big blind) folded before Flop
+Seat 4: borntotilt folded before Flop (didn't bet)
+Seat 5: mojocska collected ($51.57)
+Seat 6: teunuss folded before Flop (didn't bet)
+
+
+PokerStars Game #102613908154:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:20:04 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 4: borntotilt ($606 in chips) 
+Seat 6: teunuss ($764 in chips) 
+mojocska will be allowed to play after the button
+teunuss: posts small blind $3
+JMBigJoe: posts big blind $6
+shenghu: sits out 
+LiveTogether: sits out 
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: folds 
+JMBigJoe: calls $6
+*** FLOP *** [Th 4h 5s]
+JMBigJoe: checks 
+borntotilt: bets $18
+JMBigJoe: calls $18
+*** TURN *** [Th 4h 5s] [9s]
+JMBigJoe: checks 
+borntotilt: checks 
+*** RIVER *** [Th 4h 5s 9s] [3h]
+JMBigJoe: checks 
+borntotilt: checks 
+*** SHOW DOWN ***
+JMBigJoe: shows [Kc 4c] (a pair of Fours)
+borntotilt: shows [6c 6s] (a pair of Sixes)
+borntotilt collected $61.50 from pot
+*** SUMMARY ***
+Total pot $63 | Rake $1.50 
+Board [Th 4h 5s 9s 3h]
+Seat 1: JMBigJoe (big blind) showed [Kc 4c] and lost with a pair of Fours
+Seat 4: borntotilt (button) showed [6c 6s] and won ($61.50) with a pair of Sixes
+Seat 6: teunuss (small blind) folded before Flop
+
+
+PokerStars Game #102613985151:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:21:41 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: shenghu ($500.95 in chips) 
+Seat 4: borntotilt ($637.50 in chips) 
+Seat 6: teunuss ($761 in chips) 
+JMBigJoe: posts small blind $3
+shenghu: posts big blind $6
+LiveTogether: sits out 
+mojocska: sits out 
+*** HOLE CARDS ***
+borntotilt: folds 
+teunuss: raises $6 to $12
+JMBigJoe: folds 
+shenghu: calls $6
+*** FLOP *** [Qs Qc 3d]
+shenghu: bets $18
+teunuss: folds 
+Uncalled bet ($18) returned to shenghu
+shenghu collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Qs Qc 3d]
+Seat 1: JMBigJoe (small blind) folded before Flop
+Seat 2: shenghu (big blind) collected ($25.78)
+Seat 4: borntotilt folded before Flop (didn't bet)
+Seat 6: teunuss (button) folded on the Flop
+
+
+PokerStars Game #102614012808:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:22:17 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: JMBigJoe ($600 in chips) 
+Seat 2: shenghu ($514.73 in chips) 
+Seat 3: LiveTogether ($240 in chips) 
+Seat 4: borntotilt ($637.50 in chips) 
+Seat 6: teunuss ($749 in chips) 
+shenghu: posts small blind $3
+LiveTogether: posts big blind $6
+mojocska: sits out 
+*** HOLE CARDS ***
+borntotilt: folds 
+teunuss: raises $9 to $15
+JMBigJoe: calls $15
+shenghu: folds 
+LiveTogether: folds 
+*** FLOP *** [6c 9d Qd]
+teunuss: bets $27
+JMBigJoe: calls $27
+*** TURN *** [6c 9d Qd] [Qs]
+teunuss: checks 
+JMBigJoe: bets $59.53
+teunuss: calls $59.53
+*** RIVER *** [6c 9d Qd Qs] [Ah]
+teunuss: checks 
+JMBigJoe: bets $105
+teunuss: folds 
+Uncalled bet ($105) returned to JMBigJoe
+JMBigJoe collected $209.26 from pot
+*** SUMMARY ***
+Total pot $212.06 | Rake $2.80 
+Board [6c 9d Qd Qs Ah]
+Seat 1: JMBigJoe (button) collected ($209.26)
+Seat 2: shenghu (small blind) folded before Flop
+Seat 3: LiveTogether (big blind) folded before Flop
+Seat 4: borntotilt folded before Flop (didn't bet)
+Seat 6: teunuss folded on the River
+
+
+PokerStars Game #102614079447:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:23:42 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: JMBigJoe ($707.73 in chips) 
+Seat 2: shenghu ($511.73 in chips) 
+Seat 3: LiveTogether ($240 in chips) 
+Seat 4: borntotilt ($637.50 in chips) 
+Seat 6: teunuss ($647.47 in chips) 
+LiveTogether: posts small blind $3
+borntotilt: posts big blind $6
+mojocska: sits out 
+*** HOLE CARDS ***
+teunuss: folds 
+JMBigJoe: raises $12 to $18
+shenghu: calls $18
+LiveTogether: folds 
+borntotilt: folds 
+*** FLOP *** [4s Ah 3s]
+JMBigJoe: bets $21.49
+shenghu: calls $21.49
+*** TURN *** [4s Ah 3s] [3d]
+JMBigJoe: checks 
+shenghu: bets $72
+JMBigJoe: calls $72
+*** RIVER *** [4s Ah 3s 3d] [6h]
+JMBigJoe: checks 
+shenghu: bets $108
+JMBigJoe: calls $108
+*** SHOW DOWN ***
+shenghu: shows [5c 5s] (two pair, Fives and Threes)
+JMBigJoe: shows [Js Jc] (two pair, Jacks and Threes)
+JMBigJoe collected $445.18 from pot
+*** SUMMARY ***
+Total pot $447.98 | Rake $2.80 
+Board [4s Ah 3s 3d 6h]
+Seat 1: JMBigJoe showed [Js Jc] and won ($445.18) with two pair, Jacks and Threes
+Seat 2: shenghu (button) showed [5c 5s] and lost with two pair, Fives and Threes
+Seat 3: LiveTogether (small blind) folded before Flop
+Seat 4: borntotilt (big blind) folded before Flop
+Seat 6: teunuss folded before Flop (didn't bet)
+
+
+PokerStars Game #102613686756:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:15:27 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #6 is the button
+Seat 4: borntotilt ($600 in chips) 
+Seat 6: teunuss ($600 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: calls $6
+*** FLOP *** [3s 8d 4s]
+borntotilt: checks 
+teunuss: bets $15
+borntotilt: folds 
+Uncalled bet ($15) returned to teunuss
+teunuss collected $23.50 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [3s 8d 4s]
+Seat 4: borntotilt (big blind) folded on the Flop
+Seat 6: teunuss (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102613725899:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:16:16 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #4 is the button
+Seat 4: borntotilt ($600 in chips) 
+Seat 6: teunuss ($611.50 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $12 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 4: borntotilt (button) (small blind) collected ($12)
+Seat 6: teunuss (big blind) folded before Flop
+
+
+PokerStars Game #102613733062:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:16:24 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #6 is the button
+Seat 4: borntotilt ($606 in chips) 
+Seat 6: teunuss ($605.50 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: calls $6
+*** FLOP *** [6h 4c 4s]
+borntotilt: checks 
+teunuss: bets $15
+borntotilt: calls $15
+*** TURN *** [6h 4c 4s] [4d]
+borntotilt: checks 
+teunuss: checks 
+*** RIVER *** [6h 4c 4s 4d] [Qh]
+borntotilt: checks 
+teunuss: checks 
+*** SHOW DOWN ***
+borntotilt: shows [Ad 6s] (a full house, Fours full of Sixes)
+teunuss: mucks hand 
+borntotilt collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50 
+Board [6h 4c 4s 4d Qh]
+Seat 4: borntotilt (big blind) showed [Ad 6s] and won ($53.50) with a full house, Fours full of Sixes
+Seat 6: teunuss (button) (small blind) mucked
+
+
+PokerStars Game #102613760851:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:16:59 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #4 is the button
+Seat 4: borntotilt ($632.50 in chips) 
+Seat 6: teunuss ($600 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $12 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 4: borntotilt (button) (small blind) collected ($12)
+Seat 6: teunuss (big blind) folded before Flop
+
+
+PokerStars Game #102613766153:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:17:06 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #6 is the button
+Seat 4: borntotilt ($638.50 in chips) 
+Seat 6: teunuss ($600 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Uncalled bet ($3) returned to borntotilt
+borntotilt collected $6 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 4: borntotilt (big blind) collected ($6)
+Seat 6: teunuss (button) (small blind) folded before Flop
+
+
+PokerStars Game #102613770804:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:17:12 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #4 is the button
+Seat 4: borntotilt ($641.50 in chips) 
+Seat 6: teunuss ($600 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $12 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 4: borntotilt (button) (small blind) collected ($12)
+Seat 6: teunuss (big blind) folded before Flop
+
+
+PokerStars Game #102613777673:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:17:20 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #6 is the button
+Seat 4: borntotilt ($647.50 in chips) 
+Seat 6: teunuss ($600 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: raises $36 to $48
+teunuss: folds 
+Uncalled bet ($36) returned to borntotilt
+borntotilt collected $24 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 4: borntotilt (big blind) collected ($24)
+Seat 6: teunuss (button) (small blind) folded before Flop
+
+
+PokerStars Game #102613799970:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:17:48 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #4 is the button
+Seat 4: borntotilt ($659.50 in chips) 
+Seat 6: teunuss ($600 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: folds 
+Uncalled bet ($3) returned to teunuss
+teunuss collected $6 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 4: borntotilt (button) (small blind) folded before Flop
+Seat 6: teunuss (big blind) collected ($6)
+
+
+PokerStars Game #102613805032:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:17:54 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #6 is the button
+Seat 4: borntotilt ($656.50 in chips) 
+Seat 6: teunuss ($603 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: calls $6
+*** FLOP *** [Ks 6c 9d]
+borntotilt: checks 
+teunuss: bets $15
+borntotilt: calls $15
+*** TURN *** [Ks 6c 9d] [7s]
+borntotilt: checks 
+teunuss: bets $39
+borntotilt: calls $39
+*** RIVER *** [Ks 6c 9d 7s] [Jd]
+borntotilt: checks 
+teunuss: bets $102
+borntotilt: calls $102
+*** SHOW DOWN ***
+teunuss: shows [Js 9s] (two pair, Jacks and Nines)
+borntotilt: mucks hand 
+teunuss collected $335.50 from pot
+*** SUMMARY ***
+Total pot $336 | Rake $0.50 
+Board [Ks 6c 9d 7s Jd]
+Seat 4: borntotilt (big blind) mucked
+Seat 6: teunuss (button) (small blind) showed [Js 9s] and won ($335.50) with two pair, Jacks and Nines
+
+
+PokerStars Game #102613862079:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:19:06 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #4 is the button
+Seat 4: borntotilt ($600 in chips) 
+Seat 6: teunuss ($770.50 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $12 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 4: borntotilt (button) (small blind) collected ($12)
+Seat 6: teunuss (big blind) folded before Flop
+
+
+PokerStars Game #102613869286:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:19:15 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #6 is the button
+Seat 4: borntotilt ($606 in chips) 
+Seat 6: teunuss ($764.50 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: raises $36 to $48
+teunuss: folds 
+Uncalled bet ($36) returned to borntotilt
+borntotilt collected $24 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 4: borntotilt (big blind) collected ($24)
+Seat 6: teunuss (button) (small blind) folded before Flop
+
+
+PokerStars Game #102613879322:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:19:27 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #4 is the button
+Seat 4: borntotilt ($618 in chips) 
+Seat 6: teunuss ($752.50 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [Ac 9d Kc]
+teunuss: checks 
+shenghu joins the table at seat #2 
+borntotilt: checks 
+*** TURN *** [Ac 9d Kc] [8c]
+LiveTogether joins the table at seat #3 
+mojocska joins the table at seat #5 
+teunuss: bets $15
+JMBigJoe joins the table at seat #1 
+borntotilt: folds 
+Uncalled bet ($15) returned to teunuss
+teunuss collected $23.50 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Ac 9d Kc 8c]
+Seat 4: borntotilt (button) (small blind) folded on the Turn
+Seat 6: teunuss (big blind) collected ($23.50)
+
+
+PokerStars Game #102615123674:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:45:00 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #6 is the button
+Seat 4: borntotilt ($611.50 in chips) 
+Seat 6: teunuss ($1462.65 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Uncalled bet ($3) returned to borntotilt
+borntotilt collected $6 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 4: borntotilt (big blind) collected ($6)
+Seat 6: teunuss (button) (small blind) folded before Flop
+
+
+PokerStars Game #102615127376:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:45:05 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #4 is the button
+Seat 4: borntotilt ($614.50 in chips) 
+Seat 6: teunuss ($1459.65 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $12 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 4: borntotilt (button) (small blind) collected ($12)
+Seat 6: teunuss (big blind) folded before Flop
+
+
+PokerStars Game #102615134576:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:45:13 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #6 is the button
+Seat 4: borntotilt ($620.50 in chips) 
+Seat 6: teunuss ($1453.65 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: calls $6
+*** FLOP *** [3c Kc Js]
+borntotilt: checks 
+teunuss: bets $15
+borntotilt: calls $15
+*** TURN *** [3c Kc Js] [2c]
+borntotilt: checks 
+teunuss: checks 
+*** RIVER *** [3c Kc Js 2c] [9c]
+borntotilt: bets $46
+teunuss: folds 
+Uncalled bet ($46) returned to borntotilt
+borntotilt collected $53.50 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $54 | Rake $0.50 
+Board [3c Kc Js 2c 9c]
+Seat 4: borntotilt (big blind) collected ($53.50)
+Seat 6: teunuss (button) (small blind) folded on the River
+
+
+PokerStars Game #102615173033:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:45:59 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #4 is the button
+Seat 4: borntotilt ($647 in chips) 
+Seat 6: teunuss ($1426.65 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [4h Jh Ks]
+teunuss: checks 
+borntotilt: bets $18
+teunuss: folds 
+Uncalled bet ($18) returned to borntotilt
+borntotilt collected $23.50 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [4h Jh Ks]
+Seat 4: borntotilt (button) (small blind) collected ($23.50)
+Seat 6: teunuss (big blind) folded on the Flop
+
+
+PokerStars Game #102615186252:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:46:15 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #6 is the button
+Seat 4: borntotilt ($658.50 in chips) 
+Seat 6: teunuss ($1414.65 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: folds 
+Uncalled bet ($6) returned to teunuss
+teunuss collected $12 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 4: borntotilt (big blind) folded before Flop
+Seat 6: teunuss (button) (small blind) collected ($12)
+
+
+PokerStars Game #102615191868:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:46:22 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #4 is the button
+Seat 4: borntotilt ($652.50 in chips) 
+Seat 6: teunuss ($1420.65 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [As 3d 8s]
+teunuss: checks 
+borntotilt: checks 
+*** TURN *** [As 3d 8s] [3c]
+teunuss: checks 
+borntotilt: bets $20
+teunuss: folds 
+Uncalled bet ($20) returned to borntotilt
+borntotilt collected $23.50 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [As 3d 8s 3c]
+Seat 4: borntotilt (button) (small blind) collected ($23.50)
+Seat 6: teunuss (big blind) folded on the Turn
+
+
+PokerStars Game #102615219217:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:46:55 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #6 is the button
+Seat 4: borntotilt ($664 in chips) 
+Seat 6: teunuss ($1408.65 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Uncalled bet ($3) returned to borntotilt
+borntotilt collected $6 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 4: borntotilt (big blind) collected ($6)
+Seat 6: teunuss (button) (small blind) folded before Flop
+
+
+PokerStars Game #102615222720:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:46:59 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #4 is the button
+Seat 4: borntotilt ($667 in chips) 
+Seat 6: teunuss ($1405.65 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [As 7c 6h]
+teunuss: checks 
+borntotilt: bets $18
+teunuss: calls $18
+*** TURN *** [As 7c 6h] [Th]
+teunuss: checks 
+borntotilt: bets $48
+teunuss: calls $48
+*** RIVER *** [As 7c 6h Th] [7s]
+teunuss: checks 
+borntotilt: bets $132
+teunuss: folds 
+Uncalled bet ($132) returned to borntotilt
+borntotilt collected $155.50 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $156 | Rake $0.50 
+Board [As 7c 6h Th 7s]
+Seat 4: borntotilt (button) (small blind) collected ($155.50)
+Seat 6: teunuss (big blind) folded on the River
+
+
+PokerStars Game #102615273652:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:48:00 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #6 is the button
+Seat 4: borntotilt ($744.50 in chips) 
+Seat 6: teunuss ($1327.65 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: calls $6
+*** FLOP *** [8s As Ad]
+borntotilt: checks 
+teunuss: bets $15
+borntotilt: folds 
+Uncalled bet ($15) returned to teunuss
+teunuss collected $23.50 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [8s As Ad]
+Seat 4: borntotilt (big blind) folded on the Flop
+Seat 6: teunuss (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102615306370:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:48:39 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #4 is the button
+Seat 4: borntotilt ($732.50 in chips) 
+Seat 6: teunuss ($1339.15 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: folds 
+Uncalled bet ($3) returned to teunuss
+teunuss collected $6 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 4: borntotilt (button) (small blind) folded before Flop
+Seat 6: teunuss (big blind) collected ($6)
+
+
+PokerStars Game #102615309923:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:48:44 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #6 is the button
+Seat 4: borntotilt ($729.50 in chips) 
+Seat 6: teunuss ($1342.15 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: folds 
+Uncalled bet ($6) returned to teunuss
+teunuss collected $12 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 4: borntotilt (big blind) folded before Flop
+Seat 6: teunuss (button) (small blind) collected ($12)
+
+
+PokerStars Game #102615318223:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:48:54 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #4 is the button
+Seat 4: borntotilt ($723.50 in chips) 
+Seat 6: teunuss ($1348.15 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [Ts Ad Kh]
+teunuss: checks 
+borntotilt: checks 
+*** TURN *** [Ts Ad Kh] [8h]
+teunuss: checks 
+borntotilt: checks 
+*** RIVER *** [Ts Ad Kh 8h] [5h]
+teunuss: checks 
+borntotilt: checks 
+*** SHOW DOWN ***
+teunuss: shows [9s Qs] (high card Ace)
+borntotilt: shows [4c 5c] (a pair of Fives)
+borntotilt collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Ts Ad Kh 8h 5h]
+Seat 4: borntotilt (button) (small blind) showed [4c 5c] and won ($23.50) with a pair of Fives
+Seat 6: teunuss (big blind) showed [9s Qs] and lost with high card Ace
+
+
+PokerStars Game #102615345246:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:49:26 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #6 is the button
+Seat 4: borntotilt ($735 in chips) 
+Seat 6: teunuss ($1336.15 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Uncalled bet ($3) returned to borntotilt
+borntotilt collected $6 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 4: borntotilt (big blind) collected ($6)
+Seat 6: teunuss (button) (small blind) folded before Flop
+
+
+PokerStars Game #102614908965:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:40:40 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: JMBigJoe ($987.81 in chips) 
+Seat 2: maloyd ($600 in chips) 
+Seat 4: borntotilt ($600 in chips) 
+Seat 6: teunuss ($857.65 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+JMBigJoe: folds 
+maloyd: raises $6 to $12
+borntotilt: raises $36 to $48
+teunuss: folds 
+maloyd: folds 
+Uncalled bet ($36) returned to borntotilt
+borntotilt collected $30 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: maloyd (button) folded before Flop
+Seat 4: borntotilt (small blind) collected ($30)
+Seat 6: teunuss (big blind) folded before Flop
+
+
+PokerStars Game #102614940707:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:41:18 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #6 is the button
+Seat 4: borntotilt ($618 in chips) 
+Seat 6: teunuss ($851.65 in chips) 
+teunuss: posts small blind $3
+JMBigJoe: is sitting out 
+maloyd: is sitting out 
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+maloyd leaves the table
+borntotilt: folds 
+Uncalled bet ($6) returned to teunuss
+teunuss collected $12 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 4: borntotilt (big blind) folded before Flop
+Seat 6: teunuss (button) (small blind) collected ($12)
+
+
+PokerStars Game #102614948740:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:41:28 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #4 is the button
+Seat 4: borntotilt ($612 in chips) 
+Seat 6: teunuss ($857.65 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $12 from pot
+borntotilt: doesn't show hand 
+JMBigJoe leaves the table
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 4: borntotilt (button) (small blind) collected ($12)
+Seat 6: teunuss (big blind) folded before Flop
+
+
+PokerStars Game #102614956020:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:41:37 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #6 is the button
+Seat 4: borntotilt ($618 in chips) 
+Seat 6: teunuss ($851.65 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: calls $6
+*** FLOP *** [3c 7h 8d]
+borntotilt: checks 
+teunuss: checks 
+*** TURN *** [3c 7h 8d] [3h]
+borntotilt: checks 
+teunuss: checks 
+*** RIVER *** [3c 7h 8d 3h] [Js]
+borntotilt: checks 
+teunuss: checks 
+*** SHOW DOWN ***
+borntotilt: shows [7s Th] (two pair, Sevens and Threes)
+teunuss: mucks hand 
+borntotilt collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [3c 7h 8d 3h Js]
+Seat 4: borntotilt (big blind) showed [7s Th] and won ($23.50) with two pair, Sevens and Threes
+Seat 6: teunuss (button) (small blind) mucked
+
+
+PokerStars Game #102614985002:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:42:12 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #4 is the button
+Seat 4: borntotilt ($629.50 in chips) 
+Seat 6: teunuss ($839.65 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: folds 
+Uncalled bet ($6) returned to borntotilt
+borntotilt collected $12 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 4: borntotilt (button) (small blind) collected ($12)
+Seat 6: teunuss (big blind) folded before Flop
+
+
+PokerStars Game #102614997874:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:42:28 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #6 is the button
+Seat 4: borntotilt ($635.50 in chips) 
+Seat 6: teunuss ($833.65 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+Uncalled bet ($3) returned to borntotilt
+borntotilt collected $6 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 4: borntotilt (big blind) collected ($6)
+Seat 6: teunuss (button) (small blind) folded before Flop
+
+
+PokerStars Game #102615001785:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:42:33 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #4 is the button
+Seat 4: borntotilt ($638.50 in chips) 
+Seat 6: teunuss ($830.65 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: raises $33 to $45
+borntotilt: calls $33
+*** FLOP *** [2h Ks Th]
+teunuss: bets $51
+borntotilt: folds 
+Uncalled bet ($51) returned to teunuss
+teunuss collected $89.50 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $90 | Rake $0.50 
+Board [2h Ks Th]
+Seat 4: borntotilt (button) (small blind) folded on the Flop
+Seat 6: teunuss (big blind) collected ($89.50)
+
+
+PokerStars Game #102615035795:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:43:14 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #6 is the button
+Seat 4: borntotilt ($600 in chips) 
+Seat 6: teunuss ($875.15 in chips) 
+teunuss: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+teunuss: raises $6 to $12
+borntotilt: raises $36 to $48
+teunuss: raises $54 to $102
+borntotilt: calls $54
+*** FLOP *** [3s Ts 5d]
+borntotilt: checks 
+teunuss: bets $90
+borntotilt: calls $90
+*** TURN *** [3s Ts 5d] [5c]
+borntotilt: checks 
+teunuss: bets $683.15 and is all-in
+borntotilt: calls $408 and is all-in
+Uncalled bet ($275.15) returned to teunuss
+*** FIRST RIVER *** [3s Ts 5d 5c] [9s]
+*** SECOND RIVER *** [3s Ts 5d 5c] [Th]
+*** FIRST SHOW DOWN ***
+borntotilt: shows [Qd Ac] (a pair of Fives)
+teunuss: shows [Jc Jh] (two pair, Jacks and Fives)
+teunuss collected $599.75 from pot
+*** SECOND SHOW DOWN ***
+borntotilt: shows [Qd Ac] (two pair, Tens and Fives)
+teunuss: shows [Jc Jh] (two pair, Jacks and Tens)
+teunuss collected $599.75 from pot
+*** SUMMARY ***
+Total pot $1200 | Rake $0.50 
+Hand was run twice
+FIRST Board [3s Ts 5d 5c 9s]
+SECOND Board [3s Ts 5d 5c Th]
+Seat 4: borntotilt (big blind) showed [Qd Ac] and lost with a pair of Fives, and lost with two pair, Tens and Fives
+Seat 6: teunuss (button) (small blind) showed [Jc Jh] and won ($599.75) with two pair, Jacks and Fives, and won ($599.75) with two pair, Jacks and Tens
+
+
+PokerStars Game #102615100689:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:44:33 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #4 is the button
+Seat 4: borntotilt ($600 in chips) 
+Seat 6: teunuss ($1474.65 in chips) 
+borntotilt: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+borntotilt: raises $6 to $12
+teunuss: calls $6
+*** FLOP *** [7d 4d Ac]
+teunuss: checks 
+borntotilt: bets $18
+teunuss: folds 
+Uncalled bet ($18) returned to borntotilt
+borntotilt collected $23.50 from pot
+borntotilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [7d 4d Ac]
+Seat 4: borntotilt (button) (small blind) collected ($23.50)
+Seat 6: teunuss (big blind) folded on the Flop
+
+
+PokerStars Game #102614634745:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:35:09 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: JMBigJoe ($933.42 in chips) 
+Seat 2: shenghu ($316.32 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 4: borntotilt ($600 in chips) 
+Seat 5: mojocska ($602.06 in chips) 
+Seat 6: teunuss ($716.25 in chips) 
+teunuss: posts small blind $3
+JMBigJoe: posts big blind $6
+*** HOLE CARDS ***
+shenghu: folds 
+TTSIP: raises $12 to $18
+borntotilt: folds 
+mojocska: folds 
+teunuss: folds 
+JMBigJoe: folds 
+Uncalled bet ($12) returned to TTSIP
+TTSIP collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: JMBigJoe (big blind) folded before Flop
+Seat 2: shenghu folded before Flop (didn't bet)
+Seat 3: TTSIP collected ($15)
+Seat 4: borntotilt folded before Flop (didn't bet)
+Seat 5: mojocska (button) folded before Flop (didn't bet)
+Seat 6: teunuss (small blind) folded before Flop
+
+
+PokerStars Game #102614662676:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:35:43 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: JMBigJoe ($927.42 in chips) 
+Seat 2: shenghu ($316.32 in chips) 
+Seat 3: TTSIP ($609 in chips) 
+Seat 4: borntotilt ($600 in chips) 
+Seat 5: mojocska ($602.06 in chips) 
+Seat 6: teunuss ($713.25 in chips) 
+JMBigJoe: posts small blind $3
+shenghu: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: folds 
+borntotilt: folds 
+mojocska: folds 
+teunuss: raises $6 to $12
+JMBigJoe: folds 
+shenghu: calls $6
+*** FLOP *** [5h 6s Kh]
+shenghu: bets $18
+teunuss: calls $18
+*** TURN *** [5h 6s Kh] [6c]
+shenghu: folds 
+shenghu leaves the table
+teunuss collected $60.20 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $63 | Rake $2.80 
+Board [5h 6s Kh 6c]
+Seat 1: JMBigJoe (small blind) folded before Flop
+Seat 2: shenghu (big blind) folded on the Turn
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: borntotilt folded before Flop (didn't bet)
+Seat 5: mojocska folded before Flop (didn't bet)
+Seat 6: teunuss (button) collected ($60.20)
+
+
+PokerStars Game #102614712997:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:36:43 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: JMBigJoe ($924.42 in chips) 
+Seat 3: TTSIP ($609 in chips) 
+Seat 4: borntotilt ($600 in chips) 
+Seat 5: mojocska ($602.06 in chips) 
+Seat 6: teunuss ($743.45 in chips) 
+TTSIP: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+mojocska: folds 
+mojocska leaves the table
+teunuss: folds 
+JMBigJoe: folds 
+floriiiiider joins the table at seat #5 
+TTSIP: raises $12 to $18
+floriiiiider leaves the table
+borntotilt: folds 
+Uncalled bet ($12) returned to TTSIP
+TTSIP collected $12 from pot
+DeluxeSamy joins the table at seat #5 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: JMBigJoe (button) folded before Flop (didn't bet)
+Seat 3: TTSIP (small blind) collected ($12)
+Seat 4: borntotilt (big blind) folded before Flop
+Seat 5: mojocska folded before Flop (didn't bet)
+Seat 6: teunuss folded before Flop (didn't bet)
+
+
+PokerStars Game #102614729884:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:37:04 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: JMBigJoe ($924.42 in chips) 
+Seat 3: TTSIP ($615 in chips) 
+Seat 4: borntotilt ($600 in chips) 
+Seat 5: DeluxeSamy ($240 in chips) 
+Seat 6: teunuss ($743.45 in chips) 
+borntotilt: posts small blind $3
+DeluxeSamy: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+BKA12 joins the table at seat #2 
+BKA12 leaves the table
+JMBigJoe: folds 
+TTSIP: raises $6 to $12
+borntotilt: folds 
+DeluxeSamy: folds 
+Uncalled bet ($6) returned to TTSIP
+DeluxeSamy leaves the table
+TTSIP collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 3: TTSIP (button) collected ($15)
+Seat 4: borntotilt (small blind) folded before Flop
+Seat 5: DeluxeSamy (big blind) folded before Flop
+Seat 6: teunuss folded before Flop (didn't bet)
+
+
+PokerStars Game #102614770594:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:37:53 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: JMBigJoe ($924.42 in chips) 
+Seat 3: TTSIP ($624 in chips) 
+Seat 4: borntotilt ($600 in chips) 
+Seat 6: teunuss ($743.45 in chips) 
+teunuss: posts small blind $3
+JMBigJoe: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: raises $9 to $15
+maloyd joins the table at seat #2 
+borntotilt: folds 
+teunuss: folds 
+JMBigJoe: folds 
+Uncalled bet ($9) returned to TTSIP
+TTSIP collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: JMBigJoe (big blind) folded before Flop
+Seat 3: TTSIP collected ($15)
+Seat 4: borntotilt (button) folded before Flop (didn't bet)
+Seat 6: teunuss (small blind) folded before Flop
+
+
+PokerStars Game #102614781079:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:38:05 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: JMBigJoe ($918.42 in chips) 
+Seat 2: maloyd ($600 in chips) 
+Seat 3: TTSIP ($633 in chips) 
+Seat 4: borntotilt ($600 in chips) 
+Seat 6: teunuss ($740.45 in chips) 
+JMBigJoe: posts small blind $3
+maloyd: posts big blind $6
+*** HOLE CARDS ***
+TTSIP: raises $12 to $18
+borntotilt: folds 
+teunuss: raises $33 to $51
+JMBigJoe: folds 
+maloyd: folds 
+TTSIP: calls $33
+*** FLOP *** [Ac 9d 7h]
+TTSIP: checks 
+teunuss: bets $60
+TTSIP: calls $60
+*** TURN *** [Ac 9d 7h] [5d]
+TTSIP: checks 
+teunuss: bets $123
+TTSIP: folds 
+Uncalled bet ($123) returned to teunuss
+teunuss collected $228.20 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $231 | Rake $2.80 
+Board [Ac 9d 7h 5d]
+Seat 1: JMBigJoe (small blind) folded before Flop
+Seat 2: maloyd (big blind) folded before Flop
+Seat 3: TTSIP folded on the Turn
+Seat 4: borntotilt folded before Flop (didn't bet)
+Seat 6: teunuss (button) collected ($228.20)
+
+
+PokerStars Game #102614828793:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:39:03 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: JMBigJoe ($915.42 in chips) 
+Seat 2: maloyd ($600 in chips) 
+Seat 4: borntotilt ($600 in chips) 
+Seat 6: teunuss ($857.65 in chips) 
+maloyd: posts small blind $3
+TTSIP: is sitting out 
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+TTSIP leaves the table
+teunuss: folds 
+JMBigJoe: raises $6 to $12
+maloyd: folds 
+borntotilt: calls $6
+*** FLOP *** [As 9s 6h]
+borntotilt: checks 
+JMBigJoe: bets $12.89
+borntotilt: calls $12.89
+*** TURN *** [As 9s 6h] [5d]
+borntotilt: checks 
+JMBigJoe: checks 
+*** RIVER *** [As 9s 6h 5d] [Th]
+borntotilt: bets $46
+JMBigJoe: calls $46
+*** SHOW DOWN ***
+borntotilt: shows [6d Tc] (two pair, Tens and Sixes)
+JMBigJoe: shows [Ts 9h] (two pair, Tens and Nines)
+JMBigJoe collected $143.28 from pot
+*** SUMMARY ***
+Total pot $144.78 | Rake $1.50 
+Board [As 9s 6h 5d Th]
+Seat 1: JMBigJoe (button) showed [Ts 9h] and won ($143.28) with two pair, Tens and Nines
+Seat 2: maloyd (small blind) folded before Flop
+Seat 4: borntotilt (big blind) showed [6d Tc] and lost with two pair, Tens and Sixes
+Seat 6: teunuss folded before Flop (didn't bet)
+
+
+PokerStars Game #102614459281:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:31:41 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: JMBigJoe ($933.42 in chips) 
+Seat 2: shenghu ($400.12 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 4: borntotilt ($600 in chips) 
+Seat 5: mojocska ($627.57 in chips) 
+Seat 6: teunuss ($600 in chips) 
+TTSIP: posts small blind $3
+borntotilt: posts big blind $6
+*** HOLE CARDS ***
+mojocska: folds 
+teunuss: raises $9 to $15
+JMBigJoe: folds 
+shenghu: calls $15
+TTSIP: folds 
+borntotilt: folds 
+*** FLOP *** [7s Qd Jh]
+teunuss: bets $27
+shenghu: calls $27
+*** TURN *** [7s Qd Jh] [4c]
+teunuss: bets $66
+shenghu: calls $66
+*** RIVER *** [7s Qd Jh 4c] [9c]
+teunuss: bets $171
+shenghu: folds 
+Uncalled bet ($171) returned to teunuss
+teunuss collected $222.20 from pot
+teunuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $225 | Rake $2.80 
+Board [7s Qd Jh 4c 9c]
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: shenghu (button) folded on the River
+Seat 3: TTSIP (small blind) folded before Flop
+Seat 4: borntotilt (big blind) folded before Flop
+Seat 5: mojocska folded before Flop (didn't bet)
+Seat 6: teunuss collected ($222.20)
+
+
+PokerStars Game #102614508170:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:32:39 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: JMBigJoe ($933.42 in chips) 
+Seat 2: shenghu ($292.12 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 4: borntotilt ($600 in chips) 
+Seat 5: mojocska ($627.57 in chips) 
+Seat 6: teunuss ($714.20 in chips) 
+borntotilt: posts small blind $3
+mojocska: posts big blind $6
+*** HOLE CARDS ***
+teunuss: folds 
+JMBigJoe: folds 
+shenghu: raises $6 to $12
+TTSIP: folds 
+borntotilt: folds 
+mojocska: calls $6
+*** FLOP *** [8h Ks 5h]
+mojocska: checks 
+shenghu: bets $18
+mojocska: calls $18
+*** TURN *** [8h Ks 5h] [4h]
+mojocska: checks 
+shenghu: checks 
+*** RIVER *** [8h Ks 5h 4h] [Qs]
+mojocska: checks 
+shenghu: bets $102
+mojocska: folds 
+Uncalled bet ($102) returned to shenghu
+shenghu collected $60.20 from pot
+*** SUMMARY ***
+Total pot $63 | Rake $2.80 
+Board [8h Ks 5h 4h Qs]
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: shenghu collected ($60.20)
+Seat 3: TTSIP (button) folded before Flop (didn't bet)
+Seat 4: borntotilt (small blind) folded before Flop
+Seat 5: mojocska (big blind) folded on the River
+Seat 6: teunuss folded before Flop (didn't bet)
+
+
+PokerStars Game #102614565060:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 13:33:46 ET
+Table 'Sibylla IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: JMBigJoe ($933.42 in chips) 
+Seat 2: shenghu ($322.32 in chips) 
+Seat 3: TTSIP ($600 in chips) 
+Seat 4: borntotilt ($600 in chips) 
+Seat 5: mojocska ($600 in chips) 
+Seat 6: teunuss ($714.20 in chips) 
+mojocska: posts small blind $3
+teunuss: posts big blind $6
+*** HOLE CARDS ***
+JMBigJoe: folds 
+shenghu: calls $6
+TTSIP: folds 
+borntotilt: folds 
+mojocska: calls $3
+teunuss: checks 
+*** FLOP *** [Kc 3s 7s]
+mojocska: checks 
+teunuss: checks 
+shenghu: checks 
+*** TURN *** [Kc 3s 7s] [3h]
+mojocska: checks 
+teunuss: bets $12
+shenghu: folds 
+mojocska: calls $12
+*** RIVER *** [Kc 3s 7s 3h] [9c]
+mojocska: checks 
+teunuss: checks 
+*** SHOW DOWN ***
+mojocska: shows [2c 7c] (two pair, Sevens and Threes)
+teunuss: shows [7h Td] (two pair, Sevens and Threes)
+mojocska collected $20.06 from pot
+teunuss collected $20.05 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $1.89 
+Board [Kc 3s 7s 3h 9c]
+Seat 1: JMBigJoe folded before Flop (didn't bet)
+Seat 2: shenghu folded on the Turn
+Seat 3: TTSIP folded before Flop (didn't bet)
+Seat 4: borntotilt (button) folded before Flop (didn't bet)
+Seat 5: mojocska (small blind) showed [2c 7c] and won ($20.06) with two pair, Sevens and Threes
+Seat 6: teunuss (big blind) showed [7h Td] and won ($20.05) with two pair, Sevens and Threes

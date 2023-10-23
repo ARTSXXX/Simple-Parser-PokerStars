@@ -1,0 +1,240 @@
+
+
+PokerStars Game #102604173749:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:30:14 ET
+Table 'Leonid IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: LiveTogether ($423.20 in chips) 
+Seat 2: elvn89 ($231 in chips) 
+Seat 4: WhatA298 ($676.70 in chips) 
+Seat 5: dumbo2000 ($240 in chips) 
+WhatA298: posts small blind $3
+dumbo2000: posts big blind $6
+floriiiiider: sits out 
+*** HOLE CARDS ***
+LiveTogether: folds 
+elvn89: raises $7.02 to $13.02
+sharlai_s leaves the table
+WhatA298: folds 
+dumbo2000: raises $25.98 to $39
+elvn89: folds 
+Uncalled bet ($25.98) returned to dumbo2000
+dumbo2000 collected $29.04 from pot
+dumbo2000: doesn't show hand 
+*** SUMMARY ***
+Total pot $29.04 | Rake $0 
+Seat 1: LiveTogether folded before Flop (didn't bet)
+Seat 2: elvn89 (button) folded before Flop
+Seat 4: WhatA298 (small blind) folded before Flop
+Seat 5: dumbo2000 (big blind) collected ($29.04)
+
+
+PokerStars Game #102604192252:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:30:46 ET
+Table 'Leonid IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: LiveTogether ($423.20 in chips) 
+Seat 2: elvn89 ($217.98 in chips) 
+Seat 4: WhatA298 ($673.70 in chips) 
+Seat 5: dumbo2000 ($256.02 in chips) 
+Seat 6: floriiiiider ($600 in chips) 
+dumbo2000: posts small blind $3
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+LiveTogether: folds 
+elvn89: folds 
+WhatA298: folds 
+dumbo2000: raises $9 to $15
+LiveTogether leaves the table
+vivecrew joins the table at seat #1 
+floriiiiider: raises $24 to $39
+vivecrew leaves the table
+dumbo2000: folds 
+Uncalled bet ($24) returned to floriiiiider
+floriiiiider collected $30 from pot
+floriiiiider: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: LiveTogether folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 4: WhatA298 (button) folded before Flop (didn't bet)
+Seat 5: dumbo2000 (small blind) folded before Flop
+Seat 6: floriiiiider (big blind) collected ($30)
+
+
+PokerStars Game #102604228144:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:31:46 ET
+Table 'Leonid IX 40-100 bb' 6-max Seat #5 is the button
+Seat 2: elvn89 ($217.98 in chips) 
+Seat 4: WhatA298 ($673.70 in chips) 
+Seat 5: dumbo2000 ($241.02 in chips) 
+Seat 6: floriiiiider ($615 in chips) 
+floriiiiider: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+WhatA298: raises $6.72 to $12.72
+dumbo2000: folds 
+floriiiiider: folds 
+elvn89: folds 
+Uncalled bet ($6.72) returned to WhatA298
+WhatA298 collected $15 from pot
+WhatA298: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 4: WhatA298 collected ($15)
+Seat 5: dumbo2000 (button) folded before Flop (didn't bet)
+Seat 6: floriiiiider (small blind) folded before Flop
+
+
+PokerStars Game #102604072256:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:27:22 ET
+Table 'Leonid IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: LiveTogether ($240 in chips) 
+Seat 3: sharlai_s ($240 in chips) 
+Seat 4: WhatA298 ($600 in chips) 
+Seat 5: dumbo2000 ($240 in chips) 
+sharlai_s: posts small blind $3
+WhatA298: posts big blind $6
+*** HOLE CARDS ***
+elvn89 joins the table at seat #2 
+dumbo2000: folds 
+LiveTogether: raises $6 to $12
+sharlai_s: folds 
+WhatA298: folds 
+Uncalled bet ($6) returned to LiveTogether
+LiveTogether collected $15 from pot
+LiveTogether: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LiveTogether (button) collected ($15)
+Seat 3: sharlai_s (small blind) folded before Flop
+Seat 4: WhatA298 (big blind) folded before Flop
+Seat 5: dumbo2000 folded before Flop (didn't bet)
+
+
+PokerStars Game #102604084792:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:27:43 ET
+Table 'Leonid IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: LiveTogether ($249 in chips) 
+Seat 3: sharlai_s ($237 in chips) 
+Seat 4: WhatA298 ($600 in chips) 
+Seat 5: dumbo2000 ($240 in chips) 
+WhatA298: posts small blind $3
+dumbo2000: posts big blind $6
+elvn89: sits out 
+*** HOLE CARDS ***
+LiveTogether: raises $6 to $12
+sharlai_s: folds 
+WhatA298: folds 
+dumbo2000: folds 
+Uncalled bet ($6) returned to LiveTogether
+LiveTogether collected $15 from pot
+LiveTogether: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: LiveTogether collected ($15)
+Seat 3: sharlai_s (button) folded before Flop (didn't bet)
+Seat 4: WhatA298 (small blind) folded before Flop
+Seat 5: dumbo2000 (big blind) folded before Flop
+
+
+PokerStars Game #102604092422:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:27:56 ET
+Table 'Leonid IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: LiveTogether ($258 in chips) 
+Seat 3: sharlai_s ($237 in chips) 
+Seat 4: WhatA298 ($600 in chips) 
+Seat 5: dumbo2000 ($240 in chips) 
+dumbo2000: posts small blind $3
+LiveTogether: posts big blind $6
+elvn89: sits out 
+*** HOLE CARDS ***
+sharlai_s: calls $6
+VegasMidas leaves the table
+WhatA298: raises $24 to $30
+dumbo2000: folds 
+LiveTogether: folds 
+sharlai_s: calls $24
+*** FLOP *** [Tc Ts 3c]
+floriiiiider joins the table at seat #6 
+sharlai_s: checks 
+WhatA298: bets $40.50
+sharlai_s: folds 
+Uncalled bet ($40.50) returned to WhatA298
+WhatA298 collected $67.50 from pot
+WhatA298: doesn't show hand 
+*** SUMMARY ***
+Total pot $69 | Rake $1.50 
+Board [Tc Ts 3c]
+Seat 1: LiveTogether (big blind) folded before Flop
+Seat 3: sharlai_s folded on the Flop
+Seat 4: WhatA298 (button) collected ($67.50)
+Seat 5: dumbo2000 (small blind) folded before Flop
+
+
+PokerStars Game #102604110909:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:28:28 ET
+Table 'Leonid IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: LiveTogether ($252 in chips) 
+Seat 2: elvn89 ($240 in chips) 
+Seat 3: sharlai_s ($207 in chips) 
+Seat 4: WhatA298 ($637.50 in chips) 
+Seat 5: dumbo2000 ($240 in chips) 
+floriiiiider will be allowed to play after the button
+LiveTogether: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+sharlai_s: calls $6
+WhatA298: raises $21 to $27
+dumbo2000: folds 
+LiveTogether: folds 
+elvn89: folds 
+sharlai_s: calls $21
+*** FLOP *** [Tc 7c 4c]
+sharlai_s: bets $6
+WhatA298: raises $37.54 to $43.54
+sharlai_s: folds 
+Uncalled bet ($37.54) returned to WhatA298
+WhatA298 collected $72.20 from pot
+WhatA298: doesn't show hand 
+*** SUMMARY ***
+Total pot $75 | Rake $2.80 
+Board [Tc 7c 4c]
+Seat 1: LiveTogether (small blind) folded before Flop
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: sharlai_s folded on the Flop
+Seat 4: WhatA298 collected ($72.20)
+Seat 5: dumbo2000 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102604132953:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:29:05 ET
+Table 'Leonid IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: LiveTogether ($249 in chips) 
+Seat 2: elvn89 ($234 in chips) 
+Seat 3: sharlai_s ($174 in chips) 
+Seat 4: WhatA298 ($676.70 in chips) 
+Seat 5: dumbo2000 ($240 in chips) 
+elvn89: posts small blind $3
+sharlai_s: posts big blind $6
+floriiiiider: sits out 
+*** HOLE CARDS ***
+WhatA298: folds 
+dumbo2000: folds 
+LiveTogether: raises $6 to $12
+elvn89: folds 
+sharlai_s: calls $6
+*** FLOP *** [4d 8d 3s]
+sharlai_s: checks 
+LiveTogether: bets $18
+sharlai_s: calls $18
+*** TURN *** [4d 8d 3s] [4h]
+sharlai_s: checks 
+LiveTogether: bets $46
+sharlai_s: calls $46
+*** RIVER *** [4d 8d 3s 4h] [4c]
+sharlai_s: bets $98 and is all-in
+LiveTogether: calls $98
+*** SHOW DOWN ***
+sharlai_s: shows [5d 5s] (a full house, Fours full of Fives)
+LiveTogether: shows [Td Ts] (a full house, Fours full of Tens)
+LiveTogether collected $348.20 from pot
+*** SUMMARY ***
+Total pot $351 | Rake $2.80 
+Board [4d 8d 3s 4h 4c]
+Seat 1: LiveTogether (button) showed [Td Ts] and won ($348.20) with a full house, Fours full of Tens
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: sharlai_s (big blind) showed [5d 5s] and lost with a full house, Fours full of Fives
+Seat 4: WhatA298 folded before Flop (didn't bet)
+Seat 5: dumbo2000 folded before Flop (didn't bet)

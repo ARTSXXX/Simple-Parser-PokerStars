@@ -1,0 +1,1055 @@
+
+
+PokerStars Game #102631923243:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:51:07 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($369.50 in chips) 
+Seat 4: imactually12 ($649.50 in chips) 
+Seat 5: DeluxeSamy ($240 in chips) 
+Seat 6: bf10857 ($387.23 in chips) 
+rocks50 will be allowed to play after the button
+imactually12: posts small blind $3
+DeluxeSamy: posts big blind $6
+bf10857: posts big blind $6
+*** HOLE CARDS ***
+whollyflush joins the table at seat #3 
+bf10857: raises $18 to $24
+uwbabe: folds 
+imactually12: folds 
+DeluxeSamy: folds 
+Uncalled bet ($18) returned to bf10857
+bf10857 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: uwbabe (button) folded before Flop (didn't bet)
+Seat 4: imactually12 (small blind) folded before Flop
+Seat 5: DeluxeSamy (big blind) folded before Flop
+Seat 6: bf10857 collected ($15)
+
+
+PokerStars Game #102631938796:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:51:33 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($369.50 in chips) 
+Seat 4: imactually12 ($646.50 in chips) 
+Seat 5: DeluxeSamy ($234 in chips) 
+Seat 6: bf10857 ($396.23 in chips) 
+DeluxeSamy: posts small blind $3
+bf10857: posts big blind $6
+rocks50: sits out 
+whollyflush: sits out 
+*** HOLE CARDS ***
+uwbabe: folds 
+imactually12: raises $6 to $12
+DeluxeSamy: folds 
+bf10857: calls $6
+*** FLOP *** [Kh Ks Jc]
+bf10857: bets $24
+imactually12: folds 
+Uncalled bet ($24) returned to bf10857
+bf10857 collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Kh Ks Jc]
+Seat 1: uwbabe folded before Flop (didn't bet)
+Seat 4: imactually12 (button) folded on the Flop
+Seat 5: DeluxeSamy (small blind) folded before Flop
+Seat 6: bf10857 (big blind) collected ($25.78)
+
+
+PokerStars Game #102631953500:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:51:59 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #5 is the button
+Seat 1: uwbabe ($369.50 in chips) 
+Seat 4: imactually12 ($634.50 in chips) 
+Seat 5: DeluxeSamy ($231 in chips) 
+Seat 6: bf10857 ($410.01 in chips) 
+bf10857: posts small blind $3
+uwbabe: posts big blind $6
+rocks50: sits out 
+whollyflush: sits out 
+*** HOLE CARDS ***
+imactually12: folds 
+DeluxeSamy: raises $6 to $12
+bf10857: raises $18 to $30
+uwbabe: folds 
+DeluxeSamy: folds 
+Uncalled bet ($18) returned to bf10857
+bf10857 collected $30 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: uwbabe (big blind) folded before Flop
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: DeluxeSamy (button) folded before Flop
+Seat 6: bf10857 (small blind) collected ($30)
+
+
+PokerStars Game #102631970009:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:52:27 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #6 is the button
+Seat 1: uwbabe ($363.50 in chips) 
+Seat 2: rocks50 ($600 in chips) 
+Seat 4: imactually12 ($634.50 in chips) 
+Seat 5: DeluxeSamy ($219 in chips) 
+Seat 6: bf10857 ($428.01 in chips) 
+uwbabe: posts small blind $3
+rocks50: posts big blind $6
+whollyflush: sits out 
+*** HOLE CARDS ***
+imactually12: raises $9 to $15
+DeluxeSamy: folds 
+bf10857: folds 
+uwbabe: folds 
+rocks50: folds 
+Uncalled bet ($9) returned to imactually12
+imactually12 collected $15 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: uwbabe (small blind) folded before Flop
+Seat 2: rocks50 (big blind) folded before Flop
+Seat 4: imactually12 collected ($15)
+Seat 5: DeluxeSamy folded before Flop (didn't bet)
+Seat 6: bf10857 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102631981437:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:52:47 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($360.50 in chips) 
+Seat 2: rocks50 ($600 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($643.50 in chips) 
+Seat 5: DeluxeSamy ($219 in chips) 
+Seat 6: bf10857 ($428.01 in chips) 
+rocks50: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+DeluxeSamy: folds 
+bf10857: raises $12 to $18
+uwbabe: folds 
+rocks50: folds 
+whollyflush: folds 
+Uncalled bet ($12) returned to bf10857
+bf10857 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: uwbabe (button) folded before Flop (didn't bet)
+Seat 2: rocks50 (small blind) folded before Flop
+Seat 3: whollyflush (big blind) folded before Flop
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: DeluxeSamy folded before Flop (didn't bet)
+Seat 6: bf10857 collected ($15)
+
+
+PokerStars Game #102632000057:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:53:19 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #2 is the button
+Seat 1: uwbabe ($360.50 in chips) 
+Seat 2: rocks50 ($600 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($643.50 in chips) 
+Seat 5: DeluxeSamy ($219 in chips) 
+Seat 6: bf10857 ($437.01 in chips) 
+whollyflush: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+DeluxeSamy: folds 
+bf10857: folds 
+uwbabe: folds 
+rocks50: folds 
+whollyflush: folds 
+Uncalled bet ($3) returned to imactually12
+imactually12 collected $6 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: uwbabe folded before Flop (didn't bet)
+Seat 2: rocks50 (button) folded before Flop (didn't bet)
+Seat 3: whollyflush (small blind) folded before Flop
+Seat 4: imactually12 (big blind) collected ($6)
+Seat 5: DeluxeSamy folded before Flop (didn't bet)
+Seat 6: bf10857 folded before Flop (didn't bet)
+
+
+PokerStars Game #102632009251:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:53:35 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #3 is the button
+Seat 1: uwbabe ($360.50 in chips) 
+Seat 2: rocks50 ($600 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($646.50 in chips) 
+Seat 5: DeluxeSamy ($219 in chips) 
+Seat 6: bf10857 ($437.01 in chips) 
+imactually12: posts small blind $3
+DeluxeSamy: posts big blind $6
+*** HOLE CARDS ***
+bf10857: folds 
+bf10857 leaves the table
+uwbabe: folds 
+rocks50: folds 
+whollyflush: folds 
+imactually12: folds 
+Uncalled bet ($3) returned to DeluxeSamy
+DeluxeSamy collected $6 from pot
+DeluxeSamy: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: uwbabe folded before Flop (didn't bet)
+Seat 2: rocks50 folded before Flop (didn't bet)
+Seat 3: whollyflush (button) folded before Flop (didn't bet)
+Seat 4: imactually12 (small blind) folded before Flop
+Seat 5: DeluxeSamy (big blind) collected ($6)
+Seat 6: bf10857 folded before Flop (didn't bet)
+
+
+PokerStars Game #102632027941:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:54:08 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($360.50 in chips) 
+Seat 2: rocks50 ($600 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($643.50 in chips) 
+Seat 5: DeluxeSamy ($222 in chips) 
+DeluxeSamy: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+rocks50 is disconnected 
+rocks50 has timed out while disconnected
+rocks50: folds 
+whollyflush: raises $6 to $12
+imactually12: folds 
+DeluxeSamy: folds 
+uwbabe: folds 
+Uncalled bet ($6) returned to whollyflush
+whollyflush collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: uwbabe (big blind) folded before Flop
+Seat 2: rocks50 folded before Flop (didn't bet)
+Seat 3: whollyflush collected ($15)
+Seat 4: imactually12 (button) folded before Flop (didn't bet)
+Seat 5: DeluxeSamy (small blind) folded before Flop
+
+
+PokerStars Game #102632055149:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:54:55 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #5 is the button
+Seat 1: uwbabe ($354.50 in chips) 
+Seat 3: whollyflush ($609 in chips) 
+Seat 4: imactually12 ($643.50 in chips) 
+Seat 5: DeluxeSamy ($219 in chips) 
+uwbabe: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+DeluxeSamy: folds 
+DeluxeSamy leaves the table
+uwbabe: folds 
+Uncalled bet ($3) returned to whollyflush
+whollyflush collected $6 from pot
+whollyflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: uwbabe (small blind) folded before Flop
+Seat 3: whollyflush (big blind) collected ($6)
+Seat 4: imactually12 folded before Flop (didn't bet)
+Seat 5: DeluxeSamy (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102631891386:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:50:12 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($408.50 in chips) 
+Seat 4: imactually12 ($611 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: calls $6
+*** FLOP *** [4d Kc 7s]
+bf10857 joins the table at seat #6 
+laurenman joins the table at seat #2 
+uwbabe: bets $9
+Subv joins the table at seat #3 
+Subv leaves the table
+Hurloon joins the table at seat #3 
+imactually12: calls $9
+*** TURN *** [4d Kc 7s] [3s]
+laurenman leaves the table
+uwbabe: checks 
+imactually12: checks 
+*** RIVER *** [4d Kc 7s 3s] [Qd]
+uwbabe: bets $24
+imactually12: calls $24
+*** SHOW DOWN ***
+uwbabe: shows [Qc 8h] (a pair of Queens)
+imactually12: shows [Qs Jh] (a pair of Queens - King+Jack kicker)
+imactually12 collected $89.50 from pot
+Hurloon leaves the table
+*** SUMMARY ***
+Total pot $90 | Rake $0.50 
+Board [4d Kc 7s 3s Qd]
+Seat 1: uwbabe (big blind) showed [Qc 8h] and lost with a pair of Queens
+Seat 4: imactually12 (button) (small blind) showed [Qs Jh] and won ($89.50) with a pair of Queens
+
+
+PokerStars Game #102631918986:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:50:59 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($363.50 in chips) 
+Seat 4: imactually12 ($655.50 in chips) 
+DeluxeSamy joins the table at seat #5 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50 joins the table at seat #2 
+uwbabe: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to uwbabe
+uwbabe collected $12 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (button) (small blind) collected ($12)
+Seat 4: imactually12 (big blind) folded before Flop
+
+
+PokerStars Game #102631716754:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:45:16 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($421.50 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: calls $6
+*** FLOP *** [9h Ad 6d]
+uwbabe: checks 
+imactually12: checks 
+*** TURN *** [9h Ad 6d] [2s]
+uwbabe: bets $12
+imactually12: calls $12
+*** RIVER *** [9h Ad 6d 2s] [As]
+uwbabe: bets $24
+imactually12: calls $24
+*** SHOW DOWN ***
+uwbabe: shows [9d 7c] (two pair, Aces and Nines)
+imactually12: shows [Qc 9s] (two pair, Aces and Nines - Queen kicker)
+imactually12 collected $95.50 from pot
+*** SUMMARY ***
+Total pot $96 | Rake $0.50 
+Board [9h Ad 6d 2s As]
+Seat 1: uwbabe (big blind) showed [9d 7c] and lost with two pair, Aces and Nines
+Seat 4: imactually12 (button) (small blind) showed [Qc 9s] and won ($95.50) with two pair, Aces and Nines
+
+
+PokerStars Game #102631745710:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:46:05 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($373.50 in chips) 
+Seat 4: imactually12 ($647.50 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: calls $6
+*** FLOP *** [9d 6h Ah]
+imactually12: checks 
+uwbabe: bets $9
+imactually12: raises $18 to $27
+uwbabe: folds 
+Uncalled bet ($18) returned to imactually12
+imactually12 collected $41.50 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $42 | Rake $0.50 
+Board [9d 6h Ah]
+Seat 1: uwbabe (button) (small blind) folded on the Flop
+Seat 4: imactually12 (big blind) collected ($41.50)
+
+
+PokerStars Game #102631759878:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:46:29 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($352.50 in chips) 
+Seat 4: imactually12 ($668 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (big blind) folded before Flop
+Seat 4: imactually12 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102631765780:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:46:39 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($346.50 in chips) 
+Seat 4: imactually12 ($674 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to uwbabe
+uwbabe collected $12 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (button) (small blind) collected ($12)
+Seat 4: imactually12 (big blind) folded before Flop
+
+
+PokerStars Game #102631774593:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:46:54 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($352.50 in chips) 
+Seat 4: imactually12 ($668 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+Uncalled bet ($3) returned to uwbabe
+uwbabe collected $6 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: uwbabe (big blind) collected ($6)
+Seat 4: imactually12 (button) (small blind) folded before Flop
+
+
+PokerStars Game #102631778942:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:47:01 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($355.50 in chips) 
+Seat 4: imactually12 ($665 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to uwbabe
+uwbabe collected $12 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (button) (small blind) collected ($12)
+Seat 4: imactually12 (big blind) folded before Flop
+
+
+PokerStars Game #102631786890:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:47:14 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($361.50 in chips) 
+Seat 4: imactually12 ($659 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+Uncalled bet ($3) returned to uwbabe
+uwbabe collected $6 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: uwbabe (big blind) collected ($6)
+Seat 4: imactually12 (button) (small blind) folded before Flop
+
+
+PokerStars Game #102631790024:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:47:20 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($364.50 in chips) 
+Seat 4: imactually12 ($656 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to uwbabe
+uwbabe collected $12 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (button) (small blind) collected ($12)
+Seat 4: imactually12 (big blind) folded before Flop
+
+
+PokerStars Game #102631798463:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:47:34 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($370.50 in chips) 
+Seat 4: imactually12 ($650 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (big blind) folded before Flop
+Seat 4: imactually12 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102631802619:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:47:41 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($364.50 in chips) 
+Seat 4: imactually12 ($656 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to uwbabe
+uwbabe collected $12 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (button) (small blind) collected ($12)
+Seat 4: imactually12 (big blind) folded before Flop
+
+
+PokerStars Game #102631807619:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:47:50 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($370.50 in chips) 
+Seat 4: imactually12 ($650 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: calls $6
+*** FLOP *** [8d 5h Jh]
+uwbabe: checks 
+imactually12: bets $15
+uwbabe: calls $15
+*** TURN *** [8d 5h Jh] [2d]
+uwbabe: bets $24
+imactually12: calls $24
+*** RIVER *** [8d 5h Jh 2d] [Kc]
+uwbabe: bets $48
+imactually12: folds 
+Uncalled bet ($48) returned to uwbabe
+uwbabe collected $101.50 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $102 | Rake $0.50 
+Board [8d 5h Jh 2d Kc]
+Seat 1: uwbabe (big blind) collected ($101.50)
+Seat 4: imactually12 (button) (small blind) folded on the River
+
+
+PokerStars Game #102631834794:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:48:36 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($421 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: folds 
+Uncalled bet ($3) returned to imactually12
+imactually12 collected $6 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: uwbabe (button) (small blind) folded before Flop
+Seat 4: imactually12 (big blind) collected ($6)
+
+
+PokerStars Game #102631838693:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:48:42 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($418 in chips) 
+Seat 4: imactually12 ($603 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: calls $6
+*** FLOP *** [4s Ts 8d]
+uwbabe: checks 
+imactually12: bets $18
+uwbabe: folds 
+Uncalled bet ($18) returned to imactually12
+imactually12 collected $23.50 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [4s Ts 8d]
+Seat 1: uwbabe (big blind) folded on the Flop
+Seat 4: imactually12 (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102631849700:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:49:01 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($406 in chips) 
+Seat 4: imactually12 ($614.50 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: calls $6
+*** FLOP *** [7s 4d 2d]
+imactually12: checks 
+uwbabe: checks 
+*** TURN *** [7s 4d 2d] [Ks]
+imactually12: bets $18
+uwbabe: folds 
+Uncalled bet ($18) returned to imactually12
+imactually12 collected $23.50 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [7s 4d 2d Ks]
+Seat 1: uwbabe (button) (small blind) folded on the Turn
+Seat 4: imactually12 (big blind) collected ($23.50)
+
+
+PokerStars Game #102631876491:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:49:47 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($394 in chips) 
+Seat 4: imactually12 ($626 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: folds 
+Uncalled bet ($3) returned to uwbabe
+uwbabe collected $6 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: uwbabe (big blind) collected ($6)
+Seat 4: imactually12 (button) (small blind) folded before Flop
+
+
+PokerStars Game #102631880733:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:49:54 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($397 in chips) 
+Seat 4: imactually12 ($623 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: calls $6
+*** FLOP *** [Qs 6s 2s]
+imactually12: checks 
+uwbabe: bets $12
+imactually12: folds 
+Uncalled bet ($12) returned to uwbabe
+uwbabe collected $23.50 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Qs 6s 2s]
+Seat 1: uwbabe (button) (small blind) collected ($23.50)
+Seat 4: imactually12 (big blind) folded on the Flop
+
+
+PokerStars Game #102631586388:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:41:36 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($240 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: folds 
+Uncalled bet ($3) returned to imactually12
+imactually12 collected $6 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: uwbabe (button) (small blind) folded before Flop
+Seat 4: imactually12 (big blind) collected ($6)
+
+
+PokerStars Game #102631591105:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:41:44 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($237 in chips) 
+Seat 4: imactually12 ($603 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: calls $6
+*** FLOP *** [Qs 6s Ah]
+uwbabe: checks 
+imactually12: bets $15
+uwbabe: folds 
+Uncalled bet ($15) returned to imactually12
+imactually12 collected $23.50 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [Qs 6s Ah]
+Seat 1: uwbabe (big blind) folded on the Flop
+Seat 4: imactually12 (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102631604338:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:42:06 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($225 in chips) 
+Seat 4: imactually12 ($614.50 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: folds 
+Uncalled bet ($3) returned to imactually12
+imactually12 collected $6 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: uwbabe (button) (small blind) folded before Flop
+Seat 4: imactually12 (big blind) collected ($6)
+
+
+PokerStars Game #102631607995:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:42:12 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($222 in chips) 
+Seat 4: imactually12 ($617.50 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (big blind) folded before Flop
+Seat 4: imactually12 (button) (small blind) collected ($12)
+
+
+PokerStars Game #102631616630:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:42:27 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($216 in chips) 
+Seat 4: imactually12 ($623.50 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: raises $30 to $42
+uwbabe: folds 
+Uncalled bet ($30) returned to imactually12
+imactually12 collected $24 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: uwbabe (button) (small blind) folded before Flop
+Seat 4: imactually12 (big blind) collected ($24)
+
+
+PokerStars Game #102631629645:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:42:49 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($204 in chips) 
+Seat 4: imactually12 ($635.50 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: raises $18 to $30
+imactually12: folds 
+Uncalled bet ($18) returned to uwbabe
+uwbabe collected $24 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: uwbabe (big blind) collected ($24)
+Seat 4: imactually12 (button) (small blind) folded before Flop
+
+
+PokerStars Game #102631642324:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:43:11 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($216 in chips) 
+Seat 4: imactually12 ($623.50 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: folds 
+Uncalled bet ($6) returned to uwbabe
+uwbabe collected $12 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (button) (small blind) collected ($12)
+Seat 4: imactually12 (big blind) folded before Flop
+
+
+PokerStars Game #102631646906:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:43:18 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($222 in chips) 
+Seat 4: imactually12 ($617.50 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: calls $6
+*** FLOP *** [3s Kh 5d]
+uwbabe: checks 
+imactually12: bets $18
+uwbabe: folds 
+Uncalled bet ($18) returned to imactually12
+imactually12 collected $23.50 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [3s Kh 5d]
+Seat 1: uwbabe (big blind) folded on the Flop
+Seat 4: imactually12 (button) (small blind) collected ($23.50)
+
+
+PokerStars Game #102631656410:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:43:34 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($210 in chips) 
+Seat 4: imactually12 ($629 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: calls $6
+*** FLOP *** [3c 6h 6d]
+imactually12: checks 
+uwbabe: checks 
+*** TURN *** [3c 6h 6d] [9s]
+imactually12: checks 
+uwbabe: bets $18
+imactually12: folds 
+Uncalled bet ($18) returned to uwbabe
+uwbabe collected $23.50 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [3c 6h 6d 9s]
+Seat 1: uwbabe (button) (small blind) collected ($23.50)
+Seat 4: imactually12 (big blind) folded on the Turn
+
+
+PokerStars Game #102631673921:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:44:04 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($221.50 in chips) 
+Seat 4: imactually12 ($617 in chips) 
+imactually12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+uwbabe: calls $6
+*** FLOP *** [5c 9d Jh]
+uwbabe: bets $12
+imactually12: calls $12
+*** TURN *** [5c 9d Jh] [Th]
+uwbabe: bets $24
+imactually12: calls $24
+*** RIVER *** [5c 9d Jh Th] [5h]
+uwbabe: bets $96
+imactually12: calls $96
+*** SHOW DOWN ***
+uwbabe: shows [Qh 7h] (a flush, Queen high)
+imactually12: mucks hand 
+uwbabe collected $287.50 from pot
+*** SUMMARY ***
+Total pot $288 | Rake $0.50 
+Board [5c 9d Jh Th 5h]
+Seat 1: uwbabe (big blind) showed [Qh 7h] and won ($287.50) with a flush, Queen high
+Seat 4: imactually12 (button) (small blind) mucked
+
+
+PokerStars Game #102631694314:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:44:38 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($365 in chips) 
+Seat 4: imactually12 ($600 in chips) 
+uwbabe: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+imactually12: calls $6
+*** FLOP *** [Kh 7s 2d]
+imactually12: checks 
+uwbabe: checks 
+*** TURN *** [Kh 7s 2d] [Jd]
+imactually12: checks 
+uwbabe: bets $18
+imactually12: raises $27 to $45
+uwbabe: calls $27
+*** RIVER *** [Kh 7s 2d Jd] [Jh]
+imactually12: checks 
+uwbabe: checks 
+*** SHOW DOWN ***
+imactually12: shows [Th 9s] (a pair of Jacks)
+uwbabe: shows [Qs Qh] (two pair, Queens and Jacks)
+uwbabe collected $113.50 from pot
+*** SUMMARY ***
+Total pot $114 | Rake $0.50 
+Board [Kh 7s 2d Jd Jh]
+Seat 1: uwbabe (button) (small blind) showed [Qs Qh] and won ($113.50) with two pair, Queens and Jacks
+Seat 4: imactually12 (big blind) showed [Th 9s] and lost with a pair of Jacks
+
+
+PokerStars Game #102632066407:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:55:17 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($351.50 in chips) 
+Seat 3: whollyflush ($612 in chips) 
+Seat 4: imactually12 ($643.50 in chips) 
+whollyflush: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: raises $6 to $12
+whollyflush: raises $30 to $42
+imactually12: calls $36
+uwbabe: folds 
+*** FLOP *** [3d 6c Td]
+whollyflush: checks 
+imactually12: checks 
+*** TURN *** [3d 6c Td] [7s]
+whollyflush: checks 
+imactually12: checks 
+*** RIVER *** [3d 6c Td 7s] [5c]
+whollyflush: checks 
+imactually12: bets $69
+whollyflush: folds 
+Uncalled bet ($69) returned to imactually12
+imactually12 collected $94.50 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $96 | Rake $1.50 
+Board [3d 6c Td 7s 5c]
+Seat 1: uwbabe (button) folded before Flop
+Seat 3: whollyflush (small blind) folded on the River
+Seat 4: imactually12 (big blind) collected ($94.50)
+
+
+PokerStars Game #102632120781:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:57:21 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #3 is the button
+Seat 2: rocks50 ($600 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($696 in chips) 
+imactually12: posts small blind $3
+uwbabe: is sitting out 
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+uwbabe leaves the table
+whollyflush: raises $6 to $12
+imactually12: folds 
+rocks50: folds 
+Uncalled bet ($6) returned to whollyflush
+whollyflush collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: rocks50 (big blind) folded before Flop
+Seat 3: whollyflush (button) collected ($15)
+Seat 4: imactually12 (small blind) folded before Flop
+
+
+PokerStars Game #102632129558:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:57:41 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #4 is the button
+Seat 2: rocks50 ($600 in chips) 
+Seat 3: whollyflush ($609 in chips) 
+Seat 4: imactually12 ($693 in chips) 
+rocks50: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: raises $36 to $48
+whollyflush: folds 
+imactually12: folds 
+Uncalled bet ($36) returned to rocks50
+rocks50 collected $30 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 2: rocks50 (small blind) collected ($30)
+Seat 3: whollyflush (big blind) folded before Flop
+Seat 4: imactually12 (button) folded before Flop
+
+
+PokerStars Game #102632136300:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:57:56 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #2 is the button
+Seat 2: rocks50 ($618 in chips) 
+Seat 3: whollyflush ($603 in chips) 
+Seat 4: imactually12 ($681 in chips) 
+whollyflush: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+whollyflush: folds 
+imactually12: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $15 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: rocks50 (button) collected ($15)
+Seat 3: whollyflush (small blind) folded before Flop
+Seat 4: imactually12 (big blind) folded before Flop
+
+
+PokerStars Game #102632141466:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:58:08 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #3 is the button
+Seat 2: rocks50 ($627 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($675 in chips) 
+imactually12: posts small blind $3
+rocks50: posts big blind $6
+*** HOLE CARDS ***
+whollyflush: raises $6 to $12
+imactually12: folds 
+rocks50: raises $36 to $48
+whollyflush: folds 
+Uncalled bet ($36) returned to rocks50
+rocks50 collected $27 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 2: rocks50 (big blind) collected ($27)
+Seat 3: whollyflush (button) folded before Flop
+Seat 4: imactually12 (small blind) folded before Flop
+
+
+PokerStars Game #102632155354:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:58:39 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #4 is the button
+Seat 2: rocks50 ($642 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($672 in chips) 
+rocks50: posts small blind $3
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+rocks50: folds 
+whollyflush: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $15 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: rocks50 (small blind) folded before Flop
+Seat 3: whollyflush (big blind) folded before Flop
+Seat 4: imactually12 (button) collected ($15)
+
+
+PokerStars Game #102632161190:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:58:52 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #2 is the button
+Seat 2: rocks50 ($639 in chips) 
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($681 in chips) 
+whollyflush: posts small blind $3
+imactually12: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $6 to $12
+whollyflush: folds 
+imactually12: folds 
+Uncalled bet ($6) returned to rocks50
+rocks50 collected $15 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: rocks50 (button) collected ($15)
+Seat 3: whollyflush (small blind) folded before Flop
+Seat 4: imactually12 (big blind) folded before Flop
+
+
+PokerStars Game #102632174277:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 19:59:22 ET
+Table 'Psyche II 40-100 bb' 6-max Seat #4 is the button
+Seat 3: whollyflush ($600 in chips) 
+Seat 4: imactually12 ($675 in chips) 
+imactually12: posts small blind $3
+rocks50: is sitting out 
+whollyflush: posts big blind $6
+*** HOLE CARDS ***
+imactually12: raises $6 to $12
+whollyflush: folds 
+Uncalled bet ($6) returned to imactually12
+imactually12 collected $12 from pot
+imactually12: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 3: whollyflush (big blind) folded before Flop
+Seat 4: imactually12 (button) (small blind) collected ($12)

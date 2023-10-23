@@ -1,0 +1,2973 @@
+
+
+PokerStars Game #102603802815:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:19:42 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: EtniX111 ($600 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Hristo008 ($240 in chips) 
+Seat 5: thecurv ($600 in chips) 
+Seat 6: Scarface.VLT ($600 in chips) 
+Scarface.VLT: posts small blind $3
+EtniX111: posts big blind $6
+dumbo2000 joins the table at seat #2 
+*** HOLE CARDS ***
+VegasMidas: folds 
+Hristo008: raises $6 to $12
+thecurv: folds 
+Scarface.VLT: folds 
+EtniX111: raises $30 to $42
+Hristo008: folds 
+Uncalled bet ($30) returned to EtniX111
+EtniX111 collected $27 from pot
+EtniX111: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 1: EtniX111 (big blind) collected ($27)
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Hristo008 folded before Flop
+Seat 5: thecurv (button) folded before Flop (didn't bet)
+Seat 6: Scarface.VLT (small blind) folded before Flop
+
+
+PokerStars Game #102604551240:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:40:50 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Aliya8 ($270.10 in chips) 
+Seat 2: YOUNG1184 ($468.74 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($231.20 in chips) 
+Seat 5: floriiiiider ($651.20 in chips) 
+Seat 6: barrao ($228.30 in chips) 
+YOUNG1184: posts small blind $3
+VegasMidas: posts big blind $6
+*** HOLE CARDS ***
+Sir_Fuj1: folds 
+floriiiiider has timed out
+floriiiiider: folds 
+barrao: folds 
+Aliya8: folds 
+YOUNG1184: raises $6 to $12
+VegasMidas: calls $6
+*** FLOP *** [As Qs Tc]
+YOUNG1184: checks 
+VegasMidas: checks 
+*** TURN *** [As Qs Tc] [3d]
+YOUNG1184: checks 
+VegasMidas: checks 
+*** RIVER *** [As Qs Tc 3d] [3c]
+YOUNG1184: checks 
+VegasMidas: checks 
+*** SHOW DOWN ***
+YOUNG1184: shows [5s 6h] (a pair of Threes)
+VegasMidas: shows [Qh 9h] (two pair, Queens and Threes)
+VegasMidas collected $22.92 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.08 
+Board [As Qs Tc 3d 3c]
+Seat 1: Aliya8 (button) folded before Flop (didn't bet)
+Seat 2: YOUNG1184 (small blind) showed [5s 6h] and lost with a pair of Threes
+Seat 3: VegasMidas (big blind) showed [Qh 9h] and won ($22.92) with two pair, Queens and Threes
+Seat 4: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 5: floriiiiider folded before Flop (didn't bet)
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102604593741:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:42:01 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Aliya8 ($270.10 in chips) 
+Seat 2: YOUNG1184 ($456.74 in chips) 
+Seat 3: VegasMidas ($610.92 in chips) 
+Seat 4: Sir_Fuj1 ($231.20 in chips) 
+Seat 5: floriiiiider ($651.20 in chips) 
+Seat 6: barrao ($228.30 in chips) 
+VegasMidas: posts small blind $3
+Sir_Fuj1: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider: folds 
+barrao: folds 
+Aliya8: folds 
+YOUNG1184: raises $6 to $12
+VegasMidas: folds 
+Sir_Fuj1: raises $65 to $77
+YOUNG1184: calls $65
+*** FLOP *** [9h Ac Ts]
+Sir_Fuj1: checks 
+YOUNG1184: checks 
+*** TURN *** [9h Ac Ts] [2s]
+Sir_Fuj1: checks 
+YOUNG1184: bets $96
+Sir_Fuj1: raises $58.20 to $154.20 and is all-in
+YOUNG1184: calls $58.20
+*** RIVER *** [9h Ac Ts 2s] [8s]
+*** SHOW DOWN ***
+Sir_Fuj1: shows [Td Th] (three of a kind, Tens)
+YOUNG1184: shows [Js Ks] (a flush, King high)
+YOUNG1184 collected $462.60 from pot
+*** SUMMARY ***
+Total pot $465.40 | Rake $2.80 
+Board [9h Ac Ts 2s 8s]
+Seat 1: Aliya8 folded before Flop (didn't bet)
+Seat 2: YOUNG1184 (button) showed [Js Ks] and won ($462.60) with a flush, King high
+Seat 3: VegasMidas (small blind) folded before Flop
+Seat 4: Sir_Fuj1 (big blind) showed [Td Th] and lost with three of a kind, Tens
+Seat 5: floriiiiider folded before Flop (didn't bet)
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102604628345:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:42:59 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Aliya8 ($270.10 in chips) 
+Seat 2: YOUNG1184 ($688.14 in chips) 
+Seat 3: VegasMidas ($607.92 in chips) 
+Seat 4: Sir_Fuj1 ($240 in chips) 
+Seat 5: floriiiiider ($651.20 in chips) 
+Seat 6: barrao ($228.30 in chips) 
+Sir_Fuj1: posts small blind $3
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+Aliya8: folds 
+YOUNG1184: folds 
+VegasMidas: raises $6 to $12
+Sir_Fuj1: folds 
+floriiiiider: folds 
+Uncalled bet ($6) returned to VegasMidas
+VegasMidas collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Aliya8 folded before Flop (didn't bet)
+Seat 2: YOUNG1184 folded before Flop (didn't bet)
+Seat 3: VegasMidas (button) collected ($15)
+Seat 4: Sir_Fuj1 (small blind) folded before Flop
+Seat 5: floriiiiider (big blind) folded before Flop
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102604638852:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:43:17 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Aliya8 ($270.10 in chips) 
+Seat 2: YOUNG1184 ($688.14 in chips) 
+Seat 3: VegasMidas ($616.92 in chips) 
+Seat 4: Sir_Fuj1 ($237 in chips) 
+Seat 5: floriiiiider ($645.20 in chips) 
+Seat 6: barrao ($228.30 in chips) 
+floriiiiider: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Aliya8: folds 
+YOUNG1184: raises $6 to $12
+VegasMidas: folds 
+Sir_Fuj1: folds 
+floriiiiider: calls $9
+barrao: folds 
+*** FLOP *** [Ah 3c Ts]
+floriiiiider: checks 
+YOUNG1184: checks 
+*** TURN *** [Ah 3c Ts] [6h]
+floriiiiider: bets $21
+YOUNG1184: calls $21
+*** RIVER *** [Ah 3c Ts 6h] [2d]
+floriiiiider: checks 
+YOUNG1184: bets $72
+floriiiiider: folds 
+Uncalled bet ($72) returned to YOUNG1184
+YOUNG1184 collected $69.20 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $2.80 
+Board [Ah 3c Ts 6h 2d]
+Seat 1: Aliya8 folded before Flop (didn't bet)
+Seat 2: YOUNG1184 collected ($69.20)
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 (button) folded before Flop (didn't bet)
+Seat 5: floriiiiider (small blind) folded on the River
+Seat 6: barrao (big blind) folded before Flop
+
+
+PokerStars Game #102604663827:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:43:59 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Aliya8 ($270.10 in chips) 
+Seat 2: YOUNG1184 ($724.34 in chips) 
+Seat 3: VegasMidas ($616.92 in chips) 
+Seat 4: Sir_Fuj1 ($237 in chips) 
+Seat 5: floriiiiider ($612.20 in chips) 
+Seat 6: barrao ($222.30 in chips) 
+barrao: posts small blind $3
+Aliya8: posts big blind $6
+*** HOLE CARDS ***
+YOUNG1184: raises $6 to $12
+VegasMidas: folds 
+Sir_Fuj1: folds 
+floriiiiider: folds 
+barrao: folds 
+Aliya8: calls $6
+*** FLOP *** [6c 6s Kh]
+Aliya8: checks 
+YOUNG1184: bets $24
+Aliya8: raises $50 to $74
+YOUNG1184: raises $638.34 to $712.34 and is all-in
+Aliya8: calls $184.10 and is all-in
+Uncalled bet ($454.24) returned to YOUNG1184
+*** TURN *** [6c 6s Kh] [8c]
+*** RIVER *** [6c 6s Kh 8c] [3d]
+*** SHOW DOWN ***
+Aliya8: shows [9c 6d] (three of a kind, Sixes)
+YOUNG1184: shows [7s Ks] (two pair, Kings and Sixes)
+Aliya8 collected $540.40 from pot
+*** SUMMARY ***
+Total pot $543.20 | Rake $2.80 
+Board [6c 6s Kh 8c 3d]
+Seat 1: Aliya8 (big blind) showed [9c 6d] and won ($540.40) with three of a kind, Sixes
+Seat 2: YOUNG1184 showed [7s Ks] and lost with two pair, Kings and Sixes
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 5: floriiiiider (button) folded before Flop (didn't bet)
+Seat 6: barrao (small blind) folded before Flop
+
+
+PokerStars Game #102604690395:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:44:43 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Aliya8 ($540.40 in chips) 
+Seat 2: YOUNG1184 ($454.24 in chips) 
+Seat 3: VegasMidas ($616.92 in chips) 
+Seat 4: Sir_Fuj1 ($237 in chips) 
+Seat 5: floriiiiider ($612.20 in chips) 
+Seat 6: barrao ($219.30 in chips) 
+Aliya8: posts small blind $3
+YOUNG1184: posts big blind $6
+*** HOLE CARDS ***
+VegasMidas: folds 
+Sir_Fuj1: raises $12 to $18
+floriiiiider: folds 
+barrao: folds 
+Aliya8: folds 
+YOUNG1184: folds 
+Uncalled bet ($12) returned to Sir_Fuj1
+Sir_Fuj1 collected $15 from pot
+Sir_Fuj1: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Aliya8 (small blind) folded before Flop
+Seat 2: YOUNG1184 (big blind) folded before Flop
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 collected ($15)
+Seat 5: floriiiiider folded before Flop (didn't bet)
+Seat 6: barrao (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102604699760:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:44:59 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Aliya8 ($537.40 in chips) 
+Seat 2: YOUNG1184 ($448.24 in chips) 
+Seat 3: VegasMidas ($616.92 in chips) 
+Seat 4: Sir_Fuj1 ($246 in chips) 
+Seat 5: floriiiiider ($612.20 in chips) 
+Seat 6: barrao ($219.30 in chips) 
+YOUNG1184: posts small blind $3
+VegasMidas: posts big blind $6
+*** HOLE CARDS ***
+Sir_Fuj1: raises $12 to $18
+floriiiiider: calls $18
+barrao: folds 
+Aliya8: folds 
+YOUNG1184: folds 
+VegasMidas: folds 
+*** FLOP *** [2h 6s 7s]
+Sir_Fuj1: checks 
+floriiiiider: bets $27
+Sir_Fuj1: raises $48 to $75
+floriiiiider: folds 
+Uncalled bet ($48) returned to Sir_Fuj1
+Sir_Fuj1 collected $96.20 from pot
+Sir_Fuj1: doesn't show hand 
+*** SUMMARY ***
+Total pot $99 | Rake $2.80 
+Board [2h 6s 7s]
+Seat 1: Aliya8 (button) folded before Flop (didn't bet)
+Seat 2: YOUNG1184 (small blind) folded before Flop
+Seat 3: VegasMidas (big blind) folded before Flop
+Seat 4: Sir_Fuj1 collected ($96.20)
+Seat 5: floriiiiider folded on the Flop
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102604349878:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:35:12 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #4 is the button
+Seat 2: YOUNG1184 ($398.56 in chips) 
+Seat 3: VegasMidas ($642.20 in chips) 
+Seat 4: Sir_Fuj1 ($222 in chips) 
+Seat 5: floriiiiider ($600 in chips) 
+Seat 6: barrao ($288.20 in chips) 
+floriiiiider: posts small blind $3
+barrao: posts big blind $6
+Aliya8: sits out 
+*** HOLE CARDS ***
+YOUNG1184: raises $6 to $12
+VegasMidas: folds 
+Sir_Fuj1: folds 
+floriiiiider: folds 
+barrao: calls $6
+*** FLOP *** [8s Jd Ah]
+barrao: bets $15
+YOUNG1184: calls $15
+*** TURN *** [8s Jd Ah] [2s]
+barrao: bets $27
+YOUNG1184: raises $344.56 to $371.56 and is all-in
+barrao: folds 
+Uncalled bet ($344.56) returned to YOUNG1184
+YOUNG1184 collected $108.20 from pot
+*** SUMMARY ***
+Total pot $111 | Rake $2.80 
+Board [8s Jd Ah 2s]
+Seat 2: YOUNG1184 collected ($108.20)
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 (button) folded before Flop (didn't bet)
+Seat 5: floriiiiider (small blind) folded before Flop
+Seat 6: barrao (big blind) folded on the Turn
+
+
+PokerStars Game #102604375771:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:35:55 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Aliya8 ($240 in chips) 
+Seat 2: YOUNG1184 ($452.76 in chips) 
+Seat 3: VegasMidas ($642.20 in chips) 
+Seat 4: Sir_Fuj1 ($222 in chips) 
+Seat 5: floriiiiider ($600 in chips) 
+Seat 6: barrao ($234.20 in chips) 
+barrao: posts small blind $3
+Aliya8: posts big blind $6
+*** HOLE CARDS ***
+YOUNG1184: folds 
+VegasMidas: folds 
+Sir_Fuj1: raises $9 to $15
+floriiiiider: raises $21 to $36
+barrao: folds 
+Aliya8: folds 
+Sir_Fuj1: folds 
+Uncalled bet ($21) returned to floriiiiider
+floriiiiider collected $39 from pot
+floriiiiider: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $0 
+Seat 1: Aliya8 (big blind) folded before Flop
+Seat 2: YOUNG1184 folded before Flop (didn't bet)
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 folded before Flop
+Seat 5: floriiiiider (button) collected ($39)
+Seat 6: barrao (small blind) folded before Flop
+
+
+PokerStars Game #102604389391:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:36:18 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Aliya8 ($240 in chips) 
+Seat 2: YOUNG1184 ($452.76 in chips) 
+Seat 3: VegasMidas ($642.20 in chips) 
+Seat 4: Sir_Fuj1 ($240 in chips) 
+Seat 5: floriiiiider ($624 in chips) 
+Seat 6: barrao ($231.20 in chips) 
+Aliya8: posts small blind $3
+YOUNG1184: posts big blind $6
+*** HOLE CARDS ***
+VegasMidas: raises $12 to $18
+Sir_Fuj1: folds 
+floriiiiider: folds 
+barrao: folds 
+Aliya8: raises $42 to $60
+YOUNG1184: folds 
+VegasMidas: folds 
+Uncalled bet ($42) returned to Aliya8
+Aliya8 collected $42 from pot
+Aliya8: doesn't show hand 
+*** SUMMARY ***
+Total pot $42 | Rake $0 
+Seat 1: Aliya8 (small blind) collected ($42)
+Seat 2: YOUNG1184 (big blind) folded before Flop
+Seat 3: VegasMidas folded before Flop
+Seat 4: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 5: floriiiiider folded before Flop (didn't bet)
+Seat 6: barrao (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102604407572:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:36:48 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Aliya8 ($264 in chips) 
+Seat 2: YOUNG1184 ($446.76 in chips) 
+Seat 3: VegasMidas ($624.20 in chips) 
+Seat 4: Sir_Fuj1 ($240 in chips) 
+Seat 5: floriiiiider ($624 in chips) 
+Seat 6: barrao ($231.20 in chips) 
+YOUNG1184: posts small blind $3
+VegasMidas: posts big blind $6
+*** HOLE CARDS ***
+Sir_Fuj1: folds 
+floriiiiider: folds 
+barrao: folds 
+Aliya8: folds 
+YOUNG1184: calls $3
+VegasMidas: checks 
+*** FLOP *** [2s Jd Jc]
+YOUNG1184: checks 
+VegasMidas: checks 
+*** TURN *** [2s Jd Jc] [2h]
+YOUNG1184: bets $18
+VegasMidas: folds 
+Uncalled bet ($18) returned to YOUNG1184
+YOUNG1184 collected $11.46 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.54 
+Board [2s Jd Jc 2h]
+Seat 1: Aliya8 (button) folded before Flop (didn't bet)
+Seat 2: YOUNG1184 (small blind) collected ($11.46)
+Seat 3: VegasMidas (big blind) folded on the Turn
+Seat 4: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 5: floriiiiider folded before Flop (didn't bet)
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102604439907:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:37:42 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Aliya8 ($264 in chips) 
+Seat 2: YOUNG1184 ($452.22 in chips) 
+Seat 3: VegasMidas ($618.20 in chips) 
+Seat 4: Sir_Fuj1 ($240 in chips) 
+Seat 5: floriiiiider ($624 in chips) 
+Seat 6: barrao ($231.20 in chips) 
+VegasMidas: posts small blind $3
+Sir_Fuj1: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider: folds 
+barrao: folds 
+Aliya8: raises $12 to $18
+YOUNG1184: folds 
+VegasMidas: folds 
+Sir_Fuj1: folds 
+Uncalled bet ($12) returned to Aliya8
+Aliya8 collected $15 from pot
+Aliya8: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Aliya8 collected ($15)
+Seat 2: YOUNG1184 (button) folded before Flop (didn't bet)
+Seat 3: VegasMidas (small blind) folded before Flop
+Seat 4: Sir_Fuj1 (big blind) folded before Flop
+Seat 5: floriiiiider folded before Flop (didn't bet)
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102604449516:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:37:59 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Aliya8 ($273 in chips) 
+Seat 2: YOUNG1184 ($452.22 in chips) 
+Seat 3: VegasMidas ($615.20 in chips) 
+Seat 4: Sir_Fuj1 ($234 in chips) 
+Seat 5: floriiiiider ($624 in chips) 
+Seat 6: barrao ($231.20 in chips) 
+Sir_Fuj1: posts small blind $3
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+Aliya8: folds 
+YOUNG1184: folds 
+VegasMidas: raises $6 to $12
+Sir_Fuj1: folds 
+floriiiiider: raises $33 to $45
+VegasMidas: calls $33
+*** FLOP *** [5h Jd Ks]
+floriiiiider: bets $60
+VegasMidas: folds 
+Uncalled bet ($60) returned to floriiiiider
+floriiiiider collected $90.20 from pot
+floriiiiider: doesn't show hand 
+*** SUMMARY ***
+Total pot $93 | Rake $2.80 
+Board [5h Jd Ks]
+Seat 1: Aliya8 folded before Flop (didn't bet)
+Seat 2: YOUNG1184 folded before Flop (didn't bet)
+Seat 3: VegasMidas (button) folded on the Flop
+Seat 4: Sir_Fuj1 (small blind) folded before Flop
+Seat 5: floriiiiider (big blind) collected ($90.20)
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102604472655:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:38:38 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Aliya8 ($273 in chips) 
+Seat 2: YOUNG1184 ($452.22 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($231 in chips) 
+Seat 5: floriiiiider ($669.20 in chips) 
+Seat 6: barrao ($231.20 in chips) 
+floriiiiider: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Aliya8: folds 
+YOUNG1184: folds 
+VegasMidas: folds 
+Sir_Fuj1: raises $9 to $15
+floriiiiider: folds 
+barrao: raises $21 to $36
+Sir_Fuj1: raises $195 to $231 and is all-in
+barrao: calls $195
+*** FIRST FLOP *** [Ac 8c Js]
+*** FIRST TURN *** [Ac 8c Js] [Kh]
+*** FIRST RIVER *** [Ac 8c Js Kh] [9s]
+*** SECOND FLOP *** [2c 6c Tc]
+*** SECOND TURN *** [2c 6c Tc] [9h]
+*** SECOND RIVER *** [2c 6c Tc 9h] [4d]
+*** FIRST SHOW DOWN ***
+barrao: shows [Jh Ah] (two pair, Aces and Jacks)
+Sir_Fuj1: shows [5d 5s] (a pair of Fives)
+barrao collected $231.10 from pot
+*** SECOND SHOW DOWN ***
+barrao: shows [Jh Ah] (high card Ace)
+Sir_Fuj1: shows [5d 5s] (a pair of Fives)
+Sir_Fuj1 collected $231.10 from pot
+*** SUMMARY ***
+Total pot $465 | Rake $2.80 
+Hand was run twice
+FIRST Board [Ac 8c Js Kh 9s]
+SECOND Board [2c 6c Tc 9h 4d]
+Seat 1: Aliya8 folded before Flop (didn't bet)
+Seat 2: YOUNG1184 folded before Flop (didn't bet)
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 (button) showed [5d 5s] and lost with a pair of Fives, and won ($231.10) with a pair of Fives
+Seat 5: floriiiiider (small blind) folded before Flop
+Seat 6: barrao (big blind) showed [Jh Ah] and won ($231.10) with two pair, Aces and Jacks, and lost with high card Ace
+
+
+PokerStars Game #102604495675:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:39:16 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Aliya8 ($273 in chips) 
+Seat 2: YOUNG1184 ($452.22 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($231.10 in chips) 
+Seat 5: floriiiiider ($666.20 in chips) 
+Seat 6: barrao ($231.30 in chips) 
+barrao: posts small blind $3
+Aliya8: posts big blind $6
+*** HOLE CARDS ***
+YOUNG1184: folds 
+VegasMidas: folds 
+Sir_Fuj1: raises $9 to $15
+floriiiiider: folds 
+barrao: folds 
+Aliya8: raises $33 to $48
+Sir_Fuj1: raises $183.10 to $231.10 and is all-in
+Aliya8: calls $183.10
+*** FIRST FLOP *** [Ad Qd 6h]
+*** FIRST TURN *** [Ad Qd 6h] [9d]
+*** FIRST RIVER *** [Ad Qd 6h 9d] [2c]
+*** SECOND FLOP *** [4c 7c 4s]
+*** SECOND TURN *** [4c 7c 4s] [5h]
+*** SECOND RIVER *** [4c 7c 4s 5h] [Jc]
+*** FIRST SHOW DOWN ***
+Aliya8: shows [As Kd] (a pair of Aces)
+Sir_Fuj1: shows [Kh Kc] (a pair of Kings)
+Aliya8 collected $231.20 from pot
+*** SECOND SHOW DOWN ***
+Aliya8: shows [As Kd] (a pair of Fours)
+Sir_Fuj1: shows [Kh Kc] (two pair, Kings and Fours)
+Sir_Fuj1 collected $231.20 from pot
+*** SUMMARY ***
+Total pot $465.20 | Rake $2.80 
+Hand was run twice
+FIRST Board [Ad Qd 6h 9d 2c]
+SECOND Board [4c 7c 4s 5h Jc]
+Seat 1: Aliya8 (big blind) showed [As Kd] and won ($231.20) with a pair of Aces, and lost with a pair of Fours
+Seat 2: YOUNG1184 folded before Flop (didn't bet)
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 showed [Kh Kc] and lost with a pair of Kings, and won ($231.20) with two pair, Kings and Fours
+Seat 5: floriiiiider (button) folded before Flop (didn't bet)
+Seat 6: barrao (small blind) folded before Flop
+
+
+PokerStars Game #102604520509:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:39:58 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Aliya8 ($273.10 in chips) 
+Seat 2: YOUNG1184 ($452.22 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($231.20 in chips) 
+Seat 5: floriiiiider ($666.20 in chips) 
+Seat 6: barrao ($228.30 in chips) 
+Aliya8: posts small blind $3
+YOUNG1184: posts big blind $6
+*** HOLE CARDS ***
+VegasMidas: folds 
+Sir_Fuj1: folds 
+floriiiiider: raises $9 to $15
+barrao: folds 
+Aliya8: folds 
+YOUNG1184: calls $9
+*** FLOP *** [9s 3h 7h]
+YOUNG1184: checks 
+floriiiiider: checks 
+*** TURN *** [9s 3h 7h] [3c]
+YOUNG1184: bets $24
+floriiiiider: folds 
+Uncalled bet ($24) returned to YOUNG1184
+YOUNG1184 collected $31.52 from pot
+*** SUMMARY ***
+Total pot $33 | Rake $1.48 
+Board [9s 3h 7h 3c]
+Seat 1: Aliya8 (small blind) folded before Flop
+Seat 2: YOUNG1184 (big blind) collected ($31.52)
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 5: floriiiiider folded on the Turn
+Seat 6: barrao (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102604176503:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:30:19 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: EtniX111 ($637.50 in chips) 
+Seat 2: YOUNG1184 ($324.38 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($240 in chips) 
+Seat 5: floriiiiider ($613.78 in chips) 
+Seat 6: barrao ($297.20 in chips) 
+EtniX111: posts small blind $3
+YOUNG1184: posts big blind $6
+*** HOLE CARDS ***
+VegasMidas: folds 
+Sir_Fuj1: folds 
+floriiiiider: folds 
+barrao: folds 
+EtniX111: folds 
+Uncalled bet ($3) returned to YOUNG1184
+YOUNG1184 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: EtniX111 (small blind) folded before Flop
+Seat 2: YOUNG1184 (big blind) collected ($6)
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 5: floriiiiider folded before Flop (didn't bet)
+Seat 6: barrao (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102604186127:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:30:35 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: EtniX111 ($634.50 in chips) 
+Seat 2: YOUNG1184 ($327.38 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($240 in chips) 
+Seat 5: floriiiiider ($613.78 in chips) 
+Seat 6: barrao ($297.20 in chips) 
+YOUNG1184: posts small blind $3
+VegasMidas: posts big blind $6
+*** HOLE CARDS ***
+Sir_Fuj1: folds 
+floriiiiider: folds 
+barrao: folds 
+EtniX111: raises $6 to $12
+YOUNG1184: raises $18 to $30
+VegasMidas: folds 
+EtniX111: calls $18
+*** FLOP *** [2s 7h 5s]
+YOUNG1184: bets $48
+EtniX111: folds 
+Uncalled bet ($48) returned to YOUNG1184
+YOUNG1184 collected $63.20 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $2.80 
+Board [2s 7h 5s]
+Seat 1: EtniX111 (button) folded on the Flop
+Seat 2: YOUNG1184 (small blind) collected ($63.20)
+Seat 3: VegasMidas (big blind) folded before Flop
+Seat 4: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 5: floriiiiider folded before Flop (didn't bet)
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102604208044:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:31:12 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: EtniX111 ($604.50 in chips) 
+Seat 2: YOUNG1184 ($360.58 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($240 in chips) 
+Seat 5: floriiiiider ($613.78 in chips) 
+Seat 6: barrao ($297.20 in chips) 
+VegasMidas: posts small blind $3
+Sir_Fuj1: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider: folds 
+barrao: folds 
+EtniX111: raises $9 to $15
+YOUNG1184: calls $15
+VegasMidas: folds 
+Sir_Fuj1: folds 
+*** FLOP *** [2c 2h Tc]
+EtniX111: bets $24
+YOUNG1184: calls $24
+*** TURN *** [2c 2h Tc] [4d]
+EtniX111: checks 
+YOUNG1184: checks 
+*** RIVER *** [2c 2h Tc 4d] [Jc]
+EtniX111: checks 
+YOUNG1184: bets $90
+EtniX111: folds 
+Uncalled bet ($90) returned to YOUNG1184
+YOUNG1184 collected $84.20 from pot
+*** SUMMARY ***
+Total pot $87 | Rake $2.80 
+Board [2c 2h Tc 4d Jc]
+Seat 1: EtniX111 folded on the River
+Seat 2: YOUNG1184 (button) collected ($84.20)
+Seat 3: VegasMidas (small blind) folded before Flop
+Seat 4: Sir_Fuj1 (big blind) folded before Flop
+Seat 5: floriiiiider folded before Flop (didn't bet)
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102604232709:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:31:54 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: EtniX111 ($600 in chips) 
+Seat 2: YOUNG1184 ($405.78 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($234 in chips) 
+Seat 5: floriiiiider ($613.78 in chips) 
+Seat 6: barrao ($297.20 in chips) 
+Sir_Fuj1: posts small blind $3
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+EtniX111: raises $12 to $18
+YOUNG1184: folds 
+VegasMidas: folds 
+Sir_Fuj1: folds 
+floriiiiider: folds 
+Uncalled bet ($12) returned to EtniX111
+EtniX111 collected $15 from pot
+EtniX111: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: EtniX111 collected ($15)
+Seat 2: YOUNG1184 folded before Flop (didn't bet)
+Seat 3: VegasMidas (button) folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 (small blind) folded before Flop
+Seat 5: floriiiiider (big blind) folded before Flop
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102604244285:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:32:14 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: EtniX111 ($609 in chips) 
+Seat 2: YOUNG1184 ($405.78 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($231 in chips) 
+Seat 5: floriiiiider ($607.78 in chips) 
+Seat 6: barrao ($297.20 in chips) 
+floriiiiider: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+EtniX111: folds 
+YOUNG1184: raises $6 to $12
+VegasMidas: folds 
+Sir_Fuj1: folds 
+floriiiiider: folds 
+barrao: folds 
+Uncalled bet ($6) returned to YOUNG1184
+YOUNG1184 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: EtniX111 folded before Flop (didn't bet)
+Seat 2: YOUNG1184 collected ($15)
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 (button) folded before Flop (didn't bet)
+Seat 5: floriiiiider (small blind) folded before Flop
+Seat 6: barrao (big blind) folded before Flop
+
+
+PokerStars Game #102604260106:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:32:41 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: YOUNG1184 ($414.78 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($231 in chips) 
+Seat 5: floriiiiider ($604.78 in chips) 
+Seat 6: barrao ($291.20 in chips) 
+barrao: posts small blind $3
+EtniX111: is sitting out 
+YOUNG1184: posts big blind $6
+*** HOLE CARDS ***
+VegasMidas: folds 
+Sir_Fuj1: folds 
+floriiiiider: raises $6 to $12
+barrao: folds 
+YOUNG1184: calls $6
+*** FLOP *** [Td 5c Ac]
+YOUNG1184: checks 
+EtniX111 leaves the table
+floriiiiider: checks 
+*** TURN *** [Td 5c Ac] [4s]
+YOUNG1184: bets $24
+floriiiiider: folds 
+Uncalled bet ($24) returned to YOUNG1184
+YOUNG1184 collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Td 5c Ac 4s]
+Seat 2: YOUNG1184 (big blind) collected ($25.78)
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 5: floriiiiider (button) folded on the Turn
+Seat 6: barrao (small blind) folded before Flop
+
+
+PokerStars Game #102604285975:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:33:25 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #6 is the button
+Seat 2: YOUNG1184 ($428.56 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($231 in chips) 
+Seat 5: floriiiiider ($600 in chips) 
+Seat 6: barrao ($288.20 in chips) 
+YOUNG1184: posts small blind $3
+VegasMidas: posts big blind $6
+*** HOLE CARDS ***
+Aliya8 joins the table at seat #1 
+Sir_Fuj1: folds 
+floriiiiider: folds 
+barrao: folds 
+YOUNG1184: folds 
+Uncalled bet ($3) returned to VegasMidas
+VegasMidas collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: YOUNG1184 (small blind) folded before Flop
+Seat 3: VegasMidas (big blind) collected ($6)
+Seat 4: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 5: floriiiiider folded before Flop (didn't bet)
+Seat 6: barrao (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102604295936:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:33:41 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: YOUNG1184 ($425.56 in chips) 
+Seat 3: VegasMidas ($603 in chips) 
+Seat 4: Sir_Fuj1 ($231 in chips) 
+Seat 5: floriiiiider ($600 in chips) 
+Seat 6: barrao ($288.20 in chips) 
+VegasMidas: posts small blind $3
+Sir_Fuj1: posts big blind $6
+Aliya8: sits out 
+*** HOLE CARDS ***
+floriiiiider: folds 
+barrao: folds 
+YOUNG1184: raises $6 to $12
+VegasMidas: folds 
+Sir_Fuj1: folds 
+Uncalled bet ($6) returned to YOUNG1184
+YOUNG1184 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: YOUNG1184 (button) collected ($15)
+Seat 3: VegasMidas (small blind) folded before Flop
+Seat 4: Sir_Fuj1 (big blind) folded before Flop
+Seat 5: floriiiiider folded before Flop (didn't bet)
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102604303019:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:33:53 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #3 is the button
+Seat 2: YOUNG1184 ($434.56 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($225 in chips) 
+Seat 5: floriiiiider ($600 in chips) 
+Seat 6: barrao ($288.20 in chips) 
+Sir_Fuj1: posts small blind $3
+floriiiiider: posts big blind $6
+Aliya8: sits out 
+*** HOLE CARDS ***
+barrao: folds 
+YOUNG1184: raises $6 to $12
+VegasMidas: raises $24 to $36
+Sir_Fuj1: folds 
+floriiiiider: folds 
+YOUNG1184: calls $24
+*** FLOP *** [6d Kd Jh]
+YOUNG1184: checks 
+VegasMidas: checks 
+*** TURN *** [6d Kd Jh] [Tc]
+YOUNG1184: checks 
+VegasMidas: checks 
+*** RIVER *** [6d Kd Jh Tc] [As]
+YOUNG1184: checks 
+VegasMidas: bets $54
+YOUNG1184: folds 
+Uncalled bet ($54) returned to VegasMidas
+VegasMidas collected $78.20 from pot
+*** SUMMARY ***
+Total pot $81 | Rake $2.80 
+Board [6d Kd Jh Tc As]
+Seat 2: YOUNG1184 folded on the River
+Seat 3: VegasMidas (button) collected ($78.20)
+Seat 4: Sir_Fuj1 (small blind) folded before Flop
+Seat 5: floriiiiider (big blind) folded before Flop
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102604015777:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:25:46 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: EtniX111 ($634.50 in chips) 
+Seat 2: YOUNG1184 ($357.38 in chips) 
+Seat 3: VegasMidas ($605.46 in chips) 
+Seat 4: Sir_Fuj1 ($234 in chips) 
+Seat 5: floriiiiider ($600 in chips) 
+Sir_Fuj1: posts small blind $3
+floriiiiider: posts big blind $6
+barrao: sits out 
+YOUNG1184: posts big blind $6
+*** HOLE CARDS ***
+EtniX111: raises $14 to $20
+YOUNG1184: folds 
+VegasMidas: folds 
+Sir_Fuj1: folds 
+floriiiiider: folds 
+Uncalled bet ($14) returned to EtniX111
+EtniX111 collected $21 from pot
+EtniX111: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $0 
+Seat 1: EtniX111 collected ($21)
+Seat 2: YOUNG1184 folded before Flop
+Seat 3: VegasMidas (button) folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 (small blind) folded before Flop
+Seat 5: floriiiiider (big blind) folded before Flop
+
+
+PokerStars Game #102604029790:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:26:10 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: EtniX111 ($649.50 in chips) 
+Seat 2: YOUNG1184 ($351.38 in chips) 
+Seat 3: VegasMidas ($605.46 in chips) 
+Seat 4: Sir_Fuj1 ($231 in chips) 
+Seat 5: floriiiiider ($600 in chips) 
+Seat 6: barrao ($240 in chips) 
+floriiiiider: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+EtniX111: folds 
+YOUNG1184: raises $6 to $12
+VegasMidas: folds 
+Sir_Fuj1: folds 
+floriiiiider: folds 
+barrao: calls $6
+*** FLOP *** [Kc Js 2h]
+barrao: checks 
+YOUNG1184: checks 
+*** TURN *** [Kc Js 2h] [8h]
+barrao: checks 
+YOUNG1184: bets $24
+barrao: calls $24
+*** RIVER *** [Kc Js 2h 8h] [7c]
+barrao: checks 
+YOUNG1184: checks 
+*** SHOW DOWN ***
+barrao: shows [Ah 8s] (a pair of Eights)
+YOUNG1184: mucks hand 
+barrao collected $72.20 from pot
+*** SUMMARY ***
+Total pot $75 | Rake $2.80 
+Board [Kc Js 2h 8h 7c]
+Seat 1: EtniX111 folded before Flop (didn't bet)
+Seat 2: YOUNG1184 mucked
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 (button) folded before Flop (didn't bet)
+Seat 5: floriiiiider (small blind) folded before Flop
+Seat 6: barrao (big blind) showed [Ah 8s] and won ($72.20) with a pair of Eights
+
+
+PokerStars Game #102604051510:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:26:46 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: EtniX111 ($649.50 in chips) 
+Seat 2: YOUNG1184 ($315.38 in chips) 
+Seat 3: VegasMidas ($605.46 in chips) 
+Seat 4: Sir_Fuj1 ($231 in chips) 
+Seat 5: floriiiiider ($600 in chips) 
+Seat 6: barrao ($276.20 in chips) 
+barrao: posts small blind $3
+EtniX111: posts big blind $6
+*** HOLE CARDS ***
+YOUNG1184: raises $6 to $12
+VegasMidas: folds 
+Sir_Fuj1: folds 
+floriiiiider: folds 
+barrao: folds 
+EtniX111: folds 
+Uncalled bet ($6) returned to YOUNG1184
+YOUNG1184 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: EtniX111 (big blind) folded before Flop
+Seat 2: YOUNG1184 collected ($15)
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 5: floriiiiider (button) folded before Flop (didn't bet)
+Seat 6: barrao (small blind) folded before Flop
+
+
+PokerStars Game #102604066732:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:27:13 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: EtniX111 ($643.50 in chips) 
+Seat 2: YOUNG1184 ($324.38 in chips) 
+Seat 3: VegasMidas ($605.46 in chips) 
+Seat 4: Sir_Fuj1 ($231 in chips) 
+Seat 5: floriiiiider ($600 in chips) 
+Seat 6: barrao ($273.20 in chips) 
+EtniX111: posts small blind $3
+YOUNG1184: posts big blind $6
+*** HOLE CARDS ***
+VegasMidas: folds 
+Sir_Fuj1: folds 
+floriiiiider: folds 
+barrao: folds 
+EtniX111: folds 
+Uncalled bet ($3) returned to YOUNG1184
+YOUNG1184 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: EtniX111 (small blind) folded before Flop
+Seat 2: YOUNG1184 (big blind) collected ($6)
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 5: floriiiiider folded before Flop (didn't bet)
+Seat 6: barrao (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102604078447:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:27:32 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: EtniX111 ($640.50 in chips) 
+Seat 2: YOUNG1184 ($327.38 in chips) 
+Seat 3: VegasMidas ($605.46 in chips) 
+Seat 4: Sir_Fuj1 ($231 in chips) 
+Seat 5: floriiiiider ($600 in chips) 
+Seat 6: barrao ($273.20 in chips) 
+YOUNG1184: posts small blind $3
+VegasMidas: posts big blind $6
+*** HOLE CARDS ***
+Sir_Fuj1: folds 
+floriiiiider: folds 
+barrao: folds 
+EtniX111: raises $6 to $12
+YOUNG1184: folds 
+VegasMidas: folds 
+Uncalled bet ($6) returned to EtniX111
+EtniX111 collected $15 from pot
+EtniX111: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: EtniX111 (button) collected ($15)
+Seat 2: YOUNG1184 (small blind) folded before Flop
+Seat 3: VegasMidas (big blind) folded before Flop
+Seat 4: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 5: floriiiiider folded before Flop (didn't bet)
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102604104661:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:28:17 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: EtniX111 ($649.50 in chips) 
+Seat 2: YOUNG1184 ($324.38 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($231 in chips) 
+Seat 5: floriiiiider ($600 in chips) 
+Seat 6: barrao ($273.20 in chips) 
+VegasMidas: posts small blind $3
+Sir_Fuj1: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider: raises $12 to $18
+barrao: folds 
+EtniX111: folds 
+YOUNG1184: folds 
+VegasMidas: folds 
+Sir_Fuj1: folds 
+Uncalled bet ($12) returned to floriiiiider
+floriiiiider collected $15 from pot
+floriiiiider: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: EtniX111 folded before Flop (didn't bet)
+Seat 2: YOUNG1184 (button) folded before Flop (didn't bet)
+Seat 3: VegasMidas (small blind) folded before Flop
+Seat 4: Sir_Fuj1 (big blind) folded before Flop
+Seat 5: floriiiiider collected ($15)
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102604112772:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:28:31 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: EtniX111 ($649.50 in chips) 
+Seat 2: YOUNG1184 ($324.38 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($225 in chips) 
+Seat 5: floriiiiider ($609 in chips) 
+Seat 6: barrao ($273.20 in chips) 
+Sir_Fuj1: posts small blind $3
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+barrao: raises $9 to $15
+EtniX111: folds 
+YOUNG1184: folds 
+VegasMidas: folds 
+Sir_Fuj1: folds 
+floriiiiider: folds 
+Uncalled bet ($9) returned to barrao
+barrao collected $15 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: EtniX111 folded before Flop (didn't bet)
+Seat 2: YOUNG1184 folded before Flop (didn't bet)
+Seat 3: VegasMidas (button) folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 (small blind) folded before Flop
+Seat 5: floriiiiider (big blind) folded before Flop
+Seat 6: barrao collected ($15)
+
+
+PokerStars Game #102604124599:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:28:51 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: EtniX111 ($649.50 in chips) 
+Seat 2: YOUNG1184 ($324.38 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($222 in chips) 
+Seat 5: floriiiiider ($603 in chips) 
+Seat 6: barrao ($282.20 in chips) 
+floriiiiider: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+EtniX111: folds 
+YOUNG1184: folds 
+VegasMidas: folds 
+Sir_Fuj1: raises $9 to $15
+floriiiiider: folds 
+barrao: raises $21 to $36
+Sir_Fuj1: folds 
+Uncalled bet ($21) returned to barrao
+barrao collected $33 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $0 
+Seat 1: EtniX111 folded before Flop (didn't bet)
+Seat 2: YOUNG1184 folded before Flop (didn't bet)
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 (button) folded before Flop
+Seat 5: floriiiiider (small blind) folded before Flop
+Seat 6: barrao (big blind) collected ($33)
+
+
+PokerStars Game #102604142018:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:29:21 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: EtniX111 ($649.50 in chips) 
+Seat 2: YOUNG1184 ($324.38 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($240 in chips) 
+Seat 5: floriiiiider ($600 in chips) 
+Seat 6: barrao ($300.20 in chips) 
+barrao: posts small blind $3
+EtniX111: posts big blind $6
+*** HOLE CARDS ***
+YOUNG1184: folds 
+VegasMidas: folds 
+Sir_Fuj1: folds 
+floriiiiider: raises $6 to $12
+barrao: folds 
+EtniX111: calls $6
+*** FLOP *** [6d 5d 5c]
+EtniX111: checks 
+floriiiiider: bets $18
+EtniX111: folds 
+Uncalled bet ($18) returned to floriiiiider
+floriiiiider collected $25.78 from pot
+floriiiiider: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [6d 5d 5c]
+Seat 1: EtniX111 (big blind) folded on the Flop
+Seat 2: YOUNG1184 folded before Flop (didn't bet)
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 5: floriiiiider (button) collected ($25.78)
+Seat 6: barrao (small blind) folded before Flop
+
+
+PokerStars Game #102603854491:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:21:10 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: EtniX111 ($615 in chips) 
+Seat 2: dumbo2000 ($240 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Hristo008 ($228 in chips) 
+Seat 5: thecurv ($600 in chips) 
+Seat 6: Scarface.VLT ($600 in chips) 
+EtniX111: posts small blind $3
+dumbo2000: posts big blind $6
+*** HOLE CARDS ***
+VegasMidas: folds 
+Hristo008: raises $6 to $12
+thecurv: folds 
+Scarface.VLT: folds 
+EtniX111: folds 
+dumbo2000: folds 
+Uncalled bet ($6) returned to Hristo008
+Hristo008 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: EtniX111 (small blind) folded before Flop
+Seat 2: dumbo2000 (big blind) folded before Flop
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Hristo008 collected ($15)
+Seat 5: thecurv folded before Flop (didn't bet)
+Seat 6: Scarface.VLT (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102603868594:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:21:34 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: EtniX111 ($612 in chips) 
+Seat 2: dumbo2000 ($240 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Hristo008 ($237 in chips) 
+Seat 5: thecurv ($600 in chips) 
+Seat 6: Scarface.VLT ($600 in chips) 
+dumbo2000: posts small blind $3
+VegasMidas: posts big blind $6
+*** HOLE CARDS ***
+Hristo008: folds 
+thecurv: raises $12 to $18
+Hristo008 leaves the table
+Scarface.VLT: folds 
+EtniX111: folds 
+LuckyMorkva joins the table at seat #4 
+dumbo2000: folds 
+LuckyMorkva leaves the table
+VegasMidas: folds 
+Uncalled bet ($12) returned to thecurv
+thecurv collected $15 from pot
+thecurv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: EtniX111 (button) folded before Flop (didn't bet)
+Seat 2: dumbo2000 (small blind) folded before Flop
+Seat 3: VegasMidas (big blind) folded before Flop
+Seat 4: Hristo008 folded before Flop (didn't bet)
+Seat 5: thecurv collected ($15)
+Seat 6: Scarface.VLT folded before Flop (didn't bet)
+
+
+PokerStars Game #102603878604:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:21:52 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: EtniX111 ($612 in chips) 
+Seat 2: dumbo2000 ($240 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+VegasMidas: posts small blind $3
+thecurv: is sitting out 
+Scarface.VLT: is sitting out 
+thecurv leaves the table
+EtniX111: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT leaves the table
+floriiiiider joins the table at seat #4 
+dumbo2000: folds 
+floriiiiider leaves the table
+dumbo2000 leaves the table
+VegasMidas: calls $3
+EtniX111: checks 
+*** FLOP *** [8s 2d 8d]
+VegasMidas: checks 
+EtniX111: checks 
+*** TURN *** [8s 2d 8d] [7d]
+VegasMidas: bets $12
+EtniX111: calls $12
+*** RIVER *** [8s 2d 8d 7d] [5s]
+VegasMidas: bets $26.56
+EtniX111: folds 
+Uncalled bet ($26.56) returned to VegasMidas
+VegasMidas collected $34.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.50 
+Board [8s 2d 8d 7d 5s]
+Seat 1: EtniX111 (big blind) folded on the River
+Seat 2: dumbo2000 (button) folded before Flop (didn't bet)
+Seat 3: VegasMidas (small blind) collected ($34.50)
+
+
+PokerStars Game #102603981609:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:24:48 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: EtniX111 ($634.50 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($240 in chips) 
+YOUNG1184 will be allowed to play after the button
+VegasMidas: posts small blind $3
+Sir_Fuj1: posts big blind $6
+floriiiiider: sits out 
+barrao: sits out 
+*** HOLE CARDS ***
+EtniX111: folds 
+VegasMidas: calls $3
+Sir_Fuj1: checks 
+*** FLOP *** [9d Jc Qs]
+VegasMidas: checks 
+Sir_Fuj1: checks 
+*** TURN *** [9d Jc Qs] [4s]
+VegasMidas: checks 
+Sir_Fuj1: checks 
+*** RIVER *** [9d Jc Qs 4s] [6c]
+VegasMidas: bets $12
+Sir_Fuj1: folds 
+Uncalled bet ($12) returned to VegasMidas
+VegasMidas collected $11.46 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.54 
+Board [9d Jc Qs 4s 6c]
+Seat 1: EtniX111 (button) folded before Flop (didn't bet)
+Seat 3: VegasMidas (small blind) collected ($11.46)
+Seat 4: Sir_Fuj1 (big blind) folded on the River
+
+
+PokerStars Game #102603930507:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:23:20 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: EtniX111 ($600 in chips) 
+Seat 3: VegasMidas ($616.50 in chips) 
+EtniX111: posts small blind $3
+VegasMidas: posts big blind $6
+*** HOLE CARDS ***
+YOUNG1184 joins the table at seat #2 
+EtniX111: raises $9 to $15
+Sir_Fuj1 joins the table at seat #4 
+floriiiiider joins the table at seat #5 
+barrao joins the table at seat #6 
+VegasMidas: calls $9
+*** FLOP *** [Th Kc Jd]
+VegasMidas: checks 
+EtniX111: bets $20
+VegasMidas: calls $20
+*** TURN *** [Th Kc Jd] [9h]
+VegasMidas: checks 
+EtniX111: bets $23
+VegasMidas: folds 
+Uncalled bet ($23) returned to EtniX111
+EtniX111 collected $69.50 from pot
+EtniX111: doesn't show hand 
+*** SUMMARY ***
+Total pot $70 | Rake $0.50 
+Board [Th Kc Jd 9h]
+Seat 1: EtniX111 (button) (small blind) collected ($69.50)
+Seat 3: VegasMidas (big blind) folded on the Turn
+
+
+PokerStars Game #102605085965:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:55:41 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Dom92 ($189 in chips) 
+Seat 2: elvn89 ($260.71 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($290.38 in chips) 
+Seat 6: barrao ($214.54 in chips) 
+Dom92: posts small blind $3
+elvn89: posts big blind $6
+CrionR: sits out 
+*** HOLE CARDS ***
+VegasMidas: folds 
+Sir_Fuj1: folds 
+barrao: folds 
+Dom92: folds 
+Uncalled bet ($3) returned to elvn89
+elvn89 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Dom92 (small blind) folded before Flop
+Seat 2: elvn89 (big blind) collected ($6)
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 6: barrao (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102605090625:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:55:51 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Dom92 ($186 in chips) 
+Seat 2: elvn89 ($263.71 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($290.38 in chips) 
+Seat 6: barrao ($214.54 in chips) 
+elvn89: posts small blind $3
+VegasMidas: posts big blind $6
+CrionR: sits out 
+*** HOLE CARDS ***
+Sir_Fuj1: folds 
+barrao: folds 
+Dom92: folds 
+elvn89: raises $7.02 to $13.02
+VegasMidas: raises $22.98 to $36
+elvn89: folds 
+Uncalled bet ($22.98) returned to VegasMidas
+VegasMidas collected $26.04 from pot
+*** SUMMARY ***
+Total pot $26.04 | Rake $0 
+Seat 1: Dom92 (button) folded before Flop (didn't bet)
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: VegasMidas (big blind) collected ($26.04)
+Seat 4: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102605103355:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:56:18 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Dom92 ($186 in chips) 
+Seat 2: elvn89 ($250.69 in chips) 
+Seat 3: VegasMidas ($613.02 in chips) 
+Seat 5: CrionR ($600 in chips) 
+Seat 6: barrao ($214.54 in chips) 
+VegasMidas: posts small blind $3
+Sir_Fuj1: is sitting out 
+CrionR: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+Sir_Fuj1 leaves the table
+Dom92: raises $12 to $18
+floriiiiider joins the table at seat #4 
+VegasMidas said, "stars is becoming shortie land"
+elvn89: folds 
+VegasMidas: folds 
+CrionR: folds 
+Uncalled bet ($12) returned to Dom92
+Dom92 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 collected ($15)
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: VegasMidas (small blind) folded before Flop
+Seat 5: CrionR (big blind) folded before Flop
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102605113561:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:56:40 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Dom92 ($195 in chips) 
+Seat 2: elvn89 ($250.69 in chips) 
+Seat 3: VegasMidas ($610.02 in chips) 
+Seat 5: CrionR ($600 in chips) 
+Seat 6: barrao ($214.54 in chips) 
+floriiiiider will be allowed to play after the button
+CrionR: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Dom92: folds 
+elvn89: folds 
+VegasMidas: raises $6 to $12
+CrionR: folds 
+barrao: folds 
+Uncalled bet ($6) returned to VegasMidas
+VegasMidas collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: VegasMidas (button) collected ($15)
+Seat 5: CrionR (small blind) folded before Flop
+Seat 6: barrao (big blind) folded before Flop
+
+
+PokerStars Game #102605119633:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:56:53 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Dom92 ($195 in chips) 
+Seat 2: elvn89 ($250.69 in chips) 
+Seat 3: VegasMidas ($619.02 in chips) 
+Seat 5: CrionR ($600 in chips) 
+Seat 6: barrao ($240 in chips) 
+barrao: posts small blind $3
+Dom92: posts big blind $6
+floriiiiider: sits out 
+*** HOLE CARDS ***
+elvn89: folds 
+VegasMidas: folds 
+CrionR: raises $6 to $12
+barrao: folds 
+Dom92: raises $24 to $36
+CrionR: folds 
+Uncalled bet ($24) returned to Dom92
+Dom92 collected $27 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 1: Dom92 (big blind) collected ($27)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 5: CrionR (button) folded before Flop
+Seat 6: barrao (small blind) folded before Flop
+
+
+PokerStars Game #102605130226:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:57:15 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Dom92 ($210 in chips) 
+Seat 2: elvn89 ($250.69 in chips) 
+Seat 3: VegasMidas ($619.02 in chips) 
+Seat 5: CrionR ($600 in chips) 
+Seat 6: barrao ($237 in chips) 
+Dom92: posts small blind $3
+elvn89: posts big blind $6
+floriiiiider: sits out 
+*** HOLE CARDS ***
+VegasMidas: raises $12 to $18
+CrionR: folds 
+barrao: folds 
+Dom92: folds 
+elvn89: folds 
+Uncalled bet ($12) returned to VegasMidas
+VegasMidas collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 (small blind) folded before Flop
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: VegasMidas collected ($15)
+Seat 5: CrionR folded before Flop (didn't bet)
+Seat 6: barrao (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102605136702:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:57:29 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Dom92 ($207 in chips) 
+Seat 2: elvn89 ($244.69 in chips) 
+Seat 4: floriiiiider ($638.89 in chips) 
+Seat 5: CrionR ($600 in chips) 
+Seat 6: barrao ($237 in chips) 
+elvn89: posts small blind $3
+VegasMidas: is sitting out 
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+CrionR: folds 
+barrao: folds 
+Dom92: folds 
+elvn89: raises $7.02 to $13.02
+floriiiiider: calls $7.02
+*** FLOP *** [7d 6d 4s]
+VegasMidas leaves the table
+elvn89: checks 
+floriiiiider: checks 
+*** TURN *** [7d 6d 4s] [Jd]
+Scarface.VLT joins the table at seat #3 
+elvn89: checks 
+floriiiiider: checks 
+*** RIVER *** [7d 6d 4s Jd] [Qh]
+elvn89: checks 
+floriiiiider: checks 
+*** SHOW DOWN ***
+elvn89: shows [Ah 9c] (high card Ace)
+floriiiiider: shows [As Tc] (high card Ace - Queen+Jack+Ten kicker)
+floriiiiider collected $24.87 from pot
+*** SUMMARY ***
+Total pot $26.04 | Rake $1.17 
+Board [7d 6d 4s Jd Qh]
+Seat 1: Dom92 (button) folded before Flop (didn't bet)
+Seat 2: elvn89 (small blind) showed [Ah 9c] and lost with high card Ace
+Seat 4: floriiiiider (big blind) showed [As Tc] and won ($24.87) with high card Ace
+Seat 5: CrionR folded before Flop (didn't bet)
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102605159101:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:58:17 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Dom92 ($207 in chips) 
+Seat 2: elvn89 ($231.67 in chips) 
+Seat 4: floriiiiider ($650.74 in chips) 
+Seat 5: CrionR ($600 in chips) 
+Seat 6: barrao ($237 in chips) 
+Scarface.VLT will be allowed to play after the button
+floriiiiider: posts small blind $3
+CrionR: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+Dom92: raises $6 to $12
+elvn89: folds 
+floriiiiider: folds 
+CrionR: folds 
+Uncalled bet ($6) returned to Dom92
+Dom92 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 collected ($15)
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 4: floriiiiider (small blind) folded before Flop
+Seat 5: CrionR (big blind) folded before Flop
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102605163620:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:58:26 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Dom92 ($216 in chips) 
+Seat 2: elvn89 ($231.67 in chips) 
+Seat 4: floriiiiider ($647.74 in chips) 
+Seat 5: CrionR ($600 in chips) 
+Seat 6: barrao ($237 in chips) 
+CrionR: posts small blind $3
+barrao: posts big blind $6
+Scarface.VLT: sits out 
+*** HOLE CARDS ***
+Dom92: folds 
+elvn89: folds 
+floriiiiider: folds 
+CrionR: folds 
+Uncalled bet ($3) returned to barrao
+barrao collected $6 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Dom92 folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 4: floriiiiider (button) folded before Flop (didn't bet)
+Seat 5: CrionR (small blind) folded before Flop
+Seat 6: barrao (big blind) collected ($6)
+
+
+PokerStars Game #102605169403:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:58:38 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Dom92 ($216 in chips) 
+Seat 2: elvn89 ($231.67 in chips) 
+Seat 4: floriiiiider ($647.74 in chips) 
+Seat 5: CrionR ($600 in chips) 
+Seat 6: barrao ($240 in chips) 
+barrao: posts small blind $3
+Dom92: posts big blind $6
+Scarface.VLT: sits out 
+*** HOLE CARDS ***
+elvn89: folds 
+floriiiiider: folds 
+CrionR: raises $6 to $12
+barrao: folds 
+Dom92: calls $6
+*** FLOP *** [8d 9c 7c]
+Dom92: checks 
+CrionR: bets $18
+Dom92: calls $18
+*** TURN *** [8d 9c 7c] [As]
+Dom92: checks 
+CrionR: bets $42
+Dom92: raises $78 to $120
+CrionR: folds 
+Uncalled bet ($78) returned to Dom92
+Dom92 collected $144.20 from pot
+*** SUMMARY ***
+Total pot $147 | Rake $2.80 
+Board [8d 9c 7c As]
+Seat 1: Dom92 (big blind) collected ($144.20)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 4: floriiiiider folded before Flop (didn't bet)
+Seat 5: CrionR (button) folded on the Turn
+Seat 6: barrao (small blind) folded before Flop
+
+
+PokerStars Game #102605192954:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:59:28 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Dom92 ($288.20 in chips) 
+Seat 2: elvn89 ($231.67 in chips) 
+Seat 4: floriiiiider ($647.74 in chips) 
+Seat 5: CrionR ($600 in chips) 
+Seat 6: barrao ($237 in chips) 
+Dom92: posts small blind $3
+elvn89: posts big blind $6
+Scarface.VLT: sits out 
+*** HOLE CARDS ***
+floriiiiider: raises $12 to $18
+CrionR: folds 
+barrao: folds 
+Dom92: folds 
+elvn89: folds 
+Uncalled bet ($12) returned to floriiiiider
+floriiiiider collected $15 from pot
+floriiiiider: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 (small blind) folded before Flop
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 4: floriiiiider collected ($15)
+Seat 5: CrionR folded before Flop (didn't bet)
+Seat 6: barrao (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102605205026:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:59:52 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Dom92 ($285.20 in chips) 
+Seat 2: elvn89 ($225.67 in chips) 
+Seat 3: Scarface.VLT ($600 in chips) 
+Seat 4: floriiiiider ($656.74 in chips) 
+Seat 5: CrionR ($600 in chips) 
+Seat 6: barrao ($237 in chips) 
+elvn89: posts small blind $3
+Scarface.VLT: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider: raises $12 to $18
+CrionR: folds 
+barrao: folds 
+Dom92: folds 
+elvn89: folds 
+Scarface.VLT: folds 
+Uncalled bet ($12) returned to floriiiiider
+floriiiiider collected $15 from pot
+floriiiiider: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 (button) folded before Flop (didn't bet)
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: Scarface.VLT (big blind) folded before Flop
+Seat 4: floriiiiider collected ($15)
+Seat 5: CrionR folded before Flop (didn't bet)
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102605215191:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:00:09 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Dom92 ($285.20 in chips) 
+Seat 2: elvn89 ($222.67 in chips) 
+Seat 3: Scarface.VLT ($600 in chips) 
+Seat 4: floriiiiider ($665.74 in chips) 
+Seat 5: CrionR ($600 in chips) 
+Seat 6: barrao ($237 in chips) 
+Scarface.VLT: posts small blind $3
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+CrionR: raises $12 to $18
+barrao: folds 
+Dom92: folds 
+elvn89: folds 
+Scarface.VLT: folds 
+floriiiiider: folds 
+Uncalled bet ($12) returned to CrionR
+CrionR collected $15 from pot
+CrionR: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 folded before Flop (didn't bet)
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: Scarface.VLT (small blind) folded before Flop
+Seat 4: floriiiiider (big blind) folded before Flop
+Seat 5: CrionR collected ($15)
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102605226204:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:00:31 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Dom92 ($285.20 in chips) 
+Seat 2: elvn89 ($222.67 in chips) 
+Seat 3: Scarface.VLT ($600 in chips) 
+Seat 4: floriiiiider ($659.74 in chips) 
+Seat 5: CrionR ($609 in chips) 
+Seat 6: barrao ($237 in chips) 
+floriiiiider: posts small blind $3
+CrionR: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+Dom92: folds 
+elvn89: folds 
+Scarface.VLT: raises $6 to $12
+floriiiiider: raises $33 to $45
+CrionR: folds 
+Scarface.VLT: folds 
+Uncalled bet ($33) returned to floriiiiider
+floriiiiider collected $30 from pot
+floriiiiider: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: Dom92 folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Scarface.VLT (button) folded before Flop
+Seat 4: floriiiiider (small blind) collected ($30)
+Seat 5: CrionR (big blind) folded before Flop
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102605251378:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:01:16 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Dom92 ($285.20 in chips) 
+Seat 2: elvn89 ($222.67 in chips) 
+Seat 3: Scarface.VLT ($600 in chips) 
+Seat 4: floriiiiider ($677.74 in chips) 
+Seat 5: CrionR ($603 in chips) 
+Seat 6: barrao ($237 in chips) 
+CrionR: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Dom92: folds 
+elvn89: folds 
+Scarface.VLT: raises $6 to $12
+floriiiiider: folds 
+CrionR: folds 
+barrao: calls $6
+*** FLOP *** [Jc Jh 9s]
+barrao: checks 
+Scarface.VLT: bets $18.04
+barrao: calls $18.04
+*** TURN *** [Jc Jh 9s] [7s]
+barrao: checks 
+Scarface.VLT: checks 
+*** RIVER *** [Jc Jh 9s 7s] [6s]
+barrao: bets $45
+Scarface.VLT: calls $45
+*** SHOW DOWN ***
+barrao: shows [4c Ad] (a pair of Jacks)
+Scarface.VLT: shows [Kd As] (a pair of Jacks - Ace+King kicker)
+Scarface.VLT collected $150.28 from pot
+*** SUMMARY ***
+Total pot $153.08 | Rake $2.80 
+Board [Jc Jh 9s 7s 6s]
+Seat 1: Dom92 folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Scarface.VLT showed [Kd As] and won ($150.28) with a pair of Jacks
+Seat 4: floriiiiider (button) folded before Flop (didn't bet)
+Seat 5: CrionR (small blind) folded before Flop
+Seat 6: barrao (big blind) showed [4c Ad] and lost with a pair of Jacks
+
+
+PokerStars Game #102605306561:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:02:41 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Dom92 ($285.20 in chips) 
+Seat 2: elvn89 ($222.67 in chips) 
+Seat 3: Scarface.VLT ($675.24 in chips) 
+Seat 4: floriiiiider ($677.74 in chips) 
+Seat 5: CrionR ($600 in chips) 
+Seat 6: barrao ($240 in chips) 
+barrao: posts small blind $3
+Dom92: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+Scarface.VLT: folds 
+floriiiiider: folds 
+CrionR: raises $6 to $12
+barrao: folds 
+Dom92: folds 
+Uncalled bet ($6) returned to CrionR
+CrionR collected $15 from pot
+CrionR: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 (big blind) folded before Flop
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Scarface.VLT folded before Flop (didn't bet)
+Seat 4: floriiiiider folded before Flop (didn't bet)
+Seat 5: CrionR (button) collected ($15)
+Seat 6: barrao (small blind) folded before Flop
+
+
+PokerStars Game #102605317326:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:02:57 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Dom92 ($279.20 in chips) 
+Seat 2: elvn89 ($222.67 in chips) 
+Seat 3: Scarface.VLT ($675.24 in chips) 
+Seat 4: floriiiiider ($677.74 in chips) 
+Seat 5: CrionR ($609 in chips) 
+Seat 6: barrao ($237 in chips) 
+Dom92: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: folds 
+floriiiiider: folds 
+CrionR: folds 
+barrao: raises $6 to $12
+Dom92: folds 
+elvn89: calls $6
+*** FLOP *** [9s 6d 4h]
+elvn89: checks 
+barrao: bets $18
+elvn89: raises $18 to $36
+barrao: raises $18 to $54
+elvn89: calls $18
+*** TURN *** [9s 6d 4h] [Ts]
+elvn89: checks 
+barrao: checks 
+*** RIVER *** [9s 6d 4h Ts] [Qs]
+elvn89: checks 
+barrao: bets $78
+elvn89: calls $78
+*** SHOW DOWN ***
+barrao: shows [Kc 3c] (high card King)
+elvn89: shows [9h Th] (two pair, Tens and Nines)
+elvn89 collected $288.20 from pot
+*** SUMMARY ***
+Total pot $291 | Rake $2.80 
+Board [9s 6d 4h Ts Qs]
+Seat 1: Dom92 (small blind) folded before Flop
+Seat 2: elvn89 (big blind) showed [9h Th] and won ($288.20) with two pair, Tens and Nines
+Seat 3: Scarface.VLT folded before Flop (didn't bet)
+Seat 4: floriiiiider folded before Flop (didn't bet)
+Seat 5: CrionR folded before Flop (didn't bet)
+Seat 6: barrao (button) showed [Kc 3c] and lost with high card King
+
+
+PokerStars Game #102605380100:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:04:29 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Dom92 ($276.20 in chips) 
+Seat 2: elvn89 ($366.87 in chips) 
+Seat 3: Scarface.VLT ($675.24 in chips) 
+Seat 4: floriiiiider ($677.74 in chips) 
+Seat 5: CrionR ($609 in chips) 
+Seat 6: barrao ($240 in chips) 
+elvn89: posts small blind $3
+Scarface.VLT: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider: folds 
+CrionR: folds 
+barrao: folds 
+Dom92: folds 
+elvn89: raises $7.02 to $13.02
+Scarface.VLT: raises $16.98 to $30
+elvn89: folds 
+Uncalled bet ($16.98) returned to Scarface.VLT
+Scarface.VLT collected $26.04 from pot
+Scarface.VLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $26.04 | Rake $0 
+Seat 1: Dom92 (button) folded before Flop (didn't bet)
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: Scarface.VLT (big blind) collected ($26.04)
+Seat 4: floriiiiider folded before Flop (didn't bet)
+Seat 5: CrionR folded before Flop (didn't bet)
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102605397733:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:04:54 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Dom92 ($276.20 in chips) 
+Seat 2: elvn89 ($353.85 in chips) 
+Seat 3: Scarface.VLT ($688.26 in chips) 
+Seat 4: floriiiiider ($677.74 in chips) 
+Seat 5: CrionR ($609 in chips) 
+Seat 6: barrao ($240 in chips) 
+Scarface.VLT: posts small blind $3
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+CrionR: folds 
+barrao: folds 
+Dom92: folds 
+elvn89: folds 
+Scarface.VLT: raises $12 to $18
+floriiiiider: folds 
+Uncalled bet ($12) returned to Scarface.VLT
+Scarface.VLT collected $12 from pot
+Scarface.VLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Dom92 folded before Flop (didn't bet)
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: Scarface.VLT (small blind) collected ($12)
+Seat 4: floriiiiider (big blind) folded before Flop
+Seat 5: CrionR folded before Flop (didn't bet)
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102604887949:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:50:09 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Aliya8 ($528.40 in chips) 
+Seat 2: elvn89 ($231 in chips) 
+Seat 3: VegasMidas ($601.92 in chips) 
+Seat 4: Sir_Fuj1 ($258.20 in chips) 
+Seat 5: floriiiiider ($631.24 in chips) 
+Seat 6: barrao ($232.54 in chips) 
+VegasMidas: posts small blind $3
+Sir_Fuj1: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider: folds 
+barrao: folds 
+Aliya8: folds 
+elvn89: raises $7.02 to $13.02
+VegasMidas: folds 
+Sir_Fuj1: calls $7.02
+*** FLOP *** [2s Kc Ad]
+Sir_Fuj1: checks 
+elvn89: checks 
+*** TURN *** [2s Kc Ad] [3d]
+Sir_Fuj1: checks 
+elvn89: checks 
+*** RIVER *** [2s Kc Ad 3d] [2h]
+Sir_Fuj1: checks 
+elvn89: checks 
+*** SHOW DOWN ***
+Sir_Fuj1: shows [8c Tc] (a pair of Deuces)
+elvn89: shows [Qd Kd] (two pair, Kings and Deuces)
+elvn89 collected $27.73 from pot
+*** SUMMARY ***
+Total pot $29.04 | Rake $1.31 
+Board [2s Kc Ad 3d 2h]
+Seat 1: Aliya8 folded before Flop (didn't bet)
+Seat 2: elvn89 (button) showed [Qd Kd] and won ($27.73) with two pair, Kings and Deuces
+Seat 3: VegasMidas (small blind) folded before Flop
+Seat 4: Sir_Fuj1 (big blind) showed [8c Tc] and lost with a pair of Deuces
+Seat 5: floriiiiider folded before Flop (didn't bet)
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102604922029:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:51:05 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Aliya8 ($528.40 in chips) 
+Seat 2: elvn89 ($245.71 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($245.18 in chips) 
+Seat 5: floriiiiider ($631.24 in chips) 
+Seat 6: barrao ($232.54 in chips) 
+Sir_Fuj1: posts small blind $3
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+Aliya8: raises $12 to $18
+elvn89: folds 
+VegasMidas: folds 
+Sir_Fuj1: folds 
+floriiiiider: folds 
+Uncalled bet ($12) returned to Aliya8
+Aliya8 collected $15 from pot
+Aliya8: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Aliya8 collected ($15)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: VegasMidas (button) folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 (small blind) folded before Flop
+Seat 5: floriiiiider (big blind) folded before Flop
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102604941038:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:51:36 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Aliya8 ($537.40 in chips) 
+Seat 2: elvn89 ($245.71 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($242.18 in chips) 
+Seat 5: floriiiiider ($625.24 in chips) 
+Seat 6: barrao ($232.54 in chips) 
+floriiiiider: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Aliya8: folds 
+Aliya8 leaves the table
+elvn89: folds 
+vivecrew joins the table at seat #1 
+VegasMidas: folds 
+vivecrew leaves the table
+Sir_Fuj1: folds 
+floriiiiider: folds 
+Uncalled bet ($3) returned to barrao
+barrao collected $6 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Aliya8 folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 (button) folded before Flop (didn't bet)
+Seat 5: floriiiiider (small blind) folded before Flop
+Seat 6: barrao (big blind) collected ($6)
+
+
+PokerStars Game #102604953539:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:51:57 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #5 is the button
+Seat 2: elvn89 ($245.71 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($242.18 in chips) 
+Seat 5: floriiiiider ($622.24 in chips) 
+Seat 6: barrao ($235.54 in chips) 
+barrao: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+VegasMidas: folds 
+Sir_Fuj1: folds 
+floriiiiider: raises $6 to $12
+barrao: calls $9
+elvn89: folds 
+*** FLOP *** [4s 3c 8s]
+barrao: checks 
+floriiiiider: bets $21
+barrao: folds 
+Uncalled bet ($21) returned to floriiiiider
+floriiiiider collected $28.65 from pot
+floriiiiider: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [4s 3c 8s]
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 5: floriiiiider (button) collected ($28.65)
+Seat 6: barrao (small blind) folded on the Flop
+
+
+PokerStars Game #102604985349:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:52:49 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #6 is the button
+Seat 2: elvn89 ($239.71 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($242.18 in chips) 
+Seat 5: floriiiiider ($638.89 in chips) 
+Seat 6: barrao ($223.54 in chips) 
+elvn89: posts small blind $3
+VegasMidas: posts big blind $6
+*** HOLE CARDS ***
+Sir_Fuj1: raises $9 to $15
+floriiiiider: folds 
+barrao: folds 
+elvn89: raises $224.71 to $239.71 and is all-in
+Dom92 joins the table at seat #1 
+VegasMidas: folds 
+Sir_Fuj1: folds 
+Uncalled bet ($224.71) returned to elvn89
+elvn89 collected $36 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0 
+Seat 2: elvn89 (small blind) collected ($36)
+Seat 3: VegasMidas (big blind) folded before Flop
+Seat 4: Sir_Fuj1 folded before Flop
+Seat 5: floriiiiider folded before Flop (didn't bet)
+Seat 6: barrao (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102605016118:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:53:40 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #2 is the button
+Seat 2: elvn89 ($260.71 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($227.18 in chips) 
+Seat 5: floriiiiider ($638.89 in chips) 
+Seat 6: barrao ($223.54 in chips) 
+VegasMidas: posts small blind $3
+Sir_Fuj1: posts big blind $6
+Dom92: sits out 
+*** HOLE CARDS ***
+floriiiiider: folds 
+barrao: folds 
+elvn89: folds 
+VegasMidas: folds 
+Uncalled bet ($3) returned to Sir_Fuj1
+Sir_Fuj1 collected $6 from pot
+Sir_Fuj1: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: VegasMidas (small blind) folded before Flop
+Seat 4: Sir_Fuj1 (big blind) collected ($6)
+Seat 5: floriiiiider folded before Flop (didn't bet)
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102605029430:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:54:02 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #3 is the button
+Seat 2: elvn89 ($260.71 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($230.18 in chips) 
+Seat 6: barrao ($223.54 in chips) 
+Sir_Fuj1: posts small blind $3
+floriiiiider: is sitting out 
+barrao: posts big blind $6
+Dom92: sits out 
+*** HOLE CARDS ***
+elvn89: folds 
+VegasMidas: folds 
+floriiiiider leaves the table
+CrionR joins the table at seat #5 
+Sir_Fuj1: raises $9 to $15
+barrao: folds 
+Uncalled bet ($9) returned to Sir_Fuj1
+Sir_Fuj1 collected $12 from pot
+Sir_Fuj1: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: VegasMidas (button) folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 (small blind) collected ($12)
+Seat 6: barrao (big blind) folded before Flop
+
+
+PokerStars Game #102605047269:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:54:31 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Dom92 ($243 in chips) 
+Seat 2: elvn89 ($260.71 in chips) 
+Seat 3: VegasMidas ($600 in chips) 
+Seat 4: Sir_Fuj1 ($236.18 in chips) 
+Seat 6: barrao ($217.54 in chips) 
+CrionR will be allowed to play after the button
+barrao: posts small blind $3
+Dom92: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+VegasMidas: folds 
+Sir_Fuj1: raises $9 to $15
+barrao: folds 
+Dom92: calls $9
+*** FLOP *** [Kh 7d 7c]
+Dom92: checks 
+Sir_Fuj1: bets $15
+Dom92: calls $15
+*** TURN *** [Kh 7d 7c] [4d]
+Dom92: checks 
+Sir_Fuj1: checks 
+*** RIVER *** [Kh 7d 7c 4d] [2d]
+Dom92: bets $24
+Sir_Fuj1: calls $24
+*** SHOW DOWN ***
+Dom92: shows [8h Ah] (a pair of Sevens)
+Sir_Fuj1: shows [5s 5d] (two pair, Sevens and Fives)
+Sir_Fuj1 collected $108.20 from pot
+*** SUMMARY ***
+Total pot $111 | Rake $2.80 
+Board [Kh 7d 7c 4d 2d]
+Seat 1: Dom92 (big blind) showed [8h Ah] and lost with a pair of Sevens
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 (button) showed [5s 5d] and won ($108.20) with two pair, Sevens and Fives
+Seat 6: barrao (small blind) folded before Flop
+
+
+PokerStars Game #102604726479:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:45:43 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Aliya8 ($537.40 in chips) 
+Seat 2: YOUNG1184 ($445.24 in chips) 
+Seat 3: VegasMidas ($610.92 in chips) 
+Seat 4: Sir_Fuj1 ($297.20 in chips) 
+Seat 5: floriiiiider ($600 in chips) 
+Seat 6: barrao ($219.30 in chips) 
+VegasMidas: posts small blind $3
+Sir_Fuj1: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider: folds 
+barrao: folds 
+Aliya8: folds 
+YOUNG1184: raises $6 to $12
+VegasMidas: folds 
+Sir_Fuj1: folds 
+Uncalled bet ($6) returned to YOUNG1184
+YOUNG1184 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Aliya8 folded before Flop (didn't bet)
+Seat 2: YOUNG1184 (button) collected ($15)
+Seat 3: VegasMidas (small blind) folded before Flop
+Seat 4: Sir_Fuj1 (big blind) folded before Flop
+Seat 5: floriiiiider folded before Flop (didn't bet)
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102604740510:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:46:06 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Aliya8 ($537.40 in chips) 
+Seat 2: YOUNG1184 ($454.24 in chips) 
+Seat 3: VegasMidas ($607.92 in chips) 
+Seat 4: Sir_Fuj1 ($291.20 in chips) 
+Seat 5: floriiiiider ($600 in chips) 
+Seat 6: barrao ($219.30 in chips) 
+Sir_Fuj1: posts small blind $3
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+Aliya8: folds 
+YOUNG1184: raises $6 to $12
+VegasMidas: folds 
+Sir_Fuj1: folds 
+floriiiiider: raises $33 to $45
+YOUNG1184: calls $33
+*** FLOP *** [Js Qd 7c]
+floriiiiider: bets $60
+YOUNG1184: folds 
+Uncalled bet ($60) returned to floriiiiider
+floriiiiider collected $90.20 from pot
+floriiiiider: doesn't show hand 
+*** SUMMARY ***
+Total pot $93 | Rake $2.80 
+Board [Js Qd 7c]
+Seat 1: Aliya8 folded before Flop (didn't bet)
+Seat 2: YOUNG1184 folded on the Flop
+Seat 3: VegasMidas (button) folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 (small blind) folded before Flop
+Seat 5: floriiiiider (big blind) collected ($90.20)
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102604757165:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:46:34 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Aliya8 ($537.40 in chips) 
+Seat 2: YOUNG1184 ($409.24 in chips) 
+Seat 3: VegasMidas ($607.92 in chips) 
+Seat 4: Sir_Fuj1 ($288.20 in chips) 
+Seat 5: floriiiiider ($645.20 in chips) 
+Seat 6: barrao ($219.30 in chips) 
+floriiiiider: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Aliya8: folds 
+YOUNG1184: raises $6 to $12
+VegasMidas has timed out
+VegasMidas: folds 
+Sir_Fuj1: folds 
+floriiiiider: raises $33 to $45
+barrao: folds 
+YOUNG1184: raises $364.24 to $409.24 and is all-in
+floriiiiider: calls $364.24
+*** FLOP *** [4h 3s 7d]
+*** TURN *** [4h 3s 7d] [Kd]
+*** RIVER *** [4h 3s 7d Kd] [7h]
+*** SHOW DOWN ***
+floriiiiider: shows [Ad Qs] (a pair of Sevens)
+YOUNG1184: shows [8d 8s] (two pair, Eights and Sevens)
+YOUNG1184 collected $821.68 from pot
+*** SUMMARY ***
+Total pot $824.48 | Rake $2.80 
+Board [4h 3s 7d Kd 7h]
+Seat 1: Aliya8 folded before Flop (didn't bet)
+Seat 2: YOUNG1184 showed [8d 8s] and won ($821.68) with two pair, Eights and Sevens
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 (button) folded before Flop (didn't bet)
+Seat 5: floriiiiider (small blind) showed [Ad Qs] and lost with a pair of Sevens
+Seat 6: barrao (big blind) folded before Flop
+
+
+PokerStars Game #102604789918:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:47:28 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Aliya8 ($537.40 in chips) 
+Seat 2: YOUNG1184 ($821.68 in chips) 
+Seat 3: VegasMidas ($607.92 in chips) 
+Seat 4: Sir_Fuj1 ($288.20 in chips) 
+Seat 5: floriiiiider ($600 in chips) 
+Seat 6: barrao ($213.30 in chips) 
+barrao: posts small blind $3
+Aliya8: posts big blind $6
+*** HOLE CARDS ***
+YOUNG1184: folds 
+VegasMidas: folds 
+Sir_Fuj1: raises $9 to $15
+YOUNG1184 leaves the table
+floriiiiider: calls $15
+barrao: folds 
+Aliya8: folds 
+*** FLOP *** [4d 6h 2c]
+Sir_Fuj1: checks 
+elvn89 joins the table at seat #2 
+floriiiiider: checks 
+*** TURN *** [4d 6h 2c] [4h]
+Sir_Fuj1: checks 
+floriiiiider: checks 
+*** RIVER *** [4d 6h 2c 4h] [Qh]
+Sir_Fuj1: checks 
+floriiiiider: checks 
+*** SHOW DOWN ***
+Sir_Fuj1: shows [Js Td] (a pair of Fours)
+floriiiiider: shows [Ts As] (a pair of Fours - Ace kicker)
+floriiiiider collected $37.24 from pot
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [4d 6h 2c 4h Qh]
+Seat 1: Aliya8 (big blind) folded before Flop
+Seat 2: YOUNG1184 folded before Flop (didn't bet)
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 showed [Js Td] and lost with a pair of Fours
+Seat 5: floriiiiider (button) showed [Ts As] and won ($37.24) with a pair of Fours
+Seat 6: barrao (small blind) folded before Flop
+
+
+PokerStars Game #102604840414:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:48:51 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Aliya8 ($531.40 in chips) 
+Seat 2: elvn89 ($240 in chips) 
+Seat 3: VegasMidas ($607.92 in chips) 
+Seat 4: Sir_Fuj1 ($273.20 in chips) 
+Seat 5: floriiiiider ($622.24 in chips) 
+Seat 6: barrao ($210.30 in chips) 
+Aliya8: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+VegasMidas: folds 
+Sir_Fuj1: folds 
+floriiiiider: raises $9 to $15
+barrao: folds 
+Aliya8: folds 
+elvn89: folds 
+Uncalled bet ($9) returned to floriiiiider
+floriiiiider collected $15 from pot
+floriiiiider: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Aliya8 (small blind) folded before Flop
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: VegasMidas folded before Flop (didn't bet)
+Seat 4: Sir_Fuj1 folded before Flop (didn't bet)
+Seat 5: floriiiiider collected ($15)
+Seat 6: barrao (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102604857431:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 9:49:19 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Aliya8 ($528.40 in chips) 
+Seat 2: elvn89 ($234 in chips) 
+Seat 3: VegasMidas ($607.92 in chips) 
+Seat 4: Sir_Fuj1 ($273.20 in chips) 
+Seat 5: floriiiiider ($631.24 in chips) 
+Seat 6: barrao ($210.30 in chips) 
+elvn89: posts small blind $3
+VegasMidas: posts big blind $6
+*** HOLE CARDS ***
+Sir_Fuj1: raises $9 to $15
+floriiiiider: folds 
+barrao: calls $15
+Aliya8: folds 
+elvn89: folds 
+VegasMidas: folds 
+*** FLOP *** [3h Qd 5d]
+Sir_Fuj1: checks 
+barrao: bets $24
+Sir_Fuj1: folds 
+Uncalled bet ($24) returned to barrao
+barrao collected $37.24 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [3h Qd 5d]
+Seat 1: Aliya8 (button) folded before Flop (didn't bet)
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: VegasMidas (big blind) folded before Flop
+Seat 4: Sir_Fuj1 folded on the Flop
+Seat 5: floriiiiider folded before Flop (didn't bet)
+Seat 6: barrao collected ($37.24)
+
+
+PokerStars Game #102605635746:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:10:29 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #4 is the button
+Seat 2: elvn89 ($329.85 in chips) 
+Seat 3: Scarface.VLT ($673.26 in chips) 
+Seat 4: floriiiiider ($647.74 in chips) 
+Seat 5: CrionR ($624 in chips) 
+Seat 6: barrao ($280.24 in chips) 
+CrionR: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+Scarface.VLT: folds 
+floriiiiider: folds 
+CrionR: raises $9 to $15
+barrao: calls $9
+*** FLOP *** [7h Jd Kc]
+BKA12 joins the table at seat #1 
+CrionR: bets $21
+BKA12 leaves the table
+vivecrew joins the table at seat #1 
+barrao: calls $21
+*** TURN *** [7h Jd Kc] [Jh]
+CrionR: bets $39
+barrao: calls $39
+*** RIVER *** [7h Jd Kc Jh] [2s]
+CrionR: checks 
+barrao: bets $99
+CrionR: folds 
+Uncalled bet ($99) returned to barrao
+barrao collected $147.20 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $150 | Rake $2.80 
+Board [7h Jd Kc Jh 2s]
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Scarface.VLT folded before Flop (didn't bet)
+Seat 4: floriiiiider (button) folded before Flop (didn't bet)
+Seat 5: CrionR (small blind) folded on the River
+Seat 6: barrao (big blind) collected ($147.20)
+
+
+PokerStars Game #102605678039:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:11:27 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: vivecrew ($480 in chips) 
+Seat 2: elvn89 ($329.85 in chips) 
+Seat 3: Scarface.VLT ($673.26 in chips) 
+Seat 4: floriiiiider ($647.74 in chips) 
+Seat 5: CrionR ($600 in chips) 
+Seat 6: barrao ($352.44 in chips) 
+barrao: posts small blind $3
+vivecrew: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+Scarface.VLT: folds 
+floriiiiider: raises $9 to $15
+CrionR: folds 
+barrao: folds 
+vivecrew: calls $9
+*** FLOP *** [Kd 4h 8d]
+vivecrew: checks 
+floriiiiider: bets $24
+vivecrew: folds 
+Uncalled bet ($24) returned to floriiiiider
+floriiiiider collected $31.52 from pot
+floriiiiider: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $1.48 
+Board [Kd 4h 8d]
+Seat 1: vivecrew (big blind) folded on the Flop
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Scarface.VLT folded before Flop (didn't bet)
+Seat 4: floriiiiider collected ($31.52)
+Seat 5: CrionR (button) folded before Flop (didn't bet)
+Seat 6: barrao (small blind) folded before Flop
+
+
+PokerStars Game #102605711476:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:12:14 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: vivecrew ($465 in chips) 
+Seat 2: elvn89 ($329.85 in chips) 
+Seat 3: Scarface.VLT ($673.26 in chips) 
+Seat 4: floriiiiider ($664.26 in chips) 
+Seat 5: CrionR ($600 in chips) 
+Seat 6: barrao ($349.44 in chips) 
+vivecrew: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: folds 
+floriiiiider: folds 
+CrionR: folds 
+Scarface.VLT leaves the table
+barrao: raises $6 to $12
+vivecrew: folds 
+elvn89: folds 
+Uncalled bet ($6) returned to barrao
+barrao collected $15 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: vivecrew (small blind) folded before Flop
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: Scarface.VLT folded before Flop (didn't bet)
+Seat 4: floriiiiider folded before Flop (didn't bet)
+Seat 5: CrionR folded before Flop (didn't bet)
+Seat 6: barrao (button) collected ($15)
+
+
+PokerStars Game #102605741448:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:12:55 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: vivecrew ($462 in chips) 
+Seat 2: elvn89 ($323.85 in chips) 
+Seat 6: barrao ($358.44 in chips) 
+elvn89: posts small blind $3
+floriiiiider: is sitting out 
+CrionR: is sitting out 
+CrionR leaves the table
+barrao: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider leaves the table
+vivecrew: folds 
+elvn89: raises $7.02 to $13.02
+vivecrew leaves the table
+barrao: folds 
+Uncalled bet ($7.02) returned to elvn89
+elvn89 collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: vivecrew (button) folded before Flop (didn't bet)
+Seat 2: elvn89 (small blind) collected ($12)
+Seat 6: barrao (big blind) folded before Flop
+
+
+PokerStars Game #102605754909:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:13:14 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #6 is the button
+Seat 2: elvn89 ($329.85 in chips) 
+Seat 6: barrao ($352.44 in chips) 
+barrao: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+barrao: raises $6 to $12
+elvn89: folds 
+Uncalled bet ($6) returned to barrao
+barrao collected $12 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 6: barrao (button) (small blind) collected ($12)
+
+
+PokerStars Game #102605411500:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:05:13 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Dom92 ($276.20 in chips) 
+Seat 2: elvn89 ($353.85 in chips) 
+Seat 3: Scarface.VLT ($694.26 in chips) 
+Seat 4: floriiiiider ($671.74 in chips) 
+Seat 5: CrionR ($609 in chips) 
+Seat 6: barrao ($240 in chips) 
+floriiiiider: posts small blind $3
+CrionR: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+Dom92: raises $6 to $12
+elvn89: folds 
+Scarface.VLT: folds 
+floriiiiider: folds 
+CrionR: folds 
+Uncalled bet ($6) returned to Dom92
+Dom92 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 collected ($15)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Scarface.VLT (button) folded before Flop (didn't bet)
+Seat 4: floriiiiider (small blind) folded before Flop
+Seat 5: CrionR (big blind) folded before Flop
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102605422547:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:05:29 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Dom92 ($285.20 in chips) 
+Seat 2: elvn89 ($353.85 in chips) 
+Seat 3: Scarface.VLT ($694.26 in chips) 
+Seat 4: floriiiiider ($668.74 in chips) 
+Seat 5: CrionR ($603 in chips) 
+Seat 6: barrao ($240 in chips) 
+CrionR: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Dom92: folds 
+elvn89: folds 
+Scarface.VLT: folds 
+floriiiiider: raises $6 to $12
+CrionR: folds 
+barrao: calls $6
+*** FLOP *** [Kh Th 3s]
+barrao: bets $18
+floriiiiider: folds 
+Uncalled bet ($18) returned to barrao
+barrao collected $25.78 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Kh Th 3s]
+Seat 1: Dom92 folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Scarface.VLT folded before Flop (didn't bet)
+Seat 4: floriiiiider (button) folded on the Flop
+Seat 5: CrionR (small blind) folded before Flop
+Seat 6: barrao (big blind) collected ($25.78)
+
+
+PokerStars Game #102605440468:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:05:55 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Dom92 ($285.20 in chips) 
+Seat 2: elvn89 ($353.85 in chips) 
+Seat 3: Scarface.VLT ($694.26 in chips) 
+Seat 4: floriiiiider ($656.74 in chips) 
+Seat 5: CrionR ($600 in chips) 
+Seat 6: barrao ($253.78 in chips) 
+barrao: posts small blind $3
+Dom92: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+Scarface.VLT: folds 
+floriiiiider: folds 
+CrionR: raises $6 to $12
+barrao: folds 
+Dom92: folds 
+Uncalled bet ($6) returned to CrionR
+CrionR collected $15 from pot
+CrionR: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 (big blind) folded before Flop
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Scarface.VLT folded before Flop (didn't bet)
+Seat 4: floriiiiider folded before Flop (didn't bet)
+Seat 5: CrionR (button) collected ($15)
+Seat 6: barrao (small blind) folded before Flop
+
+
+PokerStars Game #102605451025:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:06:10 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Dom92 ($279.20 in chips) 
+Seat 2: elvn89 ($353.85 in chips) 
+Seat 3: Scarface.VLT ($694.26 in chips) 
+Seat 4: floriiiiider ($656.74 in chips) 
+Seat 5: CrionR ($609 in chips) 
+Seat 6: barrao ($250.78 in chips) 
+Dom92: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: folds 
+floriiiiider: folds 
+CrionR: folds 
+barrao: raises $6 to $12
+Dom92: raises $30 to $42
+elvn89: folds 
+barrao: calls $30
+*** FLOP *** [Qs Jh Qc]
+Dom92: checks 
+barrao: bets $30
+Dom92: calls $30
+*** TURN *** [Qs Jh Qc] [4d]
+Dom92: checks 
+barrao: checks 
+*** RIVER *** [Qs Jh Qc 4d] [7d]
+Dom92: checks 
+barrao: checks 
+*** SHOW DOWN ***
+Dom92: shows [Kd As] (a pair of Queens)
+barrao: mucks hand 
+Dom92 collected $147.20 from pot
+*** SUMMARY ***
+Total pot $150 | Rake $2.80 
+Board [Qs Jh Qc 4d 7d]
+Seat 1: Dom92 (small blind) showed [Kd As] and won ($147.20) with a pair of Queens
+Seat 2: elvn89 (big blind) folded before Flop
+Seat 3: Scarface.VLT folded before Flop (didn't bet)
+Seat 4: floriiiiider folded before Flop (didn't bet)
+Seat 5: CrionR folded before Flop (didn't bet)
+Seat 6: barrao (button) mucked
+
+
+PokerStars Game #102605501705:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:07:21 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Dom92 ($354.40 in chips) 
+Seat 2: elvn89 ($347.85 in chips) 
+Seat 3: Scarface.VLT ($694.26 in chips) 
+Seat 4: floriiiiider ($656.74 in chips) 
+Seat 5: CrionR ($609 in chips) 
+Seat 6: barrao ($240 in chips) 
+elvn89: posts small blind $3
+Scarface.VLT: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider: folds 
+CrionR: folds 
+barrao: raises $9 to $15
+Dom92: folds 
+elvn89: folds 
+Scarface.VLT: folds 
+Uncalled bet ($9) returned to barrao
+barrao collected $15 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 (button) folded before Flop (didn't bet)
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: Scarface.VLT (big blind) folded before Flop
+Seat 4: floriiiiider folded before Flop (didn't bet)
+Seat 5: CrionR folded before Flop (didn't bet)
+Seat 6: barrao collected ($15)
+
+
+PokerStars Game #102605510157:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:07:33 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Dom92 ($354.40 in chips) 
+Seat 2: elvn89 ($344.85 in chips) 
+Seat 3: Scarface.VLT ($688.26 in chips) 
+Seat 4: floriiiiider ($656.74 in chips) 
+Seat 5: CrionR ($609 in chips) 
+Seat 6: barrao ($249 in chips) 
+Scarface.VLT: posts small blind $3
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+CrionR: folds 
+barrao: raises $9 to $15
+Dom92: folds 
+elvn89: calls $15
+Scarface.VLT: folds 
+floriiiiider: folds 
+*** FLOP *** [Qc 6c Ac]
+barrao: bets $21
+elvn89: folds 
+Uncalled bet ($21) returned to barrao
+barrao collected $37.24 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [Qc 6c Ac]
+Seat 1: Dom92 folded before Flop (didn't bet)
+Seat 2: elvn89 (button) folded on the Flop
+Seat 3: Scarface.VLT (small blind) folded before Flop
+Seat 4: floriiiiider (big blind) folded before Flop
+Seat 5: CrionR folded before Flop (didn't bet)
+Seat 6: barrao collected ($37.24)
+
+
+PokerStars Game #102605532019:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:08:04 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Dom92 ($354.40 in chips) 
+Seat 2: elvn89 ($329.85 in chips) 
+Seat 3: Scarface.VLT ($685.26 in chips) 
+Seat 4: floriiiiider ($650.74 in chips) 
+Seat 5: CrionR ($609 in chips) 
+Seat 6: barrao ($271.24 in chips) 
+floriiiiider: posts small blind $3
+CrionR: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+Dom92: folds 
+elvn89: folds 
+Scarface.VLT: folds 
+floriiiiider: folds 
+Uncalled bet ($3) returned to CrionR
+CrionR collected $6 from pot
+CrionR: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Dom92 folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Scarface.VLT (button) folded before Flop (didn't bet)
+Seat 4: floriiiiider (small blind) folded before Flop
+Seat 5: CrionR (big blind) collected ($6)
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102605541807:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:08:18 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Dom92 ($354.40 in chips) 
+Seat 2: elvn89 ($329.85 in chips) 
+Seat 3: Scarface.VLT ($685.26 in chips) 
+Seat 4: floriiiiider ($647.74 in chips) 
+Seat 5: CrionR ($612 in chips) 
+Seat 6: barrao ($271.24 in chips) 
+CrionR: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+Dom92: folds 
+elvn89: folds 
+Scarface.VLT: folds 
+floriiiiider: raises $6 to $12
+CrionR: raises $33 to $45
+barrao: folds 
+floriiiiider: folds 
+Uncalled bet ($33) returned to CrionR
+CrionR collected $30 from pot
+CrionR: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: Dom92 folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Scarface.VLT folded before Flop (didn't bet)
+Seat 4: floriiiiider (button) folded before Flop
+Seat 5: CrionR (small blind) collected ($30)
+Seat 6: barrao (big blind) folded before Flop
+
+
+PokerStars Game #102605560274:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:08:43 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #5 is the button
+Seat 1: Dom92 ($354.40 in chips) 
+Seat 2: elvn89 ($329.85 in chips) 
+Seat 3: Scarface.VLT ($685.26 in chips) 
+Seat 4: floriiiiider ($635.74 in chips) 
+Seat 5: CrionR ($630 in chips) 
+Seat 6: barrao ($265.24 in chips) 
+barrao: posts small blind $3
+Dom92: posts big blind $6
+*** HOLE CARDS ***
+elvn89: folds 
+Scarface.VLT: folds 
+floriiiiider: folds 
+CrionR: folds 
+barrao: raises $9 to $15
+Dom92: folds 
+Uncalled bet ($9) returned to barrao
+barrao collected $12 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Dom92 (big blind) folded before Flop
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Scarface.VLT folded before Flop (didn't bet)
+Seat 4: floriiiiider folded before Flop (didn't bet)
+Seat 5: CrionR (button) folded before Flop (didn't bet)
+Seat 6: barrao (small blind) collected ($12)
+
+
+PokerStars Game #102605570738:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:08:58 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #6 is the button
+Seat 1: Dom92 ($348.40 in chips) 
+Seat 2: elvn89 ($329.85 in chips) 
+Seat 3: Scarface.VLT ($685.26 in chips) 
+Seat 4: floriiiiider ($635.74 in chips) 
+Seat 5: CrionR ($630 in chips) 
+Seat 6: barrao ($271.24 in chips) 
+Dom92: posts small blind $3
+elvn89: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: folds 
+floriiiiider: folds 
+CrionR: folds 
+barrao: folds 
+Dom92: folds 
+Uncalled bet ($3) returned to elvn89
+elvn89 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Dom92 (small blind) folded before Flop
+Seat 2: elvn89 (big blind) collected ($6)
+Seat 3: Scarface.VLT folded before Flop (didn't bet)
+Seat 4: floriiiiider folded before Flop (didn't bet)
+Seat 5: CrionR folded before Flop (didn't bet)
+Seat 6: barrao (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102605579486:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:09:10 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #1 is the button
+Seat 1: Dom92 ($345.40 in chips) 
+Seat 2: elvn89 ($332.85 in chips) 
+Seat 3: Scarface.VLT ($685.26 in chips) 
+Seat 4: floriiiiider ($635.74 in chips) 
+Seat 5: CrionR ($630 in chips) 
+Seat 6: barrao ($271.24 in chips) 
+elvn89: posts small blind $3
+Scarface.VLT: posts big blind $6
+*** HOLE CARDS ***
+floriiiiider: folds 
+CrionR: folds 
+barrao: raises $9 to $15
+Dom92: folds 
+elvn89: folds 
+Scarface.VLT: folds 
+Uncalled bet ($9) returned to barrao
+barrao collected $15 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: Dom92 (button) folded before Flop (didn't bet)
+Seat 2: elvn89 (small blind) folded before Flop
+Seat 3: Scarface.VLT (big blind) folded before Flop
+Seat 4: floriiiiider folded before Flop (didn't bet)
+Seat 5: CrionR folded before Flop (didn't bet)
+Seat 6: barrao collected ($15)
+
+
+PokerStars Game #102605598426:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:09:37 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #2 is the button
+Seat 1: Dom92 ($345.40 in chips) 
+Seat 2: elvn89 ($329.85 in chips) 
+Seat 3: Scarface.VLT ($679.26 in chips) 
+Seat 4: floriiiiider ($635.74 in chips) 
+Seat 5: CrionR ($630 in chips) 
+Seat 6: barrao ($280.24 in chips) 
+Scarface.VLT: posts small blind $3
+floriiiiider: posts big blind $6
+*** HOLE CARDS ***
+CrionR: folds 
+barrao: folds 
+Dom92: folds 
+elvn89: folds 
+Scarface.VLT: raises $12 to $18
+floriiiiider: folds 
+Uncalled bet ($12) returned to Scarface.VLT
+Scarface.VLT collected $12 from pot
+Scarface.VLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Dom92 folded before Flop (didn't bet)
+Seat 2: elvn89 (button) folded before Flop (didn't bet)
+Seat 3: Scarface.VLT (small blind) collected ($12)
+Seat 4: floriiiiider (big blind) folded before Flop
+Seat 5: CrionR folded before Flop (didn't bet)
+Seat 6: barrao folded before Flop (didn't bet)
+
+
+PokerStars Game #102605609482:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:09:52 ET
+Table 'Genevieve V 40-100 bb' 6-max Seat #3 is the button
+Seat 1: Dom92 ($345.40 in chips) 
+Seat 2: elvn89 ($329.85 in chips) 
+Seat 3: Scarface.VLT ($685.26 in chips) 
+Seat 4: floriiiiider ($629.74 in chips) 
+Seat 5: CrionR ($630 in chips) 
+Seat 6: barrao ($280.24 in chips) 
+floriiiiider: posts small blind $3
+CrionR: posts big blind $6
+*** HOLE CARDS ***
+barrao: folds 
+Dom92: folds 
+elvn89: folds 
+Scarface.VLT: raises $6 to $12
+Dom92 leaves the table
+floriiiiider: raises $33 to $45
+CrionR: folds 
+Scarface.VLT: folds 
+Uncalled bet ($33) returned to floriiiiider
+floriiiiider collected $30 from pot
+floriiiiider: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: Dom92 folded before Flop (didn't bet)
+Seat 2: elvn89 folded before Flop (didn't bet)
+Seat 3: Scarface.VLT (button) folded before Flop
+Seat 4: floriiiiider (small blind) collected ($30)
+Seat 5: CrionR (big blind) folded before Flop
+Seat 6: barrao folded before Flop (didn't bet)

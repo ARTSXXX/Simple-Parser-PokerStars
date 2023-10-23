@@ -1,0 +1,2318 @@
+
+
+PokerStars Game #102606067094:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:20:13 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 1: patapong ($1500 in chips) 
+Seat 2: Chappolini ($600 in chips) 
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 4: HITH83 ($541.20 in chips) 
+Seat 5: BKA12 ($618.32 in chips) 
+Seat 6: Zero 1100101 ($1316.70 in chips) 
+patapong: posts small blind $3
+Chappolini: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: folds 
+HITH83: calls $6
+BKA12: raises $15 to $21
+Zero 1100101: folds 
+patapong: calls $18
+Chappolini: folds 
+HITH83: calls $15
+*** FLOP *** [5c 5d 4d]
+patapong: checks 
+HITH83: checks 
+BKA12: checks 
+*** TURN *** [5c 5d 4d] [6c]
+patapong: checks 
+HITH83: bets $48
+BKA12: folds 
+patapong: folds 
+Uncalled bet ($48) returned to HITH83
+HITH83 collected $73.40 from pot
+*** SUMMARY ***
+Total pot $76.20 | Rake $2.80 
+Board [5c 5d 4d 6c]
+Seat 1: patapong (small blind) folded on the Turn
+Seat 2: Chappolini (big blind) folded before Flop
+Seat 3: Azn1nvas1on folded before Flop (didn't bet)
+Seat 4: HITH83 collected ($73.40)
+Seat 5: BKA12 folded on the Turn
+Seat 6: Zero 1100101 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102606139595:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:21:52 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #1 is the button
+Seat 1: patapong ($1500 in chips) 
+Seat 2: Chappolini ($600 in chips) 
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 4: HITH83 ($592.40 in chips) 
+Seat 5: BKA12 ($600 in chips) 
+Seat 6: Zero 1100101 ($1315.50 in chips) 
+Chappolini: posts small blind $3
+Azn1nvas1on: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+HITH83: folds 
+BKA12: folds 
+Zero 1100101: folds 
+patapong: raises $6 to $12
+Chappolini: folds 
+Azn1nvas1on: folds 
+Uncalled bet ($6) returned to patapong
+patapong collected $22.20 from pot
+*** SUMMARY ***
+Total pot $22.20 | Rake $0 
+Seat 1: patapong (button) collected ($22.20)
+Seat 2: Chappolini (small blind) folded before Flop
+Seat 3: Azn1nvas1on (big blind) folded before Flop
+Seat 4: HITH83 folded before Flop (didn't bet)
+Seat 5: BKA12 folded before Flop (didn't bet)
+Seat 6: Zero 1100101 folded before Flop (didn't bet)
+
+
+PokerStars Game #102606168877:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:22:31 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #2 is the button
+Seat 1: patapong ($1515 in chips) 
+Seat 2: Chappolini ($600 in chips) 
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 4: HITH83 ($591.20 in chips) 
+Seat 5: BKA12 ($600 in chips) 
+Seat 6: Zero 1100101 ($1314.30 in chips) 
+Azn1nvas1on: posts small blind $3
+HITH83: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+BKA12: folds 
+Zero 1100101: folds 
+patapong: folds 
+Chappolini: raises $6 to $12
+Azn1nvas1on: folds 
+HITH83: calls $6
+*** FLOP *** [6h Kd 5h]
+HITH83: checks 
+Chappolini: bets $24
+HITH83: calls $24
+*** TURN *** [6h Kd 5h] [Th]
+HITH83: checks 
+Chappolini: checks 
+*** RIVER *** [6h Kd 5h Th] [4h]
+HITH83: bets $60
+Chappolini: folds 
+Uncalled bet ($60) returned to HITH83
+HITH83 collected $79.40 from pot
+*** SUMMARY ***
+Total pot $82.20 | Rake $2.80 
+Board [6h Kd 5h Th 4h]
+Seat 1: patapong folded before Flop (didn't bet)
+Seat 2: Chappolini (button) folded on the River
+Seat 3: Azn1nvas1on (small blind) folded before Flop
+Seat 4: HITH83 (big blind) collected ($79.40)
+Seat 5: BKA12 folded before Flop (didn't bet)
+Seat 6: Zero 1100101 folded before Flop (didn't bet)
+
+
+PokerStars Game #102606223409:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:23:44 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 1: patapong ($1513.80 in chips) 
+Seat 2: Chappolini ($600 in chips) 
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 4: HITH83 ($633.40 in chips) 
+Seat 5: BKA12 ($600 in chips) 
+Seat 6: Zero 1100101 ($1313.10 in chips) 
+HITH83: posts small blind $3
+BKA12: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: folds 
+patapong: folds 
+Chappolini: folds 
+Azn1nvas1on: raises $6 to $12
+HITH83: folds 
+BKA12: raises $33 to $45
+Azn1nvas1on: raises $63 to $108
+BKA12: folds 
+Uncalled bet ($63) returned to Azn1nvas1on
+Azn1nvas1on collected $100.20 from pot
+*** SUMMARY ***
+Total pot $100.20 | Rake $0 
+Seat 1: patapong folded before Flop (didn't bet)
+Seat 2: Chappolini folded before Flop (didn't bet)
+Seat 3: Azn1nvas1on (button) collected ($100.20)
+Seat 4: HITH83 (small blind) folded before Flop
+Seat 5: BKA12 (big blind) folded before Flop
+Seat 6: Zero 1100101 folded before Flop (didn't bet)
+
+
+PokerStars Game #102605905865:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:16:38 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($762.70 in chips) 
+Seat 4: HITH83 ($600 in chips) 
+Seat 6: Zero 1100101 ($600 in chips) 
+Azn1nvas1on: posts small blind $3
+HITH83: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+BKA12 joins the table at seat #5 
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: folds 
+HITH83: calls $6
+*** FLOP *** [Ks 2s Qh]
+HITH83: checks 
+Zero 1100101: bets $21
+HITH83: calls $21
+*** TURN *** [Ks 2s Qh] [4c]
+HITH83: checks 
+Zero 1100101: bets $54
+HITH83: folds 
+Uncalled bet ($54) returned to Zero 1100101
+Zero 1100101 collected $71.10 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $72.60 | Rake $1.50 
+Board [Ks 2s Qh 4c]
+Seat 3: Azn1nvas1on (small blind) folded before Flop
+Seat 4: HITH83 (big blind) folded on the Turn
+Seat 6: Zero 1100101 (button) collected ($71.10)
+
+
+PokerStars Game #102605941284:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:17:26 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($758.50 in chips) 
+Seat 4: HITH83 ($565.80 in chips) 
+Seat 5: BKA12 ($600 in chips) 
+Seat 6: Zero 1100101 ($636.90 in chips) 
+HITH83: posts small blind $3
+BKA12: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $12 to $18
+Azn1nvas1on: folds 
+HITH83: folds 
+BKA12: folds 
+Uncalled bet ($12) returned to Zero 1100101
+Zero 1100101 collected $19.80 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $19.80 | Rake $0 
+Seat 3: Azn1nvas1on (button) folded before Flop (didn't bet)
+Seat 4: HITH83 (small blind) folded before Flop
+Seat 5: BKA12 (big blind) folded before Flop
+Seat 6: Zero 1100101 collected ($19.80)
+
+
+PokerStars Game #102605956167:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:17:45 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #4 is the button
+Seat 3: Azn1nvas1on ($757.30 in chips) 
+Seat 4: HITH83 ($561.60 in chips) 
+Seat 5: BKA12 ($600 in chips) 
+Seat 6: Zero 1100101 ($649.50 in chips) 
+Chappolini joins the table at seat #2 
+BKA12: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $12 to $18
+HITH83: calls $18
+BKA12: folds 
+patapong joins the table at seat #1 
+Zero 1100101: raises $54 to $72
+Azn1nvas1on: raises $90 to $162
+HITH83: folds 
+Zero 1100101: raises $480 to $642
+Azn1nvas1on: raises $114.10 to $756.10 and is all-in
+Zero 1100101: calls $6.30 and is all-in
+Uncalled bet ($107.80) returned to Azn1nvas1on
+*** FIRST FLOP *** [9d 4s Qd]
+*** FIRST TURN *** [9d 4s Qd] [Tc]
+*** FIRST RIVER *** [9d 4s Qd Tc] [Js]
+*** SECOND FLOP *** [3s 4c 2h]
+*** SECOND TURN *** [3s 4c 2h] [As]
+*** SECOND RIVER *** [3s 4c 2h As] [3d]
+*** FIRST SHOW DOWN ***
+Zero 1100101: shows [Kd Kc] (a straight, Nine to King)
+Azn1nvas1on: mucks hand 
+Zero 1100101 collected $660.45 from pot
+*** SECOND SHOW DOWN ***
+Zero 1100101: shows [Kd Kc] (two pair, Kings and Threes)
+Azn1nvas1on: mucks hand 
+Zero 1100101 collected $660.45 from pot
+*** SUMMARY ***
+Total pot $1322.40 | Rake $1.50 
+Hand was run twice
+FIRST Board [9d 4s Qd Tc Js]
+SECOND Board [3s 4c 2h As 3d]
+Seat 3: Azn1nvas1on mucked
+Seat 4: HITH83 (button) folded before Flop
+Seat 5: BKA12 (small blind) folded before Flop
+Seat 6: Zero 1100101 (big blind) showed [Kd Kc] and won ($660.45) with a straight, Nine to King, and won ($660.45) with two pair, Kings and Threes
+
+
+PokerStars Game #102606012396:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:19:00 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #5 is the button
+Seat 1: patapong ($1500 in chips) 
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 4: HITH83 ($542.40 in chips) 
+Seat 5: BKA12 ($600 in chips) 
+Seat 6: Zero 1100101 ($1320.90 in chips) 
+Zero 1100101: posts small blind $3
+patapong: posts big blind $6
+Chappolini: sits out 
+patapong: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: folds 
+HITH83: folds 
+BKA12: raises $6 to $12
+Zero 1100101: folds 
+patapong: calls $6
+*** FLOP *** [6d Ah 4c]
+patapong: checks 
+BKA12: bets $18
+patapong: folds 
+Uncalled bet ($18) returned to BKA12
+BKA12 collected $31.52 from pot
+BKA12: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $1.48 
+Board [6d Ah 4c]
+Seat 1: patapong (big blind) folded on the Flop
+Seat 3: Azn1nvas1on folded before Flop (didn't bet)
+Seat 4: HITH83 folded before Flop (didn't bet)
+Seat 5: BKA12 (button) collected ($31.52)
+Seat 6: Zero 1100101 (small blind) folded before Flop
+
+
+PokerStars Game #102605842750:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:15:14 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 6: Zero 1100101 ($654.80 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [Qc 9s 5s]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** TURN *** [Qc 9s 5s] [7d]
+Azn1nvas1on: bets $18
+Zero 1100101: calls $18
+*** RIVER *** [Qc 9s 5s 7d] [8d]
+Azn1nvas1on: bets $132
+HITH83 joins the table at seat #4 
+Zero 1100101: calls $132
+*** SHOW DOWN ***
+Azn1nvas1on: shows [6h Th] (a straight, Six to Ten)
+Zero 1100101: mucks hand 
+Azn1nvas1on collected $325.90 from pot
+*** SUMMARY ***
+Total pot $326.40 | Rake $0.50 
+Board [Qc 9s 5s 7d 8d]
+Seat 3: Azn1nvas1on (big blind) showed [6h Th] and won ($325.90) with a straight, Six to Ten
+Seat 6: Zero 1100101 (button) (small blind) mucked
+
+
+PokerStars Game #102605781130:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:13:50 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 6: Zero 1100101 ($600 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: folds 
+Uncalled bet ($6) returned to Zero 1100101
+Zero 1100101 collected $14.40 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.40 | Rake $0 
+Seat 3: Azn1nvas1on (big blind) folded before Flop
+Seat 6: Zero 1100101 (button) (small blind) collected ($14.40)
+
+
+PokerStars Game #102605793190:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:14:07 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 6: Zero 1100101 ($607.20 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: folds 
+Uncalled bet ($3) returned to Zero 1100101
+Zero 1100101 collected $8.40 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.40 | Rake $0 
+Seat 3: Azn1nvas1on (button) (small blind) folded before Flop
+Seat 6: Zero 1100101 (big blind) collected ($8.40)
+
+
+PokerStars Game #102605796610:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:14:11 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 6: Zero 1100101 ($611.40 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [2s Js Jh]
+Azn1nvas1on: checks 
+Zero 1100101: bets $12
+Azn1nvas1on: folds 
+Uncalled bet ($12) returned to Zero 1100101
+Zero 1100101 collected $25.90 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [2s Js Jh]
+Seat 3: Azn1nvas1on (big blind) folded on the Flop
+Seat 6: Zero 1100101 (button) (small blind) collected ($25.90)
+
+
+PokerStars Game #102605815897:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:14:38 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 6: Zero 1100101 ($624.10 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: calls $6
+*** FLOP *** [Ad Th 6c]
+Zero 1100101: checks 
+Azn1nvas1on: checks 
+*** TURN *** [Ad Th 6c] [Kh]
+Zero 1100101: bets $18
+Azn1nvas1on: calls $18
+*** RIVER *** [Ad Th 6c Kh] [3h]
+Zero 1100101: bets $45
+Azn1nvas1on: folds 
+Uncalled bet ($45) returned to Zero 1100101
+Zero 1100101 collected $61.90 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $62.40 | Rake $0.50 
+Board [Ad Th 6c Kh 3h]
+Seat 3: Azn1nvas1on (button) (small blind) folded on the River
+Seat 6: Zero 1100101 (big blind) collected ($61.90)
+
+
+PokerStars Game #102607224214:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:45:19 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #1 is the button
+Seat 1: patapong ($1514.06 in chips) 
+Seat 2: Chappolini ($827 in chips) 
+Seat 3: Azn1nvas1on ($803.80 in chips) 
+Seat 5: BKA12 ($724.34 in chips) 
+Seat 6: Zero 1100101 ($1225.07 in chips) 
+Chappolini: posts small blind $3
+Azn1nvas1on: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+BKA12: folds 
+BKA12 leaves the table
+Zero 1100101: raises $12 to $18
+patapong: folds 
+Chappolini: folds 
+Azn1nvas1on: folds 
+Uncalled bet ($12) returned to Zero 1100101
+Zero 1100101 collected $21 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $0 
+Seat 1: patapong (button) folded before Flop (didn't bet)
+Seat 2: Chappolini (small blind) folded before Flop
+Seat 3: Azn1nvas1on (big blind) folded before Flop
+Seat 5: BKA12 folded before Flop (didn't bet)
+Seat 6: Zero 1100101 collected ($21)
+
+
+PokerStars Game #102607249776:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:45:51 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #2 is the button
+Seat 1: patapong ($1512.86 in chips) 
+Seat 2: Chappolini ($822.80 in chips) 
+Seat 3: Azn1nvas1on ($796.60 in chips) 
+Seat 6: Zero 1100101 ($1238.87 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+patapong: folds 
+patapong leaves the table
+Chappolini: raises $6 to $12
+Azn1nvas1on: folds 
+Zero 1100101: calls $6
+*** FLOP *** [8d 9d 4c]
+Zero 1100101: checks 
+Chappolini: checks 
+*** TURN *** [8d 9d 4c] [Ac]
+Zero 1100101: checks 
+Chappolini: checks 
+*** RIVER *** [8d 9d 4c Ac] [7c]
+Zero 1100101: checks 
+Chappolini: checks 
+*** SHOW DOWN ***
+Zero 1100101: shows [6h 6d] (a pair of Sixes)
+Chappolini: shows [Ts 8c] (a pair of Eights)
+Chappolini collected $30.37 from pot
+*** SUMMARY ***
+Total pot $31.80 | Rake $1.43 
+Board [8d 9d 4c Ac 7c]
+Seat 1: patapong folded before Flop (didn't bet)
+Seat 2: Chappolini (button) showed [Ts 8c] and won ($30.37) with a pair of Eights
+Seat 3: Azn1nvas1on (small blind) folded before Flop
+Seat 6: Zero 1100101 (big blind) showed [6h 6d] and lost with a pair of Sixes
+
+
+PokerStars Game #102607285403:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:46:36 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($792.40 in chips) 
+Seat 6: Zero 1100101 ($1225.67 in chips) 
+Zero 1100101: posts small blind $3
+Chappolini: is sitting out 
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Chappolini leaves the table
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: folds 
+Uncalled bet ($6) returned to Zero 1100101
+Zero 1100101 collected $14.40 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.40 | Rake $0 
+Seat 3: Azn1nvas1on (big blind) folded before Flop
+Seat 6: Zero 1100101 (button) (small blind) collected ($14.40)
+
+
+PokerStars Game #102607296349:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:46:50 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($785.20 in chips) 
+Seat 6: Zero 1100101 ($1232.87 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: folds 
+Uncalled bet ($6) returned to Azn1nvas1on
+Azn1nvas1on collected $14.40 from pot
+*** SUMMARY ***
+Total pot $14.40 | Rake $0 
+Seat 3: Azn1nvas1on (button) (small blind) collected ($14.40)
+Seat 6: Zero 1100101 (big blind) folded before Flop
+
+
+PokerStars Game #102607321219:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:47:22 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($792.40 in chips) 
+Seat 6: Zero 1100101 ($1225.67 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [Qd 9c 3h]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** TURN *** [Qd 9c 3h] [Kd]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** RIVER *** [Qd 9c 3h Kd] [Kh]
+Azn1nvas1on: bets $18
+Zero 1100101: folds 
+Uncalled bet ($18) returned to Azn1nvas1on
+Azn1nvas1on collected $25.90 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [Qd 9c 3h Kd Kh]
+Seat 3: Azn1nvas1on (big blind) collected ($25.90)
+Seat 6: Zero 1100101 (button) (small blind) folded on the River
+
+
+PokerStars Game #102607358975:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:48:10 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($805.10 in chips) 
+Seat 6: Zero 1100101 ($1212.47 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: calls $6
+*** FLOP *** [9c 4d 6c]
+Zero 1100101: checks 
+Azn1nvas1on: checks 
+*** TURN *** [9c 4d 6c] [Jd]
+Zero 1100101: bets $18
+Azn1nvas1on: calls $18
+*** RIVER *** [9c 4d 6c Jd] [2h]
+Zero 1100101: bets $48
+Azn1nvas1on: calls $48
+*** SHOW DOWN ***
+Zero 1100101: shows [7s 5c] (high card Jack)
+Azn1nvas1on: shows [Ad Ts] (high card Ace)
+Azn1nvas1on collected $157.90 from pot
+*** SUMMARY ***
+Total pot $158.40 | Rake $0.50 
+Board [9c 4d 6c Jd 2h]
+Seat 3: Azn1nvas1on (button) (small blind) showed [Ad Ts] and won ($157.90) with high card Ace
+Seat 6: Zero 1100101 (big blind) showed [7s 5c] and lost with high card Jack
+
+
+PokerStars Game #102607403837:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:49:07 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($883.80 in chips) 
+Seat 6: Zero 1100101 ($1133.27 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: raises $36 to $48
+Zero 1100101: raises $48 to $96
+Azn1nvas1on: folds 
+Uncalled bet ($48) returned to Zero 1100101
+Zero 1100101 collected $98.40 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $98.40 | Rake $0 
+Seat 3: Azn1nvas1on (big blind) folded before Flop
+Seat 6: Zero 1100101 (button) (small blind) collected ($98.40)
+
+
+PokerStars Game #102607430390:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:49:41 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($834.60 in chips) 
+Seat 6: Zero 1100101 ($1182.47 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: calls $6
+*** FLOP *** [Ac Kc Qs]
+Zero 1100101: checks 
+Azn1nvas1on: checks 
+*** TURN *** [Ac Kc Qs] [7s]
+Zero 1100101: bets $18
+Azn1nvas1on: calls $18
+*** RIVER *** [Ac Kc Qs 7s] [9d]
+Zero 1100101: bets $45
+Azn1nvas1on: folds 
+Uncalled bet ($45) returned to Zero 1100101
+Zero 1100101 collected $61.90 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $62.40 | Rake $0.50 
+Board [Ac Kc Qs 7s 9d]
+Seat 3: Azn1nvas1on (button) (small blind) folded on the River
+Seat 6: Zero 1100101 (big blind) collected ($61.90)
+
+
+PokerStars Game #102606975581:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:40:01 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #4 is the button
+Seat 1: patapong ($1500 in chips) 
+Seat 2: Chappolini ($864.80 in chips) 
+Seat 3: Azn1nvas1on ($693.80 in chips) 
+Seat 4: HITH83 ($404.33 in chips) 
+Seat 5: BKA12 ($722.82 in chips) 
+Seat 6: Zero 1100101 ($1253.87 in chips) 
+BKA12: posts small blind $3
+Zero 1100101: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+patapong: raises $9 to $15
+Chappolini: folds 
+Azn1nvas1on: folds 
+HITH83: folds 
+BKA12: folds 
+Zero 1100101: folds 
+Uncalled bet ($9) returned to patapong
+patapong collected $22.20 from pot
+*** SUMMARY ***
+Total pot $22.20 | Rake $0 
+Seat 1: patapong collected ($22.20)
+Seat 2: Chappolini folded before Flop (didn't bet)
+Seat 3: Azn1nvas1on folded before Flop (didn't bet)
+Seat 4: HITH83 (button) folded before Flop (didn't bet)
+Seat 5: BKA12 (small blind) folded before Flop
+Seat 6: Zero 1100101 (big blind) folded before Flop
+
+
+PokerStars Game #102606992834:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:40:23 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #5 is the button
+Seat 1: patapong ($1515 in chips) 
+Seat 2: Chappolini ($863.60 in chips) 
+Seat 3: Azn1nvas1on ($692.60 in chips) 
+Seat 4: HITH83 ($403.13 in chips) 
+Seat 5: BKA12 ($718.62 in chips) 
+Seat 6: Zero 1100101 ($1246.67 in chips) 
+Zero 1100101: posts small blind $3
+patapong: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Chappolini: folds 
+Azn1nvas1on: folds 
+HITH83: folds 
+BKA12: raises $6 to $12
+Zero 1100101: folds 
+patapong: calls $6
+*** FLOP *** [3h As 6s]
+patapong: bets $22.86
+BKA12: folds 
+Uncalled bet ($22.86) returned to patapong
+patapong collected $32.66 from pot
+*** SUMMARY ***
+Total pot $34.20 | Rake $1.54 
+Board [3h As 6s]
+Seat 1: patapong (big blind) collected ($32.66)
+Seat 2: Chappolini folded before Flop (didn't bet)
+Seat 3: Azn1nvas1on folded before Flop (didn't bet)
+Seat 4: HITH83 folded before Flop (didn't bet)
+Seat 5: BKA12 (button) folded on the Flop
+Seat 6: Zero 1100101 (small blind) folded before Flop
+
+
+PokerStars Game #102607036049:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:41:19 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 1: patapong ($1534.46 in chips) 
+Seat 2: Chappolini ($862.40 in chips) 
+Seat 3: Azn1nvas1on ($691.40 in chips) 
+Seat 4: HITH83 ($401.93 in chips) 
+Seat 5: BKA12 ($705.42 in chips) 
+Seat 6: Zero 1100101 ($1242.47 in chips) 
+patapong: posts small blind $3
+Chappolini: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: folds 
+HITH83: raises $6 to $12
+BKA12: folds 
+Zero 1100101: folds 
+patapong: folds 
+Chappolini: folds 
+Uncalled bet ($6) returned to HITH83
+HITH83 collected $22.20 from pot
+*** SUMMARY ***
+Total pot $22.20 | Rake $0 
+Seat 1: patapong (small blind) folded before Flop
+Seat 2: Chappolini (big blind) folded before Flop
+Seat 3: Azn1nvas1on folded before Flop (didn't bet)
+Seat 4: HITH83 collected ($22.20)
+Seat 5: BKA12 folded before Flop (didn't bet)
+Seat 6: Zero 1100101 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102607058498:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:41:47 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #1 is the button
+Seat 1: patapong ($1530.26 in chips) 
+Seat 2: Chappolini ($855.20 in chips) 
+Seat 3: Azn1nvas1on ($690.20 in chips) 
+Seat 4: HITH83 ($416.93 in chips) 
+Seat 5: BKA12 ($704.22 in chips) 
+Seat 6: Zero 1100101 ($1241.27 in chips) 
+Chappolini: posts small blind $3
+Azn1nvas1on: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+HITH83: folds 
+BKA12: folds 
+Zero 1100101: folds 
+patapong: folds 
+Chappolini: folds 
+Uncalled bet ($3) returned to Azn1nvas1on
+Azn1nvas1on collected $13.20 from pot
+*** SUMMARY ***
+Total pot $13.20 | Rake $0 
+Seat 1: patapong (button) folded before Flop (didn't bet)
+Seat 2: Chappolini (small blind) folded before Flop
+Seat 3: Azn1nvas1on (big blind) collected ($13.20)
+Seat 4: HITH83 folded before Flop (didn't bet)
+Seat 5: BKA12 folded before Flop (didn't bet)
+Seat 6: Zero 1100101 folded before Flop (didn't bet)
+
+
+PokerStars Game #102607073540:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:42:06 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #2 is the button
+Seat 1: patapong ($1529.06 in chips) 
+Seat 2: Chappolini ($851 in chips) 
+Seat 3: Azn1nvas1on ($699.20 in chips) 
+Seat 4: HITH83 ($415.73 in chips) 
+Seat 5: BKA12 ($703.02 in chips) 
+Seat 6: Zero 1100101 ($1240.07 in chips) 
+Azn1nvas1on: posts small blind $3
+HITH83: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+BKA12: folds 
+Zero 1100101: folds 
+patapong: folds 
+Chappolini: folds 
+Azn1nvas1on: folds 
+Uncalled bet ($3) returned to HITH83
+HITH83 collected $13.20 from pot
+*** SUMMARY ***
+Total pot $13.20 | Rake $0 
+Seat 1: patapong folded before Flop (didn't bet)
+Seat 2: Chappolini (button) folded before Flop (didn't bet)
+Seat 3: Azn1nvas1on (small blind) folded before Flop
+Seat 4: HITH83 (big blind) collected ($13.20)
+Seat 5: BKA12 folded before Flop (didn't bet)
+Seat 6: Zero 1100101 folded before Flop (didn't bet)
+
+
+PokerStars Game #102607096433:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:42:36 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 1: patapong ($1527.86 in chips) 
+Seat 2: Chappolini ($849.80 in chips) 
+Seat 3: Azn1nvas1on ($695 in chips) 
+Seat 4: HITH83 ($424.73 in chips) 
+Seat 5: BKA12 ($701.82 in chips) 
+Seat 6: Zero 1100101 ($1238.87 in chips) 
+HITH83: posts small blind $3
+BKA12: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: folds 
+patapong: folds 
+Chappolini: folds 
+Azn1nvas1on: raises $6 to $12
+HITH83: calls $9
+BKA12: calls $6
+*** FLOP *** [Ts Js 2s]
+HITH83: checks 
+BKA12: checks 
+Azn1nvas1on: bets $27
+HITH83: calls $27
+BKA12: folds 
+*** TURN *** [Ts Js 2s] [6s]
+HITH83: checks 
+Azn1nvas1on: checks 
+*** RIVER *** [Ts Js 2s 6s] [4c]
+HITH83: bets $42
+Azn1nvas1on: calls $42
+*** SHOW DOWN ***
+HITH83: shows [5s 9s] (a flush, Jack high)
+Azn1nvas1on: shows [7d Qs] (a flush, Queen high)
+Azn1nvas1on collected $178.40 from pot
+*** SUMMARY ***
+Total pot $181.20 | Rake $2.80 
+Board [Ts Js 2s 6s 4c]
+Seat 1: patapong folded before Flop (didn't bet)
+Seat 2: Chappolini folded before Flop (didn't bet)
+Seat 3: Azn1nvas1on (button) showed [7d Qs] and won ($178.40) with a flush, Queen high
+Seat 4: HITH83 (small blind) showed [5s 9s] and lost with a flush, Jack high
+Seat 5: BKA12 (big blind) folded on the Flop
+Seat 6: Zero 1100101 folded before Flop (didn't bet)
+
+
+PokerStars Game #102607151303:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:43:46 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #4 is the button
+Seat 1: patapong ($1526.66 in chips) 
+Seat 2: Chappolini ($848.60 in chips) 
+Seat 3: Azn1nvas1on ($791.20 in chips) 
+Seat 4: HITH83 ($342.53 in chips) 
+Seat 5: BKA12 ($688.62 in chips) 
+Seat 6: Zero 1100101 ($1237.67 in chips) 
+BKA12: posts small blind $3
+Zero 1100101: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+patapong: folds 
+Chappolini: folds 
+Azn1nvas1on: raises $12 to $18
+HITH83: folds 
+BKA12: folds 
+Zero 1100101: folds 
+Uncalled bet ($12) returned to Azn1nvas1on
+Azn1nvas1on collected $22.20 from pot
+*** SUMMARY ***
+Total pot $22.20 | Rake $0 
+Seat 1: patapong folded before Flop (didn't bet)
+Seat 2: Chappolini folded before Flop (didn't bet)
+Seat 3: Azn1nvas1on collected ($22.20)
+Seat 4: HITH83 (button) folded before Flop (didn't bet)
+Seat 5: BKA12 (small blind) folded before Flop
+Seat 6: Zero 1100101 (big blind) folded before Flop
+
+
+PokerStars Game #102607166044:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:44:05 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #5 is the button
+Seat 1: patapong ($1525.46 in chips) 
+Seat 2: Chappolini ($847.40 in chips) 
+Seat 3: Azn1nvas1on ($806.20 in chips) 
+Seat 4: HITH83 ($341.33 in chips) 
+Seat 5: BKA12 ($684.42 in chips) 
+Seat 6: Zero 1100101 ($1230.47 in chips) 
+Zero 1100101: posts small blind $3
+patapong: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Chappolini: folds 
+Azn1nvas1on: folds 
+HITH83: folds 
+BKA12: raises $6 to $12
+Zero 1100101: folds 
+patapong: folds 
+Uncalled bet ($6) returned to BKA12
+BKA12 collected $22.20 from pot
+BKA12: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.20 | Rake $0 
+Seat 1: patapong (big blind) folded before Flop
+Seat 2: Chappolini folded before Flop (didn't bet)
+Seat 3: Azn1nvas1on folded before Flop (didn't bet)
+Seat 4: HITH83 folded before Flop (didn't bet)
+Seat 5: BKA12 (button) collected ($22.20)
+Seat 6: Zero 1100101 (small blind) folded before Flop
+
+
+PokerStars Game #102607187830:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:44:32 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 1: patapong ($1518.26 in chips) 
+Seat 2: Chappolini ($846.20 in chips) 
+Seat 3: Azn1nvas1on ($805 in chips) 
+Seat 4: HITH83 ($340.13 in chips) 
+Seat 5: BKA12 ($699.42 in chips) 
+Seat 6: Zero 1100101 ($1226.27 in chips) 
+patapong: posts small blind $3
+Chappolini: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: folds 
+HITH83: folds 
+HITH83 leaves the table
+BKA12: raises $12 to $18
+Zero 1100101: folds 
+patapong: folds 
+Chappolini: calls $12
+*** FLOP *** [8h 8c Jd]
+Chappolini: checks 
+BKA12: bets $26.47
+Chappolini: folds 
+Uncalled bet ($26.47) returned to BKA12
+BKA12 collected $44.12 from pot
+BKA12: doesn't show hand 
+*** SUMMARY ***
+Total pot $46.20 | Rake $2.08 
+Board [8h 8c Jd]
+Seat 1: patapong (small blind) folded before Flop
+Seat 2: Chappolini (big blind) folded on the Flop
+Seat 3: Azn1nvas1on folded before Flop (didn't bet)
+Seat 4: HITH83 folded before Flop (didn't bet)
+Seat 5: BKA12 collected ($44.12)
+Seat 6: Zero 1100101 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102606743760:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:35:05 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #5 is the button
+Seat 1: patapong ($1526.98 in chips) 
+Seat 2: Chappolini ($879.80 in chips) 
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 4: HITH83 ($351.59 in chips) 
+Seat 5: BKA12 ($782.82 in chips) 
+Seat 6: Zero 1100101 ($1185.27 in chips) 
+Zero 1100101: posts small blind $3
+patapong: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Chappolini: folds 
+Azn1nvas1on: folds 
+HITH83: folds 
+BKA12: raises $6 to $12
+Zero 1100101: raises $36 to $48
+patapong: folds 
+BKA12: calls $36
+*** FLOP *** [Kh Th Kd]
+Zero 1100101: bets $54
+BKA12: folds 
+Uncalled bet ($54) returned to Zero 1100101
+Zero 1100101 collected $106.40 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $109.20 | Rake $2.80 
+Board [Kh Th Kd]
+Seat 1: patapong (big blind) folded before Flop
+Seat 2: Chappolini folded before Flop (didn't bet)
+Seat 3: Azn1nvas1on folded before Flop (didn't bet)
+Seat 4: HITH83 folded before Flop (didn't bet)
+Seat 5: BKA12 (button) folded on the Flop
+Seat 6: Zero 1100101 (small blind) collected ($106.40)
+
+
+PokerStars Game #102606800024:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:36:17 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 1: patapong ($1519.78 in chips) 
+Seat 2: Chappolini ($878.60 in chips) 
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 4: HITH83 ($350.39 in chips) 
+Seat 5: BKA12 ($733.62 in chips) 
+Seat 6: Zero 1100101 ($1242.47 in chips) 
+patapong: posts small blind $3
+Chappolini: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: folds 
+HITH83: folds 
+BKA12: folds 
+Zero 1100101: raises $6 to $12
+patapong: folds 
+Chappolini: folds 
+Uncalled bet ($6) returned to Zero 1100101
+Zero 1100101 collected $22.20 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.20 | Rake $0 
+Seat 1: patapong (small blind) folded before Flop
+Seat 2: Chappolini (big blind) folded before Flop
+Seat 3: Azn1nvas1on folded before Flop (didn't bet)
+Seat 4: HITH83 folded before Flop (didn't bet)
+Seat 5: BKA12 folded before Flop (didn't bet)
+Seat 6: Zero 1100101 (button) collected ($22.20)
+
+
+PokerStars Game #102606828510:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:36:53 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #1 is the button
+Seat 1: patapong ($1515.58 in chips) 
+Seat 2: Chappolini ($871.40 in chips) 
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 4: HITH83 ($349.19 in chips) 
+Seat 5: BKA12 ($732.42 in chips) 
+Seat 6: Zero 1100101 ($1257.47 in chips) 
+Chappolini: posts small blind $3
+Azn1nvas1on: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+HITH83: folds 
+BKA12: folds 
+Zero 1100101: folds 
+patapong: raises $9 to $15
+Chappolini: folds 
+Azn1nvas1on: calls $9
+*** FLOP *** [Kc Jh 4h]
+Azn1nvas1on: checks 
+patapong: bets $26.87
+Azn1nvas1on: raises $51.13 to $78
+patapong: calls $51.13
+*** TURN *** [Kc Jh 4h] [Th]
+Azn1nvas1on: bets $141
+patapong: folds 
+Uncalled bet ($141) returned to Azn1nvas1on
+Azn1nvas1on collected $193.40 from pot
+*** SUMMARY ***
+Total pot $196.20 | Rake $2.80 
+Board [Kc Jh 4h Th]
+Seat 1: patapong (button) folded on the Turn
+Seat 2: Chappolini (small blind) folded before Flop
+Seat 3: Azn1nvas1on (big blind) collected ($193.40)
+Seat 4: HITH83 folded before Flop (didn't bet)
+Seat 5: BKA12 folded before Flop (didn't bet)
+Seat 6: Zero 1100101 folded before Flop (didn't bet)
+
+
+PokerStars Game #102606890330:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:38:12 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #2 is the button
+Seat 1: patapong ($1500 in chips) 
+Seat 2: Chappolini ($867.20 in chips) 
+Seat 3: Azn1nvas1on ($699.20 in chips) 
+Seat 4: HITH83 ($347.99 in chips) 
+Seat 5: BKA12 ($731.22 in chips) 
+Seat 6: Zero 1100101 ($1256.27 in chips) 
+Azn1nvas1on: posts small blind $3
+HITH83: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+BKA12: folds 
+Zero 1100101: folds 
+patapong: raises $9 to $15
+Chappolini: folds 
+Azn1nvas1on: folds 
+HITH83: calls $9
+*** FLOP *** [3s 3d Jc]
+HITH83: checks 
+patapong: bets $24
+HITH83: calls $24
+*** TURN *** [3s 3d Jc] [5s]
+HITH83: checks 
+patapong: checks 
+*** RIVER *** [3s 3d Jc 5s] [Ks]
+HITH83: checks 
+patapong: checks 
+*** SHOW DOWN ***
+HITH83: shows [Jh Ah] (two pair, Jacks and Threes)
+patapong: mucks hand 
+HITH83 collected $85.40 from pot
+*** SUMMARY ***
+Total pot $88.20 | Rake $2.80 
+Board [3s 3d Jc 5s Ks]
+Seat 1: patapong mucked
+Seat 2: Chappolini (button) folded before Flop (didn't bet)
+Seat 3: Azn1nvas1on (small blind) folded before Flop
+Seat 4: HITH83 (big blind) showed [Jh Ah] and won ($85.40) with two pair, Jacks and Threes
+Seat 5: BKA12 folded before Flop (didn't bet)
+Seat 6: Zero 1100101 folded before Flop (didn't bet)
+
+
+PokerStars Game #102606948924:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:39:27 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 1: patapong ($1500 in chips) 
+Seat 2: Chappolini ($866 in chips) 
+Seat 3: Azn1nvas1on ($695 in chips) 
+Seat 4: HITH83 ($393.19 in chips) 
+Seat 5: BKA12 ($730.02 in chips) 
+Seat 6: Zero 1100101 ($1255.07 in chips) 
+HITH83: posts small blind $3
+BKA12: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: folds 
+patapong: folds 
+Chappolini: folds 
+Azn1nvas1on: folds 
+HITH83: calls $3
+BKA12: checks 
+*** FLOP *** [Ah Qc 4c]
+HITH83: bets $6
+BKA12: folds 
+Uncalled bet ($6) returned to HITH83
+HITH83 collected $18.34 from pot
+*** SUMMARY ***
+Total pot $19.20 | Rake $0.86 
+Board [Ah Qc 4c]
+Seat 1: patapong folded before Flop (didn't bet)
+Seat 2: Chappolini folded before Flop (didn't bet)
+Seat 3: Azn1nvas1on (button) folded before Flop (didn't bet)
+Seat 4: HITH83 (small blind) collected ($18.34)
+Seat 5: BKA12 (big blind) folded on the Flop
+Seat 6: Zero 1100101 folded before Flop (didn't bet)
+
+
+PokerStars Game #102606540318:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:30:46 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #1 is the button
+Seat 1: patapong ($1508.39 in chips) 
+Seat 2: Chappolini ($887.60 in chips) 
+Seat 3: Azn1nvas1on ($614.40 in chips) 
+Seat 4: HITH83 ($374.39 in chips) 
+Seat 5: BKA12 ($631.80 in chips) 
+Seat 6: Zero 1100101 ($1299.30 in chips) 
+Chappolini: posts small blind $3
+Azn1nvas1on: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+HITH83: folds 
+BKA12: raises $12 to $18
+Zero 1100101: folds 
+patapong: folds 
+Chappolini: folds 
+Azn1nvas1on: folds 
+Uncalled bet ($12) returned to BKA12
+BKA12 collected $22.20 from pot
+BKA12: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.20 | Rake $0 
+Seat 1: patapong (button) folded before Flop (didn't bet)
+Seat 2: Chappolini (small blind) folded before Flop
+Seat 3: Azn1nvas1on (big blind) folded before Flop
+Seat 4: HITH83 folded before Flop (didn't bet)
+Seat 5: BKA12 collected ($22.20)
+Seat 6: Zero 1100101 folded before Flop (didn't bet)
+
+
+PokerStars Game #102606563451:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:31:16 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #2 is the button
+Seat 1: patapong ($1507.19 in chips) 
+Seat 2: Chappolini ($883.40 in chips) 
+Seat 3: Azn1nvas1on ($607.20 in chips) 
+Seat 4: HITH83 ($373.19 in chips) 
+Seat 5: BKA12 ($646.80 in chips) 
+Seat 6: Zero 1100101 ($1298.10 in chips) 
+Azn1nvas1on: posts small blind $3
+HITH83: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+BKA12: folds 
+Zero 1100101: folds 
+patapong: raises $9 to $15
+Chappolini: folds 
+Azn1nvas1on: folds 
+HITH83: calls $9
+*** FLOP *** [3c Kh 9c]
+HITH83: checks 
+patapong: checks 
+*** TURN *** [3c Kh 9c] [Qc]
+HITH83: checks 
+patapong: checks 
+*** RIVER *** [3c Kh 9c Qc] [2d]
+HITH83: checks 
+patapong: checks 
+*** SHOW DOWN ***
+HITH83: shows [4h 5s] (high card King)
+patapong: shows [Ah 2c] (a pair of Deuces)
+patapong collected $38.39 from pot
+*** SUMMARY ***
+Total pot $40.20 | Rake $1.81 
+Board [3c Kh 9c Qc 2d]
+Seat 1: patapong showed [Ah 2c] and won ($38.39) with a pair of Deuces
+Seat 2: Chappolini (button) folded before Flop (didn't bet)
+Seat 3: Azn1nvas1on (small blind) folded before Flop
+Seat 4: HITH83 (big blind) showed [4h 5s] and lost with high card King
+Seat 5: BKA12 folded before Flop (didn't bet)
+Seat 6: Zero 1100101 folded before Flop (didn't bet)
+
+
+PokerStars Game #102606620029:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:32:28 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 1: patapong ($1529.38 in chips) 
+Seat 2: Chappolini ($882.20 in chips) 
+Seat 3: Azn1nvas1on ($603 in chips) 
+Seat 4: HITH83 ($356.99 in chips) 
+Seat 5: BKA12 ($645.60 in chips) 
+Seat 6: Zero 1100101 ($1296.90 in chips) 
+HITH83: posts small blind $3
+BKA12: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $12 to $18
+patapong: folds 
+Chappolini: folds 
+Azn1nvas1on: folds 
+HITH83: folds 
+BKA12: calls $12
+*** FLOP *** [2h Ts 7d]
+BKA12: checks 
+Zero 1100101: bets $24
+BKA12: calls $24
+*** TURN *** [2h Ts 7d] [9s]
+BKA12: checks 
+Zero 1100101: checks 
+*** RIVER *** [2h Ts 7d 9s] [2c]
+BKA12: bets $61.23
+Zero 1100101: calls $61.23
+*** SHOW DOWN ***
+BKA12: shows [7s 7h] (a full house, Sevens full of Deuces)
+Zero 1100101: mucks hand 
+BKA12 collected $213.86 from pot
+*** SUMMARY ***
+Total pot $216.66 | Rake $2.80 
+Board [2h Ts 7d 9s 2c]
+Seat 1: patapong folded before Flop (didn't bet)
+Seat 2: Chappolini folded before Flop (didn't bet)
+Seat 3: Azn1nvas1on (button) folded before Flop (didn't bet)
+Seat 4: HITH83 (small blind) folded before Flop
+Seat 5: BKA12 (big blind) showed [7s 7h] and won ($213.86) with a full house, Sevens full of Deuces
+Seat 6: Zero 1100101 mucked
+
+
+PokerStars Game #102606695993:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:34:04 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #4 is the button
+Seat 1: patapong ($1528.18 in chips) 
+Seat 2: Chappolini ($881 in chips) 
+Seat 3: Azn1nvas1on ($601.80 in chips) 
+Seat 4: HITH83 ($352.79 in chips) 
+Seat 5: BKA12 ($755.03 in chips) 
+Seat 6: Zero 1100101 ($1192.47 in chips) 
+BKA12: posts small blind $3
+Zero 1100101: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+patapong: folds 
+Chappolini: folds 
+Azn1nvas1on: raises $12 to $18
+HITH83: folds 
+BKA12: calls $15
+Zero 1100101: folds 
+*** FLOP *** [6h 6s 4d]
+BKA12: bets $28.19
+Azn1nvas1on: folds 
+Uncalled bet ($28.19) returned to BKA12
+BKA12 collected $46.99 from pot
+BKA12: doesn't show hand 
+*** SUMMARY ***
+Total pot $49.20 | Rake $2.21 
+Board [6h 6s 4d]
+Seat 1: patapong folded before Flop (didn't bet)
+Seat 2: Chappolini folded before Flop (didn't bet)
+Seat 3: Azn1nvas1on folded on the Flop
+Seat 4: HITH83 (button) folded before Flop (didn't bet)
+Seat 5: BKA12 (small blind) collected ($46.99)
+Seat 6: Zero 1100101 (big blind) folded before Flop
+
+
+PokerStars Game #102606279892:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:25:00 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #4 is the button
+Seat 1: patapong ($1512.60 in chips) 
+Seat 2: Chappolini ($600 in chips) 
+Seat 3: Azn1nvas1on ($654 in chips) 
+Seat 4: HITH83 ($629.20 in chips) 
+Seat 5: BKA12 ($600 in chips) 
+Seat 6: Zero 1100101 ($1311.90 in chips) 
+BKA12: posts small blind $3
+Zero 1100101: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+patapong: folds 
+Chappolini: folds 
+Azn1nvas1on: raises $12 to $18
+HITH83: folds 
+BKA12: folds 
+Zero 1100101: folds 
+Uncalled bet ($12) returned to Azn1nvas1on
+Azn1nvas1on collected $22.20 from pot
+*** SUMMARY ***
+Total pot $22.20 | Rake $0 
+Seat 1: patapong folded before Flop (didn't bet)
+Seat 2: Chappolini folded before Flop (didn't bet)
+Seat 3: Azn1nvas1on collected ($22.20)
+Seat 4: HITH83 (button) folded before Flop (didn't bet)
+Seat 5: BKA12 (small blind) folded before Flop
+Seat 6: Zero 1100101 (big blind) folded before Flop
+
+
+PokerStars Game #102606296480:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:25:23 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #5 is the button
+Seat 1: patapong ($1511.40 in chips) 
+Seat 2: Chappolini ($600 in chips) 
+Seat 3: Azn1nvas1on ($669 in chips) 
+Seat 4: HITH83 ($628 in chips) 
+Seat 5: BKA12 ($600 in chips) 
+Seat 6: Zero 1100101 ($1304.70 in chips) 
+Zero 1100101: posts small blind $3
+patapong: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Chappolini: folds 
+Azn1nvas1on: raises $12 to $18
+HITH83: folds 
+BKA12: raises $42 to $60
+Zero 1100101: folds 
+patapong: folds 
+Azn1nvas1on: folds 
+Uncalled bet ($42) returned to BKA12
+BKA12 collected $52.20 from pot
+BKA12: doesn't show hand 
+*** SUMMARY ***
+Total pot $52.20 | Rake $0 
+Seat 1: patapong (big blind) folded before Flop
+Seat 2: Chappolini folded before Flop (didn't bet)
+Seat 3: Azn1nvas1on folded before Flop
+Seat 4: HITH83 folded before Flop (didn't bet)
+Seat 5: BKA12 (button) collected ($52.20)
+Seat 6: Zero 1100101 (small blind) folded before Flop
+
+
+PokerStars Game #102606343467:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:26:25 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 1: patapong ($1504.20 in chips) 
+Seat 2: Chappolini ($600 in chips) 
+Seat 3: Azn1nvas1on ($649.80 in chips) 
+Seat 4: HITH83 ($626.80 in chips) 
+Seat 5: BKA12 ($633 in chips) 
+Seat 6: Zero 1100101 ($1300.50 in chips) 
+patapong: posts small blind $3
+Chappolini: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: folds 
+HITH83: folds 
+BKA12: folds 
+Zero 1100101: raises $6 to $12
+patapong: folds 
+Chappolini: folds 
+Uncalled bet ($6) returned to Zero 1100101
+Zero 1100101 collected $22.20 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.20 | Rake $0 
+Seat 1: patapong (small blind) folded before Flop
+Seat 2: Chappolini (big blind) folded before Flop
+Seat 3: Azn1nvas1on folded before Flop (didn't bet)
+Seat 4: HITH83 folded before Flop (didn't bet)
+Seat 5: BKA12 folded before Flop (didn't bet)
+Seat 6: Zero 1100101 (button) collected ($22.20)
+
+
+PokerStars Game #102606364577:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:26:54 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #1 is the button
+Seat 1: patapong ($1500 in chips) 
+Seat 2: Chappolini ($600 in chips) 
+Seat 3: Azn1nvas1on ($648.60 in chips) 
+Seat 4: HITH83 ($625.60 in chips) 
+Seat 5: BKA12 ($631.80 in chips) 
+Seat 6: Zero 1100101 ($1315.50 in chips) 
+Chappolini: posts small blind $3
+Azn1nvas1on: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+HITH83: folds 
+BKA12: folds 
+Zero 1100101: folds 
+patapong: folds 
+Chappolini: raises $12 to $18
+Azn1nvas1on: folds 
+Uncalled bet ($12) returned to Chappolini
+Chappolini collected $19.20 from pot
+Chappolini: doesn't show hand 
+*** SUMMARY ***
+Total pot $19.20 | Rake $0 
+Seat 1: patapong (button) folded before Flop (didn't bet)
+Seat 2: Chappolini (small blind) collected ($19.20)
+Seat 3: Azn1nvas1on (big blind) folded before Flop
+Seat 4: HITH83 folded before Flop (didn't bet)
+Seat 5: BKA12 folded before Flop (didn't bet)
+Seat 6: Zero 1100101 folded before Flop (didn't bet)
+
+
+PokerStars Game #102606376926:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:27:10 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #2 is the button
+Seat 1: patapong ($1500 in chips) 
+Seat 2: Chappolini ($612 in chips) 
+Seat 3: Azn1nvas1on ($641.40 in chips) 
+Seat 4: HITH83 ($624.40 in chips) 
+Seat 5: BKA12 ($630.60 in chips) 
+Seat 6: Zero 1100101 ($1314.30 in chips) 
+Azn1nvas1on: posts small blind $3
+HITH83: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+BKA12: folds 
+Zero 1100101: folds 
+patapong: raises $9 to $15
+Chappolini: folds 
+Azn1nvas1on: folds 
+HITH83: calls $9
+*** FLOP *** [Ad 7h Ah]
+HITH83: checks 
+patapong: bets $23.87
+HITH83: folds 
+Uncalled bet ($23.87) returned to patapong
+patapong collected $38.39 from pot
+*** SUMMARY ***
+Total pot $40.20 | Rake $1.81 
+Board [Ad 7h Ah]
+Seat 1: patapong collected ($38.39)
+Seat 2: Chappolini (button) folded before Flop (didn't bet)
+Seat 3: Azn1nvas1on (small blind) folded before Flop
+Seat 4: HITH83 (big blind) folded on the Flop
+Seat 5: BKA12 folded before Flop (didn't bet)
+Seat 6: Zero 1100101 folded before Flop (didn't bet)
+
+
+PokerStars Game #102606404656:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:27:47 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 1: patapong ($1522.19 in chips) 
+Seat 2: Chappolini ($610.80 in chips) 
+Seat 3: Azn1nvas1on ($637.20 in chips) 
+Seat 4: HITH83 ($608.20 in chips) 
+Seat 5: BKA12 ($629.40 in chips) 
+Seat 6: Zero 1100101 ($1313.10 in chips) 
+HITH83: posts small blind $3
+BKA12: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: folds 
+patapong: folds 
+Chappolini: folds 
+Azn1nvas1on: raises $6 to $12
+HITH83: calls $9
+BKA12: folds 
+*** FLOP *** [Jh 9s 7h]
+HITH83: checks 
+Azn1nvas1on: checks 
+*** TURN *** [Jh 9s 7h] [Ts]
+HITH83: bets $6
+Azn1nvas1on: calls $6
+*** RIVER *** [Jh 9s 7h Ts] [9d]
+HITH83: bets $36
+Azn1nvas1on: folds 
+Uncalled bet ($36) returned to HITH83
+HITH83 collected $46.99 from pot
+*** SUMMARY ***
+Total pot $49.20 | Rake $2.21 
+Board [Jh 9s 7h Ts 9d]
+Seat 1: patapong folded before Flop (didn't bet)
+Seat 2: Chappolini folded before Flop (didn't bet)
+Seat 3: Azn1nvas1on (button) folded on the River
+Seat 4: HITH83 (small blind) collected ($46.99)
+Seat 5: BKA12 (big blind) folded before Flop
+Seat 6: Zero 1100101 folded before Flop (didn't bet)
+
+
+PokerStars Game #102606434898:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:28:28 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #4 is the button
+Seat 1: patapong ($1520.99 in chips) 
+Seat 2: Chappolini ($609.60 in chips) 
+Seat 3: Azn1nvas1on ($618 in chips) 
+Seat 4: HITH83 ($635.99 in chips) 
+Seat 5: BKA12 ($622.20 in chips) 
+Seat 6: Zero 1100101 ($1311.90 in chips) 
+BKA12: posts small blind $3
+Zero 1100101: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+patapong: folds 
+Chappolini: raises $12 to $18
+Azn1nvas1on: folds 
+HITH83: folds 
+BKA12: folds 
+Zero 1100101: folds 
+Uncalled bet ($12) returned to Chappolini
+Chappolini collected $22.20 from pot
+Chappolini: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.20 | Rake $0 
+Seat 1: patapong folded before Flop (didn't bet)
+Seat 2: Chappolini collected ($22.20)
+Seat 3: Azn1nvas1on folded before Flop (didn't bet)
+Seat 4: HITH83 (button) folded before Flop (didn't bet)
+Seat 5: BKA12 (small blind) folded before Flop
+Seat 6: Zero 1100101 (big blind) folded before Flop
+
+
+PokerStars Game #102606447060:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:28:44 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #5 is the button
+Seat 1: patapong ($1519.79 in chips) 
+Seat 2: Chappolini ($624.60 in chips) 
+Seat 3: Azn1nvas1on ($616.80 in chips) 
+Seat 4: HITH83 ($634.79 in chips) 
+Seat 5: BKA12 ($618 in chips) 
+Seat 6: Zero 1100101 ($1304.70 in chips) 
+Zero 1100101: posts small blind $3
+patapong: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Chappolini: folds 
+Azn1nvas1on: folds 
+HITH83: folds 
+BKA12: raises $6 to $12
+Zero 1100101: folds 
+patapong: folds 
+Uncalled bet ($6) returned to BKA12
+BKA12 collected $22.20 from pot
+BKA12: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.20 | Rake $0 
+Seat 1: patapong (big blind) folded before Flop
+Seat 2: Chappolini folded before Flop (didn't bet)
+Seat 3: Azn1nvas1on folded before Flop (didn't bet)
+Seat 4: HITH83 folded before Flop (didn't bet)
+Seat 5: BKA12 (button) collected ($22.20)
+Seat 6: Zero 1100101 (small blind) folded before Flop
+
+
+PokerStars Game #102606461686:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:29:04 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 1: patapong ($1512.59 in chips) 
+Seat 2: Chappolini ($623.40 in chips) 
+Seat 3: Azn1nvas1on ($615.60 in chips) 
+Seat 4: HITH83 ($633.59 in chips) 
+Seat 5: BKA12 ($633 in chips) 
+Seat 6: Zero 1100101 ($1300.50 in chips) 
+patapong: posts small blind $3
+Chappolini: posts big blind $6
+patapong: posts the ante $1.20
+Chappolini: posts the ante $1.20
+Azn1nvas1on: posts the ante $1.20
+HITH83: posts the ante $1.20
+BKA12: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: folds 
+HITH83: raises $12 to $18
+BKA12: folds 
+Zero 1100101: folds 
+patapong: folds 
+Chappolini: raises $42 to $60
+HITH83: calls $42
+*** FLOP *** [Qs 6h Qd]
+Chappolini: checks 
+HITH83: bets $66
+Chappolini: calls $66
+*** TURN *** [Qs 6h Qd] [7h]
+Chappolini: checks 
+HITH83: checks 
+*** RIVER *** [Qs 6h Qd 7h] [5s]
+Chappolini: checks 
+HITH83: bets $132
+Chappolini: calls $132
+*** SHOW DOWN ***
+HITH83: shows [9s Js] (a pair of Queens)
+Chappolini: shows [As Ah] (two pair, Aces and Queens)
+Chappolini collected $523.40 from pot
+*** SUMMARY ***
+Total pot $526.20 | Rake $2.80 
+Board [Qs 6h Qd 7h 5s]
+Seat 1: patapong (small blind) folded before Flop
+Seat 2: Chappolini (big blind) showed [As Ah] and won ($523.40) with two pair, Aces and Queens
+Seat 3: Azn1nvas1on folded before Flop (didn't bet)
+Seat 4: HITH83 showed [9s Js] and lost with a pair of Queens
+Seat 5: BKA12 folded before Flop (didn't bet)
+Seat 6: Zero 1100101 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102607868479:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:00:15 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($612.70 in chips) 
+Seat 6: Zero 1100101 ($1537.07 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: folds 
+Uncalled bet ($6) returned to Zero 1100101
+Zero 1100101 collected $14.40 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.40 | Rake $0 
+Seat 3: Azn1nvas1on (big blind) folded before Flop
+Seat 6: Zero 1100101 (button) (small blind) collected ($14.40)
+
+
+PokerStars Game #102607872840:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:00:21 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($605.50 in chips) 
+Seat 6: Zero 1100101 ($1544.27 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: folds 
+Uncalled bet ($6) returned to Azn1nvas1on
+Azn1nvas1on collected $14.40 from pot
+*** SUMMARY ***
+Total pot $14.40 | Rake $0 
+Seat 3: Azn1nvas1on (button) (small blind) collected ($14.40)
+Seat 6: Zero 1100101 (big blind) folded before Flop
+
+
+PokerStars Game #102607884032:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:00:39 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($612.70 in chips) 
+Seat 6: Zero 1100101 ($1537.07 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [6h 9d 7c]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** TURN *** [6h 9d 7c] [3d]
+Azn1nvas1on: bets $54
+Zero 1100101: calls $54
+*** RIVER *** [6h 9d 7c 3d] [3s]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** SHOW DOWN ***
+Azn1nvas1on: shows [2d Td] (a pair of Threes)
+Zero 1100101: shows [6s 8h] (two pair, Sixes and Threes)
+Zero 1100101 collected $133.90 from pot
+*** SUMMARY ***
+Total pot $134.40 | Rake $0.50 
+Board [6h 9d 7c 3d 3s]
+Seat 3: Azn1nvas1on (big blind) showed [2d Td] and lost with a pair of Threes
+Seat 6: Zero 1100101 (button) (small blind) showed [6s 8h] and won ($133.90) with two pair, Sixes and Threes
+
+
+PokerStars Game #102607921798:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:01:33 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 6: Zero 1100101 ($1603.77 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: calls $6
+*** FLOP *** [5c Ac Jh]
+Zero 1100101: checks 
+Azn1nvas1on: checks 
+*** TURN *** [5c Ac Jh] [7s]
+Zero 1100101: checks 
+Azn1nvas1on: bets $18
+Zero 1100101: folds 
+Uncalled bet ($18) returned to Azn1nvas1on
+Azn1nvas1on collected $25.90 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [5c Ac Jh 7s]
+Seat 3: Azn1nvas1on (button) (small blind) collected ($25.90)
+Seat 6: Zero 1100101 (big blind) folded on the Turn
+
+
+PokerStars Game #102607952902:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:02:13 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($612.70 in chips) 
+Seat 6: Zero 1100101 ($1590.57 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [5h 4c 4d]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** TURN *** [5h 4c 4d] [9c]
+Azn1nvas1on: bets $18
+Zero 1100101: folds 
+Uncalled bet ($18) returned to Azn1nvas1on
+Azn1nvas1on collected $25.90 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [5h 4c 4d 9c]
+Seat 3: Azn1nvas1on (big blind) collected ($25.90)
+Seat 6: Zero 1100101 (button) (small blind) folded on the Turn
+
+
+PokerStars Game #102607988982:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 11:03:00 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($625.40 in chips) 
+Seat 6: Zero 1100101 ($1577.37 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: folds 
+Uncalled bet ($6) returned to Azn1nvas1on
+Azn1nvas1on collected $14.40 from pot
+*** SUMMARY ***
+Total pot $14.40 | Rake $0 
+Seat 3: Azn1nvas1on (button) (small blind) collected ($14.40)
+Seat 6: Zero 1100101 (big blind) folded before Flop
+
+
+PokerStars Game #102607686961:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:55:11 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($840.80 in chips) 
+Seat 6: Zero 1100101 ($1173.27 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: calls $6
+*** FLOP *** [3s 5s As]
+Zero 1100101: checks 
+Azn1nvas1on: bets $18
+Zero 1100101: folds 
+Uncalled bet ($18) returned to Azn1nvas1on
+Azn1nvas1on collected $25.90 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [3s 5s As]
+Seat 3: Azn1nvas1on (button) (small blind) collected ($25.90)
+Seat 6: Zero 1100101 (big blind) folded on the Flop
+
+
+PokerStars Game #102607705699:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:55:43 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($853.50 in chips) 
+Seat 6: Zero 1100101 ($1160.07 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: raises $36 to $48
+Zero 1100101: calls $36
+*** FLOP *** [As Ts 6d]
+Azn1nvas1on: bets $60
+Zero 1100101: calls $60
+*** TURN *** [As Ts 6d] [8c]
+Azn1nvas1on: bets $144
+Zero 1100101: calls $144
+*** RIVER *** [As Ts 6d 8c] [7s]
+Azn1nvas1on: checks 
+Zero 1100101: bets $348
+Azn1nvas1on: folds 
+Uncalled bet ($348) returned to Zero 1100101
+Zero 1100101 collected $505.90 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $506.40 | Rake $0.50 
+Board [As Ts 6d 8c 7s]
+Seat 3: Azn1nvas1on (big blind) folded on the River
+Seat 6: Zero 1100101 (button) (small blind) collected ($505.90)
+
+
+PokerStars Game #102607777448:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:57:44 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($600.30 in chips) 
+Seat 6: Zero 1100101 ($1412.77 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Azn1nvas1on said, "i do not win hands at hu"
+Zero 1100101: calls $6
+*** FLOP *** [Jh 2h 7h]
+Zero 1100101: checks 
+Azn1nvas1on: bets $18
+Zero 1100101 said, "bit of a leak imo"
+Zero 1100101: folds 
+Uncalled bet ($18) returned to Azn1nvas1on
+Azn1nvas1on collected $25.90 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [Jh 2h 7h]
+Seat 3: Azn1nvas1on (button) (small blind) collected ($25.90)
+Seat 6: Zero 1100101 (big blind) folded on the Flop
+
+
+PokerStars Game #102607801917:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:58:25 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($613 in chips) 
+Seat 6: Zero 1100101 ($1399.57 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [Ac 7h As]
+Azn1nvas1on: checks 
+Zero 1100101: bets $15
+Azn1nvas1on: calls $15
+*** TURN *** [Ac 7h As] [Tc]
+Azn1nvas1on: checks 
+Zero 1100101: bets $42
+Azn1nvas1on: calls $42
+*** RIVER *** [Ac 7h As Tc] [Kc]
+Azn1nvas1on: checks 
+Zero 1100101: bets $81
+Azn1nvas1on: calls $81
+*** SHOW DOWN ***
+Zero 1100101: shows [5c 4c] (a flush, Ace high)
+Azn1nvas1on: mucks hand 
+Zero 1100101 collected $301.90 from pot
+*** SUMMARY ***
+Total pot $302.40 | Rake $0.50 
+Board [Ac 7h As Tc Kc]
+Seat 3: Azn1nvas1on (big blind) mucked
+Seat 6: Zero 1100101 (button) (small blind) showed [5c 4c] and won ($301.90) with a flush, Ace high
+
+
+PokerStars Game #102607846482:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:59:40 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($600 in chips) 
+Seat 6: Zero 1100101 ($1550.27 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: calls $6
+*** FLOP *** [7h 7d 2h]
+Zero 1100101: checks 
+Azn1nvas1on: bets $18
+Zero 1100101: folds 
+Uncalled bet ($18) returned to Azn1nvas1on
+Azn1nvas1on collected $25.90 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [7h 7d 2h]
+Seat 3: Azn1nvas1on (button) (small blind) collected ($25.90)
+Seat 6: Zero 1100101 (big blind) folded on the Flop
+
+
+PokerStars Game #102607469854:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:50:31 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($803.40 in chips) 
+Seat 6: Zero 1100101 ($1213.17 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: folds 
+Uncalled bet ($6) returned to Zero 1100101
+Zero 1100101 collected $14.40 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.40 | Rake $0 
+Seat 3: Azn1nvas1on (big blind) folded before Flop
+Seat 6: Zero 1100101 (button) (small blind) collected ($14.40)
+
+
+PokerStars Game #102607474746:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:50:37 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($796.20 in chips) 
+Seat 6: Zero 1100101 ($1220.37 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: raises $30 to $42
+Azn1nvas1on: folds 
+Uncalled bet ($30) returned to Zero 1100101
+Zero 1100101 collected $26.40 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $26.40 | Rake $0 
+Seat 3: Azn1nvas1on (button) (small blind) folded before Flop
+Seat 6: Zero 1100101 (big blind) collected ($26.40)
+
+
+PokerStars Game #102607486758:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:50:53 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($783 in chips) 
+Seat 6: Zero 1100101 ($1233.57 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [3s Ac Th]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** TURN *** [3s Ac Th] [As]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** RIVER *** [3s Ac Th As] [9h]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** SHOW DOWN ***
+Azn1nvas1on: shows [7c 8c] (a pair of Aces)
+Zero 1100101: shows [Kh 7h] (a pair of Aces - King kicker)
+Zero 1100101 collected $25.90 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [3s Ac Th As 9h]
+Seat 3: Azn1nvas1on (big blind) showed [7c 8c] and lost with a pair of Aces
+Seat 6: Zero 1100101 (button) (small blind) showed [Kh 7h] and won ($25.90) with a pair of Aces
+
+
+PokerStars Game #102607531442:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:51:50 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($769.80 in chips) 
+Seat 6: Zero 1100101 ($1246.27 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: folds 
+Uncalled bet ($3) returned to Zero 1100101
+Zero 1100101 collected $8.40 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.40 | Rake $0 
+Seat 3: Azn1nvas1on (button) (small blind) folded before Flop
+Seat 6: Zero 1100101 (big blind) collected ($8.40)
+
+
+PokerStars Game #102607535332:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:51:55 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($765.60 in chips) 
+Seat 6: Zero 1100101 ($1250.47 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: raises $36 to $48
+Zero 1100101: folds 
+Uncalled bet ($36) returned to Azn1nvas1on
+Azn1nvas1on collected $26.40 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0 
+Seat 3: Azn1nvas1on (big blind) collected ($26.40)
+Seat 6: Zero 1100101 (button) (small blind) folded before Flop
+
+
+PokerStars Game #102607546488:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:52:09 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($778.80 in chips) 
+Seat 6: Zero 1100101 ($1237.27 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: raises $30 to $42
+Azn1nvas1on: calls $30
+*** FLOP *** [Jd 3s 9c]
+Zero 1100101: checks 
+Azn1nvas1on: checks 
+*** TURN *** [Jd 3s 9c] [8s]
+Zero 1100101: bets $48
+Azn1nvas1on: calls $48
+*** RIVER *** [Jd 3s 9c 8s] [2c]
+Zero 1100101: checks 
+Azn1nvas1on: checks 
+*** SHOW DOWN ***
+Zero 1100101: shows [7c 3c] (a pair of Threes)
+Azn1nvas1on: shows [6h 6d] (a pair of Sixes)
+Azn1nvas1on collected $181.90 from pot
+*** SUMMARY ***
+Total pot $182.40 | Rake $0.50 
+Board [Jd 3s 9c 8s 2c]
+Seat 3: Azn1nvas1on (button) (small blind) showed [6h 6d] and won ($181.90) with a pair of Sixes
+Seat 6: Zero 1100101 (big blind) showed [7c 3c] and lost with a pair of Threes
+
+
+PokerStars Game #102607584992:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:52:58 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($869.50 in chips) 
+Seat 6: Zero 1100101 ($1146.07 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [6s Tc Qs]
+Azn1nvas1on: checks 
+Zero 1100101: checks 
+*** TURN *** [6s Tc Qs] [2s]
+Azn1nvas1on: bets $18
+Zero 1100101: folds 
+Uncalled bet ($18) returned to Azn1nvas1on
+Azn1nvas1on collected $25.90 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [6s Tc Qs 2s]
+Seat 3: Azn1nvas1on (big blind) collected ($25.90)
+Seat 6: Zero 1100101 (button) (small blind) folded on the Turn
+
+
+PokerStars Game #102607620546:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:53:44 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($882.20 in chips) 
+Seat 6: Zero 1100101 ($1132.87 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: folds 
+Uncalled bet ($6) returned to Azn1nvas1on
+Azn1nvas1on collected $14.40 from pot
+*** SUMMARY ***
+Total pot $14.40 | Rake $0 
+Seat 3: Azn1nvas1on (button) (small blind) collected ($14.40)
+Seat 6: Zero 1100101 (big blind) folded before Flop
+
+
+PokerStars Game #102607626499:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:53:52 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($889.40 in chips) 
+Seat 6: Zero 1100101 ($1125.67 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: folds 
+Uncalled bet ($6) returned to Zero 1100101
+Zero 1100101 collected $14.40 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.40 | Rake $0 
+Seat 3: Azn1nvas1on (big blind) folded before Flop
+Seat 6: Zero 1100101 (button) (small blind) collected ($14.40)
+
+
+PokerStars Game #102607635493:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:54:03 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($882.20 in chips) 
+Seat 6: Zero 1100101 ($1132.87 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: raises $6 to $12
+Zero 1100101: folds 
+Uncalled bet ($6) returned to Azn1nvas1on
+Azn1nvas1on collected $14.40 from pot
+*** SUMMARY ***
+Total pot $14.40 | Rake $0 
+Seat 3: Azn1nvas1on (button) (small blind) collected ($14.40)
+Seat 6: Zero 1100101 (big blind) folded before Flop
+
+
+PokerStars Game #102607643484:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:54:13 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($889.40 in chips) 
+Seat 6: Zero 1100101 ($1125.67 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [9d 3h Th]
+Azn1nvas1on: checks 
+Zero 1100101: bets $18
+Azn1nvas1on: calls $18
+*** TURN *** [9d 3h Th] [Jd]
+Azn1nvas1on: checks 
+Zero 1100101: bets $86
+Azn1nvas1on: folds 
+Uncalled bet ($86) returned to Zero 1100101
+Zero 1100101 collected $61.90 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $62.40 | Rake $0.50 
+Board [9d 3h Th Jd]
+Seat 3: Azn1nvas1on (big blind) folded on the Turn
+Seat 6: Zero 1100101 (button) (small blind) collected ($61.90)
+
+
+PokerStars Game #102607672172:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:54:50 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #3 is the button
+Seat 3: Azn1nvas1on ($858.20 in chips) 
+Seat 6: Zero 1100101 ($1156.37 in chips) 
+Azn1nvas1on: posts small blind $3
+Zero 1100101: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Azn1nvas1on: folds 
+Uncalled bet ($3) returned to Zero 1100101
+Zero 1100101 collected $8.40 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.40 | Rake $0 
+Seat 3: Azn1nvas1on (button) (small blind) folded before Flop
+Seat 6: Zero 1100101 (big blind) collected ($8.40)
+
+
+PokerStars Game #102607676095:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:54:55 ET
+Table 'Xanthippe V 100-250 bb, Ante' 6-max Seat #6 is the button
+Seat 3: Azn1nvas1on ($854 in chips) 
+Seat 6: Zero 1100101 ($1160.57 in chips) 
+Zero 1100101: posts small blind $3
+Azn1nvas1on: posts big blind $6
+Azn1nvas1on: posts the ante $1.20
+Zero 1100101: posts the ante $1.20
+*** HOLE CARDS ***
+Zero 1100101: raises $6 to $12
+Azn1nvas1on: calls $6
+*** FLOP *** [3s 2s 9h]
+Azn1nvas1on: checks 
+Zero 1100101: bets $15
+Azn1nvas1on: folds 
+Uncalled bet ($15) returned to Zero 1100101
+Zero 1100101 collected $25.90 from pot
+Zero 1100101: doesn't show hand 
+*** SUMMARY ***
+Total pot $26.40 | Rake $0.50 
+Board [3s 2s 9h]
+Seat 3: Azn1nvas1on (big blind) folded on the Flop
+Seat 6: Zero 1100101 (button) (small blind) collected ($25.90)

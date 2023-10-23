@@ -1,0 +1,157 @@
+
+
+PokerStars Game #102621052702:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:40:55 ET
+Table 'Helenos IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: Scarface.VLT ($600 in chips) 
+Seat 2: mikimiki88 ($600 in chips) 
+Seat 3: zartrüssel ($600 in chips) 
+Seat 4: Hristo008 ($240 in chips) 
+Seat 5: iznak ($240 in chips) 
+Seat 6: ishipKQ ($600 in chips) 
+iznak: posts small blind $3
+ishipKQ: posts big blind $6
+*** HOLE CARDS ***
+Scarface.VLT: folds 
+Scarface.VLT leaves the table
+mikimiki88: folds 
+zartrüssel: folds 
+Hristo008: folds 
+iznak: raises $6.87 to $12.87
+ishipKQ: folds 
+Uncalled bet ($6.87) returned to iznak
+iznak collected $12 from pot
+iznak: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Scarface.VLT folded before Flop (didn't bet)
+Seat 2: mikimiki88 folded before Flop (didn't bet)
+Seat 3: zartrüssel folded before Flop (didn't bet)
+Seat 4: Hristo008 (button) folded before Flop (didn't bet)
+Seat 5: iznak (small blind) collected ($12)
+Seat 6: ishipKQ (big blind) folded before Flop
+
+
+PokerStars Game #102621125289:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:42:16 ET
+Table 'Helenos IV 40-100 bb' 6-max Seat #5 is the button
+Seat 2: mikimiki88 ($600 in chips) 
+Seat 3: zartrüssel ($600 in chips) 
+Seat 4: Hristo008 ($240 in chips) 
+Seat 5: iznak ($246 in chips) 
+Seat 6: ishipKQ ($600 in chips) 
+ishipKQ: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+zartrüssel: folds 
+Hristo008: folds 
+iznak: raises $6.87 to $12.87
+floriiiiider joins the table at seat #1 
+ishipKQ: folds 
+floriiiiider leaves the table
+dRobespierre joins the table at seat #1 
+mikimiki88: folds 
+Uncalled bet ($6.87) returned to iznak
+iznak collected $15 from pot
+iznak: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: mikimiki88 (big blind) folded before Flop
+Seat 3: zartrüssel folded before Flop (didn't bet)
+Seat 4: Hristo008 folded before Flop (didn't bet)
+Seat 5: iznak (button) collected ($15)
+Seat 6: ishipKQ (small blind) folded before Flop
+
+
+PokerStars Game #102621143952:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:42:37 ET
+Table 'Helenos IV 40-100 bb' 6-max Seat #6 is the button
+Seat 2: mikimiki88 ($600 in chips) 
+Seat 3: zartrüssel ($600 in chips) 
+Seat 4: Hristo008 ($240 in chips) 
+Seat 5: iznak ($255 in chips) 
+Seat 6: ishipKQ ($600 in chips) 
+dRobespierre will be allowed to play after the button
+mikimiki88: posts small blind $3
+zartrüssel: posts big blind $6
+*** HOLE CARDS ***
+Hristo008: raises $6 to $12
+iznak: folds 
+ishipKQ: folds 
+mikimiki88: folds 
+zartrüssel: folds 
+Uncalled bet ($6) returned to Hristo008
+Hristo008 collected $15 from pot
+Hristo008: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: mikimiki88 (small blind) folded before Flop
+Seat 3: zartrüssel (big blind) folded before Flop
+Seat 4: Hristo008 collected ($15)
+Seat 5: iznak folded before Flop (didn't bet)
+Seat 6: ishipKQ (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102621164911:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:43:01 ET
+Table 'Helenos IV 40-100 bb' 6-max Seat #2 is the button
+Seat 2: mikimiki88 ($600 in chips) 
+Seat 3: zartrüssel ($600 in chips) 
+Seat 5: iznak ($255 in chips) 
+Seat 6: ishipKQ ($600 in chips) 
+zartrüssel: posts small blind $3
+Hristo008: is sitting out 
+iznak: posts big blind $6
+dRobespierre: sits out 
+*** HOLE CARDS ***
+ishipKQ: folds 
+Hristo008 leaves the table
+dRobespierre leaves the table
+mikimiki88: raises $6 to $12
+TTSIP joins the table at seat #1 
+zartrüssel: folds 
+iznak: folds 
+Uncalled bet ($6) returned to mikimiki88
+mikimiki88 collected $15 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: mikimiki88 (button) collected ($15)
+Seat 3: zartrüssel (small blind) folded before Flop
+Seat 5: iznak (big blind) folded before Flop
+Seat 6: ishipKQ folded before Flop (didn't bet)
+
+
+PokerStars Game #102621188793:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:43:29 ET
+Table 'Helenos IV 40-100 bb' 6-max Seat #3 is the button
+Seat 2: mikimiki88 ($609 in chips) 
+Seat 3: zartrüssel ($600 in chips) 
+Seat 5: iznak ($249 in chips) 
+Seat 6: ishipKQ ($600 in chips) 
+iznak: posts small blind $3
+ishipKQ: posts big blind $6
+TTSIP: sits out 
+*** HOLE CARDS ***
+mikimiki88: folds 
+zartrüssel: folds 
+iznak: raises $6.87 to $12.87
+ishipKQ: calls $6.87
+*** FLOP *** [4h Kd 3h]
+iznak: bets $11.74
+LuckyBiitch joins the table at seat #4 
+ishipKQ: calls $11.74
+*** TURN *** [4h Kd 3h] [9d]
+iznak: checks 
+LuckyBiitch leaves the table
+ishipKQ: checks 
+*** RIVER *** [4h Kd 3h 9d] [3d]
+maloyd joins the table at seat #4 
+iznak: bets $64.35
+ishipKQ: calls $64.35
+*** SHOW DOWN ***
+iznak: shows [Th 6d] (a pair of Threes)
+ishipKQ: shows [As 8c] (a pair of Threes - Ace kicker)
+ishipKQ collected $176.42 from pot
+*** SUMMARY ***
+Total pot $177.92 | Rake $1.50 
+Board [4h Kd 3h 9d 3d]
+Seat 2: mikimiki88 folded before Flop (didn't bet)
+Seat 3: zartrüssel (button) folded before Flop (didn't bet)
+Seat 5: iznak (small blind) showed [Th 6d] and lost with a pair of Threes
+Seat 6: ishipKQ (big blind) showed [As 8c] and won ($176.42) with a pair of Threes

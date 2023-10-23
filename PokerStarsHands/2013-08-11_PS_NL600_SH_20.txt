@@ -1,0 +1,341 @@
+
+
+PokerStars Game #102606978570:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:40:05 ET
+Table 'Huenna IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($228 in chips) 
+Seat 2: Stones105 ($480 in chips) 
+Seat 3: patapong ($627 in chips) 
+Seat 4: shevliak ($220.92 in chips) 
+Seat 6: BKA12 ($610.08 in chips) 
+Stones105: posts small blind $3
+patapong: posts big blind $6
+barrao: sits out 
+*** HOLE CARDS ***
+shevliak: folds 
+BKA12: folds 
+uwbabe: folds 
+Stones105: folds 
+Uncalled bet ($3) returned to patapong
+patapong collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: uwbabe (button) folded before Flop (didn't bet)
+Seat 2: Stones105 (small blind) folded before Flop
+Seat 3: patapong (big blind) collected ($6)
+Seat 4: shevliak folded before Flop (didn't bet)
+Seat 6: BKA12 folded before Flop (didn't bet)
+
+
+PokerStars Game #102606992071:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:40:23 ET
+Table 'Huenna IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: uwbabe ($228 in chips) 
+Seat 2: Stones105 ($477 in chips) 
+Seat 3: patapong ($630 in chips) 
+Seat 4: shevliak ($220.92 in chips) 
+Seat 6: BKA12 ($610.08 in chips) 
+patapong: posts small blind $3
+shevliak: posts big blind $6
+barrao: sits out 
+*** HOLE CARDS ***
+BKA12: folds 
+uwbabe: raises $6 to $12
+Stones105: folds 
+patapong: folds 
+shevliak: folds 
+Uncalled bet ($6) returned to uwbabe
+uwbabe collected $15 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: uwbabe collected ($15)
+Seat 2: Stones105 (button) folded before Flop (didn't bet)
+Seat 3: patapong (small blind) folded before Flop
+Seat 4: shevliak (big blind) folded before Flop
+Seat 6: BKA12 folded before Flop (didn't bet)
+
+
+PokerStars Game #102607008500:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:40:43 ET
+Table 'Huenna IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: uwbabe ($237 in chips) 
+Seat 2: Stones105 ($477 in chips) 
+Seat 3: patapong ($627 in chips) 
+Seat 4: shevliak ($214.92 in chips) 
+Seat 5: barrao ($240 in chips) 
+Seat 6: BKA12 ($610.08 in chips) 
+shevliak: posts small blind $3
+barrao: posts big blind $6
+*** HOLE CARDS ***
+BKA12: folds 
+uwbabe: folds 
+Stones105: folds 
+patapong: folds 
+shevliak: folds 
+Uncalled bet ($3) returned to barrao
+barrao collected $6 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: uwbabe folded before Flop (didn't bet)
+Seat 2: Stones105 folded before Flop (didn't bet)
+Seat 3: patapong (button) folded before Flop (didn't bet)
+Seat 4: shevliak (small blind) folded before Flop
+Seat 5: barrao (big blind) collected ($6)
+Seat 6: BKA12 folded before Flop (didn't bet)
+
+
+PokerStars Game #102607035162:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:41:18 ET
+Table 'Huenna IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($237 in chips) 
+Seat 2: Stones105 ($477 in chips) 
+Seat 3: patapong ($627 in chips) 
+Seat 4: shevliak ($211.92 in chips) 
+Seat 5: barrao ($243 in chips) 
+Seat 6: BKA12 ($610.08 in chips) 
+barrao: posts small blind $3
+BKA12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: folds 
+Stones105: calls $6
+patapong: folds 
+shevliak: raises $13.50 to $19.50
+barrao: folds 
+BKA12: folds 
+Stones105: calls $13.50
+*** FLOP *** [4d Qd 3d]
+Stones105: checks 
+shevliak: bets $29.33
+Stones105: calls $29.33
+*** TURN *** [4d Qd 3d] [4h]
+Stones105: checks 
+shevliak: bets $66.47
+Stones105: calls $66.47
+*** RIVER *** [4d Qd 3d 4h] [2s]
+Stones105: checks 
+shevliak: checks 
+*** SHOW DOWN ***
+Stones105: shows [Jc Jh] (two pair, Jacks and Fours)
+shevliak: mucks hand 
+Stones105 collected $236.80 from pot
+*** SUMMARY ***
+Total pot $239.60 | Rake $2.80 
+Board [4d Qd 3d 4h 2s]
+Seat 1: uwbabe folded before Flop (didn't bet)
+Seat 2: Stones105 showed [Jc Jh] and won ($236.80) with two pair, Jacks and Fours
+Seat 3: patapong folded before Flop (didn't bet)
+Seat 4: shevliak (button) mucked
+Seat 5: barrao (small blind) folded before Flop
+Seat 6: BKA12 (big blind) folded before Flop
+
+
+PokerStars Game #102607082421:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:42:18 ET
+Table 'Huenna IX 40-100 bb' 6-max Seat #5 is the button
+Seat 1: uwbabe ($237 in chips) 
+Seat 2: Stones105 ($598.50 in chips) 
+Seat 3: patapong ($627 in chips) 
+Seat 4: shevliak ($240 in chips) 
+Seat 5: barrao ($240 in chips) 
+Seat 6: BKA12 ($604.08 in chips) 
+BKA12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+Stones105: folds 
+Stones105 leaves the table
+floriiiiider joins the table at seat #2 
+patapong: folds 
+shevliak: folds 
+barrao: raises $6 to $12
+BKA12: raises $21 to $33
+uwbabe: folds 
+floriiiiider leaves the table
+barrao: calls $21
+*** FLOP *** [7h 7d Th]
+RomGrav40 joins the table at seat #2 
+RomGrav40 leaves the table
+BKA12: bets $39
+barrao: calls $39
+*** TURN *** [7h 7d Th] [Td]
+BKA12: checks 
+barrao: bets $42
+BKA12: calls $42
+*** RIVER *** [7h 7d Th Td] [5d]
+patapong leaves the table
+BKA12: bets $154.90
+WhatA298 joins the table at seat #3 
+WhatA298 leaves the table
+barrao: folds 
+Uncalled bet ($154.90) returned to BKA12
+BKA12 collected $231.20 from pot
+BKA12: doesn't show hand 
+*** SUMMARY ***
+Total pot $234 | Rake $2.80 
+Board [7h 7d Th Td 5d]
+Seat 1: uwbabe (big blind) folded before Flop
+Seat 2: Stones105 folded before Flop (didn't bet)
+Seat 3: patapong folded before Flop (didn't bet)
+Seat 4: shevliak folded before Flop (didn't bet)
+Seat 5: barrao (button) folded on the River
+Seat 6: BKA12 (small blind) collected ($231.20)
+
+
+PokerStars Game #102607189614:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:44:35 ET
+Table 'Huenna IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: uwbabe ($231 in chips) 
+Seat 5: barrao ($240 in chips) 
+Seat 6: BKA12 ($721.28 in chips) 
+uwbabe: posts small blind $3
+shevliak: is sitting out 
+shevliak leaves the table
+barrao: posts big blind $6
+*** HOLE CARDS ***
+BKA12: folds 
+BKA12 leaves the table
+uwbabe: raises $6 to $12
+barrao: raises $18 to $30
+uwbabe: folds 
+Uncalled bet ($18) returned to barrao
+barrao collected $24 from pot
+barrao: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: uwbabe (small blind) folded before Flop
+Seat 5: barrao (big blind) collected ($24)
+Seat 6: BKA12 (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102606828121:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:36:53 ET
+Table 'Huenna IX 40-100 bb' 6-max Seat #1 is the button
+Seat 1: uwbabe ($240 in chips) 
+Seat 2: Stones105 ($480 in chips) 
+Seat 3: patapong ($600 in chips) 
+Seat 4: shevliak ($240 in chips) 
+Seat 5: onez69 ($240 in chips) 
+Stones105: posts small blind $3
+patapong: posts big blind $6
+*** HOLE CARDS ***
+shevliak: folds 
+onez69: folds 
+uwbabe: folds 
+Stones105: raises $12 to $18
+BKA12 joins the table at seat #6 
+patapong: folds 
+Uncalled bet ($12) returned to Stones105
+Stones105 collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: uwbabe (button) folded before Flop (didn't bet)
+Seat 2: Stones105 (small blind) collected ($12)
+Seat 3: patapong (big blind) folded before Flop
+Seat 4: shevliak folded before Flop (didn't bet)
+Seat 5: onez69 folded before Flop (didn't bet)
+
+
+PokerStars Game #102606857503:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:37:30 ET
+Table 'Huenna IX 40-100 bb' 6-max Seat #2 is the button
+Seat 1: uwbabe ($240 in chips) 
+Seat 2: Stones105 ($486 in chips) 
+Seat 3: patapong ($600 in chips) 
+Seat 4: shevliak ($240 in chips) 
+Seat 5: onez69 ($240 in chips) 
+patapong: posts small blind $3
+shevliak: posts big blind $6
+BKA12: sits out 
+*** HOLE CARDS ***
+onez69: folds 
+uwbabe: raises $6 to $12
+Stones105: folds 
+patapong: raises $36 to $48
+shevliak: folds 
+uwbabe: folds 
+Uncalled bet ($36) returned to patapong
+patapong collected $30 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: uwbabe folded before Flop
+Seat 2: Stones105 (button) folded before Flop (didn't bet)
+Seat 3: patapong (small blind) collected ($30)
+Seat 4: shevliak (big blind) folded before Flop
+Seat 5: onez69 folded before Flop (didn't bet)
+
+
+PokerStars Game #102606893616:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:38:16 ET
+Table 'Huenna IX 40-100 bb' 6-max Seat #3 is the button
+Seat 1: uwbabe ($228 in chips) 
+Seat 2: Stones105 ($486 in chips) 
+Seat 3: patapong ($618 in chips) 
+Seat 4: shevliak ($234 in chips) 
+Seat 6: BKA12 ($600 in chips) 
+shevliak: posts small blind $3
+BKA12: posts big blind $6
+*** HOLE CARDS ***
+uwbabe: folds 
+Stones105: folds 
+patapong: folds 
+shevliak: raises $7.08 to $13.08
+onez69 leaves the table
+BKA12: raises $22.92 to $36
+shevliak: folds 
+Uncalled bet ($22.92) returned to BKA12
+BKA12 collected $26.16 from pot
+BKA12: doesn't show hand 
+barrao joins the table at seat #5 
+*** SUMMARY ***
+Total pot $26.16 | Rake $0 
+Seat 1: uwbabe folded before Flop (didn't bet)
+Seat 2: Stones105 folded before Flop (didn't bet)
+Seat 3: patapong (button) folded before Flop (didn't bet)
+Seat 4: shevliak (small blind) folded before Flop
+Seat 6: BKA12 (big blind) collected ($26.16)
+
+
+PokerStars Game #102606920831:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:38:52 ET
+Table 'Huenna IX 40-100 bb' 6-max Seat #4 is the button
+Seat 1: uwbabe ($228 in chips) 
+Seat 2: Stones105 ($486 in chips) 
+Seat 3: patapong ($618 in chips) 
+Seat 4: shevliak ($220.92 in chips) 
+Seat 6: BKA12 ($613.08 in chips) 
+barrao will be allowed to play after the button
+BKA12: posts small blind $3
+uwbabe: posts big blind $6
+*** HOLE CARDS ***
+Stones105: folds 
+patapong: folds 
+shevliak: folds 
+BKA12: folds 
+Uncalled bet ($3) returned to uwbabe
+uwbabe collected $6 from pot
+uwbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: uwbabe (big blind) collected ($6)
+Seat 2: Stones105 folded before Flop (didn't bet)
+Seat 3: patapong folded before Flop (didn't bet)
+Seat 4: shevliak (button) folded before Flop (didn't bet)
+Seat 6: BKA12 (small blind) folded before Flop
+
+
+PokerStars Game #102606945230:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 10:39:23 ET
+Table 'Huenna IX 40-100 bb' 6-max Seat #6 is the button
+Seat 1: uwbabe ($231 in chips) 
+Seat 2: Stones105 ($486 in chips) 
+Seat 3: patapong ($618 in chips) 
+Seat 4: shevliak ($220.92 in chips) 
+Seat 6: BKA12 ($610.08 in chips) 
+uwbabe: posts small blind $3
+Stones105: posts big blind $6
+barrao: sits out 
+*** HOLE CARDS ***
+patapong: raises $9 to $15
+shevliak: folds 
+BKA12: folds 
+uwbabe: folds 
+Stones105: folds 
+Uncalled bet ($9) returned to patapong
+patapong collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: uwbabe (small blind) folded before Flop
+Seat 2: Stones105 (big blind) folded before Flop
+Seat 3: patapong collected ($15)
+Seat 4: shevliak folded before Flop (didn't bet)
+Seat 6: BKA12 (button) folded before Flop (didn't bet)

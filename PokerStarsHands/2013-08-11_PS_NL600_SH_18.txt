@@ -1,0 +1,437 @@
+
+
+PokerStars Game #102586716692:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:05:15 ET
+Table 'Herrick VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: king10clubs ($1535.50 in chips) 
+Seat 3: rusdronenv ($625.88 in chips) 
+Seat 5: tobe4funas ($600 in chips) 
+king10clubs: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+tobe4funas: raises $6 to $12
+king10clubs: folds 
+rusdronenv: folds 
+Uncalled bet ($6) returned to tobe4funas
+tobe4funas collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: king10clubs (small blind) folded before Flop
+Seat 3: rusdronenv (big blind) folded before Flop
+Seat 5: tobe4funas (button) collected ($15)
+
+
+PokerStars Game #102586722894:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:05:27 ET
+Table 'Herrick VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: king10clubs ($1532.50 in chips) 
+Seat 3: rusdronenv ($619.88 in chips) 
+Seat 5: tobe4funas ($609 in chips) 
+rusdronenv: posts small blind $3
+tobe4funas: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+rusdronenv: folds 
+tobe4funas: raises $33 to $45
+king10clubs: calls $33
+*** FLOP *** [6d 8s 3c]
+tobe4funas: bets $57
+king10clubs: calls $57
+*** TURN *** [6d 8s 3c] [2d]
+tobe4funas: bets $135
+king10clubs: folds 
+Uncalled bet ($135) returned to tobe4funas
+tobe4funas collected $205.50 from pot
+*** SUMMARY ***
+Total pot $207 | Rake $1.50 
+Board [6d 8s 3c 2d]
+Seat 2: king10clubs (button) folded on the Turn
+Seat 3: rusdronenv (small blind) folded before Flop
+Seat 5: tobe4funas (big blind) collected ($205.50)
+
+
+PokerStars Game #102586759866:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:06:37 ET
+Table 'Herrick VII 40-100 bb' 6-max Seat #3 is the button
+Seat 2: king10clubs ($1430.50 in chips) 
+Seat 3: rusdronenv ($616.88 in chips) 
+Seat 5: tobe4funas ($712.50 in chips) 
+tobe4funas: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv has timed out
+rusdronenv: folds 
+tobe4funas: folds 
+Uncalled bet ($3) returned to king10clubs
+king10clubs collected $6 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: king10clubs (big blind) collected ($6)
+Seat 3: rusdronenv (button) folded before Flop (didn't bet)
+Seat 5: tobe4funas (small blind) folded before Flop
+
+
+PokerStars Game #102586782219:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:07:20 ET
+Table 'Herrick VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: king10clubs ($1433.50 in chips) 
+Seat 3: rusdronenv ($616.88 in chips) 
+Seat 5: tobe4funas ($709.50 in chips) 
+king10clubs: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+tobe4funas: raises $6 to $12
+king10clubs: folds 
+rusdronenv: calls $6
+*** FLOP *** [2s 7d Ks]
+rusdronenv: checks 
+tobe4funas: bets $17.01
+rusdronenv: raises $36.99 to $54
+tobe4funas: calls $36.99
+*** TURN *** [2s 7d Ks] [5s]
+rusdronenv: bets $102
+tobe4funas: calls $102
+*** RIVER *** [2s 7d Ks 5s] [2h]
+rusdronenv: checks 
+tobe4funas: checks 
+*** SHOW DOWN ***
+rusdronenv: shows [4d Qs] (a pair of Deuces)
+tobe4funas: shows [Kc 6s] (two pair, Kings and Deuces)
+tobe4funas collected $337.50 from pot
+*** SUMMARY ***
+Total pot $339 | Rake $1.50 
+Board [2s 7d Ks 5s 2h]
+Seat 2: king10clubs (small blind) folded before Flop
+Seat 3: rusdronenv (big blind) showed [4d Qs] and lost with a pair of Deuces
+Seat 5: tobe4funas (button) showed [Kc 6s] and won ($337.50) with two pair, Kings and Deuces
+
+
+PokerStars Game #102586812270:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:08:18 ET
+Table 'Herrick VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: king10clubs ($1430.50 in chips) 
+Seat 3: rusdronenv ($600 in chips) 
+Seat 5: tobe4funas ($879 in chips) 
+rusdronenv: posts small blind $3
+tobe4funas: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+rusdronenv: folds 
+tobe4funas: calls $6
+*** FLOP *** [6c Tc 4s]
+tobe4funas: checks 
+king10clubs: checks 
+*** TURN *** [6c Tc 4s] [As]
+tobe4funas: bets $18.05
+king10clubs: folds 
+Uncalled bet ($18.05) returned to tobe4funas
+tobe4funas collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [6c Tc 4s As]
+Seat 2: king10clubs (button) folded on the Turn
+Seat 3: rusdronenv (small blind) folded before Flop
+Seat 5: tobe4funas (big blind) collected ($25.78)
+
+
+PokerStars Game #102586831092:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:08:55 ET
+Table 'Herrick VII 40-100 bb' 6-max Seat #3 is the button
+Seat 2: king10clubs ($1418.50 in chips) 
+Seat 3: rusdronenv ($600 in chips) 
+Seat 5: tobe4funas ($892.78 in chips) 
+tobe4funas: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: raises $12 to $18
+tobe4funas: calls $15
+king10clubs: folds 
+*** FLOP *** [4s 3s 3d]
+tobe4funas: checks 
+rusdronenv: bets $24
+tobe4funas: calls $24
+*** TURN *** [4s 3s 3d] [5d]
+tobe4funas: checks 
+rusdronenv: bets $148
+tobe4funas: folds 
+Uncalled bet ($148) returned to rusdronenv
+rusdronenv collected $88.50 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $90 | Rake $1.50 
+Board [4s 3s 3d 5d]
+Seat 2: king10clubs (big blind) folded before Flop
+Seat 3: rusdronenv (button) collected ($88.50)
+Seat 5: tobe4funas (small blind) folded on the Turn
+
+
+PokerStars Game #102586858372:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:09:49 ET
+Table 'Herrick VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: king10clubs ($1412.50 in chips) 
+Seat 3: rusdronenv ($646.50 in chips) 
+Seat 5: tobe4funas ($850.78 in chips) 
+king10clubs: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+tobe4funas: raises $6 to $12
+king10clubs: folds 
+rusdronenv: calls $6
+*** FLOP *** [7s 9h Ts]
+rusdronenv: checks 
+tobe4funas: checks 
+*** TURN *** [7s 9h Ts] [9c]
+rusdronenv: checks 
+tobe4funas: checks 
+*** RIVER *** [7s 9h Ts 9c] [6c]
+rusdronenv: bets $24
+tobe4funas: folds 
+Uncalled bet ($24) returned to rusdronenv
+rusdronenv collected $25.78 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [7s 9h Ts 9c 6c]
+Seat 2: king10clubs (small blind) folded before Flop
+Seat 3: rusdronenv (big blind) collected ($25.78)
+Seat 5: tobe4funas (button) folded on the River
+
+
+PokerStars Game #102586772977:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:07:02 ET
+Table 'Herrick VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: king10clubs ($1433.50 in chips) 
+Seat 5: tobe4funas ($709.50 in chips) 
+king10clubs: posts small blind $3
+tobe4funas: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+tobe4funas: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: king10clubs (button) (small blind) collected ($12)
+Seat 5: tobe4funas (big blind) folded before Flop
+
+
+PokerStars Game #102586776614:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:07:09 ET
+Table 'Herrick VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: king10clubs ($1439.50 in chips) 
+Seat 5: tobe4funas ($703.50 in chips) 
+tobe4funas: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+tobe4funas: raises $6 to $12
+king10clubs: folds 
+Uncalled bet ($6) returned to tobe4funas
+tobe4funas collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: king10clubs (big blind) folded before Flop
+Seat 5: tobe4funas (button) (small blind) collected ($12)
+
+
+PokerStars Game #102586578751:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:00:50 ET
+Table 'Herrick VII 40-100 bb' 6-max Seat #5 is the button
+Seat 2: king10clubs ($1424.50 in chips) 
+Seat 3: rusdronenv ($676.88 in chips) 
+Seat 4: Hurloon ($600 in chips) 
+Seat 5: tobe4funas ($621 in chips) 
+Seat 6: LuckyBiitch ($600 in chips) 
+LuckyBiitch: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+Hurloon: raises $9 to $15
+tobe4funas: folds 
+LuckyBiitch: folds 
+king10clubs: folds 
+Uncalled bet ($9) returned to Hurloon
+Hurloon collected $15 from pot
+Hurloon: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: king10clubs (big blind) folded before Flop
+Seat 3: rusdronenv folded before Flop (didn't bet)
+Seat 4: Hurloon collected ($15)
+Seat 5: tobe4funas (button) folded before Flop (didn't bet)
+Seat 6: LuckyBiitch (small blind) folded before Flop
+
+
+PokerStars Game #102586592116:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:01:17 ET
+Table 'Herrick VII 40-100 bb' 6-max Seat #6 is the button
+Seat 2: king10clubs ($1418.50 in chips) 
+Seat 3: rusdronenv ($676.88 in chips) 
+Seat 4: Hurloon ($609 in chips) 
+Seat 5: tobe4funas ($621 in chips) 
+Seat 6: LuckyBiitch ($600 in chips) 
+Aurum85 joins the table at seat #1 
+king10clubs: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+Aurum85 leaves the table
+Hurloon: folds 
+Hurloon leaves the table
+dRobespierre joins the table at seat #4 
+dRobespierre leaves the table
+tobe4funas: raises $12 to $18
+LuckyBiitch: calls $18
+S_Enslaver joins the table at seat #4 
+king10clubs: folds 
+S_Enslaver leaves the table
+rusdronenv: folds 
+*** FLOP *** [Ac 2c 7c]
+tobe4funas: checks 
+LuckyBiitch: bets $30
+tobe4funas: calls $30
+*** TURN *** [Ac 2c 7c] [6d]
+tobe4funas: checks 
+LuckyBiitch: checks 
+*** RIVER *** [Ac 2c 7c 6d] [4c]
+tobe4funas: checks 
+LuckyBiitch: bets $55
+tobe4funas: folds 
+Uncalled bet ($55) returned to LuckyBiitch
+LuckyBiitch collected $102.20 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $105 | Rake $2.80 
+Board [Ac 2c 7c 6d 4c]
+Seat 2: king10clubs (small blind) folded before Flop
+Seat 3: rusdronenv (big blind) folded before Flop
+Seat 4: Hurloon folded before Flop (didn't bet)
+Seat 5: tobe4funas folded on the River
+Seat 6: LuckyBiitch (button) collected ($102.20)
+
+
+PokerStars Game #102586642791:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:02:54 ET
+Table 'Herrick VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: king10clubs ($1415.50 in chips) 
+Seat 3: rusdronenv ($670.88 in chips) 
+Seat 5: tobe4funas ($600 in chips) 
+Seat 6: LuckyBiitch ($654.20 in chips) 
+rusdronenv: posts small blind $3
+tobe4funas: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+LuckyBiitch leaves the table
+king10clubs: raises $6 to $12
+rusdronenv: folds 
+tobe4funas: calls $6
+*** FLOP *** [Kd 6h Qd]
+tobe4funas: checks 
+king10clubs: bets $18
+tobe4funas: calls $18
+*** TURN *** [Kd 6h Qd] [7h]
+tobe4funas: checks 
+king10clubs: bets $45
+tobe4funas: calls $45
+*** RIVER *** [Kd 6h Qd 7h] [5h]
+tobe4funas: checks 
+king10clubs: bets $225
+tobe4funas: folds 
+Uncalled bet ($225) returned to king10clubs
+king10clubs collected $151.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $153 | Rake $1.50 
+Board [Kd 6h Qd 7h 5h]
+Seat 2: king10clubs (button) collected ($151.50)
+Seat 3: rusdronenv (small blind) folded before Flop
+Seat 5: tobe4funas (big blind) folded on the River
+Seat 6: LuckyBiitch folded before Flop (didn't bet)
+
+
+PokerStars Game #102586690800:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:04:25 ET
+Table 'Herrick VII 40-100 bb' 6-max Seat #3 is the button
+Seat 2: king10clubs ($1492 in chips) 
+Seat 3: rusdronenv ($667.88 in chips) 
+Seat 5: tobe4funas ($600 in chips) 
+tobe4funas: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: raises $12 to $18
+tobe4funas: folds 
+king10clubs: calls $12
+*** FLOP *** [Td 7c 4h]
+king10clubs: checks 
+rusdronenv: bets $24
+king10clubs: calls $24
+*** TURN *** [Td 7c 4h] [2h]
+king10clubs: checks 
+rusdronenv: checks 
+*** RIVER *** [Td 7c 4h 2h] [4d]
+king10clubs: bets $54
+rusdronenv: folds 
+Uncalled bet ($54) returned to king10clubs
+king10clubs collected $85.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $87 | Rake $1.50 
+Board [Td 7c 4h 2h 4d]
+Seat 2: king10clubs (big blind) collected ($85.50)
+Seat 3: rusdronenv (button) folded on the River
+Seat 5: tobe4funas (small blind) folded before Flop
+
+
+PokerStars Game #102586891505:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:10:55 ET
+Table 'Herrick VII 40-100 bb' 6-max Seat #3 is the button
+Seat 2: king10clubs ($1409.50 in chips) 
+Seat 3: rusdronenv ($660.28 in chips) 
+rusdronenv: posts small blind $3
+tobe4funas: is sitting out 
+tobe4funas leaves the table
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: raises $12 to $18
+king10clubs: raises $42 to $60
+rusdronenv: calls $42
+*** FLOP *** [8c Qs Ks]
+king10clubs: checks 
+rusdronenv: checks 
+*** TURN *** [8c Qs Ks] [5c]
+king10clubs: checks 
+rusdronenv: checks 
+*** RIVER *** [8c Qs Ks 5c] [Kd]
+king10clubs: checks 
+rusdronenv: checks 
+*** SHOW DOWN ***
+king10clubs: shows [6s Jd] (a pair of Kings)
+rusdronenv: shows [Ah Js] (a pair of Kings - Ace kicker)
+rusdronenv collected $119.50 from pot
+*** SUMMARY ***
+Total pot $120 | Rake $0.50 
+Board [8c Qs Ks 5c Kd]
+Seat 2: king10clubs (big blind) showed [6s Jd] and lost with a pair of Kings
+Seat 3: rusdronenv (button) (small blind) showed [Ah Js] and won ($119.50) with a pair of Kings
+
+
+PokerStars Game #102586915573:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:11:43 ET
+Table 'Herrick VII 40-100 bb' 6-max Seat #2 is the button
+Seat 2: king10clubs ($1349.50 in chips) 
+Seat 3: rusdronenv ($719.78 in chips) 
+king10clubs: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+rusdronenv: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $12 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: king10clubs (button) (small blind) collected ($12)
+Seat 3: rusdronenv (big blind) folded before Flop
+
+
+PokerStars Game #102586922011:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:11:57 ET
+Table 'Herrick VII 40-100 bb' 6-max Seat #3 is the button
+Seat 2: king10clubs ($1355.50 in chips) 
+Seat 3: rusdronenv ($713.78 in chips) 
+rusdronenv: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+Uncalled bet ($3) returned to king10clubs
+rusdronenv leaves the table
+king10clubs collected $6 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: king10clubs (big blind) collected ($6)
+Seat 3: rusdronenv (button) (small blind) folded before Flop

@@ -1,0 +1,1789 @@
+
+
+PokerStars Game #102586708909:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:05:00 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #3 is the button
+Seat 2: king10clubs ($714 in chips) 
+Seat 3: visjeatwater ($830.46 in chips) 
+Seat 6: rusdronenv ($688.50 in chips) 
+rusdronenv: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: raises $6 to $12
+rusdronenv: folds 
+king10clubs: calls $6
+*** FLOP *** [3d 6h Js]
+king10clubs: checks 
+visjeatwater: checks 
+*** TURN *** [3d 6h Js] [Kd]
+king10clubs: checks 
+visjeatwater: bets $18
+king10clubs: calls $18
+*** RIVER *** [3d 6h Js Kd] [4d]
+king10clubs: checks 
+visjeatwater: bets $49.65
+king10clubs: folds 
+Uncalled bet ($49.65) returned to visjeatwater
+visjeatwater collected $61.50 from pot
+*** SUMMARY ***
+Total pot $63 | Rake $1.50 
+Board [3d 6h Js Kd 4d]
+Seat 2: king10clubs (big blind) folded on the River
+Seat 3: visjeatwater (button) collected ($61.50)
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102586752394:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:06:23 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #6 is the button
+Seat 2: king10clubs ($684 in chips) 
+Seat 3: visjeatwater ($861.96 in chips) 
+Seat 6: rusdronenv ($685.50 in chips) 
+king10clubs: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: raises $12 to $18
+king10clubs: folds 
+visjeatwater: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $15 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: king10clubs (small blind) folded before Flop
+Seat 3: visjeatwater (big blind) folded before Flop
+Seat 6: rusdronenv (button) collected ($15)
+
+
+PokerStars Game #102586760290:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:06:38 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #2 is the button
+Seat 2: king10clubs ($681 in chips) 
+Seat 3: visjeatwater ($855.96 in chips) 
+Seat 6: rusdronenv ($694.50 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+visjeatwater: raises $36 to $48
+rusdronenv: folds 
+king10clubs: folds 
+Uncalled bet ($36) returned to visjeatwater
+visjeatwater collected $30 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 2: king10clubs (button) folded before Flop
+Seat 3: visjeatwater (small blind) collected ($30)
+Seat 6: rusdronenv (big blind) folded before Flop
+
+
+PokerStars Game #102586775242:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:07:07 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #3 is the button
+Seat 2: king10clubs ($669 in chips) 
+Seat 3: visjeatwater ($873.96 in chips) 
+Seat 6: rusdronenv ($688.50 in chips) 
+rusdronenv: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: raises $6 to $12
+rusdronenv: folds 
+king10clubs: folds 
+Uncalled bet ($6) returned to visjeatwater
+visjeatwater collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: king10clubs (big blind) folded before Flop
+Seat 3: visjeatwater (button) collected ($15)
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102586783031:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:07:22 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #6 is the button
+Seat 2: king10clubs ($663 in chips) 
+Seat 3: visjeatwater ($882.96 in chips) 
+Seat 6: rusdronenv ($685.50 in chips) 
+king10clubs: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: raises $12 to $18
+king10clubs: folds 
+visjeatwater: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $15 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: king10clubs (small blind) folded before Flop
+Seat 3: visjeatwater (big blind) folded before Flop
+Seat 6: rusdronenv (button) collected ($15)
+
+
+PokerStars Game #102586789072:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:07:33 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #2 is the button
+Seat 2: king10clubs ($660 in chips) 
+Seat 3: visjeatwater ($876.96 in chips) 
+Seat 6: rusdronenv ($694.50 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+visjeatwater: folds 
+Uncalled bet ($3) returned to rusdronenv
+rusdronenv collected $6 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: king10clubs (button) folded before Flop (didn't bet)
+Seat 3: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) collected ($6)
+
+
+PokerStars Game #102586802382:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:07:59 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #3 is the button
+Seat 2: king10clubs ($660 in chips) 
+Seat 3: visjeatwater ($873.96 in chips) 
+Seat 6: rusdronenv ($697.50 in chips) 
+rusdronenv: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: raises $6 to $12
+rusdronenv: raises $36 to $48
+king10clubs: folds 
+visjeatwater: calls $36
+*** FLOP *** [Jh 3s 2c]
+rusdronenv: checks 
+visjeatwater: checks 
+*** TURN *** [Jh 3s 2c] [7h]
+rusdronenv: bets $72
+visjeatwater: folds 
+Uncalled bet ($72) returned to rusdronenv
+rusdronenv collected $100.50 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $102 | Rake $1.50 
+Board [Jh 3s 2c 7h]
+Seat 2: king10clubs (big blind) folded before Flop
+Seat 3: visjeatwater (button) folded on the Turn
+Seat 6: rusdronenv (small blind) collected ($100.50)
+
+
+PokerStars Game #102586840317:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:09:13 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #6 is the button
+Seat 2: king10clubs ($654 in chips) 
+Seat 3: visjeatwater ($825.96 in chips) 
+Seat 6: rusdronenv ($750 in chips) 
+king10clubs: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: raises $12 to $18
+king10clubs: folds 
+visjeatwater: calls $12
+*** FLOP *** [8d 7s As]
+visjeatwater: bets $30
+rusdronenv: calls $30
+*** TURN *** [8d 7s As] [Qc]
+visjeatwater: bets $78
+rusdronenv: folds 
+Uncalled bet ($78) returned to visjeatwater
+visjeatwater collected $97.50 from pot
+*** SUMMARY ***
+Total pot $99 | Rake $1.50 
+Board [8d 7s As Qc]
+Seat 2: king10clubs (small blind) folded before Flop
+Seat 3: visjeatwater (big blind) collected ($97.50)
+Seat 6: rusdronenv (button) folded on the Turn
+
+
+PokerStars Game #102586556868:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:00:02 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #2 is the button
+Seat 2: king10clubs ($600 in chips) 
+Seat 3: visjeatwater ($914.46 in chips) 
+Seat 6: rusdronenv ($721.50 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+visjeatwater: folds 
+rusdronenv: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $15 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: king10clubs (button) collected ($15)
+Seat 3: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) folded before Flop
+
+
+PokerStars Game #102586565224:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:00:21 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #3 is the button
+Seat 2: king10clubs ($609 in chips) 
+Seat 3: visjeatwater ($911.46 in chips) 
+Seat 6: rusdronenv ($715.50 in chips) 
+rusdronenv: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: raises $6 to $12
+rusdronenv: folds 
+king10clubs: calls $6
+*** FLOP *** [Jc As 8d]
+king10clubs: checks 
+visjeatwater: bets $12
+king10clubs: calls $12
+*** TURN *** [Jc As 8d] [Qd]
+king10clubs: checks 
+visjeatwater: checks 
+*** RIVER *** [Jc As 8d Qd] [4d]
+king10clubs: checks 
+visjeatwater: checks 
+*** SHOW DOWN ***
+king10clubs: shows [7h Ac] (a pair of Aces)
+visjeatwater: mucks hand 
+king10clubs collected $49.50 from pot
+*** SUMMARY ***
+Total pot $51 | Rake $1.50 
+Board [Jc As 8d Qd 4d]
+Seat 2: king10clubs (big blind) showed [7h Ac] and won ($49.50) with a pair of Aces
+Seat 3: visjeatwater (button) mucked
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102586606436:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:01:45 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #6 is the button
+Seat 2: king10clubs ($634.50 in chips) 
+Seat 3: visjeatwater ($887.46 in chips) 
+Seat 6: rusdronenv ($712.50 in chips) 
+king10clubs: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: raises $12 to $18
+king10clubs: raises $42 to $60
+visjeatwater: folds 
+rusdronenv: folds 
+Uncalled bet ($42) returned to king10clubs
+king10clubs collected $42 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $42 | Rake $0 
+Seat 2: king10clubs (small blind) collected ($42)
+Seat 3: visjeatwater (big blind) folded before Flop
+Seat 6: rusdronenv (button) folded before Flop
+
+
+PokerStars Game #102586617419:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:02:06 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #2 is the button
+Seat 2: king10clubs ($658.50 in chips) 
+Seat 3: visjeatwater ($881.46 in chips) 
+Seat 6: rusdronenv ($694.50 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+visjeatwater: folds 
+rusdronenv: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $15 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: king10clubs (button) collected ($15)
+Seat 3: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) folded before Flop
+
+
+PokerStars Game #102586624416:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:02:19 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #3 is the button
+Seat 2: king10clubs ($667.50 in chips) 
+Seat 3: visjeatwater ($878.46 in chips) 
+Seat 6: rusdronenv ($688.50 in chips) 
+rusdronenv: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: raises $6 to $12
+rusdronenv: folds 
+king10clubs: folds 
+Uncalled bet ($6) returned to visjeatwater
+visjeatwater collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: king10clubs (big blind) folded before Flop
+Seat 3: visjeatwater (button) collected ($15)
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102586633425:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:02:37 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #6 is the button
+Seat 2: king10clubs ($661.50 in chips) 
+Seat 3: visjeatwater ($887.46 in chips) 
+Seat 6: rusdronenv ($685.50 in chips) 
+king10clubs: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+king10clubs: folds 
+Uncalled bet ($3) returned to visjeatwater
+visjeatwater collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: king10clubs (small blind) folded before Flop
+Seat 3: visjeatwater (big blind) collected ($6)
+Seat 6: rusdronenv (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102586639400:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:02:48 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #2 is the button
+Seat 2: king10clubs ($658.50 in chips) 
+Seat 3: visjeatwater ($890.46 in chips) 
+Seat 6: rusdronenv ($685.50 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+visjeatwater: folds 
+rusdronenv: folds 
+Uncalled bet ($6) returned to king10clubs
+king10clubs collected $15 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: king10clubs (button) collected ($15)
+Seat 3: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) folded before Flop
+
+
+PokerStars Game #102586652341:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:03:12 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #3 is the button
+Seat 2: king10clubs ($667.50 in chips) 
+Seat 3: visjeatwater ($887.46 in chips) 
+Seat 6: rusdronenv ($679.50 in chips) 
+rusdronenv: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: raises $6 to $12
+rusdronenv: folds 
+king10clubs: raises $36 to $48
+visjeatwater: calls $36
+*** FLOP *** [Kh Js 8h]
+king10clubs: checks 
+visjeatwater: checks 
+*** TURN *** [Kh Js 8h] [7c]
+king10clubs: bets $48
+visjeatwater: folds 
+Uncalled bet ($48) returned to king10clubs
+king10clubs collected $97.50 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $99 | Rake $1.50 
+Board [Kh Js 8h 7c]
+Seat 2: king10clubs (big blind) collected ($97.50)
+Seat 3: visjeatwater (button) folded on the Turn
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102586693073:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:04:30 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #6 is the button
+Seat 2: king10clubs ($717 in chips) 
+Seat 3: visjeatwater ($839.46 in chips) 
+Seat 6: rusdronenv ($676.50 in chips) 
+king10clubs: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: raises $12 to $18
+king10clubs: folds 
+visjeatwater: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $15 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: king10clubs (small blind) folded before Flop
+Seat 3: visjeatwater (big blind) folded before Flop
+Seat 6: rusdronenv (button) collected ($15)
+
+
+PokerStars Game #102586704675:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:04:52 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #2 is the button
+Seat 2: king10clubs ($714 in chips) 
+Seat 3: visjeatwater ($833.46 in chips) 
+Seat 6: rusdronenv ($685.50 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+visjeatwater: folds 
+Uncalled bet ($3) returned to rusdronenv
+rusdronenv collected $6 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: king10clubs (button) folded before Flop (didn't bet)
+Seat 3: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) collected ($6)
+
+
+PokerStars Game #102587179582:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:20:50 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: neomorf ($600 in chips) 
+Seat 2: edy_KK ($828.20 in chips) 
+Seat 3: visjeatwater ($934.61 in chips) 
+Seat 4: alihka ($423 in chips) 
+Seat 5: rukavitsyn ($609 in chips) 
+Seat 6: rusdronenv ($600 in chips) 
+alihka: posts small blind $3
+rukavitsyn: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+neomorf: raises $6.24 to $12.24
+edy_KK: folds 
+visjeatwater: folds 
+alihka: folds 
+rukavitsyn: folds 
+Uncalled bet ($6.24) returned to neomorf
+neomorf collected $15 from pot
+neomorf: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: neomorf collected ($15)
+Seat 2: edy_KK folded before Flop (didn't bet)
+Seat 3: visjeatwater (button) folded before Flop (didn't bet)
+Seat 4: alihka (small blind) folded before Flop
+Seat 5: rukavitsyn (big blind) folded before Flop
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102587193713:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:21:20 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: neomorf ($609 in chips) 
+Seat 2: edy_KK ($828.20 in chips) 
+Seat 3: visjeatwater ($934.61 in chips) 
+Seat 4: alihka ($420 in chips) 
+Seat 5: rukavitsyn ($603 in chips) 
+Seat 6: rusdronenv ($600 in chips) 
+rukavitsyn: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+neomorf: folds 
+edy_KK: folds 
+visjeatwater: folds 
+alihka: folds 
+rukavitsyn: folds 
+Uncalled bet ($3) returned to rusdronenv
+rusdronenv collected $6 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: neomorf folded before Flop (didn't bet)
+Seat 2: edy_KK folded before Flop (didn't bet)
+Seat 3: visjeatwater folded before Flop (didn't bet)
+Seat 4: alihka (button) folded before Flop (didn't bet)
+Seat 5: rukavitsyn (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) collected ($6)
+
+
+PokerStars Game #102587201887:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:21:38 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: neomorf ($609 in chips) 
+Seat 2: edy_KK ($828.20 in chips) 
+Seat 3: visjeatwater ($934.61 in chips) 
+Seat 4: alihka ($420 in chips) 
+Seat 5: rukavitsyn ($600 in chips) 
+Seat 6: rusdronenv ($603 in chips) 
+rusdronenv: posts small blind $3
+neomorf: posts big blind $6
+*** HOLE CARDS ***
+edy_KK: folds 
+visjeatwater: folds 
+alihka: calls $6
+rukavitsyn: folds 
+rusdronenv: folds 
+neomorf: checks 
+*** FLOP *** [Qd Js 4s]
+neomorf: checks 
+alihka: checks 
+*** TURN *** [Qd Js 4s] [8s]
+neomorf: checks 
+alihka: checks 
+*** RIVER *** [Qd Js 4s 8s] [2s]
+neomorf: checks 
+alihka: bets $12
+neomorf: calls $12
+*** SHOW DOWN ***
+alihka: shows [Ah Th] (high card Ace)
+neomorf: shows [7s 4h] (a flush, Jack high)
+rusdronenv is disconnected 
+neomorf collected $37.24 from pot
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [Qd Js 4s 8s 2s]
+Seat 1: neomorf (big blind) showed [7s 4h] and won ($37.24) with a flush, Jack high
+Seat 2: edy_KK folded before Flop (didn't bet)
+Seat 3: visjeatwater folded before Flop (didn't bet)
+Seat 4: alihka showed [Ah Th] and lost with high card Ace
+Seat 5: rukavitsyn (button) folded before Flop (didn't bet)
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102587229092:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:22:36 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: neomorf ($628.24 in chips) 
+Seat 2: edy_KK ($828.20 in chips) 
+Seat 3: visjeatwater ($934.61 in chips) 
+Seat 4: alihka ($402 in chips) 
+Seat 5: rukavitsyn ($600 in chips) 
+Seat 6: rusdronenv ($600 in chips) 
+neomorf: posts small blind $3
+edy_KK: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: raises $12 to $18
+alihka: calls $18
+rukavitsyn: folds 
+rusdronenv: calls $18
+neomorf: folds 
+edy_KK: calls $12
+*** FLOP *** [Ks Jh 8c]
+edy_KK: checks 
+visjeatwater: checks 
+alihka: checks 
+rusdronenv: checks 
+*** TURN *** [Ks Jh 8c] [Kh]
+edy_KK: checks 
+visjeatwater: bets $36
+alihka: folds 
+rusdronenv: folds 
+edy_KK: folds 
+Uncalled bet ($36) returned to visjeatwater
+visjeatwater collected $72.20 from pot
+*** SUMMARY ***
+Total pot $75 | Rake $2.80 
+Board [Ks Jh 8c Kh]
+Seat 1: neomorf (small blind) folded before Flop
+Seat 2: edy_KK (big blind) folded on the Turn
+Seat 3: visjeatwater collected ($72.20)
+Seat 4: alihka folded on the Turn
+Seat 5: rukavitsyn folded before Flop (didn't bet)
+Seat 6: rusdronenv (button) folded on the Turn
+
+
+PokerStars Game #102587254876:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:23:31 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: neomorf ($625.24 in chips) 
+Seat 2: edy_KK ($810.20 in chips) 
+Seat 3: visjeatwater ($988.81 in chips) 
+Seat 4: alihka ($384 in chips) 
+Seat 5: rukavitsyn ($600 in chips) 
+Seat 6: rusdronenv ($600 in chips) 
+edy_KK: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+alihka: folds 
+rukavitsyn: folds 
+rusdronenv: raises $12 to $18
+neomorf: folds 
+edy_KK: folds 
+visjeatwater: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $15 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: neomorf (button) folded before Flop (didn't bet)
+Seat 2: edy_KK (small blind) folded before Flop
+Seat 3: visjeatwater (big blind) folded before Flop
+Seat 4: alihka folded before Flop (didn't bet)
+Seat 5: rukavitsyn folded before Flop (didn't bet)
+Seat 6: rusdronenv collected ($15)
+
+
+PokerStars Game #102587274196:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:24:13 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: neomorf ($625.24 in chips) 
+Seat 2: edy_KK ($807.20 in chips) 
+Seat 3: visjeatwater ($982.81 in chips) 
+Seat 4: alihka ($384 in chips) 
+Seat 5: rukavitsyn ($600 in chips) 
+Seat 6: rusdronenv ($609 in chips) 
+visjeatwater: posts small blind $3
+alihka: posts big blind $6
+*** HOLE CARDS ***
+rukavitsyn: folds 
+rusdronenv: folds 
+neomorf: raises $6.24 to $12.24
+edy_KK: calls $12.24
+visjeatwater: raises $42.72 to $54.96
+alihka: folds 
+neomorf: raises $53.04 to $108
+edy_KK: folds 
+visjeatwater: raises $874.81 to $982.81 and is all-in
+neomorf: folds 
+Uncalled bet ($874.81) returned to visjeatwater
+visjeatwater collected $234.24 from pot
+*** SUMMARY ***
+Total pot $234.24 | Rake $0 
+Seat 1: neomorf folded before Flop
+Seat 2: edy_KK (button) folded before Flop
+Seat 3: visjeatwater (small blind) collected ($234.24)
+Seat 4: alihka (big blind) folded before Flop
+Seat 5: rukavitsyn folded before Flop (didn't bet)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102587022861:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:15:23 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #6 is the button
+Seat 3: visjeatwater ($955.61 in chips) 
+Seat 4: alihka ($480 in chips) 
+Seat 6: rusdronenv ($635.85 in chips) 
+visjeatwater: posts small blind $3
+alihka: posts big blind $6
+*** HOLE CARDS ***
+neomorf joins the table at seat #1 
+rukavitsyn joins the table at seat #5 
+rusdronenv: raises $12 to $18
+visjeatwater: folds 
+alihka: calls $12
+*** FLOP *** [4s 6c 5h]
+alihka: bets $12
+rusdronenv: raises $30 to $42
+alihka: calls $30
+*** TURN *** [4s 6c 5h] [9s]
+alihka: checks 
+rusdronenv: checks 
+*** RIVER *** [4s 6c 5h 9s] [8h]
+alihka: bets $24
+rusdronenv: folds 
+Uncalled bet ($24) returned to alihka
+alihka collected $121.50 from pot
+*** SUMMARY ***
+Total pot $123 | Rake $1.50 
+Board [4s 6c 5h 9s 8h]
+Seat 3: visjeatwater (small blind) folded before Flop
+Seat 4: alihka (big blind) collected ($121.50)
+Seat 6: rusdronenv (button) folded on the River
+
+
+PokerStars Game #102587054309:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:16:28 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #3 is the button
+Seat 3: visjeatwater ($952.61 in chips) 
+Seat 4: alihka ($541.50 in chips) 
+Seat 5: rukavitsyn ($600 in chips) 
+Seat 6: rusdronenv ($600 in chips) 
+alihka: posts small blind $3
+rukavitsyn: posts big blind $6
+neomorf: sits out 
+*** HOLE CARDS ***
+rusdronenv: raises $12 to $18
+king10clubs leaves the table
+visjeatwater: calls $18
+alihka: calls $15
+rukavitsyn: folds 
+*** FLOP *** [Kc 2d 8d]
+edy_KK joins the table at seat #2 
+alihka: bets $30
+rusdronenv: calls $30
+visjeatwater: folds 
+*** TURN *** [Kc 2d 8d] [6d]
+alihka: bets $30
+rusdronenv: calls $30
+*** RIVER *** [Kc 2d 8d 6d] [2c]
+alihka: checks 
+rusdronenv: checks 
+*** SHOW DOWN ***
+alihka: shows [Kd Qc] (two pair, Kings and Deuces)
+rusdronenv: mucks hand 
+alihka collected $178.50 from pot
+*** SUMMARY ***
+Total pot $180 | Rake $1.50 
+Board [Kc 2d 8d 6d 2c]
+Seat 3: visjeatwater (button) folded on the Flop
+Seat 4: alihka (small blind) showed [Kd Qc] and won ($178.50) with two pair, Kings and Deuces
+Seat 5: rukavitsyn (big blind) folded before Flop
+Seat 6: rusdronenv mucked
+
+
+PokerStars Game #102587087912:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:17:38 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #4 is the button
+Seat 3: visjeatwater ($934.61 in chips) 
+Seat 4: alihka ($642 in chips) 
+Seat 5: rukavitsyn ($600 in chips) 
+Seat 6: rusdronenv ($600 in chips) 
+rukavitsyn: posts small blind $3
+rusdronenv: posts big blind $6
+neomorf: sits out 
+edy_KK: sits out 
+*** HOLE CARDS ***
+visjeatwater: raises $12 to $18
+alihka: folds 
+rukavitsyn: folds 
+rusdronenv: folds 
+Uncalled bet ($12) returned to visjeatwater
+visjeatwater collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 3: visjeatwater collected ($15)
+Seat 4: alihka (button) folded before Flop (didn't bet)
+Seat 5: rukavitsyn (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) folded before Flop
+
+
+PokerStars Game #102587095585:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:17:54 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: neomorf ($600 in chips) 
+Seat 3: visjeatwater ($943.61 in chips) 
+Seat 4: alihka ($642 in chips) 
+Seat 5: rukavitsyn ($600 in chips) 
+Seat 6: rusdronenv ($600 in chips) 
+rusdronenv: posts small blind $3
+neomorf: posts big blind $6
+edy_KK: sits out 
+*** HOLE CARDS ***
+visjeatwater: folds 
+alihka: folds 
+rukavitsyn: raises $6 to $12
+rusdronenv: folds 
+neomorf: folds 
+Uncalled bet ($6) returned to rukavitsyn
+rukavitsyn collected $15 from pot
+rukavitsyn: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: neomorf (big blind) folded before Flop
+Seat 3: visjeatwater folded before Flop (didn't bet)
+Seat 4: alihka folded before Flop (didn't bet)
+Seat 5: rukavitsyn (button) collected ($15)
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102587104811:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:18:13 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: neomorf ($600 in chips) 
+Seat 2: edy_KK ($600 in chips) 
+Seat 3: visjeatwater ($943.61 in chips) 
+Seat 4: alihka ($642 in chips) 
+Seat 5: rukavitsyn ($609 in chips) 
+Seat 6: rusdronenv ($600 in chips) 
+neomorf: posts small blind $3
+edy_KK: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: folds 
+alihka: folds 
+rukavitsyn: folds 
+rusdronenv: folds 
+neomorf: folds 
+Uncalled bet ($3) returned to edy_KK
+edy_KK collected $6 from pot
+edy_KK: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: neomorf (small blind) folded before Flop
+Seat 2: edy_KK (big blind) collected ($6)
+Seat 3: visjeatwater folded before Flop (didn't bet)
+Seat 4: alihka folded before Flop (didn't bet)
+Seat 5: rukavitsyn folded before Flop (didn't bet)
+Seat 6: rusdronenv (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102587114608:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:18:34 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: neomorf ($600 in chips) 
+Seat 2: edy_KK ($603 in chips) 
+Seat 3: visjeatwater ($943.61 in chips) 
+Seat 4: alihka ($642 in chips) 
+Seat 5: rukavitsyn ($609 in chips) 
+Seat 6: rusdronenv ($600 in chips) 
+edy_KK: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+alihka: raises $36 to $42
+rukavitsyn: folds 
+rusdronenv: folds 
+neomorf: folds 
+edy_KK: folds 
+visjeatwater: folds 
+Uncalled bet ($36) returned to alihka
+alihka collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: neomorf (button) folded before Flop (didn't bet)
+Seat 2: edy_KK (small blind) folded before Flop
+Seat 3: visjeatwater (big blind) folded before Flop
+Seat 4: alihka collected ($15)
+Seat 5: rukavitsyn folded before Flop (didn't bet)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102587129751:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:19:06 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: neomorf ($600 in chips) 
+Seat 2: edy_KK ($600 in chips) 
+Seat 3: visjeatwater ($937.61 in chips) 
+Seat 4: alihka ($651 in chips) 
+Seat 5: rukavitsyn ($609 in chips) 
+Seat 6: rusdronenv ($600 in chips) 
+visjeatwater: posts small blind $3
+alihka: posts big blind $6
+*** HOLE CARDS ***
+rukavitsyn: folds 
+rusdronenv: folds 
+neomorf: folds 
+edy_KK: raises $6 to $12
+visjeatwater: folds 
+alihka: calls $6
+*** FLOP *** [4d 2s 7d]
+alihka: bets $36
+edy_KK: calls $36
+*** TURN *** [4d 2s 7d] [5h]
+alihka: bets $180
+edy_KK: raises $372 to $552 and is all-in
+alihka: folds 
+Uncalled bet ($372) returned to edy_KK
+edy_KK collected $456.20 from pot
+edy_KK: doesn't show hand 
+*** SUMMARY ***
+Total pot $459 | Rake $2.80 
+Board [4d 2s 7d 5h]
+Seat 1: neomorf folded before Flop (didn't bet)
+Seat 2: edy_KK (button) collected ($456.20)
+Seat 3: visjeatwater (small blind) folded before Flop
+Seat 4: alihka (big blind) folded on the Turn
+Seat 5: rukavitsyn folded before Flop (didn't bet)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102587016133:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:15:09 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #6 is the button
+Seat 3: visjeatwater ($961.61 in chips) 
+Seat 6: rusdronenv ($629.85 in chips) 
+rusdronenv: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: raises $12 to $18
+visjeatwater: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $12 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 3: visjeatwater (big blind) folded before Flop
+Seat 6: rusdronenv (button) (small blind) collected ($12)
+
+
+PokerStars Game #102586866755:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:10:06 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #2 is the button
+Seat 2: king10clubs ($651 in chips) 
+Seat 3: visjeatwater ($875.46 in chips) 
+Seat 6: rusdronenv ($702 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+visjeatwater: folds 
+rusdronenv: raises $36 to $48
+king10clubs: folds 
+Uncalled bet ($36) returned to rusdronenv
+rusdronenv collected $27 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 2: king10clubs (button) folded before Flop
+Seat 3: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) collected ($27)
+
+
+PokerStars Game #102586878620:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:10:29 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #3 is the button
+Seat 2: king10clubs ($639 in chips) 
+Seat 3: visjeatwater ($872.46 in chips) 
+Seat 6: rusdronenv ($717 in chips) 
+rusdronenv: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: raises $6 to $12
+rusdronenv: calls $9
+king10clubs: calls $6
+*** FLOP *** [8h 7h 8c]
+rusdronenv: checks 
+king10clubs: checks 
+visjeatwater: checks 
+*** TURN *** [8h 7h 8c] [3d]
+rusdronenv: bets $24
+king10clubs: calls $24
+visjeatwater: folds 
+*** RIVER *** [8h 7h 8c 3d] [Jd]
+rusdronenv: bets $78
+king10clubs: calls $78
+*** SHOW DOWN ***
+rusdronenv: shows [Ts Jc] (two pair, Jacks and Eights)
+king10clubs: shows [8s 9c] (three of a kind, Eights)
+king10clubs collected $238.50 from pot
+*** SUMMARY ***
+Total pot $240 | Rake $1.50 
+Board [8h 7h 8c 3d Jd]
+Seat 2: king10clubs (big blind) showed [8s 9c] and won ($238.50) with three of a kind, Eights
+Seat 3: visjeatwater (button) folded on the Turn
+Seat 6: rusdronenv (small blind) showed [Ts Jc] and lost with two pair, Jacks and Eights
+
+
+PokerStars Game #102586924479:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:12:02 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #6 is the button
+Seat 2: king10clubs ($763.50 in chips) 
+Seat 3: visjeatwater ($860.46 in chips) 
+Seat 6: rusdronenv ($603 in chips) 
+king10clubs: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+king10clubs: folds 
+Uncalled bet ($3) returned to visjeatwater
+visjeatwater collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: king10clubs (small blind) folded before Flop
+Seat 3: visjeatwater (big blind) collected ($6)
+Seat 6: rusdronenv (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102586927166:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:12:07 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #2 is the button
+Seat 2: king10clubs ($760.50 in chips) 
+Seat 3: visjeatwater ($863.46 in chips) 
+Seat 6: rusdronenv ($603 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $6 to $12
+visjeatwater: raises $36 to $48
+rusdronenv: folds 
+king10clubs: folds 
+Uncalled bet ($36) returned to visjeatwater
+visjeatwater collected $30 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 2: king10clubs (button) folded before Flop
+Seat 3: visjeatwater (small blind) collected ($30)
+Seat 6: rusdronenv (big blind) folded before Flop
+
+
+PokerStars Game #102586940091:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:12:34 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #3 is the button
+Seat 2: king10clubs ($748.50 in chips) 
+Seat 3: visjeatwater ($881.46 in chips) 
+Seat 6: rusdronenv ($600 in chips) 
+rusdronenv: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater has timed out
+visjeatwater: folds 
+rusdronenv: raises $12 to $18
+king10clubs: raises $36 to $54
+rusdronenv: calls $36
+*** FLOP *** [5c 7h Qd]
+rusdronenv: checks 
+king10clubs: bets $56
+rusdronenv: calls $56
+*** TURN *** [5c 7h Qd] [Td]
+rusdronenv: checks 
+king10clubs: checks 
+*** RIVER *** [5c 7h Qd Td] [Th]
+rusdronenv: checks 
+king10clubs: checks 
+*** SHOW DOWN ***
+rusdronenv: shows [Kc Qc] (two pair, Queens and Tens)
+king10clubs: mucks hand 
+rusdronenv collected $218.50 from pot
+*** SUMMARY ***
+Total pot $220 | Rake $1.50 
+Board [5c 7h Qd Td Th]
+Seat 2: king10clubs (big blind) mucked
+Seat 3: visjeatwater (button) folded before Flop (didn't bet)
+Seat 6: rusdronenv (small blind) showed [Kc Qc] and won ($218.50) with two pair, Queens and Tens
+
+
+PokerStars Game #102586972884:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:13:41 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #6 is the button
+Seat 2: king10clubs ($638.50 in chips) 
+Seat 3: visjeatwater ($881.46 in chips) 
+Seat 6: rusdronenv ($708.50 in chips) 
+king10clubs: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: raises $12 to $18
+king10clubs: folds 
+visjeatwater: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $15 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: king10clubs (small blind) folded before Flop
+Seat 3: visjeatwater (big blind) folded before Flop
+Seat 6: rusdronenv (button) collected ($15)
+
+
+PokerStars Game #102586977958:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:13:51 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #2 is the button
+Seat 2: king10clubs ($635.50 in chips) 
+Seat 3: visjeatwater ($875.46 in chips) 
+Seat 6: rusdronenv ($717.50 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+visjeatwater: raises $12 to $18
+rusdronenv: raises $36 to $54
+visjeatwater: raises $42.65 to $96.65
+rusdronenv: calls $42.65
+*** FLOP *** [As 4h 2s]
+visjeatwater: bets $79.65
+rusdronenv: folds 
+Uncalled bet ($79.65) returned to visjeatwater
+visjeatwater collected $191.80 from pot
+*** SUMMARY ***
+Total pot $193.30 | Rake $1.50 
+Board [As 4h 2s]
+Seat 2: king10clubs (button) folded before Flop (didn't bet)
+Seat 3: visjeatwater (small blind) collected ($191.80)
+Seat 6: rusdronenv (big blind) folded on the Flop
+
+
+PokerStars Game #102587005210:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:14:48 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #6 is the button
+Seat 3: visjeatwater ($970.61 in chips) 
+Seat 6: rusdronenv ($620.85 in chips) 
+rusdronenv: posts small blind $3
+king10clubs: is sitting out 
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+Uncalled bet ($3) returned to visjeatwater
+visjeatwater collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 3: visjeatwater (big blind) collected ($6)
+Seat 6: rusdronenv (button) (small blind) folded before Flop
+
+
+PokerStars Game #102587008613:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:14:55 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #3 is the button
+Seat 3: visjeatwater ($973.61 in chips) 
+Seat 6: rusdronenv ($617.85 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: raises $6 to $12
+alihka joins the table at seat #4 
+rusdronenv: raises $36 to $48
+visjeatwater: folds 
+Uncalled bet ($36) returned to rusdronenv
+rusdronenv collected $24 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 3: visjeatwater (button) (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) collected ($24)
+
+
+PokerStars Game #102587586233:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:35:49 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: neomorf ($609 in chips) 
+Seat 2: edy_KK ($969.16 in chips) 
+Seat 3: visjeatwater ($1308.11 in chips) 
+Seat 4: alihka ($150.62 in chips) 
+Seat 5: rukavitsyn ($627 in chips) 
+Seat 6: rusdronenv ($600 in chips) 
+rukavitsyn: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+neomorf: folds 
+edy_KK: raises $9 to $15
+visjeatwater: folds 
+alihka: calls $15
+rukavitsyn: folds 
+rusdronenv: calls $9
+*** FLOP *** [9h Js 4c]
+rusdronenv: checks 
+edy_KK: checks 
+alihka: checks 
+*** TURN *** [9h Js 4c] [Ah]
+rusdronenv: bets $30
+edy_KK: folds 
+alihka: folds 
+Uncalled bet ($30) returned to rusdronenv
+rusdronenv collected $45.84 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $48 | Rake $2.16 
+Board [9h Js 4c Ah]
+Seat 1: neomorf folded before Flop (didn't bet)
+Seat 2: edy_KK folded on the Turn
+Seat 3: visjeatwater folded before Flop (didn't bet)
+Seat 4: alihka (button) folded on the Turn
+Seat 5: rukavitsyn (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) collected ($45.84)
+
+
+PokerStars Game #102587602631:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:36:26 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: neomorf ($609 in chips) 
+Seat 2: edy_KK ($954.16 in chips) 
+Seat 3: visjeatwater ($1308.11 in chips) 
+Seat 4: alihka ($135.62 in chips) 
+Seat 5: rukavitsyn ($624 in chips) 
+Seat 6: rusdronenv ($630.84 in chips) 
+rusdronenv: posts small blind $3
+neomorf: posts big blind $6
+*** HOLE CARDS ***
+edy_KK: folds 
+visjeatwater: folds 
+alihka: calls $6
+rukavitsyn: folds 
+rusdronenv: folds 
+neomorf: checks 
+*** FLOP *** [Qs Ah Ts]
+neomorf: checks 
+alihka: checks 
+*** TURN *** [Qs Ah Ts] [Jd]
+neomorf: checks 
+alihka: bets $12
+neomorf: folds 
+Uncalled bet ($12) returned to alihka
+alihka collected $14.32 from pot
+alihka: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.68 
+Board [Qs Ah Ts Jd]
+Seat 1: neomorf (big blind) folded on the Turn
+Seat 2: edy_KK folded before Flop (didn't bet)
+Seat 3: visjeatwater folded before Flop (didn't bet)
+Seat 4: alihka collected ($14.32)
+Seat 5: rukavitsyn (button) folded before Flop (didn't bet)
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102587630712:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:37:31 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: neomorf ($603 in chips) 
+Seat 2: edy_KK ($954.16 in chips) 
+Seat 3: visjeatwater ($1308.11 in chips) 
+Seat 4: alihka ($143.94 in chips) 
+Seat 5: rukavitsyn ($624 in chips) 
+Seat 6: rusdronenv ($627.84 in chips) 
+neomorf: posts small blind $3
+edy_KK: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: raises $12 to $18
+alihka: raises $125.94 to $143.94 and is all-in
+rukavitsyn: folds 
+rusdronenv: folds 
+neomorf: folds 
+edy_KK: folds 
+visjeatwater: calls $125.94
+*** FLOP *** [4d 4c 5c]
+*** TURN *** [4d 4c 5c] [Ah]
+*** RIVER *** [4d 4c 5c Ah] [6s]
+*** SHOW DOWN ***
+visjeatwater: shows [8c 8s] (two pair, Eights and Fours)
+alihka: shows [2h 2d] (two pair, Fours and Deuces)
+visjeatwater collected $294.08 from pot
+*** SUMMARY ***
+Total pot $296.88 | Rake $2.80 
+Board [4d 4c 5c Ah 6s]
+Seat 1: neomorf (small blind) folded before Flop
+Seat 2: edy_KK (big blind) folded before Flop
+Seat 3: visjeatwater showed [8c 8s] and won ($294.08) with two pair, Eights and Fours
+Seat 4: alihka showed [2h 2d] and lost with two pair, Fours and Deuces
+Seat 5: rukavitsyn folded before Flop (didn't bet)
+Seat 6: rusdronenv (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102587650004:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:38:17 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: neomorf ($600 in chips) 
+Seat 2: edy_KK ($948.16 in chips) 
+Seat 3: visjeatwater ($1458.25 in chips) 
+Seat 5: rukavitsyn ($624 in chips) 
+Seat 6: rusdronenv ($627.84 in chips) 
+edy_KK: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rukavitsyn: folds 
+alihka leaves the table
+rusdronenv: folds 
+neomorf: folds 
+edy_KK: raises $12 to $18
+visjeatwater: folds 
+Uncalled bet ($12) returned to edy_KK
+edy_KK collected $12 from pot
+edy_KK: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: neomorf (button) folded before Flop (didn't bet)
+Seat 2: edy_KK (small blind) collected ($12)
+Seat 3: visjeatwater (big blind) folded before Flop
+Seat 5: rukavitsyn folded before Flop (didn't bet)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102587660320:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:38:40 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: neomorf ($600 in chips) 
+Seat 2: edy_KK ($954.16 in chips) 
+Seat 3: visjeatwater ($1452.25 in chips) 
+Seat 6: rusdronenv ($627.84 in chips) 
+visjeatwater: posts small blind $3
+rukavitsyn: is sitting out 
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+neomorf: folds 
+neomorf leaves the table
+kriket28 joins the table at seat #1 
+kriket28 leaves the table
+dRobespierre joins the table at seat #1 
+dRobespierre leaves the table
+edy_KK: raises $6 to $12
+rukavitsyn leaves the table
+visjeatwater: calls $9
+Aurum85 joins the table at seat #1 
+Aurum85 leaves the table
+rusdronenv: folds 
+*** FLOP *** [8s 6d 7d]
+visjeatwater: checks 
+edy_KK: checks 
+*** TURN *** [8s 6d 7d] [9h]
+visjeatwater: checks 
+LuckyBiitch joins the table at seat #1 
+LuckyBiitch leaves the table
+edy_KK: checks 
+*** RIVER *** [8s 6d 7d 9h] [Jd]
+visjeatwater: checks 
+edy_KK: checks 
+*** SHOW DOWN ***
+visjeatwater: shows [Qc As] (high card Ace)
+edy_KK: mucks hand 
+visjeatwater collected $28.65 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [8s 6d 7d 9h Jd]
+Seat 1: neomorf folded before Flop (didn't bet)
+Seat 2: edy_KK (button) mucked
+Seat 3: visjeatwater (small blind) showed [Qc As] and won ($28.65) with high card Ace
+Seat 6: rusdronenv (big blind) folded before Flop
+
+
+PokerStars Game #102587688578:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:39:47 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #6 is the button
+Seat 3: visjeatwater ($1468.90 in chips) 
+Seat 6: rusdronenv ($621.84 in chips) 
+rusdronenv: posts small blind $3
+edy_KK: is sitting out 
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: raises $12 to $18
+Ner4zzurri joins the table at seat #5 
+visjeatwater: folds 
+Uncalled bet ($12) returned to rusdronenv
+Ner4zzurri leaves the table
+edy_KK leaves the table
+rusdronenv collected $12 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 3: visjeatwater (big blind) folded before Flop
+Seat 6: rusdronenv (button) (small blind) collected ($12)
+
+
+PokerStars Game #102587692524:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:39:56 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #3 is the button
+Seat 3: visjeatwater ($1462.90 in chips) 
+Seat 6: rusdronenv ($627.84 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: raises $6 to $12
+rusdronenv: calls $6
+*** FLOP *** [4s 4h Jc]
+rusdronenv: checks 
+visjeatwater: checks 
+*** TURN *** [4s 4h Jc] [9s]
+rusdronenv: bets $18
+visjeatwater: folds 
+Uncalled bet ($18) returned to rusdronenv
+rusdronenv collected $23.50 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0.50 
+Board [4s 4h Jc 9s]
+Seat 3: visjeatwater (button) (small blind) folded on the Turn
+Seat 6: rusdronenv (big blind) collected ($23.50)
+
+
+PokerStars Game #102587462247:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:31:08 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: neomorf ($600 in chips) 
+Seat 2: edy_KK ($773.96 in chips) 
+Seat 3: visjeatwater ($1317.11 in chips) 
+Seat 4: alihka ($180.21 in chips) 
+Seat 5: rukavitsyn ($600 in chips) 
+Seat 6: rusdronenv ($642.20 in chips) 
+alihka: posts small blind $3
+rukavitsyn: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+neomorf: folds 
+edy_KK: folds 
+visjeatwater: raises $6 to $12
+alihka: folds 
+rukavitsyn: folds 
+Uncalled bet ($6) returned to visjeatwater
+visjeatwater collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: neomorf folded before Flop (didn't bet)
+Seat 2: edy_KK folded before Flop (didn't bet)
+Seat 3: visjeatwater (button) collected ($15)
+Seat 4: alihka (small blind) folded before Flop
+Seat 5: rukavitsyn (big blind) folded before Flop
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102587469327:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:31:24 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: neomorf ($600 in chips) 
+Seat 2: edy_KK ($773.96 in chips) 
+Seat 3: visjeatwater ($1326.11 in chips) 
+Seat 4: alihka ($177.21 in chips) 
+Seat 5: rukavitsyn ($600 in chips) 
+Seat 6: rusdronenv ($642.20 in chips) 
+rukavitsyn: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+neomorf: folds 
+edy_KK: folds 
+visjeatwater: raises $12 to $18
+alihka: folds 
+rukavitsyn: raises $42 to $60
+rusdronenv: folds 
+visjeatwater: folds 
+Uncalled bet ($42) returned to rukavitsyn
+rukavitsyn collected $42 from pot
+rukavitsyn: doesn't show hand 
+*** SUMMARY ***
+Total pot $42 | Rake $0 
+Seat 1: neomorf folded before Flop (didn't bet)
+Seat 2: edy_KK folded before Flop (didn't bet)
+Seat 3: visjeatwater folded before Flop
+Seat 4: alihka (button) folded before Flop (didn't bet)
+Seat 5: rukavitsyn (small blind) collected ($42)
+Seat 6: rusdronenv (big blind) folded before Flop
+
+
+PokerStars Game #102587479784:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:31:48 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: neomorf ($600 in chips) 
+Seat 2: edy_KK ($773.96 in chips) 
+Seat 3: visjeatwater ($1308.11 in chips) 
+Seat 4: alihka ($177.21 in chips) 
+Seat 5: rukavitsyn ($624 in chips) 
+Seat 6: rusdronenv ($636.20 in chips) 
+rusdronenv: posts small blind $3
+neomorf: posts big blind $6
+*** HOLE CARDS ***
+edy_KK: folds 
+visjeatwater: folds 
+alihka: raises $12 to $18
+rukavitsyn: folds 
+rusdronenv: calls $15
+neomorf: folds 
+*** FLOP *** [2c 5h 6h]
+rusdronenv: checks 
+alihka: bets $42
+rusdronenv: raises $576.20 to $618.20 and is all-in
+alihka: calls $117.21 and is all-in
+Uncalled bet ($458.99) returned to rusdronenv
+*** TURN *** [2c 5h 6h] [Kd]
+*** RIVER *** [2c 5h 6h Kd] [5d]
+*** SHOW DOWN ***
+rusdronenv: shows [Th Qh] (a pair of Fives)
+alihka: shows [Jd As] (a pair of Fives - Ace kicker)
+alihka collected $357.62 from pot
+*** SUMMARY ***
+Total pot $360.42 | Rake $2.80 
+Board [2c 5h 6h Kd 5d]
+Seat 1: neomorf (big blind) folded before Flop
+Seat 2: edy_KK folded before Flop (didn't bet)
+Seat 3: visjeatwater folded before Flop (didn't bet)
+Seat 4: alihka showed [Jd As] and won ($357.62) with a pair of Fives
+Seat 5: rukavitsyn (button) folded before Flop (didn't bet)
+Seat 6: rusdronenv (small blind) showed [Th Qh] and lost with a pair of Fives
+
+
+PokerStars Game #102587506343:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:32:48 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: neomorf ($600 in chips) 
+Seat 2: edy_KK ($773.96 in chips) 
+Seat 3: visjeatwater ($1308.11 in chips) 
+Seat 4: alihka ($357.62 in chips) 
+Seat 5: rukavitsyn ($624 in chips) 
+Seat 6: rusdronenv ($600 in chips) 
+neomorf: posts small blind $3
+edy_KK: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: raises $12 to $18
+alihka: folds 
+rukavitsyn: folds 
+rusdronenv: folds 
+neomorf: folds 
+edy_KK: folds 
+Uncalled bet ($12) returned to visjeatwater
+visjeatwater collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: neomorf (small blind) folded before Flop
+Seat 2: edy_KK (big blind) folded before Flop
+Seat 3: visjeatwater collected ($15)
+Seat 4: alihka folded before Flop (didn't bet)
+Seat 5: rukavitsyn folded before Flop (didn't bet)
+Seat 6: rusdronenv (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102587513951:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:33:05 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: neomorf ($600 in chips) 
+Seat 2: edy_KK ($767.96 in chips) 
+Seat 3: visjeatwater ($1317.11 in chips) 
+Seat 4: alihka ($357.62 in chips) 
+Seat 5: rukavitsyn ($624 in chips) 
+Seat 6: rusdronenv ($600 in chips) 
+edy_KK: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+alihka: folds 
+rukavitsyn: raises $12 to $18
+rusdronenv has timed out while being disconnected
+rusdronenv: folds 
+neomorf: folds 
+edy_KK: folds 
+visjeatwater: folds 
+Uncalled bet ($12) returned to rukavitsyn
+rukavitsyn collected $15 from pot
+rukavitsyn: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: neomorf (button) folded before Flop (didn't bet)
+Seat 2: edy_KK (small blind) folded before Flop
+Seat 3: visjeatwater (big blind) folded before Flop
+Seat 4: alihka folded before Flop (didn't bet)
+Seat 5: rukavitsyn collected ($15)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102587536715:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:33:56 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: neomorf ($600 in chips) 
+Seat 2: edy_KK ($764.96 in chips) 
+Seat 3: visjeatwater ($1311.11 in chips) 
+Seat 4: alihka ($357.62 in chips) 
+Seat 5: rukavitsyn ($633 in chips) 
+visjeatwater: posts small blind $3
+alihka: posts big blind $6
+*** HOLE CARDS ***
+rukavitsyn: folds 
+neomorf: raises $12 to $18
+edy_KK: folds 
+rusdronenv is disconnected 
+visjeatwater: folds 
+alihka: folds 
+Uncalled bet ($12) returned to neomorf
+neomorf collected $15 from pot
+neomorf: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: neomorf collected ($15)
+Seat 2: edy_KK (button) folded before Flop (didn't bet)
+Seat 3: visjeatwater (small blind) folded before Flop
+Seat 4: alihka (big blind) folded before Flop
+Seat 5: rukavitsyn folded before Flop (didn't bet)
+
+
+PokerStars Game #102587544754:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:34:14 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: neomorf ($609 in chips) 
+Seat 2: edy_KK ($764.96 in chips) 
+Seat 3: visjeatwater ($1308.11 in chips) 
+Seat 4: alihka ($351.62 in chips) 
+Seat 5: rukavitsyn ($633 in chips) 
+alihka: posts small blind $3
+rukavitsyn: posts big blind $6
+*** HOLE CARDS ***
+neomorf: folds 
+edy_KK: raises $12 to $18
+visjeatwater: folds 
+alihka: calls $15
+rukavitsyn: folds 
+*** FLOP *** [9s Ts Js]
+alihka: bets $60
+edy_KK: calls $60
+*** TURN *** [9s Ts Js] [3d]
+alihka: checks 
+edy_KK: checks 
+*** RIVER *** [9s Ts Js 3d] [Qs]
+alihka: checks 
+edy_KK: bets $123
+alihka: calls $123
+*** SHOW DOWN ***
+edy_KK: shows [Tc Ks] (a straight flush, Nine to King)
+alihka: mucks hand 
+edy_KK collected $405.20 from pot
+*** SUMMARY ***
+Total pot $408 | Rake $2.80 
+Board [9s Ts Js 3d Qs]
+Seat 1: neomorf folded before Flop (didn't bet)
+Seat 2: edy_KK showed [Tc Ks] and won ($405.20) with a straight flush, Nine to King
+Seat 3: visjeatwater (button) folded before Flop (didn't bet)
+Seat 4: alihka (small blind) mucked
+Seat 5: rukavitsyn (big blind) folded before Flop
+
+
+PokerStars Game #102587304482:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:25:18 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #3 is the button
+Seat 1: neomorf ($600 in chips) 
+Seat 2: edy_KK ($794.96 in chips) 
+Seat 3: visjeatwater ($1109.05 in chips) 
+Seat 4: alihka ($378 in chips) 
+Seat 5: rukavitsyn ($600 in chips) 
+Seat 6: rusdronenv ($609 in chips) 
+alihka: posts small blind $3
+rukavitsyn: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+neomorf: folds 
+edy_KK: folds 
+visjeatwater: raises $6 to $12
+alihka: calls $9
+rukavitsyn: calls $6
+*** FLOP *** [8d 6c Kh]
+alihka: checks 
+rukavitsyn: checks 
+visjeatwater: checks 
+*** TURN *** [8d 6c Kh] [5h]
+alihka: bets $42
+rukavitsyn: folds 
+visjeatwater: folds 
+Uncalled bet ($42) returned to alihka
+alihka collected $34.38 from pot
+alihka: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $1.62 
+Board [8d 6c Kh 5h]
+Seat 1: neomorf folded before Flop (didn't bet)
+Seat 2: edy_KK folded before Flop (didn't bet)
+Seat 3: visjeatwater (button) folded on the Turn
+Seat 4: alihka (small blind) collected ($34.38)
+Seat 5: rukavitsyn (big blind) folded on the Turn
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102587332351:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:26:19 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #4 is the button
+Seat 1: neomorf ($600 in chips) 
+Seat 2: edy_KK ($794.96 in chips) 
+Seat 3: visjeatwater ($1097.05 in chips) 
+Seat 4: alihka ($400.38 in chips) 
+Seat 5: rukavitsyn ($600 in chips) 
+Seat 6: rusdronenv ($609 in chips) 
+rukavitsyn: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+neomorf: raises $12 to $18
+edy_KK: folds 
+visjeatwater: calls $18
+alihka: calls $18
+rukavitsyn: folds 
+rusdronenv: folds 
+*** FLOP *** [3h 7d Qh]
+neomorf: checks 
+visjeatwater: checks 
+alihka: bets $30
+neomorf: calls $30
+visjeatwater: folds 
+*** TURN *** [3h 7d Qh] [Kh]
+neomorf: checks 
+alihka: checks 
+*** RIVER *** [3h 7d Qh Kh] [2s]
+neomorf: bets $45
+alihka: calls $45
+*** SHOW DOWN ***
+neomorf: shows [Qd Qs] (three of a kind, Queens)
+alihka: mucks hand 
+neomorf collected $210.20 from pot
+*** SUMMARY ***
+Total pot $213 | Rake $2.80 
+Board [3h 7d Qh Kh 2s]
+Seat 1: neomorf showed [Qd Qs] and won ($210.20) with three of a kind, Queens
+Seat 2: edy_KK folded before Flop (didn't bet)
+Seat 3: visjeatwater folded on the Flop
+Seat 4: alihka (button) mucked
+Seat 5: rukavitsyn (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) folded before Flop
+
+
+PokerStars Game #102587367430:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:27:36 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #5 is the button
+Seat 1: neomorf ($717.20 in chips) 
+Seat 2: edy_KK ($794.96 in chips) 
+Seat 3: visjeatwater ($1079.05 in chips) 
+Seat 4: alihka ($307.38 in chips) 
+Seat 5: rukavitsyn ($600 in chips) 
+Seat 6: rusdronenv ($603 in chips) 
+rusdronenv: posts small blind $3
+neomorf: posts big blind $6
+*** HOLE CARDS ***
+edy_KK: folds 
+visjeatwater: folds 
+alihka: calls $6
+rukavitsyn: folds 
+rusdronenv: raises $30 to $36
+neomorf: folds 
+alihka: calls $30
+*** FLOP *** [3s 2s 2d]
+rusdronenv: bets $42
+alihka: folds 
+Uncalled bet ($42) returned to rusdronenv
+rusdronenv collected $75.20 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $78 | Rake $2.80 
+Board [3s 2s 2d]
+Seat 1: neomorf (big blind) folded before Flop
+Seat 2: edy_KK folded before Flop (didn't bet)
+Seat 3: visjeatwater folded before Flop (didn't bet)
+Seat 4: alihka folded on the Flop
+Seat 5: rukavitsyn (button) folded before Flop (didn't bet)
+Seat 6: rusdronenv (small blind) collected ($75.20)
+
+
+PokerStars Game #102587384018:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:28:13 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #6 is the button
+Seat 1: neomorf ($711.20 in chips) 
+Seat 2: edy_KK ($794.96 in chips) 
+Seat 3: visjeatwater ($1079.05 in chips) 
+Seat 4: alihka ($271.38 in chips) 
+Seat 5: rukavitsyn ($600 in chips) 
+Seat 6: rusdronenv ($642.20 in chips) 
+neomorf: posts small blind $3
+edy_KK: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: raises $12 to $18
+alihka: calls $18
+rukavitsyn: folds 
+rusdronenv: folds 
+neomorf: folds 
+edy_KK: folds 
+*** FLOP *** [2c 4h Th]
+visjeatwater: bets $30
+alihka: calls $30
+*** TURN *** [2c 4h Th] [7d]
+visjeatwater: bets $54
+alihka: folds 
+Uncalled bet ($54) returned to visjeatwater
+visjeatwater collected $102.20 from pot
+*** SUMMARY ***
+Total pot $105 | Rake $2.80 
+Board [2c 4h Th 7d]
+Seat 1: neomorf (small blind) folded before Flop
+Seat 2: edy_KK (big blind) folded before Flop
+Seat 3: visjeatwater collected ($102.20)
+Seat 4: alihka folded on the Turn
+Seat 5: rukavitsyn folded before Flop (didn't bet)
+Seat 6: rusdronenv (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102587402020:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:28:53 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #1 is the button
+Seat 1: neomorf ($708.20 in chips) 
+Seat 2: edy_KK ($788.96 in chips) 
+Seat 3: visjeatwater ($1133.25 in chips) 
+Seat 4: alihka ($223.38 in chips) 
+Seat 5: rukavitsyn ($600 in chips) 
+Seat 6: rusdronenv ($642.20 in chips) 
+edy_KK: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+alihka: folds 
+rukavitsyn: folds 
+rusdronenv: folds 
+neomorf: raises $6 to $12
+edy_KK: folds 
+visjeatwater: folds 
+Uncalled bet ($6) returned to neomorf
+neomorf collected $15 from pot
+neomorf: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: neomorf (button) collected ($15)
+Seat 2: edy_KK (small blind) folded before Flop
+Seat 3: visjeatwater (big blind) folded before Flop
+Seat 4: alihka folded before Flop (didn't bet)
+Seat 5: rukavitsyn folded before Flop (didn't bet)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102587410915:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:29:13 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #2 is the button
+Seat 1: neomorf ($717.20 in chips) 
+Seat 2: edy_KK ($785.96 in chips) 
+Seat 3: visjeatwater ($1127.25 in chips) 
+Seat 4: alihka ($223.38 in chips) 
+Seat 5: rukavitsyn ($600 in chips) 
+Seat 6: rusdronenv ($642.20 in chips) 
+visjeatwater: posts small blind $3
+alihka: posts big blind $6
+*** HOLE CARDS ***
+rukavitsyn: folds 
+rusdronenv: folds 
+neomorf: raises $6 to $12
+edy_KK: calls $12
+visjeatwater: calls $9
+alihka: calls $6
+*** FLOP *** [9d 2s 7h]
+visjeatwater: checks 
+alihka: checks 
+neomorf: checks 
+edy_KK: checks 
+*** TURN *** [9d 2s 7h] [6d]
+visjeatwater: checks 
+alihka: checks 
+neomorf: bets $31.17
+edy_KK: folds 
+visjeatwater: calls $31.17
+alihka: calls $31.17
+*** RIVER *** [9d 2s 7h 6d] [Qh]
+visjeatwater: checks 
+alihka: checks 
+neomorf: bets $94.32
+visjeatwater: calls $94.32
+alihka: folds 
+*** SHOW DOWN ***
+neomorf: shows [Kd 5d] (high card King)
+visjeatwater: shows [6s 6h] (three of a kind, Sixes)
+visjeatwater collected $327.35 from pot
+*** SUMMARY ***
+Total pot $330.15 | Rake $2.80 
+Board [9d 2s 7h 6d Qh]
+Seat 1: neomorf showed [Kd 5d] and lost with high card King
+Seat 2: edy_KK (button) folded on the Turn
+Seat 3: visjeatwater (small blind) showed [6s 6h] and won ($327.35) with three of a kind, Sixes
+Seat 4: alihka (big blind) folded on the River
+Seat 5: rukavitsyn folded before Flop (didn't bet)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102587701841:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:40:18 ET
+Table 'Musca IV 40-100 bb' 6-max Seat #6 is the button
+Seat 3: visjeatwater ($1450.90 in chips) 
+Seat 6: rusdronenv ($639.34 in chips) 
+rusdronenv: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+Uncalled bet ($3) returned to visjeatwater
+visjeatwater collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 3: visjeatwater (big blind) collected ($6)
+Seat 6: rusdronenv (button) (small blind) folded before Flop

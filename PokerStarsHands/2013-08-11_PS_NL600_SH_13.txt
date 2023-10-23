@@ -1,0 +1,3238 @@
+
+
+PokerStars Game #102586723827:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:05:28 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #6 is the button
+Seat 1: PokaDeJoka ($225 in chips) 
+Seat 2: LuckyBiitch ($600 in chips) 
+Seat 3: mikimiki88 ($633.33 in chips) 
+Seat 4: king10clubs ($1087.09 in chips) 
+Seat 5: visjeatwater ($1384.93 in chips) 
+Seat 6: rusdronenv ($862.37 in chips) 
+PokaDeJoka: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+king10clubs: folds 
+visjeatwater: folds 
+rusdronenv: folds 
+PokaDeJoka: calls $3
+LuckyBiitch: checks 
+*** FLOP *** [8h Qd Ad]
+PokaDeJoka: checks 
+LuckyBiitch: checks 
+*** TURN *** [8h Qd Ad] [Td]
+PokaDeJoka: bets $6
+LuckyBiitch: calls $6
+*** RIVER *** [8h Qd Ad Td] [Ac]
+PokaDeJoka: bets $6
+LuckyBiitch: calls $6
+*** SHOW DOWN ***
+PokaDeJoka: shows [Ks Th] (two pair, Aces and Tens)
+LuckyBiitch: shows [2c Qs] (two pair, Aces and Queens)
+LuckyBiitch collected $34.38 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.62 
+Board [8h Qd Ad Td Ac]
+Seat 1: PokaDeJoka (small blind) showed [Ks Th] and lost with two pair, Aces and Tens
+Seat 2: LuckyBiitch (big blind) showed [2c Qs] and won ($34.38) with two pair, Aces and Queens
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102586744054:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:06:07 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #1 is the button
+Seat 1: PokaDeJoka ($207 in chips) 
+Seat 2: LuckyBiitch ($616.38 in chips) 
+Seat 3: mikimiki88 ($633.33 in chips) 
+Seat 4: king10clubs ($1087.09 in chips) 
+Seat 5: visjeatwater ($1384.93 in chips) 
+Seat 6: rusdronenv ($862.37 in chips) 
+LuckyBiitch: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: folds 
+visjeatwater: folds 
+rusdronenv: folds 
+PokaDeJoka: folds 
+LuckyBiitch: folds 
+Uncalled bet ($3) returned to mikimiki88
+mikimiki88 collected $6 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: PokaDeJoka (button) folded before Flop (didn't bet)
+Seat 2: LuckyBiitch (small blind) folded before Flop
+Seat 3: mikimiki88 (big blind) collected ($6)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102586755197:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:06:28 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #2 is the button
+Seat 1: PokaDeJoka ($207 in chips) 
+Seat 2: LuckyBiitch ($613.38 in chips) 
+Seat 3: mikimiki88 ($636.33 in chips) 
+Seat 4: king10clubs ($1087.09 in chips) 
+Seat 5: visjeatwater ($1384.93 in chips) 
+Seat 6: rusdronenv ($862.37 in chips) 
+mikimiki88: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: folds 
+rusdronenv: folds 
+PokaDeJoka: raises $8 to $14
+LuckyBiitch: calls $14
+mikimiki88: folds 
+king10clubs: folds 
+*** FLOP *** [8s 3c Ks]
+PokaDeJoka: checks 
+LuckyBiitch: bets $18
+PokaDeJoka: calls $18
+*** TURN *** [8s 3c Ks] [9h]
+PokaDeJoka: checks 
+LuckyBiitch: checks 
+*** RIVER *** [8s 3c Ks 9h] [9s]
+PokaDeJoka: bets $54
+LuckyBiitch: folds 
+Uncalled bet ($54) returned to PokaDeJoka
+PokaDeJoka collected $70.20 from pot
+*** SUMMARY ***
+Total pot $73 | Rake $2.80 
+Board [8s 3c Ks 9h 9s]
+Seat 1: PokaDeJoka collected ($70.20)
+Seat 2: LuckyBiitch (button) folded on the River
+Seat 3: mikimiki88 (small blind) folded before Flop
+Seat 4: king10clubs (big blind) folded before Flop
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102586829486:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:08:52 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #3 is the button
+Seat 1: PokaDeJoka ($245.20 in chips) 
+Seat 2: LuckyBiitch ($600 in chips) 
+Seat 3: mikimiki88 ($633.33 in chips) 
+Seat 4: king10clubs ($1081.09 in chips) 
+Seat 5: visjeatwater ($1384.93 in chips) 
+Seat 6: rusdronenv ($862.37 in chips) 
+king10clubs: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+PokaDeJoka: folds 
+LuckyBiitch: folds 
+mikimiki88: raises $6 to $12
+king10clubs: calls $9
+visjeatwater: folds 
+*** FLOP *** [4d Qs 9s]
+king10clubs: checks 
+mikimiki88: checks 
+*** TURN *** [4d Qs 9s] [Tc]
+king10clubs: bets $22
+mikimiki88: folds 
+Uncalled bet ($22) returned to king10clubs
+king10clubs collected $28.65 from pot
+king10clubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [4d Qs 9s Tc]
+Seat 1: PokaDeJoka folded before Flop (didn't bet)
+Seat 2: LuckyBiitch folded before Flop (didn't bet)
+Seat 3: mikimiki88 (button) folded on the Turn
+Seat 4: king10clubs (small blind) collected ($28.65)
+Seat 5: visjeatwater (big blind) folded before Flop
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102586858115:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:09:49 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #4 is the button
+Seat 1: PokaDeJoka ($245.20 in chips) 
+Seat 2: LuckyBiitch ($600 in chips) 
+Seat 3: mikimiki88 ($621.33 in chips) 
+Seat 4: king10clubs ($1097.74 in chips) 
+Seat 5: visjeatwater ($1378.93 in chips) 
+Seat 6: rusdronenv ($862.37 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+PokaDeJoka: folds 
+LuckyBiitch: folds 
+mikimiki88: raises $6 to $12
+king10clubs: folds 
+visjeatwater: folds 
+rusdronenv: folds 
+Uncalled bet ($6) returned to mikimiki88
+mikimiki88 collected $15 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: PokaDeJoka folded before Flop (didn't bet)
+Seat 2: LuckyBiitch folded before Flop (didn't bet)
+Seat 3: mikimiki88 collected ($15)
+Seat 4: king10clubs (button) folded before Flop (didn't bet)
+Seat 5: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) folded before Flop
+
+
+PokerStars Game #102586559026:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:00:07 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #3 is the button
+Seat 2: rocks50 ($704.80 in chips) 
+Seat 3: mikimiki88 ($600 in chips) 
+Seat 4: king10clubs ($1076.85 in chips) 
+Seat 5: visjeatwater ($1398.15 in chips) 
+Seat 6: rusdronenv ($892.50 in chips) 
+king10clubs: posts small blind $3
+visjeatwater: posts big blind $6
+PokaDeJoka: sits out 
+*** HOLE CARDS ***
+rusdronenv: folds 
+rocks50: folds 
+mikimiki88: raises $6 to $12
+king10clubs: folds 
+visjeatwater: folds 
+Uncalled bet ($6) returned to mikimiki88
+mikimiki88 collected $15 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: rocks50 folded before Flop (didn't bet)
+Seat 3: mikimiki88 (button) collected ($15)
+Seat 4: king10clubs (small blind) folded before Flop
+Seat 5: visjeatwater (big blind) folded before Flop
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102586567170:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:00:25 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #4 is the button
+Seat 2: rocks50 ($704.80 in chips) 
+Seat 3: mikimiki88 ($609 in chips) 
+Seat 4: king10clubs ($1073.85 in chips) 
+Seat 5: visjeatwater ($1392.15 in chips) 
+Seat 6: rusdronenv ($892.50 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+PokaDeJoka: sits out 
+*** HOLE CARDS ***
+rocks50: folds 
+mikimiki88: raises $6 to $12
+king10clubs: folds 
+visjeatwater: folds 
+rusdronenv: calls $6
+*** FLOP *** [9s Jc 6c]
+rusdronenv: checks 
+mikimiki88: checks 
+*** TURN *** [9s Jc 6c] [Kh]
+rusdronenv: checks 
+mikimiki88: bets $21.13
+rusdronenv: calls $21.13
+*** RIVER *** [9s Jc 6c Kh] [6h]
+rusdronenv: checks 
+mikimiki88: bets $54.49
+rusdronenv: folds 
+Uncalled bet ($54.49) returned to mikimiki88
+mikimiki88 collected $66.46 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $69.26 | Rake $2.80 
+Board [9s Jc 6c Kh 6h]
+Seat 2: rocks50 folded before Flop (didn't bet)
+Seat 3: mikimiki88 collected ($66.46)
+Seat 4: king10clubs (button) folded before Flop (didn't bet)
+Seat 5: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) folded on the River
+
+
+PokerStars Game #102586603716:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:01:39 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #5 is the button
+Seat 1: PokaDeJoka ($240 in chips) 
+Seat 2: rocks50 ($704.80 in chips) 
+Seat 3: mikimiki88 ($642.33 in chips) 
+Seat 4: king10clubs ($1073.85 in chips) 
+Seat 5: visjeatwater ($1389.15 in chips) 
+Seat 6: rusdronenv ($859.37 in chips) 
+rusdronenv: posts small blind $3
+PokaDeJoka: posts big blind $6
+*** HOLE CARDS ***
+rocks50: raises $12 to $18
+mikimiki88: folds 
+king10clubs: folds 
+visjeatwater: folds 
+rusdronenv: folds 
+PokaDeJoka: folds 
+Uncalled bet ($12) returned to rocks50
+rocks50 collected $15 from pot
+rocks50: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: PokaDeJoka (big blind) folded before Flop
+Seat 2: rocks50 collected ($15)
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: visjeatwater (button) folded before Flop (didn't bet)
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102586617838:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:02:07 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #6 is the button
+Seat 1: PokaDeJoka ($234 in chips) 
+Seat 3: mikimiki88 ($642.33 in chips) 
+Seat 4: king10clubs ($1073.85 in chips) 
+Seat 5: visjeatwater ($1389.15 in chips) 
+Seat 6: rusdronenv ($856.37 in chips) 
+PokaDeJoka: posts small blind $3
+rocks50: is sitting out 
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $9 to $15
+rocks50 leaves the table
+Aurum85 joins the table at seat #2 
+visjeatwater: folds 
+rusdronenv: calls $15
+PokaDeJoka: folds 
+mikimiki88: folds 
+*** FLOP *** [6s 2d Jc]
+Aurum85 leaves the table
+king10clubs: checks 
+LuckyBiitch joins the table at seat #2 
+rusdronenv: checks 
+*** TURN *** [6s 2d Jc] [5c]
+king10clubs: checks 
+rusdronenv: checks 
+*** RIVER *** [6s 2d Jc 5c] [Ad]
+king10clubs: checks 
+rusdronenv: checks 
+*** SHOW DOWN ***
+king10clubs: shows [5d 5h] (three of a kind, Fives)
+rusdronenv: mucks hand 
+king10clubs collected $37.24 from pot
+*** SUMMARY ***
+Total pot $39 | Rake $1.76 
+Board [6s 2d Jc 5c Ad]
+Seat 1: PokaDeJoka (small blind) folded before Flop
+Seat 3: mikimiki88 (big blind) folded before Flop
+Seat 4: king10clubs showed [5d 5h] and won ($37.24) with three of a kind, Fives
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv (button) mucked
+
+
+PokerStars Game #102586642942:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:02:55 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #1 is the button
+Seat 1: PokaDeJoka ($231 in chips) 
+Seat 3: mikimiki88 ($636.33 in chips) 
+Seat 4: king10clubs ($1096.09 in chips) 
+Seat 5: visjeatwater ($1389.15 in chips) 
+Seat 6: rusdronenv ($841.37 in chips) 
+LuckyBiitch will be allowed to play after the button
+mikimiki88: posts small blind $3
+king10clubs: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: folds 
+rusdronenv: folds 
+PokaDeJoka: raises $8 to $14
+mikimiki88: folds 
+king10clubs: folds 
+Uncalled bet ($8) returned to PokaDeJoka
+PokaDeJoka collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: PokaDeJoka (button) collected ($15)
+Seat 3: mikimiki88 (small blind) folded before Flop
+Seat 4: king10clubs (big blind) folded before Flop
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102586661552:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:03:30 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #3 is the button
+Seat 1: PokaDeJoka ($240 in chips) 
+Seat 3: mikimiki88 ($633.33 in chips) 
+Seat 4: king10clubs ($1090.09 in chips) 
+Seat 5: visjeatwater ($1389.15 in chips) 
+Seat 6: rusdronenv ($841.37 in chips) 
+king10clubs: posts small blind $3
+visjeatwater: posts big blind $6
+LuckyBiitch: sits out 
+*** HOLE CARDS ***
+rusdronenv: folds 
+PokaDeJoka: raises $8 to $14
+mikimiki88: folds 
+king10clubs: folds 
+visjeatwater: folds 
+Uncalled bet ($8) returned to PokaDeJoka
+PokaDeJoka collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: PokaDeJoka collected ($15)
+Seat 3: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 4: king10clubs (small blind) folded before Flop
+Seat 5: visjeatwater (big blind) folded before Flop
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102586675882:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:03:57 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #4 is the button
+Seat 1: PokaDeJoka ($249 in chips) 
+Seat 3: mikimiki88 ($633.33 in chips) 
+Seat 4: king10clubs ($1087.09 in chips) 
+Seat 5: visjeatwater ($1383.15 in chips) 
+Seat 6: rusdronenv ($841.37 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+LuckyBiitch: sits out 
+*** HOLE CARDS ***
+PokaDeJoka: raises $6 to $12
+mikimiki88: folds 
+king10clubs: folds 
+visjeatwater: calls $9
+rusdronenv: raises $40 to $52
+PokaDeJoka: folds 
+visjeatwater: folds 
+Uncalled bet ($40) returned to rusdronenv
+rusdronenv collected $36 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $0 
+Seat 1: PokaDeJoka folded before Flop
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: king10clubs (button) folded before Flop (didn't bet)
+Seat 5: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) collected ($36)
+
+
+PokerStars Game #102586708645:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:04:59 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #5 is the button
+Seat 1: PokaDeJoka ($237 in chips) 
+Seat 3: mikimiki88 ($633.33 in chips) 
+Seat 4: king10clubs ($1087.09 in chips) 
+Seat 5: visjeatwater ($1371.15 in chips) 
+Seat 6: rusdronenv ($865.37 in chips) 
+rusdronenv: posts small blind $3
+PokaDeJoka: posts big blind $6
+LuckyBiitch: sits out 
+*** HOLE CARDS ***
+mikimiki88: folds 
+king10clubs: folds 
+visjeatwater: raises $6 to $12
+rusdronenv: folds 
+PokaDeJoka: calls $6
+*** FLOP *** [Jc 2c 7c]
+PokaDeJoka: checks 
+visjeatwater: bets $18
+PokaDeJoka: folds 
+Uncalled bet ($18) returned to visjeatwater
+visjeatwater collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Jc 2c 7c]
+Seat 1: PokaDeJoka (big blind) folded on the Flop
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: visjeatwater (button) collected ($25.78)
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102587175011:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:20:41 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #4 is the button
+Seat 1: GregAndrek ($613.78 in chips) 
+Seat 2: dRobespierre ($240 in chips) 
+Seat 3: mikimiki88 ($726.23 in chips) 
+Seat 4: reduksnis ($261.45 in chips) 
+Seat 5: visjeatwater ($1337.73 in chips) 
+Seat 6: rusdronenv ($868.47 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: raises $12 to $18
+dRobespierre: folds 
+mikimiki88: folds 
+reduksnis: folds 
+visjeatwater: folds 
+rusdronenv: folds 
+Uncalled bet ($12) returned to GregAndrek
+GregAndrek collected $15 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: GregAndrek collected ($15)
+Seat 2: dRobespierre folded before Flop (didn't bet)
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: reduksnis (button) folded before Flop (didn't bet)
+Seat 5: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) folded before Flop
+
+
+PokerStars Game #102587185500:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:21:03 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #5 is the button
+Seat 1: GregAndrek ($622.78 in chips) 
+Seat 2: dRobespierre ($240 in chips) 
+Seat 3: mikimiki88 ($726.23 in chips) 
+Seat 4: reduksnis ($261.45 in chips) 
+Seat 5: visjeatwater ($1334.73 in chips) 
+Seat 6: rusdronenv ($862.47 in chips) 
+rusdronenv: posts small blind $3
+GregAndrek: posts big blind $6
+*** HOLE CARDS ***
+dRobespierre: folds 
+mikimiki88: folds 
+reduksnis: folds 
+visjeatwater: raises $6 to $12
+rusdronenv: folds 
+GregAndrek: folds 
+Uncalled bet ($6) returned to visjeatwater
+visjeatwater collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: GregAndrek (big blind) folded before Flop
+Seat 2: dRobespierre folded before Flop (didn't bet)
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: reduksnis folded before Flop (didn't bet)
+Seat 5: visjeatwater (button) collected ($15)
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102587193874:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:21:21 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #6 is the button
+Seat 1: GregAndrek ($616.78 in chips) 
+Seat 2: dRobespierre ($240 in chips) 
+Seat 3: mikimiki88 ($726.23 in chips) 
+Seat 4: reduksnis ($261.45 in chips) 
+Seat 5: visjeatwater ($1343.73 in chips) 
+Seat 6: rusdronenv ($859.47 in chips) 
+GregAndrek: posts small blind $3
+dRobespierre: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+reduksnis: raises $12 to $18
+visjeatwater: folds 
+rusdronenv: raises $36 to $54
+GregAndrek: folds 
+dRobespierre: folds 
+reduksnis: raises $207.45 to $261.45 and is all-in
+rusdronenv: calls $207.45
+*** FLOP *** [Tc 2s 7d]
+*** TURN *** [Tc 2s 7d] [7s]
+*** RIVER *** [Tc 2s 7d 7s] [9c]
+*** SHOW DOWN ***
+reduksnis: shows [5h Qd] (a pair of Sevens)
+rusdronenv: shows [Js Jh] (two pair, Jacks and Sevens)
+rusdronenv collected $529.10 from pot
+*** SUMMARY ***
+Total pot $531.90 | Rake $2.80 
+Board [Tc 2s 7d 7s 9c]
+Seat 1: GregAndrek (small blind) folded before Flop
+Seat 2: dRobespierre (big blind) folded before Flop
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: reduksnis showed [5h Qd] and lost with a pair of Sevens
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv (button) showed [Js Jh] and won ($529.10) with two pair, Jacks and Sevens
+
+
+PokerStars Game #102587211281:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:21:58 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #1 is the button
+Seat 1: GregAndrek ($613.78 in chips) 
+Seat 2: dRobespierre ($240 in chips) 
+Seat 3: mikimiki88 ($726.23 in chips) 
+Seat 5: visjeatwater ($1343.73 in chips) 
+Seat 6: rusdronenv ($1127.12 in chips) 
+dRobespierre: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+reduksnis leaves the table
+visjeatwater: folds 
+rusdronenv has timed out while being disconnected
+rusdronenv: folds 
+rusdronenv is disconnected 
+GregAndrek: raises $6 to $12
+dRobespierre: raises $21 to $33
+mikimiki88: folds 
+GregAndrek: calls $21
+*** FLOP *** [9s 7d Qc]
+dRobespierre: bets $30
+GregAndrek: raises $60 to $90
+LuckyBiitch joins the table at seat #4 
+dRobespierre: folds 
+Uncalled bet ($60) returned to GregAndrek
+GregAndrek collected $129.20 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $132 | Rake $2.80 
+Board [9s 7d Qc]
+Seat 1: GregAndrek (button) collected ($129.20)
+Seat 2: dRobespierre (small blind) folded on the Flop
+Seat 3: mikimiki88 (big blind) folded before Flop
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102587275206:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:24:15 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #2 is the button
+Seat 1: GregAndrek ($679.98 in chips) 
+Seat 2: dRobespierre ($240 in chips) 
+Seat 3: mikimiki88 ($720.23 in chips) 
+Seat 4: LuckyBiitch ($600 in chips) 
+Seat 5: visjeatwater ($1343.73 in chips) 
+Seat 6: rusdronenv ($1127.12 in chips) 
+mikimiki88: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: folds 
+rusdronenv: raises $12 to $18
+GregAndrek: folds 
+dRobespierre: folds 
+mikimiki88: folds 
+LuckyBiitch: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $15 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: GregAndrek folded before Flop (didn't bet)
+Seat 2: dRobespierre (button) folded before Flop (didn't bet)
+Seat 3: mikimiki88 (small blind) folded before Flop
+Seat 4: LuckyBiitch (big blind) folded before Flop
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv collected ($15)
+
+
+PokerStars Game #102587286141:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:24:38 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #3 is the button
+Seat 1: GregAndrek ($679.98 in chips) 
+Seat 2: dRobespierre ($240 in chips) 
+Seat 3: mikimiki88 ($717.23 in chips) 
+Seat 4: LuckyBiitch ($600 in chips) 
+Seat 5: visjeatwater ($1343.73 in chips) 
+Seat 6: rusdronenv ($1136.12 in chips) 
+LuckyBiitch: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+GregAndrek: folds 
+dRobespierre: folds 
+mikimiki88: folds 
+LuckyBiitch: raises $12 to $18
+visjeatwater: calls $12
+*** FLOP *** [Qc Th 2s]
+LuckyBiitch: bets $22
+visjeatwater: folds 
+Uncalled bet ($22) returned to LuckyBiitch
+LuckyBiitch collected $34.38 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $1.62 
+Board [Qc Th 2s]
+Seat 1: GregAndrek folded before Flop (didn't bet)
+Seat 2: dRobespierre folded before Flop (didn't bet)
+Seat 3: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 4: LuckyBiitch (small blind) collected ($34.38)
+Seat 5: visjeatwater (big blind) folded on the Flop
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102587017504:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:15:12 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #6 is the button
+Seat 3: mikimiki88 ($624.33 in chips) 
+Seat 5: visjeatwater ($1448.23 in chips) 
+Seat 6: rusdronenv ($853.47 in chips) 
+mikimiki88: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+king10clubs leaves the table
+rusdronenv: folds 
+mikimiki88: raises $12 to $18
+visjeatwater: folds 
+Uncalled bet ($12) returned to mikimiki88
+mikimiki88 collected $12 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 3: mikimiki88 (small blind) collected ($12)
+Seat 5: visjeatwater (big blind) folded before Flop
+Seat 6: rusdronenv (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102587027547:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:15:33 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #3 is the button
+Seat 3: mikimiki88 ($630.33 in chips) 
+Seat 5: visjeatwater ($1442.23 in chips) 
+Seat 6: rusdronenv ($853.47 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+visjeatwater: raises $12 to $18
+rusdronenv: raises $36 to $54
+reduksnis joins the table at seat #4 
+GregAndrek joins the table at seat #1 
+visjeatwater: folds 
+Uncalled bet ($36) returned to rusdronenv
+rusdronenv collected $36 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $0 
+Seat 3: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 5: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) collected ($36)
+
+
+PokerStars Game #102587048601:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:16:17 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #5 is the button
+Seat 1: GregAndrek ($600 in chips) 
+Seat 3: mikimiki88 ($630.33 in chips) 
+Seat 5: visjeatwater ($1424.23 in chips) 
+Seat 6: rusdronenv ($871.47 in chips) 
+dRobespierre joins the table at seat #2 
+rusdronenv: posts small blind $3
+GregAndrek: posts big blind $6
+reduksnis: sits out 
+*** HOLE CARDS ***
+mikimiki88: raises $12 to $18
+visjeatwater: folds 
+rusdronenv: folds 
+GregAndrek: folds 
+Uncalled bet ($12) returned to mikimiki88
+mikimiki88 collected $15 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: GregAndrek (big blind) folded before Flop
+Seat 3: mikimiki88 collected ($15)
+Seat 5: visjeatwater (button) folded before Flop (didn't bet)
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102587060048:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:16:40 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #6 is the button
+Seat 1: GregAndrek ($600 in chips) 
+Seat 2: dRobespierre ($240 in chips) 
+Seat 3: mikimiki88 ($639.33 in chips) 
+Seat 5: visjeatwater ($1424.23 in chips) 
+Seat 6: rusdronenv ($868.47 in chips) 
+GregAndrek: posts small blind $3
+dRobespierre: posts big blind $6
+reduksnis: sits out 
+*** HOLE CARDS ***
+mikimiki88: raises $12 to $18
+visjeatwater: calls $18
+rusdronenv: folds 
+GregAndrek: folds 
+dRobespierre: folds 
+*** FLOP *** [5s Tc Js]
+mikimiki88: checks 
+visjeatwater: bets $30
+mikimiki88: calls $30
+*** TURN *** [5s Tc Js] [5d]
+mikimiki88: checks 
+visjeatwater: bets $78
+mikimiki88: calls $78
+*** RIVER *** [5s Tc Js 5d] [2d]
+mikimiki88: checks 
+visjeatwater: checks 
+*** SHOW DOWN ***
+mikimiki88: shows [Jh 8h] (two pair, Jacks and Fives)
+visjeatwater: mucks hand 
+mikimiki88 collected $258.20 from pot
+*** SUMMARY ***
+Total pot $261 | Rake $2.80 
+Board [5s Tc Js 5d 2d]
+Seat 1: GregAndrek (small blind) folded before Flop
+Seat 2: dRobespierre (big blind) folded before Flop
+Seat 3: mikimiki88 showed [Jh 8h] and won ($258.20) with two pair, Jacks and Fives
+Seat 5: visjeatwater mucked
+Seat 6: rusdronenv (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102587110084:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:18:24 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #1 is the button
+Seat 1: GregAndrek ($600 in chips) 
+Seat 2: dRobespierre ($240 in chips) 
+Seat 3: mikimiki88 ($771.53 in chips) 
+Seat 5: visjeatwater ($1298.23 in chips) 
+Seat 6: rusdronenv ($868.47 in chips) 
+dRobespierre: posts small blind $3
+mikimiki88: posts big blind $6
+reduksnis: sits out 
+*** HOLE CARDS ***
+visjeatwater: folds 
+rusdronenv: folds 
+GregAndrek: raises $6 to $12
+dRobespierre: folds 
+mikimiki88: calls $6
+*** FLOP *** [As 4h 4c]
+mikimiki88: checks 
+GregAndrek: checks 
+*** TURN *** [As 4h 4c] [3h]
+mikimiki88: checks 
+GregAndrek: bets $21
+mikimiki88: folds 
+Uncalled bet ($21) returned to GregAndrek
+GregAndrek collected $25.78 from pot
+GregAndrek: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [As 4h 4c 3h]
+Seat 1: GregAndrek (button) collected ($25.78)
+Seat 2: dRobespierre (small blind) folded before Flop
+Seat 3: mikimiki88 (big blind) folded on the Turn
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102587135761:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:19:18 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #2 is the button
+Seat 1: GregAndrek ($613.78 in chips) 
+Seat 2: dRobespierre ($240 in chips) 
+Seat 3: mikimiki88 ($759.53 in chips) 
+Seat 4: reduksnis ($270.45 in chips) 
+Seat 5: visjeatwater ($1298.23 in chips) 
+Seat 6: rusdronenv ($868.47 in chips) 
+mikimiki88: posts small blind $3
+reduksnis: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: raises $12 to $18
+rusdronenv: folds 
+GregAndrek: folds 
+dRobespierre: folds 
+mikimiki88: folds 
+reduksnis: folds 
+Uncalled bet ($12) returned to visjeatwater
+visjeatwater collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: GregAndrek folded before Flop (didn't bet)
+Seat 2: dRobespierre (button) folded before Flop (didn't bet)
+Seat 3: mikimiki88 (small blind) folded before Flop
+Seat 4: reduksnis (big blind) folded before Flop
+Seat 5: visjeatwater collected ($15)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102587146906:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:19:42 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #3 is the button
+Seat 1: GregAndrek ($613.78 in chips) 
+Seat 2: dRobespierre ($240 in chips) 
+Seat 3: mikimiki88 ($756.53 in chips) 
+Seat 4: reduksnis ($264.45 in chips) 
+Seat 5: visjeatwater ($1307.23 in chips) 
+Seat 6: rusdronenv ($868.47 in chips) 
+reduksnis: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+GregAndrek: folds 
+dRobespierre: folds 
+mikimiki88: raises $6 to $12
+reduksnis: folds 
+visjeatwater: calls $6
+*** FLOP *** [7s 4s Jh]
+visjeatwater: checks 
+mikimiki88: bets $18.30
+visjeatwater: raises $35.70 to $54
+mikimiki88: folds 
+Uncalled bet ($35.70) returned to visjeatwater
+visjeatwater collected $60.80 from pot
+*** SUMMARY ***
+Total pot $63.60 | Rake $2.80 
+Board [7s 4s Jh]
+Seat 1: GregAndrek folded before Flop (didn't bet)
+Seat 2: dRobespierre folded before Flop (didn't bet)
+Seat 3: mikimiki88 (button) folded on the Flop
+Seat 4: reduksnis (small blind) folded before Flop
+Seat 5: visjeatwater (big blind) collected ($60.80)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102586879622:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:10:31 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #5 is the button
+Seat 1: PokaDeJoka ($245.20 in chips) 
+Seat 2: LuckyBiitch ($600 in chips) 
+Seat 3: mikimiki88 ($630.33 in chips) 
+Seat 4: king10clubs ($1097.74 in chips) 
+Seat 5: visjeatwater ($1375.93 in chips) 
+Seat 6: rusdronenv ($856.37 in chips) 
+rusdronenv: posts small blind $3
+PokaDeJoka: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+mikimiki88: folds 
+king10clubs: raises $9 to $15
+visjeatwater: calls $15
+rusdronenv: folds 
+PokaDeJoka: calls $9
+*** FLOP *** [Qd Th Ts]
+PokaDeJoka: checks 
+king10clubs: checks 
+visjeatwater: bets $36
+PokaDeJoka: folds 
+king10clubs: calls $36
+*** TURN *** [Qd Th Ts] [6d]
+king10clubs: checks 
+visjeatwater: bets $96.65
+king10clubs: folds 
+Uncalled bet ($96.65) returned to visjeatwater
+visjeatwater collected $117.20 from pot
+*** SUMMARY ***
+Total pot $120 | Rake $2.80 
+Board [Qd Th Ts 6d]
+Seat 1: PokaDeJoka (big blind) folded on the Flop
+Seat 2: LuckyBiitch folded before Flop (didn't bet)
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: king10clubs folded on the Turn
+Seat 5: visjeatwater (button) collected ($117.20)
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102586912578:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:11:38 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #6 is the button
+Seat 1: PokaDeJoka ($230.20 in chips) 
+Seat 2: LuckyBiitch ($600 in chips) 
+Seat 3: mikimiki88 ($630.33 in chips) 
+Seat 4: king10clubs ($1046.74 in chips) 
+Seat 5: visjeatwater ($1442.13 in chips) 
+Seat 6: rusdronenv ($853.37 in chips) 
+PokaDeJoka: posts small blind $3
+LuckyBiitch: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+king10clubs: folds 
+visjeatwater: folds 
+rusdronenv: raises $12 to $18
+PokaDeJoka: folds 
+LuckyBiitch: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $15 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: PokaDeJoka (small blind) folded before Flop
+Seat 2: LuckyBiitch (big blind) folded before Flop
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: king10clubs folded before Flop (didn't bet)
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv (button) collected ($15)
+
+
+PokerStars Game #102586926837:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:12:07 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #1 is the button
+Seat 1: PokaDeJoka ($227.20 in chips) 
+Seat 2: LuckyBiitch ($600 in chips) 
+Seat 3: mikimiki88 ($630.33 in chips) 
+Seat 4: king10clubs ($1046.74 in chips) 
+Seat 5: visjeatwater ($1442.13 in chips) 
+Seat 6: rusdronenv ($862.37 in chips) 
+LuckyBiitch: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+king10clubs: raises $9 to $15
+visjeatwater: folds 
+rusdronenv: folds 
+PokaDeJoka: calls $15
+LuckyBiitch: folds 
+mikimiki88: folds 
+*** FLOP *** [5d Js 4s]
+king10clubs: checks 
+PokaDeJoka: checks 
+*** TURN *** [5d Js 4s] [Ks]
+king10clubs: bets $30
+PokaDeJoka: calls $30
+*** RIVER *** [5d Js 4s Ks] [6d]
+king10clubs: bets $78
+PokaDeJoka: calls $78
+*** SHOW DOWN ***
+king10clubs: shows [4h 4d] (three of a kind, Fours)
+PokaDeJoka: mucks hand 
+king10clubs collected $252.20 from pot
+*** SUMMARY ***
+Total pot $255 | Rake $2.80 
+Board [5d Js 4s Ks 6d]
+Seat 1: PokaDeJoka (button) mucked
+Seat 2: LuckyBiitch (small blind) folded before Flop
+Seat 3: mikimiki88 (big blind) folded before Flop
+Seat 4: king10clubs showed [4h 4d] and won ($252.20) with three of a kind, Fours
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102586958110:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:13:11 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #2 is the button
+Seat 1: PokaDeJoka ($104.20 in chips) 
+Seat 2: LuckyBiitch ($600 in chips) 
+Seat 3: mikimiki88 ($624.33 in chips) 
+Seat 5: visjeatwater ($1442.13 in chips) 
+Seat 6: rusdronenv ($862.37 in chips) 
+mikimiki88: posts small blind $3
+king10clubs: is sitting out 
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: raises $12 to $18
+PokaDeJoka: folds 
+PokaDeJoka leaves the table
+LuckyBiitch: folds 
+mikimiki88: folds 
+visjeatwater: calls $12
+*** FLOP *** [8c 3c Ts]
+visjeatwater: checks 
+rusdronenv: checks 
+*** TURN *** [8c 3c Ts] [5c]
+visjeatwater: bets $30
+rusdronenv: calls $30
+*** RIVER *** [8c 3c Ts 5c] [7s]
+visjeatwater: checks 
+rusdronenv: checks 
+*** SHOW DOWN ***
+visjeatwater: shows [5h 4h] (a pair of Fives)
+rusdronenv: shows [5d 6d] (a pair of Fives)
+visjeatwater collected $48.10 from pot
+rusdronenv collected $48.10 from pot
+*** SUMMARY ***
+Total pot $99 | Rake $2.80 
+Board [8c 3c Ts 5c 7s]
+Seat 1: PokaDeJoka folded before Flop (didn't bet)
+Seat 2: LuckyBiitch (button) folded before Flop (didn't bet)
+Seat 3: mikimiki88 (small blind) folded before Flop
+Seat 5: visjeatwater (big blind) showed [5h 4h] and won ($48.10) with a pair of Fives
+Seat 6: rusdronenv showed [5d 6d] and won ($48.10) with a pair of Fives
+
+
+PokerStars Game #102586996985:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:14:31 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #3 is the button
+Seat 2: LuckyBiitch ($600 in chips) 
+Seat 3: mikimiki88 ($621.33 in chips) 
+Seat 5: visjeatwater ($1442.23 in chips) 
+Seat 6: rusdronenv ($862.47 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+mikimiki88: raises $6 to $12
+visjeatwater: folds 
+Aurum85 joins the table at seat #1 
+rusdronenv: folds 
+Uncalled bet ($6) returned to mikimiki88
+mikimiki88 collected $15 from pot
+mikimiki88: doesn't show hand 
+Aurum85 leaves the table
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: LuckyBiitch folded before Flop (didn't bet)
+Seat 3: mikimiki88 (button) collected ($15)
+Seat 5: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) folded before Flop
+
+
+PokerStars Game #102587007958:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:14:53 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #5 is the button
+Seat 3: mikimiki88 ($630.33 in chips) 
+Seat 5: visjeatwater ($1439.23 in chips) 
+Seat 6: rusdronenv ($856.47 in chips) 
+rusdronenv: posts small blind $3
+LuckyBiitch: is sitting out 
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: raises $6 to $12
+LuckyBiitch leaves the table
+rusdronenv: folds 
+mikimiki88: folds 
+Uncalled bet ($6) returned to visjeatwater
+visjeatwater collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 3: mikimiki88 (big blind) folded before Flop
+Seat 5: visjeatwater (button) collected ($15)
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102587570941:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:35:14 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #2 is the button
+Seat 1: HoldenUte03 ($231 in chips) 
+Seat 2: Interra ($306.18 in chips) 
+Seat 3: mikimiki88 ($714.23 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1444.23 in chips) 
+mikimiki88: posts small blind $3
+Aurum85: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: folds 
+HoldenUte03: folds 
+Interra: folds 
+mikimiki88: folds 
+Uncalled bet ($3) returned to Aurum85
+Aurum85 collected $6 from pot
+Aurum85: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: HoldenUte03 folded before Flop (didn't bet)
+Seat 2: Interra (button) folded before Flop (didn't bet)
+Seat 3: mikimiki88 (small blind) folded before Flop
+Seat 4: Aurum85 (big blind) collected ($6)
+Seat 5: visjeatwater folded before Flop (didn't bet)
+
+
+PokerStars Game #102587579328:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:35:33 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #3 is the button
+Seat 1: HoldenUte03 ($231 in chips) 
+Seat 2: Interra ($306.18 in chips) 
+Seat 3: mikimiki88 ($711.23 in chips) 
+Seat 4: Aurum85 ($603 in chips) 
+Seat 5: visjeatwater ($1444.23 in chips) 
+Aurum85: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+HoldenUte03: folds 
+Interra: calls $6
+mikimiki88: folds 
+Aurum85: calls $3
+visjeatwater: checks 
+*** FLOP *** [Ad 9d 8s]
+Aurum85: bets $12.30
+visjeatwater: raises $29.70 to $42
+Interra: folds 
+Aurum85: folds 
+Uncalled bet ($29.70) returned to visjeatwater
+visjeatwater collected $40.68 from pot
+*** SUMMARY ***
+Total pot $42.60 | Rake $1.92 
+Board [Ad 9d 8s]
+Seat 1: HoldenUte03 folded before Flop (didn't bet)
+Seat 2: Interra folded on the Flop
+Seat 3: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 4: Aurum85 (small blind) folded on the Flop
+Seat 5: visjeatwater (big blind) collected ($40.68)
+
+
+PokerStars Game #102587604585:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:36:31 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #4 is the button
+Seat 1: HoldenUte03 ($231 in chips) 
+Seat 2: Interra ($300.18 in chips) 
+Seat 3: mikimiki88 ($711.23 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1466.61 in chips) 
+Seat 6: rusdronenv ($1129.12 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+HoldenUte03: folds 
+Interra: folds 
+mikimiki88: folds 
+Aurum85: folds 
+visjeatwater: folds 
+Uncalled bet ($3) returned to rusdronenv
+rusdronenv collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: HoldenUte03 folded before Flop (didn't bet)
+Seat 2: Interra folded before Flop (didn't bet)
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: Aurum85 (button) folded before Flop (didn't bet)
+Seat 5: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) collected ($6)
+
+
+PokerStars Game #102587619147:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:37:05 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #5 is the button
+Seat 1: HoldenUte03 ($231 in chips) 
+Seat 2: Interra ($300.18 in chips) 
+Seat 3: mikimiki88 ($711.23 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1463.61 in chips) 
+Seat 6: rusdronenv ($1132.12 in chips) 
+rusdronenv: posts small blind $3
+HoldenUte03: posts big blind $6
+*** HOLE CARDS ***
+Interra: calls $6
+mikimiki88: folds 
+Aurum85: raises $15 to $21
+visjeatwater: folds 
+rusdronenv: folds 
+HoldenUte03: folds 
+Interra: calls $15
+*** FLOP *** [2s As Kc]
+Interra: bets $54
+Aurum85: folds 
+Uncalled bet ($54) returned to Interra
+Interra collected $48.70 from pot
+*** SUMMARY ***
+Total pot $51 | Rake $2.30 
+Board [2s As Kc]
+Seat 1: HoldenUte03 (big blind) folded before Flop
+Seat 2: Interra collected ($48.70)
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: Aurum85 folded on the Flop
+Seat 5: visjeatwater (button) folded before Flop (didn't bet)
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102587641644:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:37:57 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #6 is the button
+Seat 1: HoldenUte03 ($225 in chips) 
+Seat 2: Interra ($327.88 in chips) 
+Seat 3: mikimiki88 ($711.23 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1463.61 in chips) 
+Seat 6: rusdronenv ($1129.12 in chips) 
+HoldenUte03: posts small blind $3
+Interra: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: raises $12 to $18
+Aurum85: folds 
+visjeatwater: folds 
+rusdronenv: calls $18
+HoldenUte03: folds 
+Interra: calls $12
+*** FLOP *** [4c Qd Th]
+Interra: checks 
+mikimiki88: bets $38.65
+rusdronenv: folds 
+Interra: folds 
+Uncalled bet ($38.65) returned to mikimiki88
+mikimiki88 collected $54.44 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $57 | Rake $2.56 
+Board [4c Qd Th]
+Seat 1: HoldenUte03 (small blind) folded before Flop
+Seat 2: Interra (big blind) folded on the Flop
+Seat 3: mikimiki88 collected ($54.44)
+Seat 4: Aurum85 folded before Flop (didn't bet)
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv (button) folded on the Flop
+
+
+PokerStars Game #102587660529:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:38:41 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #1 is the button
+Seat 1: HoldenUte03 ($222 in chips) 
+Seat 2: Interra ($309.88 in chips) 
+Seat 3: mikimiki88 ($747.67 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1463.61 in chips) 
+Seat 6: rusdronenv ($1111.12 in chips) 
+Interra: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+Aurum85: raises $9 to $15
+visjeatwater: folds 
+rusdronenv: folds 
+HoldenUte03: folds 
+Interra: folds 
+mikimiki88: raises $33 to $48
+Aurum85: calls $33
+*** FLOP *** [2d Ac Ts]
+mikimiki88: bets $56.75
+Aurum85: calls $56.75
+*** TURN *** [2d Ac Ts] [4s]
+mikimiki88: checks 
+Aurum85: checks 
+*** RIVER *** [2d Ac Ts 4s] [As]
+mikimiki88: bets $148.88
+Aurum85: folds 
+Uncalled bet ($148.88) returned to mikimiki88
+mikimiki88 collected $209.70 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $212.50 | Rake $2.80 
+Board [2d Ac Ts 4s As]
+Seat 1: HoldenUte03 (button) folded before Flop (didn't bet)
+Seat 2: Interra (small blind) folded before Flop
+Seat 3: mikimiki88 (big blind) collected ($209.70)
+Seat 4: Aurum85 folded on the River
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102587470987:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:31:28 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #6 is the button
+Seat 3: mikimiki88 ($702.23 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1465.23 in chips) 
+Seat 6: rusdronenv ($1138.12 in chips) 
+mikimiki88: posts small blind $3
+Aurum85: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: folds 
+rusdronenv: folds 
+mikimiki88: folds 
+Uncalled bet ($3) returned to Aurum85
+Aurum85 collected $6 from pot
+Aurum85: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 3: mikimiki88 (small blind) folded before Flop
+Seat 4: Aurum85 (big blind) collected ($6)
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102587479297:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:31:47 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #3 is the button
+Seat 3: mikimiki88 ($699.23 in chips) 
+Seat 4: Aurum85 ($603 in chips) 
+Seat 5: visjeatwater ($1465.23 in chips) 
+Seat 6: rusdronenv ($1138.12 in chips) 
+Aurum85: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+Interra joins the table at seat #2 
+mikimiki88: folds 
+Aurum85: folds 
+Uncalled bet ($3) returned to visjeatwater
+visjeatwater collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 3: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 4: Aurum85 (small blind) folded before Flop
+Seat 5: visjeatwater (big blind) collected ($6)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102587490667:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:32:12 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #4 is the button
+Seat 3: mikimiki88 ($699.23 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1468.23 in chips) 
+Seat 6: rusdronenv ($1138.12 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+Interra: sits out 
+*** HOLE CARDS ***
+HoldenUte03 joins the table at seat #1 
+mikimiki88: raises $6 to $12
+Aurum85: folds 
+visjeatwater: folds 
+rusdronenv: folds 
+Uncalled bet ($6) returned to mikimiki88
+mikimiki88 collected $15 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 3: mikimiki88 collected ($15)
+Seat 4: Aurum85 (button) folded before Flop (didn't bet)
+Seat 5: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) folded before Flop
+
+
+PokerStars Game #102587500888:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:32:35 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #5 is the button
+Seat 1: HoldenUte03 ($240 in chips) 
+Seat 3: mikimiki88 ($708.23 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1465.23 in chips) 
+Seat 6: rusdronenv ($1132.12 in chips) 
+rusdronenv: posts small blind $3
+HoldenUte03: posts big blind $6
+Interra: sits out 
+*** HOLE CARDS ***
+mikimiki88: folds 
+Aurum85: folds 
+visjeatwater: raises $6 to $12
+rusdronenv: folds 
+HoldenUte03: folds 
+Uncalled bet ($6) returned to visjeatwater
+visjeatwater collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: HoldenUte03 (big blind) folded before Flop
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: Aurum85 folded before Flop (didn't bet)
+Seat 5: visjeatwater (button) collected ($15)
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102587511178:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:32:59 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #6 is the button
+Seat 1: HoldenUte03 ($234 in chips) 
+Seat 2: Interra ($281.98 in chips) 
+Seat 3: mikimiki88 ($708.23 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1474.23 in chips) 
+Seat 6: rusdronenv ($1129.12 in chips) 
+HoldenUte03: posts small blind $3
+Interra: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+Aurum85: folds 
+visjeatwater: raises $12 to $18
+rusdronenv has timed out while being disconnected
+rusdronenv: folds 
+HoldenUte03: folds 
+Interra: calls $12
+*** FLOP *** [3h 7s 9d]
+Interra: bets $12
+visjeatwater: calls $12
+*** TURN *** [3h 7s 9d] [Jd]
+rusdronenv is disconnected 
+Interra: bets $36
+visjeatwater: folds 
+Uncalled bet ($36) returned to Interra
+Interra collected $60.20 from pot
+*** SUMMARY ***
+Total pot $63 | Rake $2.80 
+Board [3h 7s 9d Jd]
+Seat 1: HoldenUte03 (small blind) folded before Flop
+Seat 2: Interra (big blind) collected ($60.20)
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: Aurum85 folded before Flop (didn't bet)
+Seat 5: visjeatwater folded on the Turn
+Seat 6: rusdronenv (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102587555704:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:34:39 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #1 is the button
+Seat 1: HoldenUte03 ($231 in chips) 
+Seat 2: Interra ($312.18 in chips) 
+Seat 3: mikimiki88 ($708.23 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1444.23 in chips) 
+Interra: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+Aurum85: folds 
+visjeatwater: folds 
+HoldenUte03: folds 
+Interra: calls $3
+mikimiki88: raises $18 to $24
+Interra: folds 
+Uncalled bet ($18) returned to mikimiki88
+mikimiki88 collected $12 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: HoldenUte03 (button) folded before Flop (didn't bet)
+Seat 2: Interra (small blind) folded before Flop
+Seat 3: mikimiki88 (big blind) collected ($12)
+Seat 4: Aurum85 folded before Flop (didn't bet)
+Seat 5: visjeatwater folded before Flop (didn't bet)
+
+
+PokerStars Game #102587308141:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:25:26 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #4 is the button
+Seat 1: GregAndrek ($679.98 in chips) 
+Seat 2: dRobespierre ($240 in chips) 
+Seat 3: mikimiki88 ($717.23 in chips) 
+Seat 4: LuckyBiitch ($616.38 in chips) 
+Seat 5: visjeatwater ($1325.73 in chips) 
+Seat 6: rusdronenv ($1136.12 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+GregAndrek: folds 
+dRobespierre: folds 
+mikimiki88: folds 
+LuckyBiitch: folds 
+visjeatwater: folds 
+Uncalled bet ($3) returned to rusdronenv
+rusdronenv collected $6 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: GregAndrek folded before Flop (didn't bet)
+Seat 2: dRobespierre folded before Flop (didn't bet)
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: LuckyBiitch (button) folded before Flop (didn't bet)
+Seat 5: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) collected ($6)
+
+
+PokerStars Game #102587316282:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:25:44 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #5 is the button
+Seat 2: dRobespierre ($240 in chips) 
+Seat 3: mikimiki88 ($717.23 in chips) 
+Seat 4: LuckyBiitch ($616.38 in chips) 
+Seat 5: visjeatwater ($1322.73 in chips) 
+Seat 6: rusdronenv ($1139.12 in chips) 
+rusdronenv: posts small blind $3
+GregAndrek: is sitting out 
+dRobespierre: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+LuckyBiitch: raises $12 to $18
+visjeatwater: folds 
+rusdronenv: folds 
+dRobespierre: folds 
+Uncalled bet ($12) returned to LuckyBiitch
+LuckyBiitch collected $15 from pot
+LuckyBiitch: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: dRobespierre (big blind) folded before Flop
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: LuckyBiitch collected ($15)
+Seat 5: visjeatwater (button) folded before Flop (didn't bet)
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102587329667:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:26:13 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #6 is the button
+Seat 2: dRobespierre ($240 in chips) 
+Seat 3: mikimiki88 ($717.23 in chips) 
+Seat 4: LuckyBiitch ($625.38 in chips) 
+Seat 5: visjeatwater ($1322.73 in chips) 
+Seat 6: rusdronenv ($1136.12 in chips) 
+dRobespierre: posts small blind $3
+GregAndrek leaves the table
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+LuckyBiitch: folds 
+LuckyBiitch leaves the table
+visjeatwater: raises $12 to $18
+rusdronenv: raises $36 to $54
+dRobespierre: folds 
+mikimiki88: folds 
+visjeatwater: calls $36
+*** FLOP *** [Qd Jh 8h]
+visjeatwater: checks 
+Aurum85 joins the table at seat #4 
+rusdronenv: checks 
+*** TURN *** [Qd Jh 8h] [Jc]
+visjeatwater: checks 
+rusdronenv: checks 
+*** RIVER *** [Qd Jh 8h Jc] [6s]
+visjeatwater: checks 
+rusdronenv: bets $96
+visjeatwater: folds 
+Uncalled bet ($96) returned to rusdronenv
+rusdronenv collected $114.20 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $117 | Rake $2.80 
+Board [Qd Jh 8h Jc 6s]
+Seat 2: dRobespierre (small blind) folded before Flop
+Seat 3: mikimiki88 (big blind) folded before Flop
+Seat 4: LuckyBiitch folded before Flop (didn't bet)
+Seat 5: visjeatwater folded on the River
+Seat 6: rusdronenv (button) collected ($114.20)
+
+
+PokerStars Game #102587367078:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:27:35 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #2 is the button
+Seat 2: dRobespierre ($240 in chips) 
+Seat 3: mikimiki88 ($711.23 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1268.73 in chips) 
+Seat 6: rusdronenv ($1196.32 in chips) 
+mikimiki88: posts small blind $3
+Aurum85: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: folds 
+rusdronenv: raises $12 to $18
+dRobespierre: folds 
+mikimiki88: folds 
+Aurum85: raises $39 to $57
+rusdronenv: folds 
+Uncalled bet ($39) returned to Aurum85
+Aurum85 collected $39 from pot
+Aurum85: doesn't show hand 
+*** SUMMARY ***
+Total pot $39 | Rake $0 
+Seat 2: dRobespierre (button) folded before Flop (didn't bet)
+Seat 3: mikimiki88 (small blind) folded before Flop
+Seat 4: Aurum85 (big blind) collected ($39)
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv folded before Flop
+
+
+PokerStars Game #102587390729:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:28:28 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #3 is the button
+Seat 2: dRobespierre ($240 in chips) 
+Seat 3: mikimiki88 ($708.23 in chips) 
+Seat 4: Aurum85 ($621 in chips) 
+Seat 5: visjeatwater ($1268.73 in chips) 
+Seat 6: rusdronenv ($1178.32 in chips) 
+Aurum85: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+dRobespierre: folds 
+mikimiki88 has timed out
+mikimiki88: folds 
+Aurum85: raises $9 to $15
+visjeatwater: folds 
+Uncalled bet ($9) returned to Aurum85
+Aurum85 collected $12 from pot
+Aurum85: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: dRobespierre folded before Flop (didn't bet)
+Seat 3: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 4: Aurum85 (small blind) collected ($12)
+Seat 5: visjeatwater (big blind) folded before Flop
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102587408052:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:29:07 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #4 is the button
+Seat 2: dRobespierre ($240 in chips) 
+Seat 3: mikimiki88 ($708.23 in chips) 
+Seat 4: Aurum85 ($627 in chips) 
+Seat 5: visjeatwater ($1262.73 in chips) 
+Seat 6: rusdronenv ($1178.32 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+dRobespierre: raises $7.20 to $13.20
+mikimiki88: folds 
+Aurum85: folds 
+visjeatwater: folds 
+rusdronenv: calls $7.20
+*** FLOP *** [6s 8c 9h]
+rusdronenv: checks 
+dRobespierre: checks 
+*** TURN *** [6s 8c 9h] [Tc]
+rusdronenv: bets $24
+dRobespierre: raises $48 to $72
+rusdronenv: folds 
+Uncalled bet ($48) returned to dRobespierre
+dRobespierre collected $74.60 from pot
+dRobespierre: doesn't show hand 
+*** SUMMARY ***
+Total pot $77.40 | Rake $2.80 
+Board [6s 8c 9h Tc]
+Seat 2: dRobespierre collected ($74.60)
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: Aurum85 (button) folded before Flop (didn't bet)
+Seat 5: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) folded on the Turn
+
+
+PokerStars Game #102587430446:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:29:57 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #5 is the button
+Seat 3: mikimiki88 ($708.23 in chips) 
+Seat 4: Aurum85 ($627 in chips) 
+Seat 5: visjeatwater ($1259.73 in chips) 
+Seat 6: rusdronenv ($1141.12 in chips) 
+rusdronenv: posts small blind $3
+dRobespierre: is sitting out 
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+dRobespierre leaves the table
+Aurum85: raises $9 to $15
+visjeatwater: raises $33 to $48
+rusdronenv: folds 
+mikimiki88: folds 
+Aurum85: calls $33
+*** FLOP *** [2s Tc 6s]
+Aurum85: checks 
+visjeatwater: bets $54
+Aurum85: calls $54
+*** TURN *** [2s Tc 6s] [Jh]
+Aurum85: checks 
+visjeatwater: bets $96
+Aurum85: calls $96
+*** RIVER *** [2s Tc 6s Jh] [7c]
+Aurum85: checks 
+visjeatwater: bets $1061.73 and is all-in
+Aurum85: folds 
+Uncalled bet ($1061.73) returned to visjeatwater
+visjeatwater collected $403.50 from pot
+*** SUMMARY ***
+Total pot $405 | Rake $1.50 
+Board [2s Tc 6s Jh 7c]
+Seat 3: mikimiki88 (big blind) folded before Flop
+Seat 4: Aurum85 folded on the River
+Seat 5: visjeatwater (button) collected ($403.50)
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102587951372:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:50:13 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #6 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($602.66 in chips) 
+Seat 3: mikimiki88 ($873.62 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1331.61 in chips) 
+Seat 6: rusdronenv ($825.95 in chips) 
+AlInclusiver: posts small blind $3
+Interra: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+Aurum85: raises $9 to $15
+visjeatwater: folds 
+rusdronenv: folds 
+AlInclusiver: calls $12
+Interra: calls $9
+*** FLOP *** [6h 3s Kd]
+AlInclusiver: checks 
+Interra: checks 
+Aurum85: bets $30.90
+AlInclusiver: folds 
+Interra: folds 
+Uncalled bet ($30.90) returned to Aurum85
+Aurum85 collected $42.98 from pot
+Aurum85: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $2.02 
+Board [6h 3s Kd]
+Seat 1: AlInclusiver (small blind) folded on the Flop
+Seat 2: Interra (big blind) folded on the Flop
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: Aurum85 collected ($42.98)
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102587976130:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:51:14 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #1 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($587.66 in chips) 
+Seat 3: mikimiki88 ($873.62 in chips) 
+Seat 4: Aurum85 ($627.98 in chips) 
+Seat 5: visjeatwater ($1331.61 in chips) 
+Seat 6: rusdronenv ($825.95 in chips) 
+Interra: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+Aurum85: folds 
+visjeatwater: folds 
+rusdronenv: raises $12 to $18
+AlInclusiver: folds 
+Interra: calls $15
+mikimiki88: folds 
+*** FLOP *** [Th Kh 4h]
+Interra: bets $12
+rusdronenv: calls $12
+*** TURN *** [Th Kh 4h] [8d]
+Interra: bets $90
+rusdronenv: folds 
+Uncalled bet ($90) returned to Interra
+Interra collected $63.20 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $2.80 
+Board [Th Kh 4h 8d]
+Seat 1: AlInclusiver (button) folded before Flop (didn't bet)
+Seat 2: Interra (small blind) collected ($63.20)
+Seat 3: mikimiki88 (big blind) folded before Flop
+Seat 4: Aurum85 folded before Flop (didn't bet)
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv folded on the Turn
+
+
+PokerStars Game #102587996750:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:52:05 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #2 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($620.86 in chips) 
+Seat 3: mikimiki88 ($867.62 in chips) 
+Seat 4: Aurum85 ($627.98 in chips) 
+Seat 5: visjeatwater ($1331.61 in chips) 
+Seat 6: rusdronenv ($795.95 in chips) 
+mikimiki88: posts small blind $3
+Aurum85: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: folds 
+rusdronenv: folds 
+AlInclusiver: folds 
+Interra: folds 
+mikimiki88: folds 
+Uncalled bet ($3) returned to Aurum85
+Aurum85 collected $6 from pot
+Aurum85: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: AlInclusiver folded before Flop (didn't bet)
+Seat 2: Interra (button) folded before Flop (didn't bet)
+Seat 3: mikimiki88 (small blind) folded before Flop
+Seat 4: Aurum85 (big blind) collected ($6)
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102588005293:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:52:26 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #3 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($620.86 in chips) 
+Seat 3: mikimiki88 ($864.62 in chips) 
+Seat 4: Aurum85 ($630.98 in chips) 
+Seat 5: visjeatwater ($1331.61 in chips) 
+Seat 6: rusdronenv ($795.95 in chips) 
+Aurum85: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+AlInclusiver: raises $9 to $15
+Interra: raises $9 to $24
+mikimiki88: folds 
+Aurum85: folds 
+visjeatwater: folds 
+AlInclusiver: calls $9
+*** FLOP *** [2d 3d 9h]
+AlInclusiver: checks 
+Interra: bets $48
+AlInclusiver: folds 
+Uncalled bet ($48) returned to Interra
+Interra collected $54.44 from pot
+*** SUMMARY ***
+Total pot $57 | Rake $2.56 
+Board [2d 3d 9h]
+Seat 1: AlInclusiver folded on the Flop
+Seat 2: Interra collected ($54.44)
+Seat 3: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 4: Aurum85 (small blind) folded before Flop
+Seat 5: visjeatwater (big blind) folded before Flop
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102588017271:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:52:56 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #4 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($651.30 in chips) 
+Seat 3: mikimiki88 ($864.62 in chips) 
+Seat 4: Aurum85 ($627.98 in chips) 
+Seat 5: visjeatwater ($1325.61 in chips) 
+Seat 6: rusdronenv ($795.95 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+AlInclusiver: folds 
+Interra: folds 
+mikimiki88: folds 
+Aurum85: raises $9 to $15
+visjeatwater: folds 
+rusdronenv: calls $9
+*** FLOP *** [Ts 3s 7d]
+rusdronenv: checks 
+Aurum85: bets $22.80
+rusdronenv: calls $22.80
+*** TURN *** [Ts 3s 7d] [3d]
+rusdronenv: checks 
+Aurum85: bets $53.70
+rusdronenv: calls $53.70
+*** RIVER *** [Ts 3s 7d 3d] [8h]
+rusdronenv: checks 
+Aurum85: checks 
+*** SHOW DOWN ***
+rusdronenv: shows [6d 6c] (two pair, Sixes and Threes)
+Aurum85: mucks hand 
+rusdronenv collected $183.20 from pot
+*** SUMMARY ***
+Total pot $186 | Rake $2.80 
+Board [Ts 3s 7d 3d 8h]
+Seat 1: AlInclusiver folded before Flop (didn't bet)
+Seat 2: Interra folded before Flop (didn't bet)
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: Aurum85 (button) mucked
+Seat 5: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) showed [6d 6c] and won ($183.20) with two pair, Sixes and Threes
+
+
+PokerStars Game #102588044194:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:54:03 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #5 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($651.30 in chips) 
+Seat 3: mikimiki88 ($864.62 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1322.61 in chips) 
+Seat 6: rusdronenv ($887.65 in chips) 
+rusdronenv: posts small blind $3
+AlInclusiver: posts big blind $6
+*** HOLE CARDS ***
+Interra: folds 
+mikimiki88: folds 
+Aurum85: folds 
+visjeatwater: folds 
+rusdronenv: folds 
+Uncalled bet ($3) returned to AlInclusiver
+AlInclusiver collected $6 from pot
+AlInclusiver: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: AlInclusiver (big blind) collected ($6)
+Seat 2: Interra folded before Flop (didn't bet)
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: Aurum85 folded before Flop (didn't bet)
+Seat 5: visjeatwater (button) folded before Flop (didn't bet)
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102588057006:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:54:35 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #6 is the button
+Seat 1: AlInclusiver ($603 in chips) 
+Seat 2: Interra ($651.30 in chips) 
+Seat 3: mikimiki88 ($864.62 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1322.61 in chips) 
+Seat 6: rusdronenv ($884.65 in chips) 
+AlInclusiver: posts small blind $3
+Interra: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+Aurum85: raises $9 to $15
+visjeatwater: calls $15
+rusdronenv: raises $45 to $60
+AlInclusiver: folds 
+Interra: folds 
+Aurum85: folds 
+visjeatwater: folds 
+Uncalled bet ($45) returned to rusdronenv
+rusdronenv collected $54 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $54 | Rake $0 
+Seat 1: AlInclusiver (small blind) folded before Flop
+Seat 2: Interra (big blind) folded before Flop
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: Aurum85 folded before Flop
+Seat 5: visjeatwater folded before Flop
+Seat 6: rusdronenv (button) collected ($54)
+
+
+PokerStars Game #102587858703:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:46:28 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #1 is the button
+Seat 1: HoldenUte03 ($459.20 in chips) 
+Seat 2: Interra ($455.26 in chips) 
+Seat 3: mikimiki88 ($849.62 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1442.61 in chips) 
+Seat 6: rusdronenv ($834.95 in chips) 
+Interra: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+Aurum85: folds 
+visjeatwater: raises $12 to $18
+rusdronenv: folds 
+HoldenUte03: folds 
+Interra: raises $12 to $30
+HoldenUte03 leaves the table
+AlInclusiver joins the table at seat #1 
+mikimiki88: folds 
+visjeatwater: calls $12
+*** FLOP *** [7h 4d Kc]
+Interra: bets $30
+visjeatwater: calls $30
+*** TURN *** [7h 4d Kc] [5h]
+Interra: bets $42
+visjeatwater: calls $42
+*** RIVER *** [7h 4d Kc 5h] [9h]
+Interra: bets $353.26 and is all-in
+visjeatwater: folds 
+Uncalled bet ($353.26) returned to Interra
+Interra collected $207.20 from pot
+*** SUMMARY ***
+Total pot $210 | Rake $2.80 
+Board [7h 4d Kc 5h 9h]
+Seat 1: HoldenUte03 (button) folded before Flop (didn't bet)
+Seat 2: Interra (small blind) collected ($207.20)
+Seat 3: mikimiki88 (big blind) folded before Flop
+Seat 4: Aurum85 folded before Flop (didn't bet)
+Seat 5: visjeatwater folded on the River
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102587892965:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:47:51 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #2 is the button
+Seat 2: Interra ($560.46 in chips) 
+Seat 3: mikimiki88 ($843.62 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1340.61 in chips) 
+Seat 6: rusdronenv ($834.95 in chips) 
+mikimiki88: posts small blind $3
+Aurum85: posts big blind $6
+AlInclusiver: sits out 
+*** HOLE CARDS ***
+visjeatwater: folds 
+rusdronenv: folds 
+Interra: raises $6 to $12
+mikimiki88: folds 
+Aurum85: calls $6
+*** FLOP *** [7h 8c 9c]
+Aurum85: checks 
+Interra: checks 
+*** TURN *** [7h 8c 9c] [Qh]
+Aurum85: checks 
+Interra: bets $6
+Aurum85: calls $6
+*** RIVER *** [7h 8c 9c Qh] [Kc]
+Aurum85: checks 
+Interra: bets $30
+Aurum85: calls $30
+*** SHOW DOWN ***
+Interra: shows [Ac 6c] (a flush, Ace high)
+Aurum85: mucks hand 
+Interra collected $96.20 from pot
+*** SUMMARY ***
+Total pot $99 | Rake $2.80 
+Board [7h 8c 9c Qh Kc]
+Seat 2: Interra (button) showed [Ac 6c] and won ($96.20) with a flush, Ace high
+Seat 3: mikimiki88 (small blind) folded before Flop
+Seat 4: Aurum85 (big blind) mucked
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102587916872:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:48:49 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #3 is the button
+Seat 2: Interra ($608.66 in chips) 
+Seat 3: mikimiki88 ($840.62 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1340.61 in chips) 
+Seat 6: rusdronenv ($834.95 in chips) 
+Aurum85: posts small blind $3
+visjeatwater: posts big blind $6
+AlInclusiver: sits out 
+*** HOLE CARDS ***
+rusdronenv: folds 
+Interra: folds 
+mikimiki88: raises $6 to $12
+Aurum85: folds 
+visjeatwater: folds 
+Uncalled bet ($6) returned to mikimiki88
+mikimiki88 collected $15 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: Interra folded before Flop (didn't bet)
+Seat 3: mikimiki88 (button) collected ($15)
+Seat 4: Aurum85 (small blind) folded before Flop
+Seat 5: visjeatwater (big blind) folded before Flop
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102587926308:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:49:12 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #4 is the button
+Seat 2: Interra ($608.66 in chips) 
+Seat 3: mikimiki88 ($849.62 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1334.61 in chips) 
+Seat 6: rusdronenv ($834.95 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+AlInclusiver: sits out 
+*** HOLE CARDS ***
+Interra: folds 
+mikimiki88: raises $6 to $12
+Aurum85: folds 
+visjeatwater: folds 
+rusdronenv: folds 
+Uncalled bet ($6) returned to mikimiki88
+mikimiki88 collected $15 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: Interra folded before Flop (didn't bet)
+Seat 3: mikimiki88 collected ($15)
+Seat 4: Aurum85 (button) folded before Flop (didn't bet)
+Seat 5: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) folded before Flop
+
+
+PokerStars Game #102587936150:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:49:36 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #5 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($608.66 in chips) 
+Seat 3: mikimiki88 ($858.62 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1331.61 in chips) 
+Seat 6: rusdronenv ($828.95 in chips) 
+rusdronenv: posts small blind $3
+AlInclusiver: posts big blind $6
+*** HOLE CARDS ***
+Interra: calls $6
+mikimiki88: raises $24 to $30
+Aurum85: folds 
+visjeatwater: folds 
+rusdronenv: folds 
+AlInclusiver: folds 
+Interra: folds 
+Uncalled bet ($24) returned to mikimiki88
+mikimiki88 collected $21 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $0 
+Seat 1: AlInclusiver (big blind) folded before Flop
+Seat 2: Interra folded before Flop
+Seat 3: mikimiki88 collected ($21)
+Seat 4: Aurum85 folded before Flop (didn't bet)
+Seat 5: visjeatwater (button) folded before Flop (didn't bet)
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102587705618:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:40:27 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #2 is the button
+Seat 1: HoldenUte03 ($222 in chips) 
+Seat 2: Interra ($306.88 in chips) 
+Seat 3: mikimiki88 ($852.62 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1463.61 in chips) 
+Seat 6: rusdronenv ($1111.12 in chips) 
+mikimiki88: posts small blind $3
+Aurum85: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: folds 
+rusdronenv: raises $12 to $18
+HoldenUte03: calls $18
+Interra: folds 
+mikimiki88: folds 
+Aurum85: folds 
+*** FLOP *** [4s 9s 6d]
+rusdronenv: checks 
+HoldenUte03: checks 
+*** TURN *** [4s 9s 6d] [4c]
+rusdronenv: checks 
+HoldenUte03: checks 
+*** RIVER *** [4s 9s 6d 4c] [7h]
+rusdronenv: checks 
+HoldenUte03: checks 
+*** SHOW DOWN ***
+rusdronenv: shows [Kd Ah] (a pair of Fours)
+HoldenUte03: shows [Jh Qh] (a pair of Fours - lower kicker)
+rusdronenv collected $42.98 from pot
+*** SUMMARY ***
+Total pot $45 | Rake $2.02 
+Board [4s 9s 6d 4c 7h]
+Seat 1: HoldenUte03 showed [Jh Qh] and lost with a pair of Fours
+Seat 2: Interra (button) folded before Flop (didn't bet)
+Seat 3: mikimiki88 (small blind) folded before Flop
+Seat 4: Aurum85 (big blind) folded before Flop
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv showed [Kd Ah] and won ($42.98) with a pair of Fours
+
+
+PokerStars Game #102587725439:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:41:13 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #3 is the button
+Seat 1: HoldenUte03 ($204 in chips) 
+Seat 2: Interra ($306.88 in chips) 
+Seat 3: mikimiki88 ($849.62 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1463.61 in chips) 
+Seat 6: rusdronenv ($1136.10 in chips) 
+Aurum85: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+HoldenUte03: folds 
+Interra: raises $6 to $12
+mikimiki88: folds 
+Aurum85: calls $9
+visjeatwater: folds 
+*** FLOP *** [Td 9h Qh]
+Aurum85: checks 
+Interra: bets $18
+Aurum85: folds 
+Uncalled bet ($18) returned to Interra
+Interra collected $28.65 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [Td 9h Qh]
+Seat 1: HoldenUte03 folded before Flop (didn't bet)
+Seat 2: Interra collected ($28.65)
+Seat 3: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 4: Aurum85 (small blind) folded on the Flop
+Seat 5: visjeatwater (big blind) folded before Flop
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102587746974:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:42:03 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #4 is the button
+Seat 1: HoldenUte03 ($204 in chips) 
+Seat 2: Interra ($323.53 in chips) 
+Seat 3: mikimiki88 ($849.62 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1457.61 in chips) 
+Seat 6: rusdronenv ($1136.10 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+HoldenUte03: folds 
+Interra: raises $6 to $12
+mikimiki88 has timed out
+mikimiki88: folds 
+Aurum85: folds 
+visjeatwater: folds 
+rusdronenv: raises $30 to $42
+Interra: raises $30 to $72
+rusdronenv: calls $30
+*** FLOP *** [Jd 9s Th]
+rusdronenv: checks 
+Interra: bets $90
+rusdronenv: raises $312 to $402
+Interra: calls $161.53 and is all-in
+Uncalled bet ($150.47) returned to rusdronenv
+*** TURN *** [Jd 9s Th] [Td]
+*** RIVER *** [Jd 9s Th Td] [As]
+*** SHOW DOWN ***
+rusdronenv: shows [Qh Kh] (a straight, Ten to Ace)
+Interra: shows [Tc Ad] (a full house, Tens full of Aces)
+Interra collected $647.26 from pot
+*** SUMMARY ***
+Total pot $650.06 | Rake $2.80 
+Board [Jd 9s Th Td As]
+Seat 1: HoldenUte03 folded before Flop (didn't bet)
+Seat 2: Interra showed [Tc Ad] and won ($647.26) with a full house, Tens full of Aces
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: Aurum85 (button) folded before Flop (didn't bet)
+Seat 5: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) showed [Qh Kh] and lost with a straight, Ten to Ace
+
+
+PokerStars Game #102587782621:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:43:27 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #5 is the button
+Seat 1: HoldenUte03 ($204 in chips) 
+Seat 2: Interra ($647.26 in chips) 
+Seat 3: mikimiki88 ($849.62 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1454.61 in chips) 
+Seat 6: rusdronenv ($812.57 in chips) 
+rusdronenv: posts small blind $3
+HoldenUte03: posts big blind $6
+*** HOLE CARDS ***
+Interra: folds 
+mikimiki88: folds 
+Aurum85: folds 
+visjeatwater: raises $6 to $12
+rusdronenv: calls $9
+HoldenUte03: calls $6
+*** FLOP *** [Ts Ah Qc]
+rusdronenv: checks 
+HoldenUte03: checks 
+visjeatwater: checks 
+*** TURN *** [Ts Ah Qc] [4s]
+rusdronenv: checks 
+HoldenUte03: checks 
+visjeatwater: checks 
+*** RIVER *** [Ts Ah Qc 4s] [3c]
+rusdronenv: checks 
+HoldenUte03: checks 
+visjeatwater: checks 
+*** SHOW DOWN ***
+rusdronenv: shows [Tc Jh] (a pair of Tens)
+HoldenUte03: shows [7d Th] (a pair of Tens - lower kicker)
+visjeatwater: mucks hand 
+rusdronenv collected $34.38 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.62 
+Board [Ts Ah Qc 4s 3c]
+Seat 1: HoldenUte03 (big blind) showed [7d Th] and lost with a pair of Tens
+Seat 2: Interra folded before Flop (didn't bet)
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: Aurum85 folded before Flop (didn't bet)
+Seat 5: visjeatwater (button) mucked
+Seat 6: rusdronenv (small blind) showed [Tc Jh] and won ($34.38) with a pair of Tens
+
+
+PokerStars Game #102587812977:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:44:39 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #6 is the button
+Seat 1: HoldenUte03 ($192 in chips) 
+Seat 2: Interra ($647.26 in chips) 
+Seat 3: mikimiki88 ($849.62 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1442.61 in chips) 
+Seat 6: rusdronenv ($834.95 in chips) 
+HoldenUte03: posts small blind $3
+Interra: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+Aurum85: raises $9 to $15
+HoldenUte03 said, "42 wtf"
+visjeatwater: folds 
+rusdronenv: folds 
+HoldenUte03: calls $12
+Interra: raises $9 to $24
+Aurum85: calls $9
+HoldenUte03: calls $9
+*** FLOP *** [8c Kc 9s]
+HoldenUte03: checks 
+Interra: bets $54
+Aurum85: calls $54
+HoldenUte03: calls $54
+*** TURN *** [8c Kc 9s] [4d]
+HoldenUte03: checks 
+Interra: bets $66
+Aurum85: folds 
+HoldenUte03: raises $48 to $114 and is all-in
+Interra: calls $48
+*** RIVER *** [8c Kc 9s 4d] [4h]
+*** SHOW DOWN ***
+HoldenUte03: shows [Qs Kd] (two pair, Kings and Fours)
+Interra: shows [Qh As] (a pair of Fours)
+HoldenUte03 collected $459.20 from pot
+*** SUMMARY ***
+Total pot $462 | Rake $2.80 
+Board [8c Kc 9s 4d 4h]
+Seat 1: HoldenUte03 (small blind) showed [Qs Kd] and won ($459.20) with two pair, Kings and Fours
+Seat 2: Interra (big blind) showed [Qh As] and lost with a pair of Fours
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: Aurum85 folded on the Turn
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102588286631:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:05:14 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #2 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($671.96 in chips) 
+Seat 3: mikimiki88 ($795.62 in chips) 
+Seat 4: kriket28 ($600 in chips) 
+Seat 5: visjeatwater ($1364.81 in chips) 
+Seat 6: rusdronenv ($959.65 in chips) 
+mikimiki88: posts small blind $3
+kriket28: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: folds 
+rusdronenv: folds 
+AlInclusiver: folds 
+Interra: raises $6 to $12
+mikimiki88: raises $34 to $46
+kriket28: folds 
+Interra: folds 
+Uncalled bet ($34) returned to mikimiki88
+mikimiki88 collected $30 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: AlInclusiver folded before Flop (didn't bet)
+Seat 2: Interra (button) folded before Flop
+Seat 3: mikimiki88 (small blind) collected ($30)
+Seat 4: kriket28 (big blind) folded before Flop
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102588304693:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:05:58 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #3 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($659.96 in chips) 
+Seat 3: mikimiki88 ($813.62 in chips) 
+Seat 4: kriket28 ($600 in chips) 
+Seat 5: visjeatwater ($1364.81 in chips) 
+Seat 6: rusdronenv ($959.65 in chips) 
+kriket28: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+AlInclusiver: folds 
+Interra: folds 
+mikimiki88: raises $6 to $12
+kriket28: folds 
+visjeatwater: calls $6
+*** FLOP *** [6s Js 9d]
+visjeatwater: checks 
+mikimiki88: bets $18.30
+visjeatwater: calls $18.30
+*** TURN *** [6s Js 9d] [7s]
+visjeatwater: checks 
+mikimiki88: bets $49.85
+visjeatwater: calls $49.85
+*** RIVER *** [6s Js 9d 7s] [4c]
+visjeatwater: checks 
+mikimiki88: bets $131.61
+visjeatwater: folds 
+Uncalled bet ($131.61) returned to mikimiki88
+mikimiki88 collected $160.50 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $163.30 | Rake $2.80 
+Board [6s Js 9d 7s 4c]
+Seat 1: AlInclusiver folded before Flop (didn't bet)
+Seat 2: Interra folded before Flop (didn't bet)
+Seat 3: mikimiki88 (button) collected ($160.50)
+Seat 4: kriket28 (small blind) folded before Flop
+Seat 5: visjeatwater (big blind) folded on the River
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102588341868:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:07:28 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #4 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($659.96 in chips) 
+Seat 3: mikimiki88 ($893.97 in chips) 
+Seat 4: kriket28 ($600 in chips) 
+Seat 5: visjeatwater ($1284.66 in chips) 
+Seat 6: rusdronenv ($959.65 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+AlInclusiver: folds 
+Interra: folds 
+mikimiki88: folds 
+kriket28: raises $6 to $12
+visjeatwater: folds 
+rusdronenv: folds 
+Uncalled bet ($6) returned to kriket28
+kriket28 collected $15 from pot
+kriket28: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: AlInclusiver folded before Flop (didn't bet)
+Seat 2: Interra folded before Flop (didn't bet)
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: kriket28 (button) collected ($15)
+Seat 5: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) folded before Flop
+
+
+PokerStars Game #102588357490:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:08:07 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #5 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($659.96 in chips) 
+Seat 3: mikimiki88 ($893.97 in chips) 
+Seat 4: kriket28 ($609 in chips) 
+Seat 5: visjeatwater ($1281.66 in chips) 
+Seat 6: rusdronenv ($953.65 in chips) 
+rusdronenv: posts small blind $3
+AlInclusiver: posts big blind $6
+*** HOLE CARDS ***
+Interra: folds 
+mikimiki88: folds 
+kriket28: folds 
+visjeatwater: raises $6 to $12
+rusdronenv: folds 
+AlInclusiver: raises $36 to $48
+visjeatwater: folds 
+Uncalled bet ($36) returned to AlInclusiver
+AlInclusiver collected $27 from pot
+AlInclusiver: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 1: AlInclusiver (big blind) collected ($27)
+Seat 2: Interra folded before Flop (didn't bet)
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: kriket28 folded before Flop (didn't bet)
+Seat 5: visjeatwater (button) folded before Flop
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102588373466:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:08:47 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #6 is the button
+Seat 1: AlInclusiver ($615 in chips) 
+Seat 2: Interra ($659.96 in chips) 
+Seat 3: mikimiki88 ($893.97 in chips) 
+Seat 4: kriket28 ($609 in chips) 
+Seat 5: visjeatwater ($1269.66 in chips) 
+Seat 6: rusdronenv ($950.65 in chips) 
+AlInclusiver: posts small blind $3
+Interra: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: raises $12 to $18
+kriket28: folds 
+visjeatwater: folds 
+rusdronenv: calls $18
+AlInclusiver: folds 
+Interra: folds 
+*** FLOP *** [6c Jh 3c]
+mikimiki88: bets $30.51
+rusdronenv: calls $30.51
+*** TURN *** [6c Jh 3c] [7s]
+mikimiki88: checks 
+rusdronenv: bets $158
+mikimiki88: folds 
+Uncalled bet ($158) returned to rusdronenv
+rusdronenv collected $103.22 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $106.02 | Rake $2.80 
+Board [6c Jh 3c 7s]
+Seat 1: AlInclusiver (small blind) folded before Flop
+Seat 2: Interra (big blind) folded before Flop
+Seat 3: mikimiki88 folded on the Turn
+Seat 4: kriket28 folded before Flop (didn't bet)
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv (button) collected ($103.22)
+
+
+PokerStars Game #102588397038:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:09:45 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #1 is the button
+Seat 1: AlInclusiver ($612 in chips) 
+Seat 2: Interra ($653.96 in chips) 
+Seat 3: mikimiki88 ($845.46 in chips) 
+Seat 4: kriket28 ($609 in chips) 
+Seat 5: visjeatwater ($1269.66 in chips) 
+Seat 6: rusdronenv ($1005.36 in chips) 
+Interra: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+kriket28: raises $12 to $18
+visjeatwater: calls $18
+rusdronenv: folds 
+AlInclusiver: calls $18
+Interra: folds 
+mikimiki88: folds 
+*** FLOP *** [6s 7c 2c]
+kriket28: checks 
+visjeatwater: bets $48
+AlInclusiver: folds 
+kriket28: raises $99 to $147
+visjeatwater: raises $1104.66 to $1251.66 and is all-in
+kriket28: calls $444 and is all-in
+Uncalled bet ($660.66) returned to visjeatwater
+*** FIRST TURN *** [6s 7c 2c] [4h]
+*** FIRST RIVER *** [6s 7c 2c 4h] [Qd]
+*** SECOND TURN *** [6s 7c 2c] [2s]
+*** SECOND RIVER *** [6s 7c 2c 2s] [Th]
+*** FIRST SHOW DOWN ***
+kriket28: shows [Kh Kc] (a pair of Kings)
+visjeatwater: shows [Qc Jc] (a pair of Queens)
+kriket28 collected $621.10 from pot
+*** SECOND SHOW DOWN ***
+kriket28: shows [Kh Kc] (two pair, Kings and Deuces)
+visjeatwater: shows [Qc Jc] (a pair of Deuces)
+kriket28 collected $621.10 from pot
+*** SUMMARY ***
+Total pot $1245 | Rake $2.80 
+Hand was run twice
+FIRST Board [6s 7c 2c 4h Qd]
+SECOND Board [6s 7c 2c 2s Th]
+Seat 1: AlInclusiver (button) folded on the Flop
+Seat 2: Interra (small blind) folded before Flop
+Seat 3: mikimiki88 (big blind) folded before Flop
+Seat 4: kriket28 showed [Kh Kc] and won ($621.10) with a pair of Kings, and won ($621.10) with two pair, Kings and Deuces
+Seat 5: visjeatwater showed [Qc Jc] and lost with a pair of Queens, and lost with a pair of Deuces
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102588075860:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:55:25 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #1 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($645.30 in chips) 
+Seat 3: mikimiki88 ($864.62 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1307.61 in chips) 
+Seat 6: rusdronenv ($923.65 in chips) 
+Interra: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+Aurum85: folds 
+visjeatwater: raises $12 to $18
+rusdronenv: raises $30 to $48
+AlInclusiver: folds 
+Interra: folds 
+mikimiki88: folds 
+visjeatwater: folds 
+Uncalled bet ($30) returned to rusdronenv
+rusdronenv collected $45 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $0 
+Seat 1: AlInclusiver (button) folded before Flop (didn't bet)
+Seat 2: Interra (small blind) folded before Flop
+Seat 3: mikimiki88 (big blind) folded before Flop
+Seat 4: Aurum85 folded before Flop (didn't bet)
+Seat 5: visjeatwater folded before Flop
+Seat 6: rusdronenv collected ($45)
+
+
+PokerStars Game #102588085438:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:55:56 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #2 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($642.30 in chips) 
+Seat 3: mikimiki88 ($858.62 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1289.61 in chips) 
+Seat 6: rusdronenv ($950.65 in chips) 
+mikimiki88: posts small blind $3
+Aurum85: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: raises $12 to $18
+rusdronenv: folds 
+AlInclusiver: folds 
+Interra: folds 
+mikimiki88: folds 
+Aurum85: folds 
+Uncalled bet ($12) returned to visjeatwater
+visjeatwater collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: AlInclusiver folded before Flop (didn't bet)
+Seat 2: Interra (button) folded before Flop (didn't bet)
+Seat 3: mikimiki88 (small blind) folded before Flop
+Seat 4: Aurum85 (big blind) folded before Flop
+Seat 5: visjeatwater collected ($15)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102588095093:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:56:27 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #3 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($642.30 in chips) 
+Seat 3: mikimiki88 ($855.62 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1298.61 in chips) 
+Seat 6: rusdronenv ($950.65 in chips) 
+Aurum85: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+AlInclusiver: folds 
+Interra: calls $6
+mikimiki88: raises $18 to $24
+Aurum85: folds 
+visjeatwater: folds 
+Interra: calls $18
+*** FLOP *** [Ah 5h 8d]
+Interra: bets $12
+mikimiki88: calls $12
+*** TURN *** [Ah 5h 8d] [7d]
+Interra: bets $24
+mikimiki88: calls $24
+*** RIVER *** [Ah 5h 8d 7d] [3d]
+Interra: bets $96
+mikimiki88: folds 
+Uncalled bet ($96) returned to Interra
+Interra collected $126.20 from pot
+*** SUMMARY ***
+Total pot $129 | Rake $2.80 
+Board [Ah 5h 8d 7d 3d]
+Seat 1: AlInclusiver folded before Flop (didn't bet)
+Seat 2: Interra collected ($126.20)
+Seat 3: mikimiki88 (button) folded on the River
+Seat 4: Aurum85 (small blind) folded before Flop
+Seat 5: visjeatwater (big blind) folded before Flop
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102588120637:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:57:49 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #4 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($708.50 in chips) 
+Seat 3: mikimiki88 ($795.62 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1292.61 in chips) 
+Seat 6: rusdronenv ($950.65 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+AlInclusiver: raises $9 to $15
+Interra: calls $15
+mikimiki88: raises $29 to $44
+Aurum85: folds 
+visjeatwater: folds 
+rusdronenv: folds 
+AlInclusiver: folds 
+Interra: folds 
+Uncalled bet ($29) returned to mikimiki88
+mikimiki88 collected $54 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $54 | Rake $0 
+Seat 1: AlInclusiver folded before Flop
+Seat 2: Interra folded before Flop
+Seat 3: mikimiki88 collected ($54)
+Seat 4: Aurum85 (button) folded before Flop (didn't bet)
+Seat 5: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) folded before Flop
+
+
+PokerStars Game #102588133725:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 20:58:31 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #5 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($693.50 in chips) 
+Seat 3: mikimiki88 ($834.62 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1289.61 in chips) 
+Seat 6: rusdronenv ($944.65 in chips) 
+rusdronenv: posts small blind $3
+AlInclusiver: posts big blind $6
+*** HOLE CARDS ***
+Interra: calls $6
+mikimiki88: raises $18 to $24
+Aurum85: calls $24
+visjeatwater: raises $54 to $78
+rusdronenv: folds 
+AlInclusiver: folds 
+Interra: raises $54 to $132
+mikimiki88: folds 
+Aurum85: folds 
+visjeatwater: folds 
+Uncalled bet ($54) returned to Interra
+Interra collected $213 from pot
+*** SUMMARY ***
+Total pot $213 | Rake $0 
+Seat 1: AlInclusiver (big blind) folded before Flop
+Seat 2: Interra collected ($213)
+Seat 3: mikimiki88 folded before Flop
+Seat 4: Aurum85 folded before Flop
+Seat 5: visjeatwater (button) folded before Flop
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102588168859:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:00:18 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #6 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($828.50 in chips) 
+Seat 3: mikimiki88 ($810.62 in chips) 
+Seat 4: Aurum85 ($600 in chips) 
+Seat 5: visjeatwater ($1211.61 in chips) 
+Seat 6: rusdronenv ($941.65 in chips) 
+AlInclusiver: posts small blind $3
+Interra: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+Aurum85: raises $9 to $15
+visjeatwater: folds 
+rusdronenv: folds 
+AlInclusiver: folds 
+Interra: folds 
+Uncalled bet ($9) returned to Aurum85
+Aurum85 collected $15 from pot
+Aurum85: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: AlInclusiver (small blind) folded before Flop
+Seat 2: Interra (big blind) folded before Flop
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: Aurum85 collected ($15)
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102588177809:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:00:45 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #1 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($822.50 in chips) 
+Seat 3: mikimiki88 ($810.62 in chips) 
+Seat 4: Aurum85 ($609 in chips) 
+Seat 5: visjeatwater ($1211.61 in chips) 
+Seat 6: rusdronenv ($941.65 in chips) 
+Interra: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+Aurum85: folds 
+visjeatwater: raises $12 to $18
+rusdronenv: folds 
+AlInclusiver: folds 
+Interra: raises $12 to $30
+mikimiki88: folds 
+visjeatwater: calls $12
+*** FLOP *** [3c 2c 9s]
+Interra: bets $60
+visjeatwater: calls $60
+*** TURN *** [3c 2c 9s] [Qc]
+Interra: bets $60
+visjeatwater: calls $60
+*** RIVER *** [3c 2c 9s Qc] [Ks]
+Interra: checks 
+visjeatwater: checks 
+*** SHOW DOWN ***
+Interra: shows [Ts Td] (a pair of Tens)
+visjeatwater: shows [Js Jd] (a pair of Jacks)
+visjeatwater collected $303.20 from pot
+*** SUMMARY ***
+Total pot $306 | Rake $2.80 
+Board [3c 2c 9s Qc Ks]
+Seat 1: AlInclusiver (button) folded before Flop (didn't bet)
+Seat 2: Interra (small blind) showed [Ts Td] and lost with a pair of Tens
+Seat 3: mikimiki88 (big blind) folded before Flop
+Seat 4: Aurum85 folded before Flop (didn't bet)
+Seat 5: visjeatwater showed [Js Jd] and won ($303.20) with a pair of Jacks
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102588205503:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:01:58 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #2 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($672.50 in chips) 
+Seat 3: mikimiki88 ($804.62 in chips) 
+Seat 5: visjeatwater ($1364.81 in chips) 
+Seat 6: rusdronenv ($941.65 in chips) 
+mikimiki88: posts small blind $3
+Aurum85: is sitting out 
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+Aurum85 leaves the table
+AlInclusiver: folds 
+kriket28 joins the table at seat #4 
+Interra: folds 
+mikimiki88: folds 
+Uncalled bet ($3) returned to visjeatwater
+visjeatwater collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: AlInclusiver folded before Flop (didn't bet)
+Seat 2: Interra (button) folded before Flop (didn't bet)
+Seat 3: mikimiki88 (small blind) folded before Flop
+Seat 5: visjeatwater (big blind) collected ($6)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102588209509:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:02:08 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #3 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($672.50 in chips) 
+Seat 3: mikimiki88 ($801.62 in chips) 
+Seat 5: visjeatwater ($1367.81 in chips) 
+Seat 6: rusdronenv ($941.65 in chips) 
+kriket28 will be allowed to play after the button
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+AlInclusiver: folds 
+Interra: folds 
+mikimiki88: folds 
+visjeatwater: folds 
+Uncalled bet ($3) returned to rusdronenv
+rusdronenv collected $6 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: AlInclusiver folded before Flop (didn't bet)
+Seat 2: Interra folded before Flop (didn't bet)
+Seat 3: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 5: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) collected ($6)
+
+
+PokerStars Game #102588215981:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:02:24 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #5 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($672.50 in chips) 
+Seat 3: mikimiki88 ($801.62 in chips) 
+Seat 5: visjeatwater ($1364.81 in chips) 
+Seat 6: rusdronenv ($944.65 in chips) 
+rusdronenv: posts small blind $3
+AlInclusiver: posts big blind $6
+kriket28: sits out 
+*** HOLE CARDS ***
+Interra: folds 
+mikimiki88: folds 
+visjeatwater: folds 
+rusdronenv: raises $12 to $18
+AlInclusiver: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $12 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: AlInclusiver (big blind) folded before Flop
+Seat 2: Interra folded before Flop (didn't bet)
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 5: visjeatwater (button) folded before Flop (didn't bet)
+Seat 6: rusdronenv (small blind) collected ($12)
+
+
+PokerStars Game #102588223989:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:02:43 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #6 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($672.50 in chips) 
+Seat 3: mikimiki88 ($801.62 in chips) 
+Seat 5: visjeatwater ($1364.81 in chips) 
+Seat 6: rusdronenv ($950.65 in chips) 
+AlInclusiver: posts small blind $3
+Interra: posts big blind $6
+kriket28: sits out 
+*** HOLE CARDS ***
+mikimiki88: folds 
+visjeatwater: folds 
+rusdronenv: raises $12 to $18
+AlInclusiver: folds 
+Interra: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $15 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: AlInclusiver (small blind) folded before Flop
+Seat 2: Interra (big blind) folded before Flop
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv (button) collected ($15)
+
+
+PokerStars Game #102588238604:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:03:19 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #1 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($666.50 in chips) 
+Seat 3: mikimiki88 ($801.62 in chips) 
+Seat 5: visjeatwater ($1364.81 in chips) 
+Seat 6: rusdronenv ($959.65 in chips) 
+Interra: posts small blind $3
+mikimiki88: posts big blind $6
+kriket28: sits out 
+*** HOLE CARDS ***
+visjeatwater: folds 
+rusdronenv: folds 
+AlInclusiver: folds 
+Interra: calls $3
+mikimiki88: checks 
+*** FLOP *** [9d Ad Qc]
+Interra: checks 
+mikimiki88: checks 
+*** TURN *** [9d Ad Qc] [9s]
+Interra: checks 
+mikimiki88: checks 
+*** RIVER *** [9d Ad Qc 9s] [Kh]
+Interra: bets $18
+mikimiki88: folds 
+Uncalled bet ($18) returned to Interra
+Interra collected $11.46 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.54 
+Board [9d Ad Qc 9s Kh]
+Seat 1: AlInclusiver (button) folded before Flop (didn't bet)
+Seat 2: Interra (small blind) collected ($11.46)
+Seat 3: mikimiki88 (big blind) folded on the River
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102588527085:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:15:10 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #6 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($1089.16 in chips) 
+Seat 3: mikimiki88 ($833.46 in chips) 
+Seat 4: kriket28 ($801.20 in chips) 
+Seat 5: visjeatwater ($681.66 in chips) 
+Seat 6: rusdronenv ($996.36 in chips) 
+AlInclusiver: posts small blind $3
+Interra: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+kriket28: folds 
+visjeatwater has timed out
+visjeatwater: folds 
+rusdronenv: folds 
+AlInclusiver: folds 
+Uncalled bet ($3) returned to Interra
+Interra collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: AlInclusiver (small blind) folded before Flop
+Seat 2: Interra (big blind) collected ($6)
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: kriket28 folded before Flop (didn't bet)
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv (button) folded before Flop (didn't bet)
+
+
+PokerStars Game #102588539273:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:15:40 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #1 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($1092.16 in chips) 
+Seat 3: mikimiki88 ($833.46 in chips) 
+Seat 4: kriket28 ($801.20 in chips) 
+Seat 5: visjeatwater ($681.66 in chips) 
+Seat 6: rusdronenv ($996.36 in chips) 
+Interra: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+kriket28: folds 
+visjeatwater: raises $12 to $18
+rusdronenv: raises $30 to $48
+AlInclusiver: folds 
+Interra: folds 
+mikimiki88: folds 
+visjeatwater: raises $49.65 to $97.65
+rusdronenv: calls $49.65
+*** FLOP *** [7d Tc Qc]
+Interra leaves the table
+visjeatwater: checks 
+rusdronenv: checks 
+*** TURN *** [7d Tc Qc] [3d]
+visjeatwater: bets $109.65
+rusdronenv: calls $109.65
+*** RIVER *** [7d Tc Qc 3d] [9h]
+visjeatwater: checks 
+rusdronenv: checks 
+*** SHOW DOWN ***
+visjeatwater: shows [Ah Jc] (high card Ace)
+rusdronenv: shows [Ts Ad] (a pair of Tens)
+rusdronenv collected $420.80 from pot
+*** SUMMARY ***
+Total pot $423.60 | Rake $2.80 
+Board [7d Tc Qc 3d 9h]
+Seat 1: AlInclusiver (button) folded before Flop (didn't bet)
+Seat 2: Interra (small blind) folded before Flop
+Seat 3: mikimiki88 (big blind) folded before Flop
+Seat 4: kriket28 folded before Flop (didn't bet)
+Seat 5: visjeatwater showed [Ah Jc] and lost with high card Ace
+Seat 6: rusdronenv showed [Ts Ad] and won ($420.80) with a pair of Tens
+
+
+PokerStars Game #102588578050:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:17:17 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #3 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 3: mikimiki88 ($827.46 in chips) 
+Seat 4: kriket28 ($801.20 in chips) 
+Seat 5: visjeatwater ($474.36 in chips) 
+Seat 6: rusdronenv ($1209.86 in chips) 
+kriket28: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: raises $12 to $18
+AlInclusiver: folds 
+mikimiki88: folds 
+kriket28: calls $15
+visjeatwater: folds 
+*** FLOP *** [Qd 7c Qs]
+kriket28: checks 
+Ner4zzurri joins the table at seat #2 
+Ner4zzurri leaves the table
+rusdronenv: checks 
+*** TURN *** [Qd 7c Qs] [2d]
+kriket28: bets $21
+rusdronenv: calls $21
+*** RIVER *** [Qd 7c Qs 2d] [Ts]
+kriket28: checks 
+rusdronenv: checks 
+*** SHOW DOWN ***
+kriket28: shows [Qh Qc] (four of a kind, Queens)
+rusdronenv: mucks hand 
+kriket28 collected $81.20 from pot
+*** SUMMARY ***
+Total pot $84 | Rake $2.80 
+Board [Qd 7c Qs 2d Ts]
+Seat 1: AlInclusiver folded before Flop (didn't bet)
+Seat 3: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 4: kriket28 (small blind) showed [Qh Qc] and won ($81.20) with four of a kind, Queens
+Seat 5: visjeatwater (big blind) folded before Flop
+Seat 6: rusdronenv mucked
+
+
+PokerStars Game #102588607043:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:18:30 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #4 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 3: mikimiki88 ($827.46 in chips) 
+Seat 4: kriket28 ($843.40 in chips) 
+Seat 5: visjeatwater ($468.36 in chips) 
+Seat 6: rusdronenv ($1170.86 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+AlInclusiver: folds 
+AlInclusiver leaves the table
+mikimiki88: raises $6 to $12
+kriket28: folds 
+visjeatwater: folds 
+rusdronenv: folds 
+Uncalled bet ($6) returned to mikimiki88
+mikimiki88 collected $15 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: AlInclusiver folded before Flop (didn't bet)
+Seat 3: mikimiki88 collected ($15)
+Seat 4: kriket28 (button) folded before Flop (didn't bet)
+Seat 5: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) folded before Flop
+
+
+PokerStars Game #102588615345:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:18:51 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #5 is the button
+Seat 3: mikimiki88 ($836.46 in chips) 
+Seat 4: kriket28 ($843.40 in chips) 
+Seat 5: visjeatwater ($465.36 in chips) 
+Seat 6: rusdronenv ($1164.86 in chips) 
+rusdronenv: posts small blind $3
+mikimiki88: posts big blind $6
+*** HOLE CARDS ***
+kriket28: folds 
+kriket28 leaves the table
+visjeatwater: folds 
+rusdronenv: raises $12 to $18
+mikimiki88: calls $12
+*** FLOP *** [9s 9c Js]
+rusdronenv: bets $24
+mikimiki88: raises $48.67 to $72.67
+rusdronenv: raises $48.67 to $121.34
+mikimiki88: calls $48.67
+*** TURN *** [9s 9c Js] [8s]
+rusdronenv: checks 
+mikimiki88: checks 
+*** RIVER *** [9s 9c Js 8s] [Kh]
+rusdronenv: checks 
+mikimiki88: checks 
+*** SHOW DOWN ***
+rusdronenv: shows [8d Tc] (two pair, Nines and Eights)
+mikimiki88: shows [Ac Jd] (two pair, Jacks and Nines)
+mikimiki88 collected $277.18 from pot
+*** SUMMARY ***
+Total pot $278.68 | Rake $1.50 
+Board [9s 9c Js 8s Kh]
+Seat 3: mikimiki88 (big blind) showed [Ac Jd] and won ($277.18) with two pair, Jacks and Nines
+Seat 4: kriket28 folded before Flop (didn't bet)
+Seat 5: visjeatwater (button) folded before Flop (didn't bet)
+Seat 6: rusdronenv (small blind) showed [8d Tc] and lost with two pair, Nines and Eights
+
+
+PokerStars Game #102588447543:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:11:50 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #2 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($650.96 in chips) 
+Seat 3: mikimiki88 ($839.46 in chips) 
+Seat 4: kriket28 ($1242.20 in chips) 
+Seat 5: visjeatwater ($660.66 in chips) 
+Seat 6: rusdronenv ($1005.36 in chips) 
+mikimiki88: posts small blind $3
+kriket28: posts big blind $6
+*** HOLE CARDS ***
+visjeatwater: folds 
+rusdronenv: folds 
+AlInclusiver: folds 
+Interra: raises $6 to $12
+mikimiki88: folds 
+kriket28: raises $36 to $48
+Interra: calls $36
+*** FLOP *** [2s 2c 6c]
+kriket28: checks 
+Interra: bets $60
+kriket28: calls $60
+*** TURN *** [2s 2c 6c] [6h]
+kriket28: checks 
+Interra: bets $102
+kriket28: calls $102
+*** RIVER *** [2s 2c 6c 6h] [Kh]
+kriket28: checks 
+Interra: bets $228
+kriket28: calls $228
+*** SHOW DOWN ***
+Interra: shows [As 6s] (a full house, Sixes full of Deuces)
+kriket28: mucks hand 
+Interra collected $876.20 from pot
+*** SUMMARY ***
+Total pot $879 | Rake $2.80 
+Board [2s 2c 6c 6h Kh]
+Seat 1: AlInclusiver folded before Flop (didn't bet)
+Seat 2: Interra (button) showed [As 6s] and won ($876.20) with a full house, Sixes full of Deuces
+Seat 3: mikimiki88 (small blind) folded before Flop
+Seat 4: kriket28 (big blind) mucked
+Seat 5: visjeatwater folded before Flop (didn't bet)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102588484623:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:13:23 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #3 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($1089.16 in chips) 
+Seat 3: mikimiki88 ($836.46 in chips) 
+Seat 4: kriket28 ($804.20 in chips) 
+Seat 5: visjeatwater ($660.66 in chips) 
+Seat 6: rusdronenv ($1005.36 in chips) 
+kriket28: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: folds 
+AlInclusiver: folds 
+Interra: folds 
+mikimiki88: raises $6 to $12
+kriket28: folds 
+visjeatwater: raises $30 to $42
+mikimiki88: folds 
+Uncalled bet ($30) returned to visjeatwater
+visjeatwater collected $27 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 1: AlInclusiver folded before Flop (didn't bet)
+Seat 2: Interra folded before Flop (didn't bet)
+Seat 3: mikimiki88 (button) folded before Flop
+Seat 4: kriket28 (small blind) folded before Flop
+Seat 5: visjeatwater (big blind) collected ($27)
+Seat 6: rusdronenv folded before Flop (didn't bet)
+
+
+PokerStars Game #102588505618:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:14:16 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #4 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($1089.16 in chips) 
+Seat 3: mikimiki88 ($824.46 in chips) 
+Seat 4: kriket28 ($801.20 in chips) 
+Seat 5: visjeatwater ($675.66 in chips) 
+Seat 6: rusdronenv ($1005.36 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+AlInclusiver: folds 
+Interra: folds 
+mikimiki88: raises $6 to $12
+kriket28: folds 
+visjeatwater: folds 
+rusdronenv: folds 
+Uncalled bet ($6) returned to mikimiki88
+mikimiki88 collected $15 from pot
+mikimiki88: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: AlInclusiver folded before Flop (didn't bet)
+Seat 2: Interra folded before Flop (didn't bet)
+Seat 3: mikimiki88 collected ($15)
+Seat 4: kriket28 (button) folded before Flop (didn't bet)
+Seat 5: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) folded before Flop
+
+
+PokerStars Game #102588513464:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:14:36 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #5 is the button
+Seat 1: AlInclusiver ($600 in chips) 
+Seat 2: Interra ($1089.16 in chips) 
+Seat 3: mikimiki88 ($833.46 in chips) 
+Seat 4: kriket28 ($801.20 in chips) 
+Seat 5: visjeatwater ($672.66 in chips) 
+Seat 6: rusdronenv ($999.36 in chips) 
+rusdronenv: posts small blind $3
+AlInclusiver: posts big blind $6
+*** HOLE CARDS ***
+Interra: folds 
+mikimiki88: folds 
+kriket28: folds 
+visjeatwater: raises $6 to $12
+rusdronenv: folds 
+AlInclusiver: folds 
+Uncalled bet ($6) returned to visjeatwater
+visjeatwater collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: AlInclusiver (big blind) folded before Flop
+Seat 2: Interra folded before Flop (didn't bet)
+Seat 3: mikimiki88 folded before Flop (didn't bet)
+Seat 4: kriket28 folded before Flop (didn't bet)
+Seat 5: visjeatwater (button) collected ($15)
+Seat 6: rusdronenv (small blind) folded before Flop
+
+
+PokerStars Game #102588646023:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:20:10 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #6 is the button
+Seat 3: mikimiki88 ($974.30 in chips) 
+Seat 5: visjeatwater ($465.36 in chips) 
+Seat 6: rusdronenv ($1025.52 in chips) 
+mikimiki88: posts small blind $3
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+rusdronenv: raises $12 to $18
+mikimiki88: folds 
+visjeatwater: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $15 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 3: mikimiki88 (small blind) folded before Flop
+Seat 5: visjeatwater (big blind) folded before Flop
+Seat 6: rusdronenv (button) collected ($15)
+
+
+PokerStars Game #102588650379:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:20:21 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #3 is the button
+Seat 3: mikimiki88 ($971.30 in chips) 
+Seat 5: visjeatwater ($459.36 in chips) 
+Seat 6: rusdronenv ($1034.52 in chips) 
+visjeatwater: posts small blind $3
+rusdronenv: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88: folds 
+visjeatwater: folds 
+Uncalled bet ($3) returned to rusdronenv
+rusdronenv collected $6 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 3: mikimiki88 (button) folded before Flop (didn't bet)
+Seat 5: visjeatwater (small blind) folded before Flop
+Seat 6: rusdronenv (big blind) collected ($6)
+
+
+PokerStars Game #102588657356:  Hold'em No Limit ($3/$6 USD) - 2013/08/10 21:20:39 ET
+Table 'Aldhibah 40-100 bb' 6-max Seat #6 is the button
+Seat 5: visjeatwater ($456.36 in chips) 
+Seat 6: rusdronenv ($1037.52 in chips) 
+rusdronenv: posts small blind $3
+mikimiki88: is sitting out 
+visjeatwater: posts big blind $6
+*** HOLE CARDS ***
+mikimiki88 leaves the table
+rusdronenv: raises $12 to $18
+visjeatwater: folds 
+Uncalled bet ($12) returned to rusdronenv
+rusdronenv collected $12 from pot
+rusdronenv: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 5: visjeatwater (big blind) folded before Flop
+Seat 6: rusdronenv (button) (small blind) collected ($12)

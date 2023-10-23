@@ -1,0 +1,1251 @@
+
+
+PokerStars Game #102620501148:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:30:48 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: checkitout12 ($240 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: hob111111 ($253.66 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($300 in chips) 
+ilir3: posts small blind $3
+hob111111: posts big blind $6
+*** HOLE CARDS ***
+Subv: folds 
+x_QUIXTAR_x: raises $12 to $18
+checkitout12: folds 
+ilir3: raises $30 to $48
+hob111111: folds 
+x_QUIXTAR_x: folds 
+Uncalled bet ($30) returned to ilir3
+ilir3 collected $42 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $42 | Rake $0 
+Seat 1: checkitout12 (button) folded before Flop (didn't bet)
+Seat 2: ilir3 (small blind) collected ($42)
+Seat 3: hob111111 (big blind) folded before Flop
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: x_QUIXTAR_x folded before Flop
+
+
+PokerStars Game #102620538459:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:31:29 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: checkitout12 ($240 in chips) 
+Seat 2: ilir3 ($624 in chips) 
+Seat 3: hob111111 ($247.66 in chips) 
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($300 in chips) 
+hob111111: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+Subv: raises $6.30 to $12.30
+x_QUIXTAR_x: folds 
+checkitout12: folds 
+ilir3: folds 
+hob111111: folds 
+Flying Smile: folds 
+Uncalled bet ($6.30) returned to Subv
+Subv collected $15 from pot
+Subv: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: checkitout12 folded before Flop (didn't bet)
+Seat 2: ilir3 (button) folded before Flop (didn't bet)
+Seat 3: hob111111 (small blind) folded before Flop
+Seat 4: Flying Smile (big blind) folded before Flop
+Seat 5: Subv collected ($15)
+Seat 6: x_QUIXTAR_x folded before Flop (didn't bet)
+
+
+PokerStars Game #102620567160:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:32:00 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: checkitout12 ($240 in chips) 
+Seat 2: ilir3 ($624 in chips) 
+Seat 3: hob111111 ($244.66 in chips) 
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: Subv ($609 in chips) 
+Seat 6: x_QUIXTAR_x ($300 in chips) 
+Flying Smile: posts small blind $3
+Subv: posts big blind $6
+*** HOLE CARDS ***
+x_QUIXTAR_x: folds 
+checkitout12: folds 
+ilir3: folds 
+hob111111: raises $6 to $12
+Flying Smile: folds 
+Subv: calls $6
+*** FLOP *** [9s Ks Qc]
+Subv: checks 
+hob111111: bets $18
+Subv: calls $18
+*** TURN *** [9s Ks Qc] [3c]
+Subv: checks 
+hob111111: bets $48
+Subv: raises $234 to $282
+hob111111: calls $166.66 and is all-in
+Uncalled bet ($67.34) returned to Subv
+*** RIVER *** [9s Ks Qc 3c] [4c]
+*** SHOW DOWN ***
+Subv: shows [9h Kc] (two pair, Kings and Nines)
+hob111111: shows [Ac Tc] (a flush, Ace high)
+hob111111 collected $489.52 from pot
+*** SUMMARY ***
+Total pot $492.32 | Rake $2.80 
+Board [9s Ks Qc 3c 4c]
+Seat 1: checkitout12 folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: hob111111 (button) showed [Ac Tc] and won ($489.52) with a flush, Ace high
+Seat 4: Flying Smile (small blind) folded before Flop
+Seat 5: Subv (big blind) showed [9h Kc] and lost with two pair, Kings and Nines
+Seat 6: x_QUIXTAR_x folded before Flop (didn't bet)
+
+
+PokerStars Game #102620655125:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:33:37 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: checkitout12 ($240 in chips) 
+Seat 2: ilir3 ($624 in chips) 
+Seat 3: hob111111 ($489.52 in chips) 
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($300 in chips) 
+Subv: posts small blind $3
+x_QUIXTAR_x: posts big blind $6
+*** HOLE CARDS ***
+checkitout12: folds 
+ilir3: folds 
+hob111111: folds 
+Flying Smile has timed out
+Flying Smile: folds 
+Subv: folds 
+Uncalled bet ($3) returned to x_QUIXTAR_x
+x_QUIXTAR_x collected $6 from pot
+x_QUIXTAR_x: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: checkitout12 folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: Flying Smile (button) folded before Flop (didn't bet)
+Seat 5: Subv (small blind) folded before Flop
+Seat 6: x_QUIXTAR_x (big blind) collected ($6)
+
+
+PokerStars Game #102620692704:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:34:18 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: checkitout12 ($240 in chips) 
+Seat 2: ilir3 ($624 in chips) 
+Seat 3: hob111111 ($489.52 in chips) 
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($303 in chips) 
+x_QUIXTAR_x: posts small blind $3
+checkitout12: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+hob111111: folds 
+Flying Smile: folds 
+Subv: folds 
+x_QUIXTAR_x: raises $7.50 to $13.50
+checkitout12: calls $7.50
+*** FLOP *** [Jd 4s 8h]
+x_QUIXTAR_x: bets $8
+checkitout12: calls $8
+*** TURN *** [Jd 4s 8h] [3h]
+x_QUIXTAR_x: bets $20
+checkitout12: folds 
+Uncalled bet ($20) returned to x_QUIXTAR_x
+x_QUIXTAR_x collected $41.06 from pot
+x_QUIXTAR_x: doesn't show hand 
+*** SUMMARY ***
+Total pot $43 | Rake $1.94 
+Board [Jd 4s 8h 3h]
+Seat 1: checkitout12 (big blind) folded on the Turn
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: Subv (button) folded before Flop (didn't bet)
+Seat 6: x_QUIXTAR_x (small blind) collected ($41.06)
+
+
+PokerStars Game #102621627525:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:51:40 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: ishipKQ ($600 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: hob111111 ($505.38 in chips) 
+Seat 4: Flying Smile ($853.50 in chips) 
+Seat 5: Subv ($729.20 in chips) 
+Seat 6: x_QUIXTAR_x ($352.21 in chips) 
+Flying Smile: posts small blind $3
+Subv: posts big blind $6
+*** HOLE CARDS ***
+x_QUIXTAR_x: raises $7.50 to $13.50
+ishipKQ: folds 
+ilir3: folds 
+hob111111: folds 
+Flying Smile: folds 
+Subv: raises $34.50 to $48
+x_QUIXTAR_x: raises $72 to $120
+Subv: raises $246 to $366
+x_QUIXTAR_x: calls $232.21 and is all-in
+Uncalled bet ($13.79) returned to Subv
+*** FIRST FLOP *** [9s 9c 4d]
+*** FIRST TURN *** [9s 9c 4d] [4h]
+*** FIRST RIVER *** [9s 9c 4d 4h] [Ah]
+*** SECOND FLOP *** [Qc 3d 3c]
+*** SECOND TURN *** [Qc 3d 3c] [3h]
+*** SECOND RIVER *** [Qc 3d 3c 3h] [8c]
+*** FIRST SHOW DOWN ***
+Subv: shows [Ks Ad] (two pair, Aces and Nines)
+x_QUIXTAR_x: shows [Ac Kc] (two pair, Aces and Nines)
+Subv collected $176.16 from pot
+x_QUIXTAR_x collected $176.15 from pot
+*** SECOND SHOW DOWN ***
+Subv: shows [Ks Ad] (three of a kind, Threes)
+x_QUIXTAR_x: shows [Ac Kc] (a flush, Ace high)
+x_QUIXTAR_x collected $352.31 from pot
+*** SUMMARY ***
+Total pot $707.42 | Rake $2.80 
+Hand was run twice
+FIRST Board [9s 9c 4d 4h Ah]
+SECOND Board [Qc 3d 3c 3h 8c]
+Seat 1: ishipKQ folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: hob111111 (button) folded before Flop (didn't bet)
+Seat 4: Flying Smile (small blind) folded before Flop
+Seat 5: Subv (big blind) showed [Ks Ad] and won ($176.16) with two pair, Aces and Nines, and lost with three of a kind, Threes
+Seat 6: x_QUIXTAR_x showed [Ac Kc] and won ($176.15) with two pair, Aces and Nines, and won ($352.31) with a flush, Ace high
+
+
+PokerStars Game #102621680885:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:52:41 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: ishipKQ ($600 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: hob111111 ($505.38 in chips) 
+Seat 4: Flying Smile ($850.50 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($528.46 in chips) 
+Subv: posts small blind $3
+x_QUIXTAR_x: posts big blind $6
+*** HOLE CARDS ***
+ishipKQ: raises $9 to $15
+ilir3: folds 
+hob111111: folds 
+Flying Smile: folds 
+Subv: folds 
+x_QUIXTAR_x: folds 
+Uncalled bet ($9) returned to ishipKQ
+ishipKQ collected $15 from pot
+ishipKQ: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: ishipKQ collected ($15)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: Flying Smile (button) folded before Flop (didn't bet)
+Seat 5: Subv (small blind) folded before Flop
+Seat 6: x_QUIXTAR_x (big blind) folded before Flop
+
+
+PokerStars Game #102621696898:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:53:00 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: ishipKQ ($609 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: hob111111 ($505.38 in chips) 
+Seat 4: Flying Smile ($850.50 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($522.46 in chips) 
+x_QUIXTAR_x: posts small blind $3
+ishipKQ: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+hob111111: raises $6 to $12
+Flying Smile: folds 
+Subv: folds 
+x_QUIXTAR_x: folds 
+ishipKQ: folds 
+Uncalled bet ($6) returned to hob111111
+hob111111 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: ishipKQ (big blind) folded before Flop
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: hob111111 collected ($15)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: Subv (button) folded before Flop (didn't bet)
+Seat 6: x_QUIXTAR_x (small blind) folded before Flop
+
+
+PokerStars Game #102621727953:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:53:36 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: ishipKQ ($603 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: hob111111 ($514.38 in chips) 
+Seat 4: Flying Smile ($850.50 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($519.46 in chips) 
+ishipKQ: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+hob111111: folds 
+Flying Smile: folds 
+Subv: folds 
+x_QUIXTAR_x: raises $7.50 to $13.50
+ishipKQ: folds 
+ilir3: calls $7.50
+*** FLOP *** [5c Jc Qd]
+ilir3: checks 
+x_QUIXTAR_x: bets $18
+ilir3: folds 
+Uncalled bet ($18) returned to x_QUIXTAR_x
+x_QUIXTAR_x collected $28.65 from pot
+x_QUIXTAR_x: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [5c Jc Qd]
+Seat 1: ishipKQ (small blind) folded before Flop
+Seat 2: ilir3 (big blind) folded on the Flop
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: x_QUIXTAR_x (button) collected ($28.65)
+
+
+PokerStars Game #102621766845:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:54:21 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: ishipKQ ($600 in chips) 
+Seat 2: ilir3 ($600 in chips) 
+Seat 3: hob111111 ($514.38 in chips) 
+Seat 4: Flying Smile ($850.50 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($534.61 in chips) 
+ilir3: posts small blind $3
+hob111111: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+Subv: folds 
+x_QUIXTAR_x: raises $7.50 to $13.50
+ishipKQ: folds 
+ilir3: calls $10.50
+hob111111: folds 
+*** FLOP *** [6h 4d 2s]
+ilir3: checks 
+x_QUIXTAR_x: bets $18
+ilir3: calls $18
+*** TURN *** [6h 4d 2s] [9h]
+ilir3: checks 
+x_QUIXTAR_x: bets $40
+ilir3: calls $40
+*** RIVER *** [6h 4d 2s 9h] [Kc]
+ilir3: checks 
+x_QUIXTAR_x: bets $120
+ilir3: raises $408.50 to $528.50 and is all-in
+x_QUIXTAR_x: folds 
+Uncalled bet ($408.50) returned to ilir3
+ilir3 collected $386.20 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $389 | Rake $2.80 
+Board [6h 4d 2s 9h Kc]
+Seat 1: ishipKQ (button) folded before Flop (didn't bet)
+Seat 2: ilir3 (small blind) collected ($386.20)
+Seat 3: hob111111 (big blind) folded before Flop
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: x_QUIXTAR_x folded on the River
+
+
+PokerStars Game #102621032001:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:40:32 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: checkitout12 ($240 in chips) 
+Seat 2: ilir3 ($657.85 in chips) 
+Seat 3: hob111111 ($469.58 in chips) 
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($349.23 in chips) 
+checkitout12: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+hob111111: folds 
+Flying Smile: folds 
+Subv: folds 
+x_QUIXTAR_x: raises $7.50 to $13.50
+checkitout12: folds 
+ilir3: folds 
+Uncalled bet ($7.50) returned to x_QUIXTAR_x
+x_QUIXTAR_x collected $15 from pot
+x_QUIXTAR_x: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: checkitout12 (small blind) folded before Flop
+Seat 2: ilir3 (big blind) folded before Flop
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: x_QUIXTAR_x (button) collected ($15)
+
+
+PokerStars Game #102621053478:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:40:56 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: checkitout12 ($240 in chips) 
+Seat 2: ilir3 ($651.85 in chips) 
+Seat 3: hob111111 ($469.58 in chips) 
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($358.23 in chips) 
+ilir3: posts small blind $3
+hob111111: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+Subv: folds 
+x_QUIXTAR_x: folds 
+checkitout12: raises $6.18 to $12.18
+ilir3: folds 
+hob111111: calls $6.18
+*** FLOP *** [8d 5h Th]
+hob111111: checks 
+checkitout12: bets $18.29
+hob111111: calls $18.29
+*** TURN *** [8d 5h Th] [6d]
+hob111111: checks 
+checkitout12: checks 
+*** RIVER *** [8d 5h Th 6d] [Ad]
+hob111111: bets $42
+checkitout12: folds 
+Uncalled bet ($42) returned to hob111111
+hob111111 collected $61.14 from pot
+*** SUMMARY ***
+Total pot $63.94 | Rake $2.80 
+Board [8d 5h Th 6d Ad]
+Seat 1: checkitout12 (button) folded on the River
+Seat 2: ilir3 (small blind) folded before Flop
+Seat 3: hob111111 (big blind) collected ($61.14)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: x_QUIXTAR_x folded before Flop (didn't bet)
+
+
+PokerStars Game #102621116363:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:42:06 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: checkitout12 ($240 in chips) 
+Seat 2: ilir3 ($648.85 in chips) 
+Seat 3: hob111111 ($500.25 in chips) 
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($358.23 in chips) 
+hob111111: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+Subv: folds 
+x_QUIXTAR_x: raises $7.50 to $13.50
+checkitout12: folds 
+ilir3: folds 
+hob111111: folds 
+Flying Smile: folds 
+Uncalled bet ($7.50) returned to x_QUIXTAR_x
+x_QUIXTAR_x collected $15 from pot
+x_QUIXTAR_x: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: checkitout12 folded before Flop (didn't bet)
+Seat 2: ilir3 (button) folded before Flop (didn't bet)
+Seat 3: hob111111 (small blind) folded before Flop
+Seat 4: Flying Smile (big blind) folded before Flop
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: x_QUIXTAR_x collected ($15)
+
+
+PokerStars Game #102621143107:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:42:37 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: checkitout12 ($240 in chips) 
+Seat 2: ilir3 ($648.85 in chips) 
+Seat 3: hob111111 ($497.25 in chips) 
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($367.23 in chips) 
+Flying Smile: posts small blind $3
+Subv: posts big blind $6
+*** HOLE CARDS ***
+x_QUIXTAR_x: raises $7.50 to $13.50
+checkitout12: folds 
+ilir3: folds 
+hob111111: calls $13.50
+Flying Smile: folds 
+Subv: folds 
+*** FLOP *** [Kh Qs Th]
+x_QUIXTAR_x: bets $12
+hob111111: folds 
+Uncalled bet ($12) returned to x_QUIXTAR_x
+x_QUIXTAR_x collected $34.38 from pot
+x_QUIXTAR_x: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $1.62 
+Board [Kh Qs Th]
+Seat 1: checkitout12 folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: hob111111 (button) folded on the Flop
+Seat 4: Flying Smile (small blind) folded before Flop
+Seat 5: Subv (big blind) folded before Flop
+Seat 6: x_QUIXTAR_x collected ($34.38)
+
+
+PokerStars Game #102621188866:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:43:29 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: checkitout12 ($240 in chips) 
+Seat 2: ilir3 ($648.85 in chips) 
+Seat 3: hob111111 ($483.75 in chips) 
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($388.11 in chips) 
+Subv: posts small blind $3
+x_QUIXTAR_x: posts big blind $6
+*** HOLE CARDS ***
+checkitout12: folds 
+ilir3: folds 
+hob111111: folds 
+Flying Smile: raises $6 to $12
+Subv: folds 
+x_QUIXTAR_x: folds 
+Uncalled bet ($6) returned to Flying Smile
+Flying Smile collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: checkitout12 folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: Flying Smile (button) collected ($15)
+Seat 5: Subv (small blind) folded before Flop
+Seat 6: x_QUIXTAR_x (big blind) folded before Flop
+
+
+PokerStars Game #102621206919:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:43:49 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #5 is the button
+Seat 2: ilir3 ($648.85 in chips) 
+Seat 3: hob111111 ($483.75 in chips) 
+Seat 4: Flying Smile ($609 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($382.11 in chips) 
+x_QUIXTAR_x: posts small blind $3
+checkitout12: is sitting out 
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+checkitout12 leaves the table
+hob111111: raises $6 to $12
+Flying Smile: folds 
+Subv: folds 
+x_QUIXTAR_x: folds 
+ilir3: folds 
+Uncalled bet ($6) returned to hob111111
+hob111111 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: ilir3 (big blind) folded before Flop
+Seat 3: hob111111 collected ($15)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: Subv (button) folded before Flop (didn't bet)
+Seat 6: x_QUIXTAR_x (small blind) folded before Flop
+
+
+PokerStars Game #102621238292:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:44:25 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #6 is the button
+Seat 2: ilir3 ($642.85 in chips) 
+Seat 3: hob111111 ($492.75 in chips) 
+Seat 4: Flying Smile ($609 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($379.11 in chips) 
+ilir3: posts small blind $3
+hob111111: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: raises $12 to $18
+Subv: folds 
+x_QUIXTAR_x: raises $27 to $45
+ishipKQ joins the table at seat #1 
+ilir3: folds 
+hob111111: folds 
+Flying Smile: folds 
+Uncalled bet ($27) returned to x_QUIXTAR_x
+x_QUIXTAR_x collected $45 from pot
+x_QUIXTAR_x: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $0 
+Seat 2: ilir3 (small blind) folded before Flop
+Seat 3: hob111111 (big blind) folded before Flop
+Seat 4: Flying Smile folded before Flop
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: x_QUIXTAR_x (button) collected ($45)
+
+
+PokerStars Game #102620766419:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:35:39 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: checkitout12 ($240 in chips) 
+Seat 2: ilir3 ($624 in chips) 
+Seat 3: hob111111 ($489.52 in chips) 
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($322.56 in chips) 
+checkitout12: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+hob111111: folds 
+Flying Smile: folds 
+Subv: folds 
+x_QUIXTAR_x: raises $7.50 to $13.50
+checkitout12: folds 
+ilir3: calls $7.50
+*** FLOP *** [8h 2c 8d]
+ilir3: checks 
+x_QUIXTAR_x: bets $24
+ilir3: folds 
+Uncalled bet ($24) returned to x_QUIXTAR_x
+x_QUIXTAR_x collected $28.65 from pot
+x_QUIXTAR_x: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [8h 2c 8d]
+Seat 1: checkitout12 (small blind) folded before Flop
+Seat 2: ilir3 (big blind) folded on the Flop
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: x_QUIXTAR_x (button) collected ($28.65)
+
+
+PokerStars Game #102620801648:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:36:18 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: checkitout12 ($240 in chips) 
+Seat 2: ilir3 ($610.50 in chips) 
+Seat 3: hob111111 ($489.52 in chips) 
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($337.71 in chips) 
+ilir3: posts small blind $3
+hob111111: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+Subv: folds 
+x_QUIXTAR_x: raises $7.50 to $13.50
+checkitout12: folds 
+ilir3: folds 
+hob111111: calls $7.50
+*** FLOP *** [5h 3h 2c]
+hob111111: checks 
+x_QUIXTAR_x: bets $18
+hob111111: calls $18
+*** TURN *** [5h 3h 2c] [Js]
+hob111111: checks 
+x_QUIXTAR_x: bets $25
+hob111111: calls $25
+*** RIVER *** [5h 3h 2c Js] [Td]
+hob111111: checks 
+x_QUIXTAR_x: bets $40
+hob111111: folds 
+Uncalled bet ($40) returned to x_QUIXTAR_x
+x_QUIXTAR_x collected $113.20 from pot
+x_QUIXTAR_x: doesn't show hand 
+*** SUMMARY ***
+Total pot $116 | Rake $2.80 
+Board [5h 3h 2c Js Td]
+Seat 1: checkitout12 (button) folded before Flop (didn't bet)
+Seat 2: ilir3 (small blind) folded before Flop
+Seat 3: hob111111 (big blind) folded on the River
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: x_QUIXTAR_x collected ($113.20)
+
+
+PokerStars Game #102620857604:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:37:19 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: checkitout12 ($240 in chips) 
+Seat 2: ilir3 ($607.50 in chips) 
+Seat 3: hob111111 ($433.02 in chips) 
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($394.41 in chips) 
+hob111111: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+Subv: folds 
+x_QUIXTAR_x: folds 
+checkitout12: folds 
+ilir3: raises $6 to $12
+hob111111: folds 
+Flying Smile: calls $6
+*** FLOP *** [Kh 5h Qh]
+Flying Smile: checks 
+ilir3: bets $15
+Flying Smile: folds 
+Uncalled bet ($15) returned to ilir3
+ilir3 collected $25.78 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Kh 5h Qh]
+Seat 1: checkitout12 folded before Flop (didn't bet)
+Seat 2: ilir3 (button) collected ($25.78)
+Seat 3: hob111111 (small blind) folded before Flop
+Seat 4: Flying Smile (big blind) folded on the Flop
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: x_QUIXTAR_x folded before Flop (didn't bet)
+
+
+PokerStars Game #102620884000:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:37:48 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: checkitout12 ($240 in chips) 
+Seat 2: ilir3 ($621.28 in chips) 
+Seat 3: hob111111 ($430.02 in chips) 
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($394.41 in chips) 
+Flying Smile: posts small blind $3
+Subv: posts big blind $6
+*** HOLE CARDS ***
+x_QUIXTAR_x: folds 
+checkitout12: raises $6.18 to $12.18
+ilir3: folds 
+hob111111: folds 
+Flying Smile: folds 
+Subv: folds 
+Uncalled bet ($6.18) returned to checkitout12
+checkitout12 collected $15 from pot
+checkitout12: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: checkitout12 collected ($15)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: hob111111 (button) folded before Flop (didn't bet)
+Seat 4: Flying Smile (small blind) folded before Flop
+Seat 5: Subv (big blind) folded before Flop
+Seat 6: x_QUIXTAR_x folded before Flop (didn't bet)
+
+
+PokerStars Game #102620922929:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:38:31 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: checkitout12 ($249 in chips) 
+Seat 2: ilir3 ($621.28 in chips) 
+Seat 3: hob111111 ($430.02 in chips) 
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($394.41 in chips) 
+Subv: posts small blind $3
+x_QUIXTAR_x: posts big blind $6
+*** HOLE CARDS ***
+checkitout12: raises $6.18 to $12.18
+ilir3: folds 
+hob111111: calls $12.18
+Flying Smile: folds 
+Subv: folds 
+x_QUIXTAR_x: calls $6.18
+*** FLOP *** [4c Qs Th]
+x_QUIXTAR_x: checks 
+checkitout12: checks 
+hob111111: bets $18
+x_QUIXTAR_x: calls $18
+checkitout12: folds 
+*** TURN *** [4c Qs Th] [3h]
+x_QUIXTAR_x: bets $12
+hob111111: calls $12
+*** RIVER *** [4c Qs Th 3h] [4h]
+x_QUIXTAR_x: checks 
+hob111111: checks 
+*** SHOW DOWN ***
+x_QUIXTAR_x: shows [Jh 9s] (a pair of Fours)
+hob111111: shows [Ac Qc] (two pair, Queens and Fours)
+hob111111 collected $96.74 from pot
+*** SUMMARY ***
+Total pot $99.54 | Rake $2.80 
+Board [4c Qs Th 3h 4h]
+Seat 1: checkitout12 folded on the Flop
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: hob111111 showed [Ac Qc] and won ($96.74) with two pair, Queens and Fours
+Seat 4: Flying Smile (button) folded before Flop (didn't bet)
+Seat 5: Subv (small blind) folded before Flop
+Seat 6: x_QUIXTAR_x (big blind) showed [Jh 9s] and lost with a pair of Fours
+
+
+PokerStars Game #102620983010:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:39:37 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: checkitout12 ($240 in chips) 
+Seat 2: ilir3 ($621.28 in chips) 
+Seat 3: hob111111 ($484.58 in chips) 
+Seat 4: Flying Smile ($600 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($352.23 in chips) 
+x_QUIXTAR_x: posts small blind $3
+checkitout12: posts big blind $6
+*** HOLE CARDS ***
+ilir3: raises $9 to $15
+hob111111: calls $15
+Flying Smile: folds 
+Subv: calls $15
+x_QUIXTAR_x: folds 
+checkitout12: folds 
+*** FLOP *** [2h 2d 9h]
+ilir3: bets $32
+hob111111: folds 
+Subv: folds 
+Uncalled bet ($32) returned to ilir3
+ilir3 collected $51.57 from pot
+ilir3: doesn't show hand 
+*** SUMMARY ***
+Total pot $54 | Rake $2.43 
+Board [2h 2d 9h]
+Seat 1: checkitout12 (big blind) folded before Flop
+Seat 2: ilir3 collected ($51.57)
+Seat 3: hob111111 folded on the Flop
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: Subv (button) folded on the Flop
+Seat 6: x_QUIXTAR_x (small blind) folded before Flop
+
+
+PokerStars Game #102621821970:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:55:35 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: ishipKQ ($600 in chips) 
+Seat 2: ilir3 ($794.70 in chips) 
+Seat 3: hob111111 ($508.38 in chips) 
+Seat 4: Flying Smile ($850.50 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($343.11 in chips) 
+hob111111: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+Subv: folds 
+x_QUIXTAR_x: raises $7.50 to $13.50
+ishipKQ: folds 
+ilir3: folds 
+hob111111: folds 
+Flying Smile: folds 
+Uncalled bet ($7.50) returned to x_QUIXTAR_x
+x_QUIXTAR_x collected $15 from pot
+x_QUIXTAR_x: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: ishipKQ folded before Flop (didn't bet)
+Seat 2: ilir3 (button) folded before Flop (didn't bet)
+Seat 3: hob111111 (small blind) folded before Flop
+Seat 4: Flying Smile (big blind) folded before Flop
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: x_QUIXTAR_x collected ($15)
+
+
+PokerStars Game #102621835068:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:55:59 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: ishipKQ ($600 in chips) 
+Seat 2: ilir3 ($794.70 in chips) 
+Seat 3: hob111111 ($505.38 in chips) 
+Seat 4: Flying Smile ($844.50 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($352.11 in chips) 
+Flying Smile: posts small blind $3
+Subv: posts big blind $6
+*** HOLE CARDS ***
+x_QUIXTAR_x: folds 
+ishipKQ: folds 
+ilir3: folds 
+hob111111: raises $6 to $12
+Flying Smile: folds 
+Subv: calls $6
+*** FLOP *** [8s 8d 5c]
+Subv: checks 
+hob111111: checks 
+*** TURN *** [8s 8d 5c] [3d]
+Subv: checks 
+hob111111: checks 
+*** RIVER *** [8s 8d 5c 3d] [4c]
+Subv: checks 
+hob111111: checks 
+*** SHOW DOWN ***
+Subv: shows [9s Ah] (a pair of Eights)
+hob111111: mucks hand 
+Subv collected $25.78 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [8s 8d 5c 3d 4c]
+Seat 1: ishipKQ folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: hob111111 (button) mucked
+Seat 4: Flying Smile (small blind) folded before Flop
+Seat 5: Subv (big blind) showed [9s Ah] and won ($25.78) with a pair of Eights
+Seat 6: x_QUIXTAR_x folded before Flop (didn't bet)
+
+
+PokerStars Game #102621866235:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:56:55 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: ishipKQ ($600 in chips) 
+Seat 2: ilir3 ($794.70 in chips) 
+Seat 3: hob111111 ($493.38 in chips) 
+Seat 4: Flying Smile ($841.50 in chips) 
+Seat 5: Subv ($613.78 in chips) 
+Seat 6: x_QUIXTAR_x ($352.11 in chips) 
+Subv: posts small blind $3
+x_QUIXTAR_x: posts big blind $6
+*** HOLE CARDS ***
+ishipKQ: folds 
+ilir3: folds 
+hob111111: raises $6 to $12
+Flying Smile: raises $33 to $45
+Subv: folds 
+x_QUIXTAR_x: folds 
+hob111111: calls $33
+*** FLOP *** [7c 3d 5d]
+hob111111: checks 
+Flying Smile: bets $51
+hob111111: folds 
+Uncalled bet ($51) returned to Flying Smile
+Flying Smile collected $96.20 from pot
+*** SUMMARY ***
+Total pot $99 | Rake $2.80 
+Board [7c 3d 5d]
+Seat 1: ishipKQ folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: hob111111 folded on the Flop
+Seat 4: Flying Smile (button) collected ($96.20)
+Seat 5: Subv (small blind) folded before Flop
+Seat 6: x_QUIXTAR_x (big blind) folded before Flop
+
+
+PokerStars Game #102621885024:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:57:29 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: ishipKQ ($600 in chips) 
+Seat 2: ilir3 ($794.70 in chips) 
+Seat 3: hob111111 ($448.38 in chips) 
+Seat 4: Flying Smile ($892.70 in chips) 
+Seat 5: Subv ($610.78 in chips) 
+Seat 6: x_QUIXTAR_x ($346.11 in chips) 
+x_QUIXTAR_x: posts small blind $3
+ishipKQ: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+hob111111: raises $6 to $12
+Flying Smile: folds 
+Subv: folds 
+x_QUIXTAR_x: folds 
+ishipKQ: folds 
+Uncalled bet ($6) returned to hob111111
+hob111111 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: ishipKQ (big blind) folded before Flop
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: hob111111 collected ($15)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: Subv (button) folded before Flop (didn't bet)
+Seat 6: x_QUIXTAR_x (small blind) folded before Flop
+
+
+PokerStars Game #102621899686:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:57:56 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: ishipKQ ($600 in chips) 
+Seat 2: ilir3 ($794.70 in chips) 
+Seat 3: hob111111 ($457.38 in chips) 
+Seat 4: Flying Smile ($892.70 in chips) 
+Seat 5: Subv ($610.78 in chips) 
+Seat 6: x_QUIXTAR_x ($343.11 in chips) 
+ishipKQ: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+hob111111: folds 
+Flying Smile: folds 
+Subv: folds 
+x_QUIXTAR_x: raises $7.50 to $13.50
+ishipKQ: folds 
+ilir3: folds 
+Uncalled bet ($7.50) returned to x_QUIXTAR_x
+x_QUIXTAR_x collected $15 from pot
+x_QUIXTAR_x: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: ishipKQ (small blind) folded before Flop
+Seat 2: ilir3 (big blind) folded before Flop
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: x_QUIXTAR_x (button) collected ($15)
+
+
+PokerStars Game #102621910443:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:58:15 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: ishipKQ ($600 in chips) 
+Seat 2: ilir3 ($788.70 in chips) 
+Seat 3: hob111111 ($457.38 in chips) 
+Seat 4: Flying Smile ($892.70 in chips) 
+Seat 5: Subv ($610.78 in chips) 
+Seat 6: x_QUIXTAR_x ($352.11 in chips) 
+ilir3: posts small blind $3
+hob111111: posts big blind $6
+*** HOLE CARDS ***
+Flying Smile: folds 
+Subv: folds 
+x_QUIXTAR_x: folds 
+ishipKQ: raises $6.21 to $12.21
+ilir3: folds 
+hob111111: folds 
+Uncalled bet ($6.21) returned to ishipKQ
+ishipKQ collected $15 from pot
+ishipKQ: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: ishipKQ (button) collected ($15)
+Seat 2: ilir3 (small blind) folded before Flop
+Seat 3: hob111111 (big blind) folded before Flop
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: x_QUIXTAR_x folded before Flop (didn't bet)
+
+
+PokerStars Game #102621937887:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:59:05 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: ishipKQ ($609 in chips) 
+Seat 2: ilir3 ($785.70 in chips) 
+Seat 3: hob111111 ($451.38 in chips) 
+Seat 4: Flying Smile ($892.70 in chips) 
+Seat 5: Subv ($610.78 in chips) 
+Seat 6: x_QUIXTAR_x ($352.11 in chips) 
+hob111111: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+Subv: raises $6.30 to $12.30
+x_QUIXTAR_x: raises $23.70 to $36
+ishipKQ: folds 
+ilir3: folds 
+hob111111: folds 
+Flying Smile: folds 
+Subv: folds 
+Uncalled bet ($23.70) returned to x_QUIXTAR_x
+x_QUIXTAR_x collected $33.60 from pot
+x_QUIXTAR_x: doesn't show hand 
+*** SUMMARY ***
+Total pot $33.60 | Rake $0 
+Seat 1: ishipKQ folded before Flop (didn't bet)
+Seat 2: ilir3 (button) folded before Flop (didn't bet)
+Seat 3: hob111111 (small blind) folded before Flop
+Seat 4: Flying Smile (big blind) folded before Flop
+Seat 5: Subv folded before Flop
+Seat 6: x_QUIXTAR_x collected ($33.60)
+
+
+PokerStars Game #102621955967:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 15:59:37 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #3 is the button
+Seat 1: ishipKQ ($609 in chips) 
+Seat 2: ilir3 ($785.70 in chips) 
+Seat 3: hob111111 ($448.38 in chips) 
+Seat 4: Flying Smile ($886.70 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($373.41 in chips) 
+Flying Smile: posts small blind $3
+Subv: posts big blind $6
+*** HOLE CARDS ***
+x_QUIXTAR_x: raises $7.50 to $13.50
+ishipKQ: folds 
+ilir3: folds 
+hob111111: folds 
+Flying Smile: raises $31.50 to $45
+Subv: folds 
+x_QUIXTAR_x: calls $31.50
+*** FLOP *** [Kh 9c 4d]
+Flying Smile: bets $51
+x_QUIXTAR_x: calls $51
+*** TURN *** [Kh 9c 4d] [Jc]
+Flying Smile: bets $84
+x_QUIXTAR_x: folds 
+Uncalled bet ($84) returned to Flying Smile
+Flying Smile collected $195.20 from pot
+*** SUMMARY ***
+Total pot $198 | Rake $2.80 
+Board [Kh 9c 4d Jc]
+Seat 1: ishipKQ folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: hob111111 (button) folded before Flop (didn't bet)
+Seat 4: Flying Smile (small blind) collected ($195.20)
+Seat 5: Subv (big blind) folded before Flop
+Seat 6: x_QUIXTAR_x folded on the Turn
+
+
+PokerStars Game #102622005418:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:00:56 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: ishipKQ ($609 in chips) 
+Seat 2: ilir3 ($785.70 in chips) 
+Seat 3: hob111111 ($448.38 in chips) 
+Seat 4: Flying Smile ($985.90 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($300 in chips) 
+Subv: posts small blind $3
+x_QUIXTAR_x: posts big blind $6
+*** HOLE CARDS ***
+ishipKQ: folds 
+ilir3: folds 
+hob111111: folds 
+Flying Smile: folds 
+Subv: calls $3
+x_QUIXTAR_x: raises $7.50 to $13.50
+Subv: calls $7.50
+*** FLOP *** [Qc As Jc]
+Subv: checks 
+x_QUIXTAR_x: bets $12
+Subv: folds 
+Uncalled bet ($12) returned to x_QUIXTAR_x
+x_QUIXTAR_x collected $25.78 from pot
+x_QUIXTAR_x: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.22 
+Board [Qc As Jc]
+Seat 1: ishipKQ folded before Flop (didn't bet)
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: hob111111 folded before Flop (didn't bet)
+Seat 4: Flying Smile (button) folded before Flop (didn't bet)
+Seat 5: Subv (small blind) folded on the Flop
+Seat 6: x_QUIXTAR_x (big blind) collected ($25.78)
+
+
+PokerStars Game #102622047852:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:01:53 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #5 is the button
+Seat 1: ishipKQ ($609 in chips) 
+Seat 2: ilir3 ($785.70 in chips) 
+Seat 3: hob111111 ($448.38 in chips) 
+Seat 4: Flying Smile ($985.90 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($312.28 in chips) 
+x_QUIXTAR_x: posts small blind $3
+ishipKQ: posts big blind $6
+*** HOLE CARDS ***
+ilir3: folds 
+hob111111: raises $6 to $12
+Flying Smile: folds 
+Subv: folds 
+x_QUIXTAR_x: folds 
+ishipKQ: folds 
+Uncalled bet ($6) returned to hob111111
+hob111111 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: ishipKQ (big blind) folded before Flop
+Seat 2: ilir3 folded before Flop (didn't bet)
+Seat 3: hob111111 collected ($15)
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: Subv (button) folded before Flop (didn't bet)
+Seat 6: x_QUIXTAR_x (small blind) folded before Flop
+
+
+PokerStars Game #102622078088:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:02:30 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #6 is the button
+Seat 1: ishipKQ ($603 in chips) 
+Seat 2: ilir3 ($785.70 in chips) 
+Seat 3: hob111111 ($457.38 in chips) 
+Seat 4: Flying Smile ($985.90 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($309.28 in chips) 
+ishipKQ: posts small blind $3
+ilir3: posts big blind $6
+*** HOLE CARDS ***
+hob111111: raises $6 to $12
+Flying Smile: folds 
+Subv: folds 
+x_QUIXTAR_x: raises $24 to $36
+ishipKQ: calls $33
+ilir3: folds 
+hob111111: calls $24
+*** FLOP *** [Kc Jc As]
+ishipKQ: checks 
+hob111111: checks 
+x_QUIXTAR_x: checks 
+*** TURN *** [Kc Jc As] [8h]
+ishipKQ: bets $75
+hob111111: calls $75
+x_QUIXTAR_x: raises $198.28 to $273.28 and is all-in
+ishipKQ: calls $198.28
+hob111111: calls $198.28
+*** RIVER *** [Kc Jc As 8h] [8c]
+ishipKQ: bets $293.72 and is all-in
+hob111111: calls $148.10 and is all-in
+Uncalled bet ($145.62) returned to ishipKQ
+*** SHOW DOWN ***
+ishipKQ: shows [Jh Js] (a full house, Jacks full of Eights)
+hob111111: mucks hand 
+ishipKQ collected $296.20 from side pot
+x_QUIXTAR_x: mucks hand 
+ishipKQ collected $931.04 from main pot
+*** SUMMARY ***
+Total pot $1230.04 Main pot $931.04. Side pot $296.20. | Rake $2.80 
+Board [Kc Jc As 8h 8c]
+Seat 1: ishipKQ (small blind) showed [Jh Js] and won ($1227.24) with a full house, Jacks full of Eights
+Seat 2: ilir3 (big blind) folded before Flop
+Seat 3: hob111111 mucked
+Seat 4: Flying Smile folded before Flop (didn't bet)
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: x_QUIXTAR_x (button) mucked
+
+
+PokerStars Game #102622152803:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:03:59 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #1 is the button
+Seat 1: ishipKQ ($1372.86 in chips) 
+Seat 2: ilir3 ($779.70 in chips) 
+Seat 4: Flying Smile ($985.90 in chips) 
+Seat 5: Subv ($600 in chips) 
+Seat 6: x_QUIXTAR_x ($300 in chips) 
+ilir3: posts small blind $3
+Flying Smile: posts big blind $6
+*** HOLE CARDS ***
+Subv: folds 
+hob111111 leaves the table
+floriiiiider joins the table at seat #3 
+x_QUIXTAR_x: folds 
+ishipKQ: raises $6.21 to $12.21
+ilir3: folds 
+floriiiiider leaves the table
+SEREJkE29 joins the table at seat #3 
+Flying Smile: folds 
+Uncalled bet ($6.21) returned to ishipKQ
+ishipKQ collected $15 from pot
+ishipKQ: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: ishipKQ (button) collected ($15)
+Seat 2: ilir3 (small blind) folded before Flop
+Seat 4: Flying Smile (big blind) folded before Flop
+Seat 5: Subv folded before Flop (didn't bet)
+Seat 6: x_QUIXTAR_x folded before Flop (didn't bet)
+
+
+PokerStars Game #102622174838:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:04:23 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #2 is the button
+Seat 1: ishipKQ ($1381.86 in chips) 
+Seat 2: ilir3 ($776.70 in chips) 
+Seat 4: Flying Smile ($979.90 in chips) 
+SEREJkE29 will be allowed to play after the button
+Flying Smile: posts small blind $3
+Subv: is sitting out 
+x_QUIXTAR_x: is sitting out 
+Subv leaves the table
+ishipKQ: posts big blind $6
+*** HOLE CARDS ***
+ilir3: raises $6 to $12
+Flying Smile: folds 
+ishipKQ: folds 
+Uncalled bet ($6) returned to ilir3
+ilir3 collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: ishipKQ (big blind) folded before Flop
+Seat 2: ilir3 (button) collected ($15)
+Seat 4: Flying Smile (small blind) folded before Flop
+
+
+PokerStars Game #102622189871:  Hold'em No Limit ($3/$6 USD) - 2013/08/11 16:04:40 ET
+Table 'Situla VI 40-100 bb' 6-max Seat #4 is the button
+Seat 1: ishipKQ ($1375.86 in chips) 
+Seat 3: SEREJkE29 ($600 in chips) 
+Seat 4: Flying Smile ($976.90 in chips) 
+ishipKQ: posts small blind $3
+ilir3: is sitting out 
+SEREJkE29: posts big blind $6
+*** HOLE CARDS ***
+ilir3 leaves the table
+Flying Smile: raises $6 to $12
+ishipKQ: folds 
+SEREJkE29: folds 
+Uncalled bet ($6) returned to Flying Smile
+Flying Smile collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: ishipKQ (small blind) folded before Flop
+Seat 3: SEREJkE29 (big blind) folded before Flop
+Seat 4: Flying Smile (button) collected ($15)
